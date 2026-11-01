@@ -18,5 +18,5 @@ description: Fabrica la tanda de clips de shadowing del mes siguiente (uno por d
 6. `python3 tools/shadow.py site` (vuelca el calendario y retira los clips de hace más de `retain_days`).
 7. `python3 tools/shadow.py check && python3 -m pytest -q tests`. Tiene que salir todo bien.
 8. `git add -A && git commit -m "Shadowing: tanda hasta AAAA-MM-DD"` y `git push origin main` (Alberto autorizó
-   el push directo a `main` en la sesión de la tarea). Después, borra `work/`.
+   el push directo a `main` en la tarea programada). Después, borra `work/`.
 9. Resume en 3–4 líneas: cuántos clips nuevos, hasta qué fecha hay clips y cualquier problema.

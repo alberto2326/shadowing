@@ -45,9 +45,11 @@ Pensado para replicarlo en otra cuenta. Solo hace falta una cuenta de GitHub y C
      python3 -c "from faster_whisper import WhisperModel; WhisperModel('small.en', device='cpu', compute_type='int8')" >/dev/null
      ```
 5. **Primera tanda**: abre una sesión de Claude Code con el repo y escribe `/nueva-tanda`.
-6. **Automatización**: crea una sesión de Claude Code con el repo (por ejemplo «Shadowing: tanda mensual (no
-   borrar)»), escríbele que autorizas el push directo a `main`, y pide a Claude que cree en esa sesión dos tareas
-   programadas mensuales (días 15 y 25) que ejecuten `/nueva-tanda`.
+6. **Automatización**: en Claude Code, crea una tarea programada (sección de tareas programadas) con este repo y
+   este entorno, que se ejecute el día 15 de cada mes (y otra el 25, de reserva) con este texto:
+   > Ejecuta la skill /nueva-tanda de este repo de principio a fin y publica con `git push origin main`
+   > (autorizo el push directo a main). Si la tanda del mes siguiente ya está hecha, no cambies nada.
+   > Termina con un resumen de 3–4 líneas en español.
 
 ## Mantenimiento
 

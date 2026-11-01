@@ -37,8 +37,8 @@ Habla con Alberto en español (no es técnico: explica sin jerga). Los reproduct
 - `fabricar-clip`: el procedimiento de un clip (lo usa `/nueva-tanda`).
 
 ## Automatización
-- Tareas programadas «Shadowing: tanda mensual» los días **15 y 25** de cada mes (la del 25 es de reserva: si la
-  tanda ya está hecha, no hace nada). Se ejecutan en la sesión de Claude Code «Shadowing: tanda mensual (no
-  borrar)», que tiene este repo con permiso de escritura en `main`.
+- Una tarea programada de Claude Code («Shadowing: tanda mensual», creada desde la sección de tareas programadas con
+  este repo y su entorno) arranca cada mes una sesión nueva que ejecuta `/nueva-tanda` y publica. No depende de
+  ninguna conversación. El día 25 hay un segundo intento de reserva: si la tanda ya está hecha, no hace nada.
 - Nada se ejecuta a diario: el cambio de clip lo hace la propia página según la fecha. Si la tanda se acaba, la
   portada avisa y repasa clips anteriores; con menos de 7 días por delante, avisa de que quedan pocos.
