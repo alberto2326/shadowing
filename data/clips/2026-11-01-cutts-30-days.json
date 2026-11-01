@@ -1,0 +1,166 @@
+{
+ "slug": "2026-11-01-cutts-30-days",
+ "video_id": "ted-matt_cutts_try_something_new_for_30_days",
+ "title": "Matt Cutts, “Try something new for 30 days”",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days",
+ "start": 3.7,
+ "end": 86.45,
+ "meta": {
+  "hablante": "Matt Cutts",
+  "charla": "Try something new for 30 days",
+  "acento": "Americano general",
+  "tema": "Hábitos: retos de 30 días"
+ },
+ "lines": [
+  "A few years a<b>go</b>, / I felt like I was <b>stuck</b> in a <b>rut</b>,",
+  "so I de<b>cid</b>ed to follow in the <b>foot</b>steps",
+  "of the great A<b>mer</b>ican phi<b>los</b>opher, / Morgan <b>Spur</b>lock,",
+  "and try something <b>new</b> for 30 <b>days</b>.",
+  "The i<b>de</b>a is actually pretty <b>sim</b>ple.",
+  "Think about something you've <b>al</b>ways wanted to <b>add</b> to your life",
+  "and <b>try</b> it for the next 30 <b>days</b>.",
+  "It turns <b>out</b> / 30 days is just about the <b>right</b> amount of time",
+  "to <b>add</b> a new habit / or sub<b>tract</b> a habit, / like watching the <b>news</b>, / from your life.",
+  "There's a few things that I <b>learned</b> / while doing these 30-day <b>chal</b>lenges.",
+  "The <b>first</b> was, / instead of the <b>months</b> flying by, for<b>got</b>ten,",
+  "the time was much more <b>mem</b>orable.",
+  "This was part of a challenge I did / to take a <b>pic</b>ture every day for a <b>month</b>,",
+  "and I re<b>mem</b>ber exactly where I <b>was</b> / and what I was <b>do</b>ing that day.",
+  "I <b>al</b>so noticed",
+  "that as I started to do <b>more</b> and <b>hard</b>er 30-day challenges,",
+  "my self-<b>con</b>fidence <b>grew</b>.",
+  "I went from desk-dwelling com<b>pu</b>ter <b>nerd</b>",
+  "to the kind of guy who <b>bikes</b> to work. / For <b>fun</b>!",
+  "Even <b>last</b> year, / I ended up hiking up Mount Kiliman<b>ja</b>ro,",
+  "the <b>high</b>est mountain in <b>Af</b>rica.",
+  "I would <b>nev</b>er have been that ad<b>ven</b>turous / before I started my 30-day challenges.",
+  "I also figured <b>out</b> / that if you <b>real</b>ly want something <b>bad</b>ly enough,",
+  "you can do <b>an</b>ything for 30 <b>days</b>."
+ ],
+ "listen_for": "Clear, relaxed American: falling intonation at the end of each statement · flapped t sounds like a soft d in <i>pretty</i>, <i>started</i>, <i>computer</i> · linking in <i>stuck_in_a rut</i>, <i>try_it</i>, <i>figured_out</i>.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «There's a few things that I learned»; se sigue el audio.",
+ "cues": [
+  {
+   "s": 3.4,
+   "t": "A few years a<b>go</b>, / I felt like I was <b>stuck</b> in a <b>rut</b>,",
+   "e": 8.56
+  },
+  {
+   "s": 8.56,
+   "t": "so I de<b>cid</b>ed to follow in the <b>foot</b>steps",
+   "e": 10.18
+  },
+  {
+   "s": 10.18,
+   "t": "of the great A<b>mer</b>ican phi<b>los</b>opher, / Morgan <b>Spur</b>lock,",
+   "e": 14.06
+  },
+  {
+   "s": 14.06,
+   "t": "and try something <b>new</b> for 30 <b>days</b>.",
+   "e": 16.96
+  },
+  {
+   "s": 16.96,
+   "t": "The i<b>de</b>a is actually pretty <b>sim</b>ple.",
+   "e": 19.26
+  },
+  {
+   "s": 19.26,
+   "t": "Think about something you've <b>al</b>ways wanted to <b>add</b> to your life",
+   "e": 21.94
+  },
+  {
+   "s": 21.94,
+   "t": "and <b>try</b> it for the next 30 <b>days</b>.",
+   "e": 25.04
+  },
+  {
+   "s": 25.04,
+   "t": "It turns <b>out</b> / 30 days is just about the <b>right</b> amount of time",
+   "e": 28.58
+  },
+  {
+   "s": 28.58,
+   "t": "to <b>add</b> a new habit / or sub<b>tract</b> a habit, / like watching the <b>news</b>, / from your life.",
+   "e": 34.38
+  },
+  {
+   "s": 34.38,
+   "t": "There's a few things that I <b>learned</b> / while doing these 30-day <b>chal</b>lenges.",
+   "e": 37.94
+  },
+  {
+   "s": 37.94,
+   "t": "The <b>first</b> was, / instead of the <b>months</b> flying by, for<b>got</b>ten,",
+   "e": 42.38
+  },
+  {
+   "s": 42.38,
+   "t": "the time was much more <b>mem</b>orable.",
+   "e": 45.56
+  },
+  {
+   "s": 45.56,
+   "t": "This was part of a challenge I did / to take a <b>pic</b>ture every day for a <b>month</b>,",
+   "e": 48.62
+  },
+  {
+   "s": 48.62,
+   "t": "and I re<b>mem</b>ber exactly where I <b>was</b> / and what I was <b>do</b>ing that day.",
+   "e": 54.16
+  },
+  {
+   "s": 54.16,
+   "t": "I <b>al</b>so noticed",
+   "e": 55.3
+  },
+  {
+   "s": 55.3,
+   "t": "that as I started to do <b>more</b> and <b>hard</b>er 30-day challenges,",
+   "e": 58.6
+  },
+  {
+   "s": 58.6,
+   "t": "my self-<b>con</b>fidence <b>grew</b>.",
+   "e": 60.98
+  },
+  {
+   "s": 60.98,
+   "t": "I went from desk-dwelling com<b>pu</b>ter <b>nerd</b>",
+   "e": 62.94
+  },
+  {
+   "s": 62.94,
+   "t": "to the kind of guy who <b>bikes</b> to work. / For <b>fun</b>!",
+   "e": 68.36
+  },
+  {
+   "s": 68.36,
+   "t": "Even <b>last</b> year, / I ended up hiking up Mount Kiliman<b>ja</b>ro,",
+   "e": 71.66
+  },
+  {
+   "s": 71.66,
+   "t": "the <b>high</b>est mountain in <b>Af</b>rica.",
+   "e": 73.38
+  },
+  {
+   "s": 73.38,
+   "t": "I would <b>nev</b>er have been that ad<b>ven</b>turous / before I started my 30-day challenges.",
+   "e": 79.16
+  },
+  {
+   "s": 79.16,
+   "t": "I also figured <b>out</b> / that if you <b>real</b>ly want something <b>bad</b>ly enough,",
+   "e": 84.04
+  },
+  {
+   "s": 84.04,
+   "t": "you can do <b>an</b>ything for 30 <b>days</b>.",
+   "e": 86.55
+  }
+ ],
+ "verified": "2026-11-01"
+}

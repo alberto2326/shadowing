@@ -1,0 +1,160 @@
+{
+ "slug": "2026-11-cutts-novel",
+ "video_id": "ted-matt_cutts_try_something_new_for_30_days",
+ "title": "Matt Cutts, “Try something new for 30 days” (a novel in a month)",
+ "url": "https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days",
+ "meta": {
+  "hablante": "Matt Cutts",
+  "charla": "Try something new for 30 days",
+  "acento": "Americano general",
+  "tema": "Hábitos: cambios pequeños que duran"
+ },
+ "lines": [
+  "Have you <b>ev</b>er wanted to write a <b>nov</b>el?",
+  "Every No<b>vem</b>ber, / <b>tens</b> of thousands of people",
+  "try to write their <b>own</b> 50,000-word novel, / from <b>scratch</b>, / in 30 <b>days</b>.",
+  "It turns out, / <b>all</b> you have to do / is write 1,667 words a <b>day</b> for a month.",
+  "So I <b>did</b>.",
+  "By the way, / the <b>se</b>cret is not to go to <b>sleep</b> / until you've written your words for the day.",
+  "You might be sleep-de<b>prived</b>, / but you'll <b>fin</b>ish your novel.",
+  "Now, is my book the next great A<b>mer</b>ican novel?",
+  "<b>No</b>. I wrote it in a <b>month</b>. / It's <b>aw</b>ful.",
+  "But for the <b>rest</b> of my life, / if I meet John <b>Hodg</b>man at a TED party,",
+  "I don't <b>have</b> to say, / “I'm a com<b>pu</b>ter scientist.”",
+  "No, no, if I <b>want</b> to, / I can say, “I'm a <b>nov</b>elist.”",
+  "So here's one <b>last</b> thing I'd like to mention.",
+  "I learned that when I made <b>small</b>, sus<b>tain</b>able changes, / things I could <b>keep</b> doing,",
+  "they were more likely to <b>stick</b>.",
+  "There's nothing <b>wrong</b> with big, crazy challenges.",
+  "In fact, they're a <b>ton</b> of fun. / But they're <b>less</b> likely to stick.",
+  "When I gave up <b>sug</b>ar for 30 days, / day <b>31</b> looked like this.",
+  "So here's my <b>ques</b>tion to you: / What are you <b>wait</b>ing for?",
+  "I guaran<b>tee</b> you the next 30 days / are going to <b>pass</b> whether you like it or not,",
+  "so why <b>not</b> think about something you have always wanted to try",
+  "and give it a <b>shot</b>! / For the next 30 <b>days</b>.",
+  "<b>Thanks</b>."
+ ],
+ "listen_for": "Big numbers said fast: <i>fifty thousand</i>, <i>sixteen sixty-seven</i> · short punchy sentences: <i>So I did. It's awful.</i> · contrast: <b>small</b>, sustainable changes vs <b>big</b>, crazy challenges.",
+ "notas": "Subtítulos TED + Whisper small.en. En «I don't have to say, I'm a computer scientist. No, no» Whisper se confunde (lo tapan las risas); se siguen los subtítulos. Cifras en dígitos.",
+ "start": 87.94,
+ "end": 184.64,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 87.64,
+   "t": "Have you <b>ev</b>er wanted to write a <b>nov</b>el?",
+   "e": 90.34
+  },
+  {
+   "s": 90.34,
+   "t": "Every No<b>vem</b>ber, / <b>tens</b> of thousands of people",
+   "e": 92.98
+  },
+  {
+   "s": 92.98,
+   "t": "try to write their <b>own</b> 50,000-word novel, / from <b>scratch</b>, / in 30 <b>days</b>.",
+   "e": 99.08
+  },
+  {
+   "s": 99.08,
+   "t": "It turns out, / <b>all</b> you have to do / is write 1,667 words a <b>day</b> for a month.",
+   "e": 105.7
+  },
+  {
+   "s": 105.7,
+   "t": "So I <b>did</b>.",
+   "e": 107.6
+  },
+  {
+   "s": 107.6,
+   "t": "By the way, / the <b>se</b>cret is not to go to <b>sleep</b> / until you've written your words for the day.",
+   "e": 112.72
+  },
+  {
+   "s": 112.72,
+   "t": "You might be sleep-de<b>prived</b>, / but you'll <b>fin</b>ish your novel.",
+   "e": 117.22
+  },
+  {
+   "s": 117.22,
+   "t": "Now, is my book the next great A<b>mer</b>ican novel?",
+   "e": 121.2
+  },
+  {
+   "s": 121.2,
+   "t": "<b>No</b>. I wrote it in a <b>month</b>. / It's <b>aw</b>ful.",
+   "e": 125.96
+  },
+  {
+   "s": 125.96,
+   "t": "But for the <b>rest</b> of my life, / if I meet John <b>Hodg</b>man at a TED party,",
+   "e": 130.56
+  },
+  {
+   "s": 130.56,
+   "t": "I don't <b>have</b> to say, / “I'm a com<b>pu</b>ter scientist.”",
+   "e": 134.92
+  },
+  {
+   "s": 134.92,
+   "t": "No, no, if I <b>want</b> to, / I can say, “I'm a <b>nov</b>elist.”",
+   "e": 141.12
+  },
+  {
+   "s": 141.12,
+   "t": "So here's one <b>last</b> thing I'd like to mention.",
+   "e": 143.48
+  },
+  {
+   "s": 143.48,
+   "t": "I learned that when I made <b>small</b>, sus<b>tain</b>able changes, / things I could <b>keep</b> doing,",
+   "e": 148.54
+  },
+  {
+   "s": 148.54,
+   "t": "they were more likely to <b>stick</b>.",
+   "e": 150.6
+  },
+  {
+   "s": 150.6,
+   "t": "There's nothing <b>wrong</b> with big, crazy challenges.",
+   "e": 153.4
+  },
+  {
+   "s": 153.4,
+   "t": "In fact, they're a <b>ton</b> of fun. / But they're <b>less</b> likely to stick.",
+   "e": 158.68
+  },
+  {
+   "s": 158.68,
+   "t": "When I gave up <b>sug</b>ar for 30 days, / day <b>31</b> looked like this.",
+   "e": 165.16
+  },
+  {
+   "s": 165.16,
+   "t": "So here's my <b>ques</b>tion to you: / What are you <b>wait</b>ing for?",
+   "e": 169.72
+  },
+  {
+   "s": 169.72,
+   "t": "I guaran<b>tee</b> you the next 30 days / are going to <b>pass</b> whether you like it or not,",
+   "e": 175.52
+  },
+  {
+   "s": 175.52,
+   "t": "so why <b>not</b> think about something you have always wanted to try",
+   "e": 179.4
+  },
+  {
+   "s": 179.4,
+   "t": "and give it a <b>shot</b>! / For the next 30 <b>days</b>.",
+   "e": 184.24
+  },
+  {
+   "s": 184.24,
+   "t": "<b>Thanks</b>.",
+   "e": 184.74
+  }
+ ],
+ "verified": "2026-11-01"
+}

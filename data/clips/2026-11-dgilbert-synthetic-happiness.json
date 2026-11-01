@@ -1,0 +1,190 @@
+{
+ "slug": "2026-11-dgilbert-synthetic-happiness",
+ "video_id": "ted-dan_gilbert_the_surprising_science_of_happiness",
+ "title": "Dan Gilbert, “The surprising science of happiness” (we synthesize happiness)",
+ "url": "https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness",
+ "meta": {
+  "hablante": "Dan Gilbert",
+  "charla": "The surprising science of happiness",
+  "acento": "Americano general",
+  "tema": "Psicología: la felicidad se fabrica"
+ },
+ "lines": [
+  "From <b>field</b> studies to <b>lab</b>oratory studies,",
+  "we see that <b>win</b>ning or <b>los</b>ing an election,",
+  "<b>gain</b>ing or losing a romantic partner,",
+  "<b>get</b>ting or not getting a promotion,",
+  "<b>pass</b>ing or not passing a college test,",
+  "on and <b>on</b>,",
+  "have far <b>less</b> impact, / less in<b>ten</b>sity / and much less du<b>ra</b>tion",
+  "than people ex<b>pect</b> them to have.",
+  "In fact, a recent study — / this almost <b>floors</b> me —",
+  "a recent study showing how major life <b>trau</b>mas affect people",
+  "suggests that if it happened over three months a<b>go</b>,",
+  "with only a few ex<b>cep</b>tions,",
+  "it has <b>no</b> impact whatsoever on your <b>hap</b>piness.",
+  "<b>Why</b>?",
+  "Because happiness can be <b>syn</b>thesized.",
+  "Sir Thomas <b>Brown</b> wrote in 1642,",
+  "“I am the <b>hap</b>piest man alive.",
+  "I have that in me that can convert <b>pov</b>erty to <b>rich</b>es, / ad<b>ver</b>sity to pros<b>per</b>ity.",
+  "I am more in<b>vul</b>nerable than A<b>chil</b>les; / fortune hath not <b>one</b> place to hit me.”",
+  "What kind of re<b>mark</b>able machinery / does this guy have in his <b>head</b>?",
+  "Well, it turns out / it's <b>pre</b>cisely the same remarkable machinery / that <b>all</b> of us have.",
+  "Human beings have something / that we might think of as a “psycho<b>log</b>ical im<b>mune</b> system,”",
+  "a system of <b>cog</b>nitive processes, / largely non<b>con</b>scious cognitive processes,",
+  "that help them change their <b>views</b> of the world,",
+  "so that they can feel <b>bet</b>ter about the worlds / in which they find themselves.",
+  "<b>Like</b> Sir Thomas, / you have this machine.",
+  "<b>Un</b>like Sir Thomas, / you seem not to <b>know</b> it.",
+  "We <b>syn</b>thesize happiness, / but we <b>think</b> happiness is a thing to be <b>found</b>."
+ ],
+ "listen_for": "Fast academic speaker — use 0.9x first · pairs with contrast: <i>winning or losing</i>, <i>gaining or losing</i> · the final contrast: we <b>synthesize</b> happiness, but we <b>think</b> it's a thing to be <b>found</b>.",
+ "notas": "Subtítulos TED + Whisper small.en. Whisper añade «Now, in fact» (subtítulos: «In fact»), repite «system, system» y oye «Achilles' fortune»: se siguen los subtítulos. Cifra 1642 en dígitos.",
+ "start": 203.98,
+ "end": 301.91,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 203.68,
+   "t": "From <b>field</b> studies to <b>lab</b>oratory studies,",
+   "e": 206.1
+  },
+  {
+   "s": 206.1,
+   "t": "we see that <b>win</b>ning or <b>los</b>ing an election,",
+   "e": 208.5
+  },
+  {
+   "s": 208.5,
+   "t": "<b>gain</b>ing or losing a romantic partner,",
+   "e": 210.76
+  },
+  {
+   "s": 210.76,
+   "t": "<b>get</b>ting or not getting a promotion,",
+   "e": 212.56
+  },
+  {
+   "s": 212.56,
+   "t": "<b>pass</b>ing or not passing a college test,",
+   "e": 214.68
+  },
+  {
+   "s": 214.68,
+   "t": "on and <b>on</b>,",
+   "e": 216.14
+  },
+  {
+   "s": 216.14,
+   "t": "have far <b>less</b> impact, / less in<b>ten</b>sity / and much less du<b>ra</b>tion",
+   "e": 220.78
+  },
+  {
+   "s": 220.78,
+   "t": "than people ex<b>pect</b> them to have.",
+   "e": 225.4
+  },
+  {
+   "s": 225.4,
+   "t": "In fact, a recent study — / this almost <b>floors</b> me —",
+   "e": 229.58
+  },
+  {
+   "s": 229.58,
+   "t": "a recent study showing how major life <b>trau</b>mas affect people",
+   "e": 234.04
+  },
+  {
+   "s": 234.04,
+   "t": "suggests that if it happened over three months a<b>go</b>,",
+   "e": 237.12
+  },
+  {
+   "s": 237.12,
+   "t": "with only a few ex<b>cep</b>tions,",
+   "e": 238.36
+  },
+  {
+   "s": 238.36,
+   "t": "it has <b>no</b> impact whatsoever on your <b>hap</b>piness.",
+   "e": 243.14
+  },
+  {
+   "s": 243.14,
+   "t": "<b>Why</b>?",
+   "e": 244.88
+  },
+  {
+   "s": 244.88,
+   "t": "Because happiness can be <b>syn</b>thesized.",
+   "e": 248.36
+  },
+  {
+   "s": 248.36,
+   "t": "Sir Thomas <b>Brown</b> wrote in 1642,",
+   "e": 251.08
+  },
+  {
+   "s": 251.08,
+   "t": "“I am the <b>hap</b>piest man alive.",
+   "e": 252.98
+  },
+  {
+   "s": 252.98,
+   "t": "I have that in me that can convert <b>pov</b>erty to <b>rich</b>es, / ad<b>ver</b>sity to pros<b>per</b>ity.",
+   "e": 257.98
+  },
+  {
+   "s": 257.98,
+   "t": "I am more in<b>vul</b>nerable than A<b>chil</b>les; / fortune hath not <b>one</b> place to hit me.”",
+   "e": 262.98
+  },
+  {
+   "s": 262.98,
+   "t": "What kind of re<b>mark</b>able machinery / does this guy have in his <b>head</b>?",
+   "e": 265.8
+  },
+  {
+   "s": 265.8,
+   "t": "Well, it turns out / it's <b>pre</b>cisely the same remarkable machinery / that <b>all</b> of us have.",
+   "e": 272.2
+  },
+  {
+   "s": 272.2,
+   "t": "Human beings have something / that we might think of as a “psycho<b>log</b>ical im<b>mune</b> system,”",
+   "e": 277.38
+  },
+  {
+   "s": 277.38,
+   "t": "a system of <b>cog</b>nitive processes, / largely non<b>con</b>scious cognitive processes,",
+   "e": 281.7
+  },
+  {
+   "s": 281.7,
+   "t": "that help them change their <b>views</b> of the world,",
+   "e": 285.24
+  },
+  {
+   "s": 285.24,
+   "t": "so that they can feel <b>bet</b>ter about the worlds / in which they find themselves.",
+   "e": 290.28
+  },
+  {
+   "s": 290.28,
+   "t": "<b>Like</b> Sir Thomas, / you have this machine.",
+   "e": 292.7
+  },
+  {
+   "s": 292.7,
+   "t": "<b>Un</b>like Sir Thomas, / you seem not to <b>know</b> it.",
+   "e": 296.94
+  },
+  {
+   "s": 296.94,
+   "t": "We <b>syn</b>thesize happiness, / but we <b>think</b> happiness is a thing to be <b>found</b>.",
+   "e": 302.01
+  }
+ ],
+ "verified": "2026-11-01"
+}

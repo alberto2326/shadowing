@@ -1,0 +1,142 @@
+{
+ "slug": "2026-11-duckworth-grit",
+ "video_id": "ted-angela_lee_duckworth_grit_the_power_of_passion_and_persevera",
+ "title": "Angela Lee Duckworth, “Grit: the power of passion and perseverance” (what predicts success)",
+ "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+ "meta": {
+  "hablante": "Angela Lee Duckworth",
+  "charla": "Grit: the power of passion and perseverance",
+  "acento": "Americano general (mujer)",
+  "tema": "Qué predice el éxito: el grit"
+ },
+ "lines": [
+  "So I left the <b>class</b>room, / and I went to graduate school to become a psy<b>chol</b>ogist.",
+  "I started studying <b>kids</b> and <b>adults</b> / in all kinds of super <b>chal</b>lenging settings,",
+  "and in <b>ev</b>ery study my question was, / <b>who</b> is successful here and <b>why</b>?",
+  "My research team and I went to West Point Military <b>Acad</b>emy.",
+  "We tried to pre<b>dict</b> which cadets would <b>stay</b> in military training / and which would drop <b>out</b>.",
+  "We went to the National <b>Spell</b>ing Bee / and tried to predict which children would advance <b>far</b>thest in competition.",
+  "We studied <b>rook</b>ie teachers working in really <b>tough</b> neighborhoods,",
+  "asking which teachers are still going to be here in teaching / by the <b>end</b> of the school year,",
+  "and of those, / who will be the most ef<b>fec</b>tive / at improving learning outcomes for their students?",
+  "We partnered with <b>pri</b>vate companies, asking, / which of these <b>sales</b>people is going to <b>keep</b> their jobs?",
+  "And who's going to earn the <b>most</b> money?",
+  "In all those very <b>dif</b>ferent contexts, / <b>one</b> characteristic emerged / as a significant predictor of suc<b>cess</b>.",
+  "And it <b>was</b>n't social intelligence. / It wasn't good <b>looks</b>, physical <b>health</b>, / and it wasn't <b>IQ</b>.",
+  "It was <b>grit</b>.",
+  "Grit is <b>pas</b>sion and perse<b>ver</b>ance / for very long-term <b>goals</b>.",
+  "Grit is having <b>stam</b>ina.",
+  "Grit is <b>stick</b>ing with your future, / day <b>in</b>, day <b>out</b>,",
+  "not just for the <b>week</b>, / not just for the <b>month</b>, / but for <b>years</b>,",
+  "and working really <b>hard</b> / to make that future a re<b>al</b>ity.",
+  "Grit is living life like it's a <b>mar</b>athon, / not a <b>sprint</b>."
+ ],
+ "listen_for": "Repetition as rhythm: <i>Grit is… Grit is… Grit is…</i> · building lists: <i>not just for the week, not just for the month, but for years</i> · contrast at the end: a <b>marathon</b>, not a <b>sprint</b>.",
+ "notas": "Subtítulos TED + Whisper small.en. Whisper oye «We We studied» (repetición); se sigue el texto de los subtítulos.",
+ "start": 99.86,
+ "end": 198.41,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 99.56,
+   "t": "So I left the <b>class</b>room, / and I went to graduate school to become a psy<b>chol</b>ogist.",
+   "e": 105.24
+  },
+  {
+   "s": 105.24,
+   "t": "I started studying <b>kids</b> and <b>adults</b> / in all kinds of super <b>chal</b>lenging settings,",
+   "e": 109.76
+  },
+  {
+   "s": 109.76,
+   "t": "and in <b>ev</b>ery study my question was, / <b>who</b> is successful here and <b>why</b>?",
+   "e": 115.56
+  },
+  {
+   "s": 115.56,
+   "t": "My research team and I went to West Point Military <b>Acad</b>emy.",
+   "e": 119.82
+  },
+  {
+   "s": 119.82,
+   "t": "We tried to pre<b>dict</b> which cadets would <b>stay</b> in military training / and which would drop <b>out</b>.",
+   "e": 125.7
+  },
+  {
+   "s": 125.7,
+   "t": "We went to the National <b>Spell</b>ing Bee / and tried to predict which children would advance <b>far</b>thest in competition.",
+   "e": 133.24
+  },
+  {
+   "s": 133.24,
+   "t": "We studied <b>rook</b>ie teachers working in really <b>tough</b> neighborhoods,",
+   "e": 137.44
+  },
+  {
+   "s": 137.44,
+   "t": "asking which teachers are still going to be here in teaching / by the <b>end</b> of the school year,",
+   "e": 142.9
+  },
+  {
+   "s": 142.9,
+   "t": "and of those, / who will be the most ef<b>fec</b>tive / at improving learning outcomes for their students?",
+   "e": 148.92
+  },
+  {
+   "s": 148.92,
+   "t": "We partnered with <b>pri</b>vate companies, asking, / which of these <b>sales</b>people is going to <b>keep</b> their jobs?",
+   "e": 153.46
+  },
+  {
+   "s": 153.46,
+   "t": "And who's going to earn the <b>most</b> money?",
+   "e": 156.22
+  },
+  {
+   "s": 156.22,
+   "t": "In all those very <b>dif</b>ferent contexts, / <b>one</b> characteristic emerged / as a significant predictor of suc<b>cess</b>.",
+   "e": 163.96
+  },
+  {
+   "s": 163.96,
+   "t": "And it <b>was</b>n't social intelligence. / It wasn't good <b>looks</b>, physical <b>health</b>, / and it wasn't <b>IQ</b>.",
+   "e": 171.12
+  },
+  {
+   "s": 171.12,
+   "t": "It was <b>grit</b>.",
+   "e": 173.56
+  },
+  {
+   "s": 173.56,
+   "t": "Grit is <b>pas</b>sion and perse<b>ver</b>ance / for very long-term <b>goals</b>.",
+   "e": 178.64
+  },
+  {
+   "s": 178.64,
+   "t": "Grit is having <b>stam</b>ina.",
+   "e": 180.8
+  },
+  {
+   "s": 180.8,
+   "t": "Grit is <b>stick</b>ing with your future, / day <b>in</b>, day <b>out</b>,",
+   "e": 184.96
+  },
+  {
+   "s": 184.96,
+   "t": "not just for the <b>week</b>, / not just for the <b>month</b>, / but for <b>years</b>,",
+   "e": 189.6
+  },
+  {
+   "s": 189.6,
+   "t": "and working really <b>hard</b> / to make that future a re<b>al</b>ity.",
+   "e": 194.66
+  },
+  {
+   "s": 194.66,
+   "t": "Grit is living life like it's a <b>mar</b>athon, / not a <b>sprint</b>.",
+   "e": 198.51
+  }
+ ],
+ "verified": "2026-11-01"
+}

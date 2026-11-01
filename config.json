@@ -1,0 +1,10 @@
+{
+ "_nota": "Parámetros del sistema. La URL de la web la da GitHub Pages (https://<usuario>.github.io/<repo>/).",
+ "timezone": "Europe/Madrid",
+ "clip_min_s": 60,
+ "clip_max_s": 120,
+ "mp3_kbps": 64,
+ "retain_days": 60,
+ "warn_days": 7,
+ "whisper_model": "small.en"
+}

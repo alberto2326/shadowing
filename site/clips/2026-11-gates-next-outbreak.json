@@ -1,0 +1,79 @@
+{
+ "title": "Bill Gates, “The next outbreak? We're not ready”",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready",
+ "segment": "00:08–01:18 (70 s)",
+ "listen_for": "Calm, flat delivery with strong contrasts: not <b>missiles</b>, but <b>microbes</b> · <i>this</i> vs <i>this</i> with pointing intonation · weak forms: <i>filled with cans of food and water</i>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 7.0,
+   "t": "When I was a <b>kid</b>, / the disaster we worried about <b>most</b> / was a <b>nu</b>clear war."
+  },
+  {
+   "s": 7.0,
+   "e": 10.28,
+   "t": "That's <b>why</b> we had a barrel like this down in our <b>base</b>ment,"
+  },
+  {
+   "s": 10.28,
+   "e": 13.56,
+   "t": "filled with cans of <b>food</b> and <b>wa</b>ter."
+  },
+  {
+   "s": 13.56,
+   "e": 18.96,
+   "t": "When the nuclear attack <b>came</b>, / we were supposed to go down<b>stairs</b>, / hunker <b>down</b>, / and eat out of that <b>bar</b>rel."
+  },
+  {
+   "s": 18.96,
+   "e": 27.6,
+   "t": "To<b>day</b> the greatest risk of global ca<b>tas</b>trophe / doesn't look like <b>this</b>."
+  },
+  {
+   "s": 27.6,
+   "e": 31.12,
+   "t": "In<b>stead</b>, it looks like <b>this</b>."
+  },
+  {
+   "s": 31.12,
+   "e": 36.64,
+   "t": "If anything kills over 10 <b>mil</b>lion people / in the next few <b>dec</b>ades,"
+  },
+  {
+   "s": 36.64,
+   "e": 42.94,
+   "t": "it's most likely to be a highly in<b>fec</b>tious <b>vi</b>rus / rather than a <b>war</b>."
+  },
+  {
+   "s": 42.94,
+   "e": 46.56,
+   "t": "Not <b>mis</b>siles, / but <b>mi</b>crobes."
+  },
+  {
+   "s": 46.56,
+   "e": 52.88,
+   "t": "Now, part of the reason for this is that / we've invested a <b>huge</b> amount in nuclear de<b>ter</b>rence."
+  },
+  {
+   "s": 52.88,
+   "e": 59.04,
+   "t": "But we've actually invested very <b>lit</b>tle / in a system to stop an <b>ep</b>idemic."
+  },
+  {
+   "s": 59.04,
+   "e": 63.08,
+   "t": "We're <b>not</b> ready for the next epidemic."
+  },
+  {
+   "s": 63.08,
+   "e": 65.0,
+   "t": "Let's look at E<b>bo</b>la."
+  },
+  {
+   "s": 65.0,
+   "e": 70.77,
+   "t": "I'm sure <b>all</b> of you read about it in the newspaper, / lots of <b>tough</b> challenges."
+  }
+ ]
+}

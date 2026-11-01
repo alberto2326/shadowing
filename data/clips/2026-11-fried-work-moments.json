@@ -1,0 +1,160 @@
+{
+ "slug": "2026-11-fried-work-moments",
+ "video_id": "ted-jason_fried_why_work_doesn_t_happen_at_work",
+ "title": "Jason Fried, “Why work doesn't happen at work” (where do you go to get work done?)",
+ "url": "https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work",
+ "meta": {
+  "hablante": "Jason Fried",
+  "charla": "Why work doesn't happen at work",
+  "acento": "Americano general",
+  "tema": "Trabajo: dónde rinde la gente de verdad"
+ },
+ "lines": [
+  "If you ask people the <b>ques</b>tion, / where do you really need to <b>go</b> / when you need to get something done,",
+  "you typically get <b>three</b> different kinds of answers.",
+  "<b>One</b> is kind of a place, / or a location, or a <b>room</b>.",
+  "Another one is a <b>mov</b>ing object.",
+  "And a <b>third</b> is a <b>time</b>.",
+  "So here's some <b>ex</b>amples.",
+  "When I ask people — / and I've been asking people this question for about <b>10</b> years —",
+  "I ask them, / where do you when you <b>real</b>ly need to get something done?",
+  "I'll hear things like, / the <b>porch</b>, the <b>deck</b>, the <b>kitch</b>en.",
+  "I'll hear things like an extra <b>room</b> in the house, / the <b>base</b>ment, / the <b>cof</b>fee shop, the <b>li</b>brary.",
+  "And then you'll hear things like the <b>train</b>, / a <b>plane</b>, a <b>car</b> — / so, the com<b>mute</b>.",
+  "And then you'll hear people say, / “Well, it doesn't really <b>mat</b>ter where I am,",
+  "as long as it's really <b>ear</b>ly in the morning, / or really <b>late</b> at night, / or on the <b>week</b>ends.”",
+  "You almost <b>nev</b>er hear someone say, / “The <b>of</b>fice.”",
+  "But businesses are spending all this <b>mon</b>ey / on this place called the office,",
+  "and they're making people go to it <b>all</b> the time, / <b>yet</b> people don't do work in the office.",
+  "What is <b>that</b> about?",
+  "Like, why <b>is</b> that? / Why is that <b>hap</b>pening?",
+  "And what you find out is, / if you dig a little bit <b>deep</b>er,",
+  "you find out that people — / this is what happens —",
+  "people go to <b>work</b>, / and they're basically <b>trad</b>ing in their work day / for a series of “work <b>mo</b>ments.”",
+  "That's what happens at the <b>of</b>fice.",
+  "You don't <b>have</b> a work day anymore. / You have work <b>mo</b>ments."
+ ],
+ "listen_for": "Lists with rising tone: <i>the porch, the deck, the kitchen</i> · the punchline drop: <i>“The office.”</i> · contrast: work <b>day</b> vs work <b>moments</b>.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «where do you really need to go», «here's some examples», «When I ask people… I ask them, where do you when you really need…» (frase incompleta tal cual) y «really early / really late»; se sigue el audio.",
+ "start": 94.52,
+ "end": 173.85,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 94.22,
+   "t": "If you ask people the <b>ques</b>tion, / where do you really need to <b>go</b> / when you need to get something done,",
+   "e": 98.48
+  },
+  {
+   "s": 98.48,
+   "t": "you typically get <b>three</b> different kinds of answers.",
+   "e": 101.0
+  },
+  {
+   "s": 101.0,
+   "t": "<b>One</b> is kind of a place, / or a location, or a <b>room</b>.",
+   "e": 104.0
+  },
+  {
+   "s": 104.0,
+   "t": "Another one is a <b>mov</b>ing object.",
+   "e": 105.94
+  },
+  {
+   "s": 105.94,
+   "t": "And a <b>third</b> is a <b>time</b>.",
+   "e": 107.7
+  },
+  {
+   "s": 107.7,
+   "t": "So here's some <b>ex</b>amples.",
+   "e": 109.74
+  },
+  {
+   "s": 109.74,
+   "t": "When I ask people — / and I've been asking people this question for about <b>10</b> years —",
+   "e": 112.24
+  },
+  {
+   "s": 112.24,
+   "t": "I ask them, / where do you when you <b>real</b>ly need to get something done?",
+   "e": 114.92
+  },
+  {
+   "s": 114.92,
+   "t": "I'll hear things like, / the <b>porch</b>, the <b>deck</b>, the <b>kitch</b>en.",
+   "e": 120.28
+  },
+  {
+   "s": 120.28,
+   "t": "I'll hear things like an extra <b>room</b> in the house, / the <b>base</b>ment, / the <b>cof</b>fee shop, the <b>li</b>brary.",
+   "e": 127.0
+  },
+  {
+   "s": 127.0,
+   "t": "And then you'll hear things like the <b>train</b>, / a <b>plane</b>, a <b>car</b> — / so, the com<b>mute</b>.",
+   "e": 133.14
+  },
+  {
+   "s": 133.14,
+   "t": "And then you'll hear people say, / “Well, it doesn't really <b>mat</b>ter where I am,",
+   "e": 136.04
+  },
+  {
+   "s": 136.04,
+   "t": "as long as it's really <b>ear</b>ly in the morning, / or really <b>late</b> at night, / or on the <b>week</b>ends.”",
+   "e": 140.04
+  },
+  {
+   "s": 140.04,
+   "t": "You almost <b>nev</b>er hear someone say, / “The <b>of</b>fice.”",
+   "e": 143.04
+  },
+  {
+   "s": 143.04,
+   "t": "But businesses are spending all this <b>mon</b>ey / on this place called the office,",
+   "e": 146.12
+  },
+  {
+   "s": 146.12,
+   "t": "and they're making people go to it <b>all</b> the time, / <b>yet</b> people don't do work in the office.",
+   "e": 151.16
+  },
+  {
+   "s": 151.16,
+   "t": "What is <b>that</b> about?",
+   "e": 153.76
+  },
+  {
+   "s": 153.76,
+   "t": "Like, why <b>is</b> that? / Why is that <b>hap</b>pening?",
+   "e": 157.54
+  },
+  {
+   "s": 157.54,
+   "t": "And what you find out is, / if you dig a little bit <b>deep</b>er,",
+   "e": 159.8
+  },
+  {
+   "s": 159.8,
+   "t": "you find out that people — / this is what happens —",
+   "e": 163.92
+  },
+  {
+   "s": 163.92,
+   "t": "people go to <b>work</b>, / and they're basically <b>trad</b>ing in their work day / for a series of “work <b>mo</b>ments.”",
+   "e": 170.1
+  },
+  {
+   "s": 170.1,
+   "t": "That's what happens at the <b>of</b>fice.",
+   "e": 171.62
+  },
+  {
+   "s": 171.62,
+   "t": "You don't <b>have</b> a work day anymore. / You have work <b>mo</b>ments.",
+   "e": 173.95
+  }
+ ],
+ "verified": "2026-11-01"
+}

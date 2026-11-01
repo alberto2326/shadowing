@@ -1,0 +1,124 @@
+{
+ "slug": "2026-11-gates-ebola",
+ "video_id": "ted-bill_gates_the_next_outbreak_we_re_not_ready",
+ "title": "Bill Gates, “The next outbreak? We're not ready” (what went wrong with Ebola)",
+ "url": "https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready",
+ "meta": {
+  "hablante": "Bill Gates",
+  "charla": "The next outbreak? We're not ready",
+  "acento": "Americano general",
+  "tema": "Sistemas: lo que falló con el ébola"
+ },
+ "lines": [
+  "And as you <b>look</b> at what went on,",
+  "the problem wasn't that there was a system / that didn't work well <b>e</b>nough,",
+  "the problem was that we didn't have a <b>sys</b>tem at <b>all</b>.",
+  "In fact, there are some pretty <b>ob</b>vious key <b>miss</b>ing pieces.",
+  "We didn't have a group of epidemi<b>ol</b>ogists ready to go,",
+  "who would have gone, / seen what the dis<b>ease</b> was, / seen how <b>far</b> it had spread.",
+  "The case reports came in on <b>pa</b>per.",
+  "It was very de<b>layed</b> before they were put online,",
+  "and they were <b>ex</b>tremely in<b>ac</b>curate.",
+  "We didn't have a <b>med</b>ical team ready to go.",
+  "We didn't have a way of pre<b>par</b>ing people.",
+  "Now, Médecins Sans Frontières / did a <b>great</b> job orchestrating <b>vol</b>unteers.",
+  "But even so, / we were far <b>slow</b>er than we should have been",
+  "getting the <b>thou</b>sands of workers into these countries.",
+  "And a <b>large</b> epidemic would require us / to have <b>hun</b>dreds of thousands of workers.",
+  "There was <b>no</b> one there to look at treatment approaches.",
+  "No one to look at the di<b>ag</b>nostics."
+ ],
+ "listen_for": "Problem-solution structure you can reuse at work: <i>the problem wasn't…, the problem was…</i> · repetition for emphasis: <i>We didn't have… We didn't have…</i>, <i>No one to…</i> · <i>should have been</i> → “should've been”.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «there are some pretty obvious»; se sigue el audio. Whisper no reconoce «Médecins Sans Frontières» y añade «years»: falsos positivos.",
+ "start": 87.38,
+ "end": 150.17,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 87.08,
+   "t": "And as you <b>look</b> at what went on,",
+   "e": 88.84
+  },
+  {
+   "s": 88.84,
+   "t": "the problem wasn't that there was a system / that didn't work well <b>e</b>nough,",
+   "e": 93.48
+  },
+  {
+   "s": 93.48,
+   "t": "the problem was that we didn't have a <b>sys</b>tem at <b>all</b>.",
+   "e": 97.84
+  },
+  {
+   "s": 97.84,
+   "t": "In fact, there are some pretty <b>ob</b>vious key <b>miss</b>ing pieces.",
+   "e": 101.84
+  },
+  {
+   "s": 101.84,
+   "t": "We didn't have a group of epidemi<b>ol</b>ogists ready to go,",
+   "e": 105.98
+  },
+  {
+   "s": 105.98,
+   "t": "who would have gone, / seen what the dis<b>ease</b> was, / seen how <b>far</b> it had spread.",
+   "e": 111.06
+  },
+  {
+   "s": 111.06,
+   "t": "The case reports came in on <b>pa</b>per.",
+   "e": 113.88
+  },
+  {
+   "s": 113.88,
+   "t": "It was very de<b>layed</b> before they were put online,",
+   "e": 115.94
+  },
+  {
+   "s": 115.94,
+   "t": "and they were <b>ex</b>tremely in<b>ac</b>curate.",
+   "e": 118.74
+  },
+  {
+   "s": 118.74,
+   "t": "We didn't have a <b>med</b>ical team ready to go.",
+   "e": 121.0
+  },
+  {
+   "s": 121.0,
+   "t": "We didn't have a way of pre<b>par</b>ing people.",
+   "e": 123.8
+  },
+  {
+   "s": 123.8,
+   "t": "Now, Médecins Sans Frontières / did a <b>great</b> job orchestrating <b>vol</b>unteers.",
+   "e": 129.24
+  },
+  {
+   "s": 129.24,
+   "t": "But even so, / we were far <b>slow</b>er than we should have been",
+   "e": 132.22
+  },
+  {
+   "s": 132.22,
+   "t": "getting the <b>thou</b>sands of workers into these countries.",
+   "e": 135.5
+  },
+  {
+   "s": 135.5,
+   "t": "And a <b>large</b> epidemic would require us / to have <b>hun</b>dreds of thousands of workers.",
+   "e": 143.81
+  },
+  {
+   "s": 143.81,
+   "t": "There was <b>no</b> one there to look at treatment approaches.",
+   "e": 148.08
+  },
+  {
+   "s": 148.08,
+   "t": "No one to look at the di<b>ag</b>nostics.",
+   "e": 150.27
+  }
+ ],
+ "verified": "2026-11-01 (forzado: diferencias revisadas, ver notas)"
+}

@@ -1,0 +1,166 @@
+{
+ "slug": "2026-11-01-cain-introverts-camp",
+ "video_id": "ted-susan_cain_the_power_of_introverts",
+ "title": "Susan Cain, “The power of introverts” (summer camp)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
+ "start": 3.72,
+ "end": 94.05,
+ "meta": {
+  "hablante": "Susan Cain",
+  "charla": "The power of introverts",
+  "acento": "Americano general (mujer)",
+  "tema": "Introvertidos y presión social"
+ },
+ "lines": [
+  "When I was <b>nine</b> years old, / I went off to <b>sum</b>mer camp for the <b>first</b> time,",
+  "and my <b>moth</b>er packed me a suitcase full of <b>books</b>,",
+  "which to <b>me</b> seemed like a perfectly <b>nat</b>ural thing to do,",
+  "because in my <b>fam</b>ily, / <b>read</b>ing was the <b>pri</b>mary <b>group</b> activity.",
+  "And this might sound anti<b>so</b>cial to you,",
+  "but for <b>us</b>, it was really just a <b>dif</b>ferent way of being <b>so</b>cial.",
+  "You had the <b>an</b>imal <b>warmth</b> of your family / sitting right <b>next</b> to you,",
+  "but you were <b>al</b>so free to go <b>roam</b>ing around / the <b>Ad</b>ventureland inside your <b>own</b> mind.",
+  "And I had this i<b>de</b>a / that <b>camp</b> was going to be just like <b>this</b>, / but <b>bet</b>ter.",
+  "I had a <b>vi</b>sion of <b>ten</b> girls sitting in a <b>cab</b>in",
+  "<b>co</b>zily reading books / in their <b>match</b>ing <b>night</b>gowns.",
+  "Camp was more like a <b>keg</b> party / without any <b>al</b>cohol.",
+  "And on the <b>ver</b>y first day, / our <b>coun</b>selor gathered us all together",
+  "and she <b>taught</b> us a cheer / that she said we would be doing",
+  "<b>ev</b>ery day for the rest of the <b>sum</b>mer / to in<b>still</b> camp <b>spir</b>it.",
+  "And it went like <b>this</b>:",
+  "“R-O-W-D-I-<b>E</b>, / that's the way we spell <b>row</b>dy.",
+  "Rowdy, <b>row</b>dy, / let's get <b>row</b>dy.”",
+  "<b>Yeah</b>.",
+  "So I couldn't figure out for the <b>life</b> of me / why we were supposed to be so <b>row</b>dy,",
+  "or why we had to spell this word in<b>cor</b>rectly.",
+  "But I re<b>cit</b>ed the cheer. / I recited the cheer along with <b>ev</b>erybody else.",
+  "I did my <b>best</b>.",
+  "And I just <b>wait</b>ed for the time / that I could go off and <b>read</b> my <b>books</b>."
+ ],
+ "listen_for": "Storytelling intonation: the voice rises on the build-up and falls at the end of each sentence · contrast stress: for <b>us</b> it was a <b>dif</b>ferent way of being social · linking in <i>went_off</i>, <i>full_of</i>, <i>go_off_and</i>.",
+ "notas": "Subtítulos TED + Whisper small.en. Diferencias: el audio dice «You had… you were» (subtítulos: «You have… you are») y «I recited the cheer» (subtítulos: «a cheer»); se sigue el audio. Whisper escribe el deletreo como «R -O -W -D -I -E».",
+ "cues": [
+  {
+   "s": 3.42,
+   "t": "When I was <b>nine</b> years old, / I went off to <b>sum</b>mer camp for the <b>first</b> time,",
+   "e": 7.62
+  },
+  {
+   "s": 7.62,
+   "t": "and my <b>moth</b>er packed me a suitcase full of <b>books</b>,",
+   "e": 11.48
+  },
+  {
+   "s": 11.48,
+   "t": "which to <b>me</b> seemed like a perfectly <b>nat</b>ural thing to do,",
+   "e": 14.6
+  },
+  {
+   "s": 14.6,
+   "t": "because in my <b>fam</b>ily, / <b>read</b>ing was the <b>pri</b>mary <b>group</b> activity.",
+   "e": 18.8
+  },
+  {
+   "s": 18.8,
+   "t": "And this might sound anti<b>so</b>cial to you,",
+   "e": 21.32
+  },
+  {
+   "s": 21.32,
+   "t": "but for <b>us</b>, it was really just a <b>dif</b>ferent way of being <b>so</b>cial.",
+   "e": 24.56
+  },
+  {
+   "s": 24.56,
+   "t": "You had the <b>an</b>imal <b>warmth</b> of your family / sitting right <b>next</b> to you,",
+   "e": 27.54
+  },
+  {
+   "s": 27.54,
+   "t": "but you were <b>al</b>so free to go <b>roam</b>ing around / the <b>Ad</b>ventureland inside your <b>own</b> mind.",
+   "e": 32.14
+  },
+  {
+   "s": 32.14,
+   "t": "And I had this i<b>de</b>a / that <b>camp</b> was going to be just like <b>this</b>, / but <b>bet</b>ter.",
+   "e": 39.04
+  },
+  {
+   "s": 39.04,
+   "t": "I had a <b>vi</b>sion of <b>ten</b> girls sitting in a <b>cab</b>in",
+   "e": 42.3
+  },
+  {
+   "s": 42.3,
+   "t": "<b>co</b>zily reading books / in their <b>match</b>ing <b>night</b>gowns.",
+   "e": 45.66
+  },
+  {
+   "s": 45.66,
+   "t": "Camp was more like a <b>keg</b> party / without any <b>al</b>cohol.",
+   "e": 48.82
+  },
+  {
+   "s": 48.82,
+   "t": "And on the <b>ver</b>y first day, / our <b>coun</b>selor gathered us all together",
+   "e": 53.86
+  },
+  {
+   "s": 53.86,
+   "t": "and she <b>taught</b> us a cheer / that she said we would be doing",
+   "e": 56.64
+  },
+  {
+   "s": 56.64,
+   "t": "<b>ev</b>ery day for the rest of the <b>sum</b>mer / to in<b>still</b> camp <b>spir</b>it.",
+   "e": 60.06
+  },
+  {
+   "s": 60.06,
+   "t": "And it went like <b>this</b>:",
+   "e": 62.8
+  },
+  {
+   "s": 62.8,
+   "t": "“R-O-W-D-I-<b>E</b>, / that's the way we spell <b>row</b>dy.",
+   "e": 65.64
+  },
+  {
+   "s": 65.64,
+   "t": "Rowdy, <b>row</b>dy, / let's get <b>row</b>dy.”",
+   "e": 70.86
+  },
+  {
+   "s": 70.86,
+   "t": "<b>Yeah</b>.",
+   "e": 73.16
+  },
+  {
+   "s": 73.16,
+   "t": "So I couldn't figure out for the <b>life</b> of me / why we were supposed to be so <b>row</b>dy,",
+   "e": 77.22
+  },
+  {
+   "s": 77.22,
+   "t": "or why we had to spell this word in<b>cor</b>rectly.",
+   "e": 86.14
+  },
+  {
+   "s": 86.14,
+   "t": "But I re<b>cit</b>ed the cheer. / I recited the cheer along with <b>ev</b>erybody else.",
+   "e": 89.52
+  },
+  {
+   "s": 89.52,
+   "t": "I did my <b>best</b>.",
+   "e": 90.78
+  },
+  {
+   "s": 90.78,
+   "t": "And I just <b>wait</b>ed for the time / that I could go off and <b>read</b> my <b>books</b>.",
+   "e": 94.15
+  }
+ ],
+ "verified": "2026-11-01"
+}

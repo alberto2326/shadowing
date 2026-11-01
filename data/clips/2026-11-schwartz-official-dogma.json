@@ -1,0 +1,124 @@
+{
+ "slug": "2026-11-schwartz-official-dogma",
+ "video_id": "ted-barry_schwartz_the_paradox_of_choice",
+ "title": "Barry Schwartz, “The paradox of choice” (the official dogma)",
+ "url": "https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice",
+ "meta": {
+  "hablante": "Barry Schwartz",
+  "charla": "The paradox of choice",
+  "acento": "Americano general",
+  "tema": "Elección y libertad: el dogma oficial"
+ },
+ "lines": [
+  "But I want to <b>start</b> / with what I call the “<b>of</b>ficial <b>dog</b>ma.”",
+  "The official dogma of <b>what</b>?",
+  "The official dogma of <b>all</b> Western <b>in</b>dustrial societies.",
+  "And the official dogma runs like <b>this</b>:",
+  "if we are interested in <b>max</b>imizing the <b>wel</b>fare of our citizens,",
+  "the way to do that / is to maximize indi<b>vid</b>ual <b>free</b>dom.",
+  "The <b>rea</b>son for this is both that freedom is, / in and of it<b>self</b>, <b>good</b>,",
+  "<b>val</b>uable, <b>worth</b>while, / es<b>sen</b>tial to being <b>hu</b>man,",
+  "and because if people have <b>free</b>dom,",
+  "then <b>each</b> of us can act on our <b>own</b> / to do the things that will maximize our welfare,",
+  "and <b>no</b> one has to decide on our be<b>half</b>.",
+  "The way to maximize <b>free</b>dom / is to maximize <b>choice</b>.",
+  "The more <b>choice</b> people have, / the more <b>free</b>dom they have,",
+  "and the more freedom they have, / the more <b>wel</b>fare they have.",
+  "This, I think, is so <b>deep</b>ly embedded in the <b>wa</b>ter supply",
+  "that it wouldn't oc<b>cur</b> to anyone / to <b>ques</b>tion it.",
+  "And it's <b>al</b>so deeply embedded in our <b>lives</b>."
+ ],
+ "listen_for": "Academic but clear: long sentences broken into short sense groups · parallel structure: <i>the more choice…, the more freedom…, the more welfare…</i> · rising question <i>The official dogma of what?</i>",
+ "notas": "Subtítulos TED + Whisper small.en: coinciden.",
+ "start": 14.16,
+ "end": 80.45,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 13.86,
+   "t": "But I want to <b>start</b> / with what I call the “<b>of</b>ficial <b>dog</b>ma.”",
+   "e": 18.26
+  },
+  {
+   "s": 18.26,
+   "t": "The official dogma of <b>what</b>?",
+   "e": 19.84
+  },
+  {
+   "s": 19.84,
+   "t": "The official dogma of <b>all</b> Western <b>in</b>dustrial societies.",
+   "e": 23.18
+  },
+  {
+   "s": 23.18,
+   "t": "And the official dogma runs like <b>this</b>:",
+   "e": 25.48
+  },
+  {
+   "s": 25.48,
+   "t": "if we are interested in <b>max</b>imizing the <b>wel</b>fare of our citizens,",
+   "e": 30.16
+  },
+  {
+   "s": 30.16,
+   "t": "the way to do that / is to maximize indi<b>vid</b>ual <b>free</b>dom.",
+   "e": 36.3
+  },
+  {
+   "s": 36.3,
+   "t": "The <b>rea</b>son for this is both that freedom is, / in and of it<b>self</b>, <b>good</b>,",
+   "e": 40.54
+  },
+  {
+   "s": 40.54,
+   "t": "<b>val</b>uable, <b>worth</b>while, / es<b>sen</b>tial to being <b>hu</b>man,",
+   "e": 43.74
+  },
+  {
+   "s": 43.74,
+   "t": "and because if people have <b>free</b>dom,",
+   "e": 46.52
+  },
+  {
+   "s": 46.52,
+   "t": "then <b>each</b> of us can act on our <b>own</b> / to do the things that will maximize our welfare,",
+   "e": 50.8
+  },
+  {
+   "s": 50.8,
+   "t": "and <b>no</b> one has to decide on our be<b>half</b>.",
+   "e": 53.6
+  },
+  {
+   "s": 53.6,
+   "t": "The way to maximize <b>free</b>dom / is to maximize <b>choice</b>.",
+   "e": 58.92
+  },
+  {
+   "s": 58.92,
+   "t": "The more <b>choice</b> people have, / the more <b>free</b>dom they have,",
+   "e": 62.94
+  },
+  {
+   "s": 62.94,
+   "t": "and the more freedom they have, / the more <b>wel</b>fare they have.",
+   "e": 67.38
+  },
+  {
+   "s": 67.38,
+   "t": "This, I think, is so <b>deep</b>ly embedded in the <b>wa</b>ter supply",
+   "e": 72.74
+  },
+  {
+   "s": 72.74,
+   "t": "that it wouldn't oc<b>cur</b> to anyone / to <b>ques</b>tion it.",
+   "e": 76.76
+  },
+  {
+   "s": 76.76,
+   "t": "And it's <b>al</b>so deeply embedded in our <b>lives</b>.",
+   "e": 80.55
+  }
+ ],
+ "verified": "2026-11-01"
+}

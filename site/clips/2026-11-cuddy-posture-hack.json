@@ -1,0 +1,94 @@
+{
+ "title": "Amy Cuddy, “Your body language may shape who you are” (a free life hack)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are",
+ "segment": "00:04–01:14 (71 s)",
+ "listen_for": "Rising intonation in questions to the audience (<i>how many of you…?</i>) · lists: <i>hunching, crossing your legs, wrapping your ankles</i> — each item rises, the last one falls · flapped t in <i>audit</i>, <i>little</i>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 5.64,
+   "t": "So I want to <b>start</b> by offering you / a <b>free</b> no-tech life <b>hack</b>,"
+  },
+  {
+   "s": 5.64,
+   "e": 12.46,
+   "t": "and <b>all</b> it requires of you is <b>this</b>: / that you change your <b>pos</b>ture for <b>two</b> minutes."
+  },
+  {
+   "s": 12.46,
+   "e": 15.7,
+   "t": "But be<b>fore</b> I give it away, / I want to ask you to right <b>now</b>"
+  },
+  {
+   "s": 15.7,
+   "e": 19.5,
+   "t": "do a little <b>au</b>dit of your <b>bod</b>y / and what you're <b>do</b>ing with your body."
+  },
+  {
+   "s": 19.5,
+   "e": 21.82,
+   "t": "So how many of you are sort of making yourselves <b>small</b>er?"
+  },
+  {
+   "s": 21.82,
+   "e": 25.86,
+   "t": "Maybe you're <b>hunch</b>ing, / <b>cross</b>ing your legs, / maybe <b>wrap</b>ping your ankles."
+  },
+  {
+   "s": 25.86,
+   "e": 33.38,
+   "t": "Sometimes we hold onto our <b>arms</b> like this. / Sometimes we spread <b>out</b>."
+  },
+  {
+   "s": 33.38,
+   "e": 35.34,
+   "t": "I <b>see</b> you."
+  },
+  {
+   "s": 35.34,
+   "e": 37.92,
+   "t": "So I want you to pay at<b>ten</b>tion / to what you're doing right <b>now</b>."
+  },
+  {
+   "s": 37.92,
+   "e": 40.3,
+   "t": "We're going to come <b>back</b> to that in a few minutes,"
+  },
+  {
+   "s": 40.3,
+   "e": 43.46,
+   "t": "and I'm <b>hop</b>ing that if you sort of learn to <b>tweak</b> this a little bit,"
+  },
+  {
+   "s": 43.46,
+   "e": 46.34,
+   "t": "it could <b>sig</b>nificantly change / the way your <b>life</b> unfolds."
+  },
+  {
+   "s": 46.34,
+   "e": 51.42,
+   "t": "So, we're really <b>fas</b>cinated with body language,"
+  },
+  {
+   "s": 51.42,
+   "e": 55.86,
+   "t": "and we're par<b>tic</b>ularly interested / in <b>oth</b>er people's body language."
+  },
+  {
+   "s": 55.86,
+   "e": 64.48,
+   "t": "We're interested in an <b>awk</b>ward interaction, / or a <b>smile</b>,"
+  },
+  {
+   "s": 64.48,
+   "e": 68.42,
+   "t": "or a con<b>temp</b>tuous glance, / or maybe a very awkward <b>wink</b>,"
+  },
+  {
+   "s": 68.42,
+   "e": 71.03,
+   "t": "or maybe even something like a <b>hand</b>shake."
+  }
+ ]
+}

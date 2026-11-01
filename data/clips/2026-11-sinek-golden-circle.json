@@ -1,0 +1,160 @@
+{
+ "slug": "2026-11-sinek-golden-circle",
+ "video_id": "ted-simon_sinek_how_great_leaders_inspire_action",
+ "title": "Simon Sinek, “How great leaders inspire action” (the golden circle)",
+ "url": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
+ "meta": {
+  "hablante": "Simon Sinek",
+  "charla": "How great leaders inspire action",
+  "acento": "Americano general",
+  "tema": "Marketing: el «golden circle» (why, how, what)"
+ },
+ "lines": [
+  "As it turns <b>out</b>, / there's a <b>pat</b>tern.",
+  "As it turns out, / <b>all</b> the great and inspiring leaders and organizations in the world,",
+  "whether it's <b>Ap</b>ple / or Martin Luther <b>King</b> / or the <b>Wright</b> brothers,",
+  "they all <b>think</b>, <b>act</b> and com<b>mu</b>nicate / the <b>ex</b>act same way.",
+  "And it's the com<b>plete</b> opposite to everyone else.",
+  "All I did was <b>cod</b>ify it, / and it's probably the world's <b>sim</b>plest idea.",
+  "I call it the <b>gold</b>en circle.",
+  "<b>Why</b>? <b>How</b>? <b>What</b>?",
+  "This little idea ex<b>plains</b> / why <b>some</b> organizations and some leaders",
+  "are able to in<b>spire</b> / where <b>oth</b>ers aren't.",
+  "Let me de<b>fine</b> the terms really quickly.",
+  "Every single <b>per</b>son, / every single organi<b>za</b>tion on the planet",
+  "knows <b>what</b> they do, / 100%.",
+  "<b>Some</b> know <b>how</b> they do it,",
+  "whether you call it your differ<b>en</b>tiating value proposition / or your pro<b>pri</b>etary process / or your <b>USP</b>.",
+  "But very, very <b>few</b> people or organizations / know <b>why</b> they do what they do.",
+  "And by “why” / I <b>don't</b> mean “to make a <b>prof</b>it.”",
+  "That's a re<b>sult</b>. / It's <b>al</b>ways a result.",
+  "By “why,” I mean: / What's your <b>pur</b>pose?",
+  "What's your <b>cause</b>? / What's your be<b>lief</b>?",
+  "Why does your organization ex<b>ist</b>?",
+  "Why do you get out of <b>bed</b> in the morning?",
+  "And why should <b>an</b>yone <b>care</b>?"
+ ],
+ "listen_for": "Marketing vocabulary: <i>value proposition, proprietary process, USP</i> · rhythm of short questions: <i>What's your purpose? What's your cause? What's your belief?</i> · contrast stress on <b>what</b> / <b>how</b> / <b>why</b>.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «all the great and inspiring leaders» y «differentiating value proposition»; se sigue el audio.",
+ "start": 85.48,
+ "end": 165.43,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 85.18,
+   "t": "As it turns <b>out</b>, / there's a <b>pat</b>tern.",
+   "e": 88.0
+  },
+  {
+   "s": 88.0,
+   "t": "As it turns out, / <b>all</b> the great and inspiring leaders and organizations in the world,",
+   "e": 92.76
+  },
+  {
+   "s": 92.76,
+   "t": "whether it's <b>Ap</b>ple / or Martin Luther <b>King</b> / or the <b>Wright</b> brothers,",
+   "e": 95.1
+  },
+  {
+   "s": 95.1,
+   "t": "they all <b>think</b>, <b>act</b> and com<b>mu</b>nicate / the <b>ex</b>act same way.",
+   "e": 99.08
+  },
+  {
+   "s": 99.08,
+   "t": "And it's the com<b>plete</b> opposite to everyone else.",
+   "e": 102.52
+  },
+  {
+   "s": 102.52,
+   "t": "All I did was <b>cod</b>ify it, / and it's probably the world's <b>sim</b>plest idea.",
+   "e": 109.38
+  },
+  {
+   "s": 109.38,
+   "t": "I call it the <b>gold</b>en circle.",
+   "e": 119.46
+  },
+  {
+   "s": 119.46,
+   "t": "<b>Why</b>? <b>How</b>? <b>What</b>?",
+   "e": 122.12
+  },
+  {
+   "s": 122.12,
+   "t": "This little idea ex<b>plains</b> / why <b>some</b> organizations and some leaders",
+   "e": 126.34
+  },
+  {
+   "s": 126.34,
+   "t": "are able to in<b>spire</b> / where <b>oth</b>ers aren't.",
+   "e": 128.88
+  },
+  {
+   "s": 128.88,
+   "t": "Let me de<b>fine</b> the terms really quickly.",
+   "e": 130.7
+  },
+  {
+   "s": 130.7,
+   "t": "Every single <b>per</b>son, / every single organi<b>za</b>tion on the planet",
+   "e": 133.74
+  },
+  {
+   "s": 133.74,
+   "t": "knows <b>what</b> they do, / 100%.",
+   "e": 137.36
+  },
+  {
+   "s": 137.36,
+   "t": "<b>Some</b> know <b>how</b> they do it,",
+   "e": 139.34
+  },
+  {
+   "s": 139.34,
+   "t": "whether you call it your differ<b>en</b>tiating value proposition / or your pro<b>pri</b>etary process / or your <b>USP</b>.",
+   "e": 144.28
+  },
+  {
+   "s": 144.28,
+   "t": "But very, very <b>few</b> people or organizations / know <b>why</b> they do what they do.",
+   "e": 149.16
+  },
+  {
+   "s": 149.16,
+   "t": "And by “why” / I <b>don't</b> mean “to make a <b>prof</b>it.”",
+   "e": 151.3
+  },
+  {
+   "s": 151.3,
+   "t": "That's a re<b>sult</b>. / It's <b>al</b>ways a result.",
+   "e": 153.52
+  },
+  {
+   "s": 153.52,
+   "t": "By “why,” I mean: / What's your <b>pur</b>pose?",
+   "e": 155.34
+  },
+  {
+   "s": 155.34,
+   "t": "What's your <b>cause</b>? / What's your be<b>lief</b>?",
+   "e": 157.78
+  },
+  {
+   "s": 157.78,
+   "t": "Why does your organization ex<b>ist</b>?",
+   "e": 161.84
+  },
+  {
+   "s": 161.84,
+   "t": "Why do you get out of <b>bed</b> in the morning?",
+   "e": 163.98
+  },
+  {
+   "s": 163.98,
+   "t": "And why should <b>an</b>yone <b>care</b>?",
+   "e": 165.53
+  }
+ ],
+ "verified": "2026-11-01"
+}

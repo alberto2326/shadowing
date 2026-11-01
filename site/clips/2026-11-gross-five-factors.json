@@ -1,0 +1,124 @@
+{
+ "title": "Bill Gross, “The single biggest reason why start-ups succeed” (five factors)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed",
+ "segment": "01:21–02:28 (67 s)",
+ "listen_for": "Startup vocabulary: <i>execution, business model, revenues, funding, timing, competitors</i> · a list of questions: rising on each option, falling at the end · quote with a pause: <i>until they get punched in the face</i>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 1.76,
+   "t": "So I looked at these <b>five</b>."
+  },
+  {
+   "s": 1.76,
+   "e": 2.86,
+   "t": "<b>First</b>, the i<b>de</b>a."
+  },
+  {
+   "s": 2.86,
+   "e": 4.96,
+   "t": "I used to think that the idea was <b>ev</b>erything."
+  },
+  {
+   "s": 4.96,
+   "e": 9.6,
+   "t": "I named my company Idealab / for how much I <b>wor</b>ship the “<b>aha</b>!” moment / when you first come up with the idea."
+  },
+  {
+   "s": 9.6,
+   "e": 14.62,
+   "t": "But then over <b>time</b>, / I came to think that maybe the <b>team</b>, / the exe<b>cu</b>tion, / adapta<b>bil</b>ity,"
+  },
+  {
+   "s": 14.62,
+   "e": 16.4,
+   "t": "that mattered even <b>more</b> than the idea."
+  },
+  {
+   "s": 16.4,
+   "e": 21.04,
+   "t": "I never thought I'd be quoting <b>box</b>er Mike <b>Ty</b>son on the TED stage,"
+  },
+  {
+   "s": 21.04,
+   "e": 26.86,
+   "t": "but he once said, / “Everybody has a <b>plan</b>, / until they get <b>punched</b> in the face.”"
+  },
+  {
+   "s": 26.86,
+   "e": 30.12,
+   "t": "And I think that's so <b>true</b> about business as well."
+  },
+  {
+   "s": 30.12,
+   "e": 33.68,
+   "t": "So much about a team's exe<b>cu</b>tion / is its ability to a<b>dapt</b>"
+  },
+  {
+   "s": 33.68,
+   "e": 36.08,
+   "t": "to getting punched in the face by the <b>cus</b>tomer."
+  },
+  {
+   "s": 36.08,
+   "e": 37.94,
+   "t": "The customer is the true re<b>al</b>ity."
+  },
+  {
+   "s": 37.94,
+   "e": 42.5,
+   "t": "And that's <b>why</b> I came to think / that the team maybe was the most im<b>por</b>tant thing."
+  },
+  {
+   "s": 42.5,
+   "e": 44.36,
+   "t": "Then I started looking at the <b>bus</b>iness model."
+  },
+  {
+   "s": 44.36,
+   "e": 47.32,
+   "t": "Does the company have a very <b>clear</b> path / generating customer <b>rev</b>enues?"
+  },
+  {
+   "s": 47.32,
+   "e": 52.38,
+   "t": "That started rising to the <b>top</b> in my thinking / about maybe what mattered most for success."
+  },
+  {
+   "s": 52.38,
+   "e": 53.48,
+   "t": "Then I looked at the <b>fund</b>ing."
+  },
+  {
+   "s": 53.48,
+   "e": 56.02,
+   "t": "Sometimes companies received <b>in</b>tense amounts of funding."
+  },
+  {
+   "s": 56.02,
+   "e": 57.62,
+   "t": "Maybe that's the most important thing?"
+  },
+  {
+   "s": 57.62,
+   "e": 59.1,
+   "t": "And then, of course, / the <b>tim</b>ing."
+  },
+  {
+   "s": 59.1,
+   "e": 61.94,
+   "t": "Is the idea way too <b>ear</b>ly / and the world's not <b>read</b>y for it?"
+  },
+  {
+   "s": 61.94,
+   "e": 64.86,
+   "t": "Is it early, meaning you're in ad<b>vance</b> / and you have to <b>ed</b>ucate the world?"
+  },
+  {
+   "s": 64.86,
+   "e": 67.61,
+   "t": "Is it just <b>right</b>? / Or is it too <b>late</b>, / and there's already too many com<b>pet</b>itors?"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "slug": "2026-11-sinek-i-have-a-dream",
+ "video_id": "ted-simon_sinek_how_great_leaders_inspire_action",
+ "title": "Simon Sinek, “How great leaders inspire action” (I have a dream, not a plan)",
+ "url": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
+ "meta": {
+  "hablante": "Simon Sinek",
+  "charla": "How great leaders inspire action",
+  "acento": "Americano general",
+  "tema": "Liderazgo: inspirar con el porqué"
+ },
+ "lines": [
+  "It's what they be<b>lieved</b>, / and it wasn't about <b>black</b> versus <b>white</b>:",
+  "25% of the audience was <b>white</b>.",
+  "Dr. <b>King</b> believed that there were <b>two</b> types of laws in this world:",
+  "those that are made by a <b>high</b>er authority / and those that are made by <b>man</b>.",
+  "And not until <b>all</b> the laws that are made by man",
+  "are con<b>sis</b>tent with the laws that are made by the higher authority",
+  "will we live in a <b>just</b> world.",
+  "It just so happens that the Civil <b>Rights</b> Movement",
+  "was the <b>per</b>fect thing / to help him bring his <b>cause</b> to life.",
+  "We followed him <b>not</b> for him, / but for our<b>selves</b>.",
+  "And by the way, / he gave the “I have a <b>dream</b>” speech, / not the “I have a <b>plan</b>” speech.",
+  "Listen to <b>pol</b>iticians now, / with their comprehensive twelve-point <b>plans</b>.",
+  "They're not in<b>spir</b>ing anybody.",
+  "Because there are <b>lead</b>ers / and there are those who <b>lead</b>.",
+  "Leaders hold a position of <b>pow</b>er or authority,",
+  "but those who <b>lead</b> / in<b>spire</b> us.",
+  "Whether they're indi<b>vid</b>uals or organi<b>za</b>tions,",
+  "we follow those who lead, / not because we <b>have</b> to, / but because we <b>want</b> to.",
+  "We follow those who lead, / not for <b>them</b>, / but for our<b>selves</b>.",
+  "And it's those who start with “<b>why</b>”",
+  "that have the ability to inspire those a<b>round</b> them."
+ ],
+ "listen_for": "Contrast stress everywhere: <b>dream</b> vs <b>plan</b>, <b>have</b> to vs <b>want</b> to, <b>them</b> vs <b>ourselves</b> · <i>leaders</i> vs <i>those who lead</i> · slow, deliberate rhythm at the end.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «there were two types», «made by man», «laws that are made by the higher authority», «It just so happens», «We followed him» y «And by the way»; se sigue el audio. Whisper oye «to helping bring» (es «to help him bring»).",
+ "start": 984.72,
+ "end": 1060.77,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 984.42,
+   "t": "It's what they be<b>lieved</b>, / and it wasn't about <b>black</b> versus <b>white</b>:",
+   "e": 987.96
+  },
+  {
+   "s": 987.96,
+   "t": "25% of the audience was <b>white</b>.",
+   "e": 991.06
+  },
+  {
+   "s": 991.06,
+   "t": "Dr. <b>King</b> believed that there were <b>two</b> types of laws in this world:",
+   "e": 994.24
+  },
+  {
+   "s": 994.24,
+   "t": "those that are made by a <b>high</b>er authority / and those that are made by <b>man</b>.",
+   "e": 998.48
+  },
+  {
+   "s": 998.48,
+   "t": "And not until <b>all</b> the laws that are made by man",
+   "e": 1000.6
+  },
+  {
+   "s": 1000.6,
+   "t": "are con<b>sis</b>tent with the laws that are made by the higher authority",
+   "e": 1003.86
+  },
+  {
+   "s": 1003.86,
+   "t": "will we live in a <b>just</b> world.",
+   "e": 1006.14
+  },
+  {
+   "s": 1006.14,
+   "t": "It just so happens that the Civil <b>Rights</b> Movement",
+   "e": 1007.76
+  },
+  {
+   "s": 1007.76,
+   "t": "was the <b>per</b>fect thing / to help him bring his <b>cause</b> to life.",
+   "e": 1012.4
+  },
+  {
+   "s": 1012.4,
+   "t": "We followed him <b>not</b> for him, / but for our<b>selves</b>.",
+   "e": 1015.42
+  },
+  {
+   "s": 1015.42,
+   "t": "And by the way, / he gave the “I have a <b>dream</b>” speech, / not the “I have a <b>plan</b>” speech.",
+   "e": 1023.2
+  },
+  {
+   "s": 1023.2,
+   "t": "Listen to <b>pol</b>iticians now, / with their comprehensive twelve-point <b>plans</b>.",
+   "e": 1026.18
+  },
+  {
+   "s": 1026.18,
+   "t": "They're not in<b>spir</b>ing anybody.",
+   "e": 1028.42
+  },
+  {
+   "s": 1028.42,
+   "t": "Because there are <b>lead</b>ers / and there are those who <b>lead</b>.",
+   "e": 1032.34
+  },
+  {
+   "s": 1032.34,
+   "t": "Leaders hold a position of <b>pow</b>er or authority,",
+   "e": 1035.34
+  },
+  {
+   "s": 1035.34,
+   "t": "but those who <b>lead</b> / in<b>spire</b> us.",
+   "e": 1039.98
+  },
+  {
+   "s": 1039.98,
+   "t": "Whether they're indi<b>vid</b>uals or organi<b>za</b>tions,",
+   "e": 1042.12
+  },
+  {
+   "s": 1042.12,
+   "t": "we follow those who lead, / not because we <b>have</b> to, / but because we <b>want</b> to.",
+   "e": 1048.1
+  },
+  {
+   "s": 1048.1,
+   "t": "We follow those who lead, / not for <b>them</b>, / but for our<b>selves</b>.",
+   "e": 1053.94
+  },
+  {
+   "s": 1053.94,
+   "t": "And it's those who start with “<b>why</b>”",
+   "e": 1055.8
+  },
+  {
+   "s": 1055.8,
+   "t": "that have the ability to inspire those a<b>round</b> them.",
+   "e": 1060.87
+  }
+ ],
+ "verified": "2026-11-01"
+}

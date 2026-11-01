@@ -1,0 +1,202 @@
+{
+ "slug": "2026-11-urban-procrastination",
+ "video_id": "ted-tim_urban_inside_the_mind_of_a_master_procrastinator",
+ "title": "Tim Urban, “Inside the mind of a master procrastinator” (the 90-page thesis)",
+ "url": "https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator",
+ "meta": {
+  "hablante": "Tim Urban",
+  "charla": "Inside the mind of a master procrastinator",
+  "acento": "Americano general",
+  "tema": "Procrastinación y fechas límite"
+ },
+ "lines": [
+  "So in <b>col</b>lege, / I was a <b>gov</b>ernment major,",
+  "which means I had to write a <b>lot</b> of papers.",
+  "Now, when a <b>nor</b>mal student writes a paper, / they might <b>spread</b> the work out a little like this.",
+  "So, you know —",
+  "you get started maybe a little <b>slow</b>ly, / but you get e<b>nough</b> done in the first week",
+  "that, with some <b>heav</b>ier days later on, / everything gets <b>done</b>, / things stay <b>civ</b>il.",
+  "And I would <b>want</b> to do that like that. / That would be the <b>plan</b>.",
+  "I would have it all <b>read</b>y to go,",
+  "but then, actually, the paper would come a<b>long</b>, / and then I would kind of do <b>this</b>.",
+  "And that would happen <b>ev</b>ery single paper.",
+  "But then came my 90-page <b>sen</b>ior thesis, / a paper you're supposed to spend a <b>year</b> on.",
+  "And I knew for a paper like that, / my normal <b>work</b>flow was <b>not</b> an option.",
+  "It was <b>way</b> too big a project.",
+  "So I <b>planned</b> things out, / and I decided I kind of had to go something like <b>this</b>.",
+  "This is how the <b>year</b> would go.",
+  "So I'd start off <b>light</b>, / and I'd bump it up in the <b>mid</b>dle months,",
+  "and then at the <b>end</b>, / I would kick it up into <b>high</b> gear. / just like a little <b>stair</b>case.",
+  "How <b>hard</b> could it be / to just walk up the <b>stairs</b>? / No big <b>deal</b>, right?",
+  "But then, / <b>fun</b>niest thing happened.",
+  "Those first few <b>months</b>? / They came and <b>went</b>, / and I couldn't quite do <b>stuff</b>.",
+  "So we had an <b>aw</b>esome new revised plan.",
+  "But then those <b>mid</b>dle months actually went by, / and I didn't really write <b>words</b>,",
+  "and so we were <b>here</b>.",
+  "And then <b>two</b> months turned into <b>one</b> month, / turned into two <b>weeks</b>.",
+  "And one day I woke up with <b>three</b> days until the deadline, / still not having written a <b>word</b>,",
+  "and so I did the <b>on</b>ly thing I could:",
+  "I wrote 90 <b>pag</b>es over 72 <b>hours</b>, / pulling not <b>one</b> but <b>two</b> all-nighters —",
+  "humans are <b>not</b> supposed to pull two all-nighters —",
+  "<b>sprint</b>ed across campus, / dove in <b>slow</b> motion,",
+  "and got it in just at the <b>dead</b>line."
+ ],
+ "listen_for": "Comic timing: short pauses before the punchline · reduced forms: <i>kind of</i> → “kinda”, <i>going to</i> → “gonna” · stress on numbers: <b>two</b> months, <b>one</b> month, two <b>weeks</b>.",
+ "notas": "Subtítulos TED + Whisper small.en (dos pasadas). Las repeticiones al hablar («I would, I would», «then, then») solo las oye una pasada: se siguen los subtítulos. Los «(Laughter)» no se transcriben.",
+ "start": 3.8,
+ "end": 122.99,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 3.5,
+   "t": "So in <b>col</b>lege, / I was a <b>gov</b>ernment major,",
+   "e": 8.38
+  },
+  {
+   "s": 8.38,
+   "t": "which means I had to write a <b>lot</b> of papers.",
+   "e": 10.94
+  },
+  {
+   "s": 10.94,
+   "t": "Now, when a <b>nor</b>mal student writes a paper, / they might <b>spread</b> the work out a little like this.",
+   "e": 15.12
+  },
+  {
+   "s": 15.12,
+   "t": "So, you know —",
+   "e": 17.98
+  },
+  {
+   "s": 17.98,
+   "t": "you get started maybe a little <b>slow</b>ly, / but you get e<b>nough</b> done in the first week",
+   "e": 21.26
+  },
+  {
+   "s": 21.26,
+   "t": "that, with some <b>heav</b>ier days later on, / everything gets <b>done</b>, / things stay <b>civ</b>il.",
+   "e": 27.12
+  },
+  {
+   "s": 27.12,
+   "t": "And I would <b>want</b> to do that like that. / That would be the <b>plan</b>.",
+   "e": 31.0
+  },
+  {
+   "s": 31.0,
+   "t": "I would have it all <b>read</b>y to go,",
+   "e": 33.26
+  },
+  {
+   "s": 33.26,
+   "t": "but then, actually, the paper would come a<b>long</b>, / and then I would kind of do <b>this</b>.",
+   "e": 39.9
+  },
+  {
+   "s": 39.9,
+   "t": "And that would happen <b>ev</b>ery single paper.",
+   "e": 42.72
+  },
+  {
+   "s": 42.72,
+   "t": "But then came my 90-page <b>sen</b>ior thesis, / a paper you're supposed to spend a <b>year</b> on.",
+   "e": 48.62
+  },
+  {
+   "s": 48.62,
+   "t": "And I knew for a paper like that, / my normal <b>work</b>flow was <b>not</b> an option.",
+   "e": 52.86
+  },
+  {
+   "s": 52.86,
+   "t": "It was <b>way</b> too big a project.",
+   "e": 54.02
+  },
+  {
+   "s": 54.02,
+   "t": "So I <b>planned</b> things out, / and I decided I kind of had to go something like <b>this</b>.",
+   "e": 59.2
+  },
+  {
+   "s": 59.2,
+   "t": "This is how the <b>year</b> would go.",
+   "e": 60.46
+  },
+  {
+   "s": 60.46,
+   "t": "So I'd start off <b>light</b>, / and I'd bump it up in the <b>mid</b>dle months,",
+   "e": 64.84
+  },
+  {
+   "s": 64.84,
+   "t": "and then at the <b>end</b>, / I would kick it up into <b>high</b> gear. / just like a little <b>stair</b>case.",
+   "e": 69.1
+  },
+  {
+   "s": 69.1,
+   "t": "How <b>hard</b> could it be / to just walk up the <b>stairs</b>? / No big <b>deal</b>, right?",
+   "e": 74.38
+  },
+  {
+   "s": 74.38,
+   "t": "But then, / <b>fun</b>niest thing happened.",
+   "e": 76.32
+  },
+  {
+   "s": 76.32,
+   "t": "Those first few <b>months</b>? / They came and <b>went</b>, / and I couldn't quite do <b>stuff</b>.",
+   "e": 80.94
+  },
+  {
+   "s": 80.94,
+   "t": "So we had an <b>aw</b>esome new revised plan.",
+   "e": 86.74
+  },
+  {
+   "s": 86.74,
+   "t": "But then those <b>mid</b>dle months actually went by, / and I didn't really write <b>words</b>,",
+   "e": 92.48
+  },
+  {
+   "s": 92.48,
+   "t": "and so we were <b>here</b>.",
+   "e": 94.94
+  },
+  {
+   "s": 94.94,
+   "t": "And then <b>two</b> months turned into <b>one</b> month, / turned into two <b>weeks</b>.",
+   "e": 99.2
+  },
+  {
+   "s": 99.2,
+   "t": "And one day I woke up with <b>three</b> days until the deadline, / still not having written a <b>word</b>,",
+   "e": 106.94
+  },
+  {
+   "s": 106.94,
+   "t": "and so I did the <b>on</b>ly thing I could:",
+   "e": 108.74
+  },
+  {
+   "s": 108.74,
+   "t": "I wrote 90 <b>pag</b>es over 72 <b>hours</b>, / pulling not <b>one</b> but <b>two</b> all-nighters —",
+   "e": 113.32
+  },
+  {
+   "s": 113.32,
+   "t": "humans are <b>not</b> supposed to pull two all-nighters —",
+   "e": 118.06
+  },
+  {
+   "s": 118.06,
+   "t": "<b>sprint</b>ed across campus, / dove in <b>slow</b> motion,",
+   "e": 121.4
+  },
+  {
+   "s": 121.4,
+   "t": "and got it in just at the <b>dead</b>line.",
+   "e": 123.09
+  }
+ ],
+ "verified": "2026-11-01"
+}

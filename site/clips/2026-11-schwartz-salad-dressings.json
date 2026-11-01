@@ -1,0 +1,99 @@
+{
+ "title": "Barry Schwartz, “The paradox of choice” (175 salad dressings)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice",
+ "segment": "01:20–02:30 (70 s)",
+ "listen_for": "Numbers in fast speech: <i>a hundred seventy-five</i>, <i>six and a half million</i> · list intonation: <i>speakers, CD player, tape player, tuner, amplifier</i> · contrast: you <b>rented</b> your phone, you didn't <b>buy</b> it.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 6.02,
+   "t": "I'll give you some <b>ex</b>amples / of what modern <b>prog</b>ress has made possible for us."
+  },
+  {
+   "s": 6.02,
+   "e": 10.1,
+   "t": "This is my <b>su</b>permarket. / Not such a <b>big</b> one."
+  },
+  {
+   "s": 10.1,
+   "e": 13.48,
+   "t": "I want to say just a word about <b>sal</b>ad dressing."
+  },
+  {
+   "s": 13.48,
+   "e": 15.18,
+   "t": "<b>175</b> salad dressings in my supermarket,"
+  },
+  {
+   "s": 15.18,
+   "e": 21.04,
+   "t": "if you don't count the 10 extra-<b>vir</b>gin olive oils / and 12 bal<b>sam</b>ic vinegars you could buy"
+  },
+  {
+   "s": 21.04,
+   "e": 24.06,
+   "t": "to make a very <b>large</b> number of your <b>own</b> salad dressings,"
+  },
+  {
+   "s": 24.06,
+   "e": 29.02,
+   "t": "in the off-chance that <b>none</b> of the 175 the store has on offer / <b>suits</b> you."
+  },
+  {
+   "s": 29.02,
+   "e": 31.8,
+   "t": "So this is what the supermarket is <b>like</b>."
+  },
+  {
+   "s": 31.8,
+   "e": 35.4,
+   "t": "And then you go to the consumer e<b>lec</b>tronic store / to set up a <b>ster</b>eo system —"
+  },
+  {
+   "s": 35.4,
+   "e": 39.26,
+   "t": "<b>speak</b>ers, CD player, <b>tape</b> player, <b>tun</b>er, <b>amp</b>lifier —"
+  },
+  {
+   "s": 39.26,
+   "e": 47.08,
+   "t": "and in this <b>one</b> single consumer electronic store, / there are <b>that</b> many stereo systems."
+  },
+  {
+   "s": 47.08,
+   "e": 52.0,
+   "t": "We can construct six and a half <b>mil</b>lion different stereo systems"
+  },
+  {
+   "s": 52.0,
+   "e": 54.8,
+   "t": "out of the components that are on offer in <b>one</b> store."
+  },
+  {
+   "s": 54.8,
+   "e": 57.28,
+   "t": "You got to ad<b>mit</b> / that's a <b>lot</b> of choice."
+  },
+  {
+   "s": 57.28,
+   "e": 61.6,
+   "t": "In other do<b>mains</b> — / the world of communi<b>ca</b>tions."
+  },
+  {
+   "s": 61.6,
+   "e": 65.98,
+   "t": "There was a time, when I was a <b>boy</b>, / when you could get <b>an</b>y kind of telephone service you wanted,"
+  },
+  {
+   "s": 65.98,
+   "e": 68.16,
+   "t": "as long as it came from Ma <b>Bell</b>."
+  },
+  {
+   "s": 68.16,
+   "e": 70.25,
+   "t": "You <b>rent</b>ed your phone, / you didn't <b>buy</b> it."
+  }
+ ]
+}

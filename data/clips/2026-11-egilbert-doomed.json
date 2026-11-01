@@ -1,0 +1,124 @@
+{
+ "slug": "2026-11-egilbert-doomed",
+ "video_id": "ted-elizabeth_gilbert_your_elusive_creative_genius",
+ "title": "Elizabeth Gilbert, “Your elusive creative genius” (after Eat, Pray, Love)",
+ "url": "https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius",
+ "meta": {
+  "hablante": "Elizabeth Gilbert",
+  "charla": "Your elusive creative genius",
+  "acento": "Americano general (mujer)",
+  "tema": "Creatividad y miedo al fracaso"
+ },
+ "lines": [
+  "I am a <b>writ</b>er.",
+  "Writing <b>books</b> is my profession, / but it's <b>more</b> than that, of course.",
+  "It is <b>al</b>so my great lifelong <b>love</b> and fasci<b>na</b>tion.",
+  "And I don't ex<b>pect</b> that that's ever going to change.",
+  "But, that said, / something kind of pe<b>cu</b>liar has happened recently / in my <b>life</b> and in my ca<b>reer</b>,",
+  "which has caused me to have to sort of re<b>cal</b>ibrate / my <b>whole</b> relationship with this work.",
+  "And the peculiar thing is that I recently wrote this <b>book</b>,",
+  "this memoir called “Eat, Pray, <b>Love</b>,”",
+  "which, de<b>cid</b>edly unlike any of my previous books,",
+  "went out in the world for some <b>rea</b>son, / and became this big, mega-sen<b>sa</b>tion, / international <b>best</b>seller thing.",
+  "The re<b>sult</b> of which is that everywhere I go now, / people treat me like I'm <b>doomed</b>.",
+  "<b>Se</b>riously — <b>doomed</b>, doomed!",
+  "Like, they come up to me now, all <b>wor</b>ried, / and they say,",
+  "“Aren't you afraid — / aren't you a<b>fraid</b> you're never going to be able to <b>top</b> that?",
+  "Aren't you afraid you're going to keep writing for your <b>whole</b> life",
+  "and you're never <b>a</b>gain going to create a book / that <b>an</b>ybody in the world cares about at all, / ever a<b>gain</b>?”",
+  "So <b>that's</b> reassuring."
+ ],
+ "listen_for": "Ironic tone: <i>So that's reassuring</i> means the opposite · repeated questions with rising frustration: <i>Aren't you afraid…?</i> · <i>going to</i> reduced in fast speech · <i>kind of</i>, <i>sort of</i> as softeners.",
+ "notas": "Subtítulos TED + Whisper small.en (dos pasadas). El audio dice «sort of recalibrate» y repite «aren't you afraid»; se sigue el audio. «gonna» solo lo oye una pasada: se escribe «going to», como en los subtítulos.",
+ "start": 4.42,
+ "end": 72.25,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 4.12,
+   "t": "I am a <b>writ</b>er.",
+   "e": 6.1
+  },
+  {
+   "s": 6.1,
+   "t": "Writing <b>books</b> is my profession, / but it's <b>more</b> than that, of course.",
+   "e": 9.72
+  },
+  {
+   "s": 9.72,
+   "t": "It is <b>al</b>so my great lifelong <b>love</b> and fasci<b>na</b>tion.",
+   "e": 13.82
+  },
+  {
+   "s": 13.82,
+   "t": "And I don't ex<b>pect</b> that that's ever going to change.",
+   "e": 16.76
+  },
+  {
+   "s": 16.76,
+   "t": "But, that said, / something kind of pe<b>cu</b>liar has happened recently / in my <b>life</b> and in my ca<b>reer</b>,",
+   "e": 23.7
+  },
+  {
+   "s": 23.7,
+   "t": "which has caused me to have to sort of re<b>cal</b>ibrate / my <b>whole</b> relationship with this work.",
+   "e": 28.56
+  },
+  {
+   "s": 28.56,
+   "t": "And the peculiar thing is that I recently wrote this <b>book</b>,",
+   "e": 32.36
+  },
+  {
+   "s": 32.36,
+   "t": "this memoir called “Eat, Pray, <b>Love</b>,”",
+   "e": 34.2
+  },
+  {
+   "s": 34.2,
+   "t": "which, de<b>cid</b>edly unlike any of my previous books,",
+   "e": 38.48
+  },
+  {
+   "s": 38.48,
+   "t": "went out in the world for some <b>rea</b>son, / and became this big, mega-sen<b>sa</b>tion, / international <b>best</b>seller thing.",
+   "e": 45.18
+  },
+  {
+   "s": 45.18,
+   "t": "The re<b>sult</b> of which is that everywhere I go now, / people treat me like I'm <b>doomed</b>.",
+   "e": 51.14
+  },
+  {
+   "s": 51.14,
+   "t": "<b>Se</b>riously — <b>doomed</b>, doomed!",
+   "e": 53.58
+  },
+  {
+   "s": 53.58,
+   "t": "Like, they come up to me now, all <b>wor</b>ried, / and they say,",
+   "e": 55.66
+  },
+  {
+   "s": 55.66,
+   "t": "“Aren't you afraid — / aren't you a<b>fraid</b> you're never going to be able to <b>top</b> that?",
+   "e": 60.18
+  },
+  {
+   "s": 60.18,
+   "t": "Aren't you afraid you're going to keep writing for your <b>whole</b> life",
+   "e": 63.76
+  },
+  {
+   "s": 63.76,
+   "t": "and you're never <b>a</b>gain going to create a book / that <b>an</b>ybody in the world cares about at all, / ever a<b>gain</b>?”",
+   "e": 69.94
+  },
+  {
+   "s": 69.94,
+   "t": "So <b>that's</b> reassuring.",
+   "e": 72.35
+  }
+ ],
+ "verified": "2026-11-01"
+}

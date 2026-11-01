@@ -1,0 +1,104 @@
+{
+ "title": "Jason Fried, “Why work doesn't happen at work” (the office)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work",
+ "segment": "00:03–01:18 (75 s)",
+ "listen_for": "Relaxed, conversational American · fillers that natives use: <i>kind of, sort of, at least</i> · contrast: <b>good</b> work… <b>great</b> work · list rhythm: <i>buy a building, or rent a building, or lease some space</i>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 6.62,
+   "t": "So I'm going to talk about <b>work</b>; / specifically, why people <b>can't</b> seem to get work done at work,"
+  },
+  {
+   "s": 6.62,
+   "e": 9.08,
+   "t": "which is a <b>prob</b>lem we all kind of have."
+  },
+  {
+   "s": 9.08,
+   "e": 10.54,
+   "t": "Let's sort of start at the be<b>gin</b>ning."
+  },
+  {
+   "s": 10.54,
+   "e": 14.62,
+   "t": "So we have <b>com</b>panies and non<b>prof</b>its and <b>char</b>ities"
+  },
+  {
+   "s": 14.62,
+   "e": 20.16,
+   "t": "and all these groups that have em<b>ploy</b>ees or volun<b>teers</b> of some sort."
+  },
+  {
+   "s": 20.16,
+   "e": 25.44,
+   "t": "And they ex<b>pect</b> these people who work for them / to do <b>great</b> work —"
+  },
+  {
+   "s": 25.44,
+   "e": 26.88,
+   "t": "I would <b>hope</b>, at least."
+  },
+  {
+   "s": 26.88,
+   "e": 31.18,
+   "t": "At least <b>good</b> work. / Hopefully, at least it's good work — / hopefully <b>great</b> work."
+  },
+  {
+   "s": 31.18,
+   "e": 32.82,
+   "t": "And so what they <b>typ</b>ically do is they decide"
+  },
+  {
+   "s": 32.82,
+   "e": 37.02,
+   "t": "that all these people need to come together in <b>one</b> place to do that work."
+  },
+  {
+   "s": 37.02,
+   "e": 41.48,
+   "t": "So a company, or a charity, or organization of any <b>kind</b>, / they typically —"
+  },
+  {
+   "s": 41.48,
+   "e": 43.86,
+   "t": "unless you're working in <b>Af</b>rica, / if you're really <b>luck</b>y to do that —"
+  },
+  {
+   "s": 43.86,
+   "e": 46.58,
+   "t": "most people have to go to an <b>of</b>fice every day."
+  },
+  {
+   "s": 46.58,
+   "e": 49.96,
+   "t": "And so these companies, / they build <b>of</b>fices."
+  },
+  {
+   "s": 49.96,
+   "e": 55.1,
+   "t": "They go out and they <b>buy</b> a building, / or they <b>rent</b> a building, / or they <b>lease</b> some space,"
+  },
+  {
+   "s": 55.1,
+   "e": 58.04,
+   "t": "and they <b>fill</b> the space with stuff."
+  },
+  {
+   "s": 58.04,
+   "e": 67.16,
+   "t": "They fill it with <b>ta</b>bles, or <b>desks</b>, / <b>chairs</b>, computer equipment, / <b>soft</b>ware, internet access,"
+  },
+  {
+   "s": 67.16,
+   "e": 69.84,
+   "t": "maybe a <b>fridge</b>, maybe a few other things,"
+  },
+  {
+   "s": 69.84,
+   "e": 75.09,
+   "t": "and they expect their employees, or their volunteers, / to come to that lo<b>ca</b>tion every day / to do <b>great</b> work."
+  }
+ ]
+}

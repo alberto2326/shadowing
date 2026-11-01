@@ -1,0 +1,109 @@
+{
+ "title": "David Grady, “How to save the world (or at least yourself) from bad meetings” (the stolen chair)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/david_grady_how_to_save_the_world_or_at_least_yourself_from_bad_meetings",
+ "segment": "00:05–01:09 (65 s)",
+ "listen_for": "Office English you can reuse: <i>a meeting invitation pops up, no agenda, I wish I had those two hours back</i> · <i>kind of</i> → “kinda”, <i>sort of</i> → “sorta” · parallel structure: <i>Doesn't say… Doesn't give… Doesn't acknowledge…</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 3.76,
+   "t": "<b>Pic</b>ture this: / It's <b>Mon</b>day morning, / you're at the <b>of</b>fice,"
+  },
+  {
+   "s": 3.76,
+   "e": 5.46,
+   "t": "you're settling <b>in</b> for the day of work,"
+  },
+  {
+   "s": 5.46,
+   "e": 7.76,
+   "t": "and this <b>guy</b> that you sort of recognize from down the hall"
+  },
+  {
+   "s": 7.76,
+   "e": 11.88,
+   "t": "walks right into your <b>cu</b>bicle / and he <b>steals</b> your <b>chair</b>."
+  },
+  {
+   "s": 11.88,
+   "e": 14.28,
+   "t": "Doesn't say a <b>word</b>, / just <b>rolls</b> away with it."
+  },
+  {
+   "s": 14.28,
+   "e": 16.62,
+   "t": "Doesn't give you any infor<b>ma</b>tion / about <b>why</b> he took your chair"
+  },
+  {
+   "s": 16.62,
+   "e": 18.78,
+   "t": "out of all of the <b>chairs</b> that are out there."
+  },
+  {
+   "s": 18.78,
+   "e": 22.5,
+   "t": "Doesn't ac<b>knowl</b>edge the fact / that you might <b>need</b> your chair / to get some work done today."
+  },
+  {
+   "s": 22.5,
+   "e": 24.94,
+   "t": "You <b>would</b>n't stand for it. / You'd make a <b>stink</b>."
+  },
+  {
+   "s": 24.94,
+   "e": 30.2,
+   "t": "You'd <b>fol</b>low that guy back to his cubicle / and you'd say, “<b>Why</b> my chair?”"
+  },
+  {
+   "s": 30.2,
+   "e": 33.08,
+   "t": "Okay, so now it's <b>Tues</b>day morning, / and you're at the office,"
+  },
+  {
+   "s": 33.08,
+   "e": 38.8,
+   "t": "and a meeting invi<b>ta</b>tion pops up in your <b>cal</b>endar."
+  },
+  {
+   "s": 38.8,
+   "e": 41.5,
+   "t": "And it's from this <b>wom</b>an who you kind of know from down the hall,"
+  },
+  {
+   "s": 41.5,
+   "e": 45.1,
+   "t": "and the subject line references some <b>pro</b>ject / you heard a little bit about."
+  },
+  {
+   "s": 45.1,
+   "e": 47.34,
+   "t": "But there's <b>no</b> agenda."
+  },
+  {
+   "s": 47.34,
+   "e": 49.58,
+   "t": "There's no information about <b>why</b> you were invited to the meeting."
+  },
+  {
+   "s": 49.58,
+   "e": 54.68,
+   "t": "And <b>yet</b> you accept the meeting invitation, / and you <b>go</b>."
+  },
+  {
+   "s": 54.68,
+   "e": 59.36,
+   "t": "And when this highly unpro<b>duc</b>tive session is over, / you go back to your <b>desk</b>,"
+  },
+  {
+   "s": 59.36,
+   "e": 63.5,
+   "t": "and you stand at your desk and you say, / “<b>Boy</b>, I wish I had those <b>two</b> hours back,"
+  },
+  {
+   "s": 63.5,
+   "e": 65.05,
+   "t": "like I wish I had my <b>chair</b> back.”"
+  }
+ ]
+}

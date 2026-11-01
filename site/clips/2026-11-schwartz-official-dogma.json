@@ -1,0 +1,94 @@
+{
+ "title": "Barry Schwartz, “The paradox of choice” (the official dogma)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice",
+ "segment": "00:14–01:20 (66 s)",
+ "listen_for": "Academic but clear: long sentences broken into short sense groups · parallel structure: <i>the more choice…, the more freedom…, the more welfare…</i> · rising question <i>The official dogma of what?</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 4.5,
+   "t": "But I want to <b>start</b> / with what I call the “<b>of</b>ficial <b>dog</b>ma.”"
+  },
+  {
+   "s": 4.5,
+   "e": 6.08,
+   "t": "The official dogma of <b>what</b>?"
+  },
+  {
+   "s": 6.08,
+   "e": 9.42,
+   "t": "The official dogma of <b>all</b> Western <b>in</b>dustrial societies."
+  },
+  {
+   "s": 9.42,
+   "e": 11.72,
+   "t": "And the official dogma runs like <b>this</b>:"
+  },
+  {
+   "s": 11.72,
+   "e": 16.4,
+   "t": "if we are interested in <b>max</b>imizing the <b>wel</b>fare of our citizens,"
+  },
+  {
+   "s": 16.4,
+   "e": 22.54,
+   "t": "the way to do that / is to maximize indi<b>vid</b>ual <b>free</b>dom."
+  },
+  {
+   "s": 22.54,
+   "e": 26.78,
+   "t": "The <b>rea</b>son for this is both that freedom is, / in and of it<b>self</b>, <b>good</b>,"
+  },
+  {
+   "s": 26.78,
+   "e": 29.98,
+   "t": "<b>val</b>uable, <b>worth</b>while, / es<b>sen</b>tial to being <b>hu</b>man,"
+  },
+  {
+   "s": 29.98,
+   "e": 32.76,
+   "t": "and because if people have <b>free</b>dom,"
+  },
+  {
+   "s": 32.76,
+   "e": 37.04,
+   "t": "then <b>each</b> of us can act on our <b>own</b> / to do the things that will maximize our welfare,"
+  },
+  {
+   "s": 37.04,
+   "e": 39.84,
+   "t": "and <b>no</b> one has to decide on our be<b>half</b>."
+  },
+  {
+   "s": 39.84,
+   "e": 45.16,
+   "t": "The way to maximize <b>free</b>dom / is to maximize <b>choice</b>."
+  },
+  {
+   "s": 45.16,
+   "e": 49.18,
+   "t": "The more <b>choice</b> people have, / the more <b>free</b>dom they have,"
+  },
+  {
+   "s": 49.18,
+   "e": 53.62,
+   "t": "and the more freedom they have, / the more <b>wel</b>fare they have."
+  },
+  {
+   "s": 53.62,
+   "e": 58.98,
+   "t": "This, I think, is so <b>deep</b>ly embedded in the <b>wa</b>ter supply"
+  },
+  {
+   "s": 58.98,
+   "e": 63.0,
+   "t": "that it wouldn't oc<b>cur</b> to anyone / to <b>ques</b>tion it."
+  },
+  {
+   "s": 63.0,
+   "e": 66.79,
+   "t": "And it's <b>al</b>so deeply embedded in our <b>lives</b>."
+  }
+ ]
+}

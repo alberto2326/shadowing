@@ -1,0 +1,100 @@
+{
+ "slug": "2026-11-grant-precrastinator",
+ "video_id": "ted-adam_grant_the_surprising_habits_of_original_thinkers",
+ "title": "Adam Grant, “The surprising habits of original thinkers” (I'm a precrastinator)",
+ "url": "https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers",
+ "meta": {
+  "hablante": "Adam Grant",
+  "charla": "The surprising habits of original thinkers",
+  "acento": "Americano general",
+  "tema": "Productividad: el «precrastinador»"
+ },
+ "lines": [
+  "Now, you are <b>all</b> intimately familiar / with the mind of a procrasti<b>na</b>tor.",
+  "Well, I have a con<b>fes</b>sion for you. / I'm the <b>op</b>posite.",
+  "I'm a <b>pre</b>crastinator.",
+  "Yes, that's an <b>ac</b>tual term.",
+  "You know that <b>pan</b>ic you feel a few hours before a big <b>dead</b>line / when you haven't done <b>an</b>ything yet?",
+  "I just feel that a few <b>months</b> ahead of time.",
+  "So this started <b>ear</b>ly: / when I was a kid, / I took <b>Nin</b>tendo games very <b>se</b>riously.",
+  "I would wake up at <b>5am</b>, / start playing and not <b>stop</b> until I had <b>mas</b>tered them.",
+  "Eventually it got so out of <b>hand</b> / that a local <b>news</b>paper came",
+  "and did a story on the <b>dark</b> side of Nintendo, / <b>star</b>ring <b>me</b>.",
+  "Since then, / I've traded <b>hair</b> for <b>teeth</b>.",
+  "But this served me <b>well</b> in college,",
+  "because I finished my senior thesis / <b>four</b> months be<b>fore</b> the deadline."
+ ],
+ "listen_for": "Self-deprecating humor with pauses for the laugh · word play: <b>pre</b>crastinator vs <b>pro</b>crastinator · contractions: <i>I've traded</i>, <i>haven't done</i>.",
+ "notas": "Subtítulos TED + Whisper small.en. Whisper oye «I'm a procrastinator» (es «precrastinator», el juego de palabras de la charla) y «I've traded» (subtítulos: «I have traded»); se sigue el audio en lo segundo.",
+ "start": 101.0,
+ "end": 168.07,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 100.7,
+   "t": "Now, you are <b>all</b> intimately familiar / with the mind of a procrasti<b>na</b>tor.",
+   "e": 106.04
+  },
+  {
+   "s": 106.04,
+   "t": "Well, I have a con<b>fes</b>sion for you. / I'm the <b>op</b>posite.",
+   "e": 108.54
+  },
+  {
+   "s": 108.54,
+   "t": "I'm a <b>pre</b>crastinator.",
+   "e": 111.48
+  },
+  {
+   "s": 111.48,
+   "t": "Yes, that's an <b>ac</b>tual term.",
+   "e": 113.04
+  },
+  {
+   "s": 113.04,
+   "t": "You know that <b>pan</b>ic you feel a few hours before a big <b>dead</b>line / when you haven't done <b>an</b>ything yet?",
+   "e": 118.06
+  },
+  {
+   "s": 118.06,
+   "t": "I just feel that a few <b>months</b> ahead of time.",
+   "e": 123.26
+  },
+  {
+   "s": 123.26,
+   "t": "So this started <b>ear</b>ly: / when I was a kid, / I took <b>Nin</b>tendo games very <b>se</b>riously.",
+   "e": 129.9
+  },
+  {
+   "s": 129.9,
+   "t": "I would wake up at <b>5am</b>, / start playing and not <b>stop</b> until I had <b>mas</b>tered them.",
+   "e": 135.78
+  },
+  {
+   "s": 135.78,
+   "t": "Eventually it got so out of <b>hand</b> / that a local <b>news</b>paper came",
+   "e": 139.08
+  },
+  {
+   "s": 139.08,
+   "t": "and did a story on the <b>dark</b> side of Nintendo, / <b>star</b>ring <b>me</b>.",
+   "e": 153.04
+  },
+  {
+   "s": 153.04,
+   "t": "Since then, / I've traded <b>hair</b> for <b>teeth</b>.",
+   "e": 159.86
+  },
+  {
+   "s": 159.86,
+   "t": "But this served me <b>well</b> in college,",
+   "e": 162.82
+  },
+  {
+   "s": 162.82,
+   "t": "because I finished my senior thesis / <b>four</b> months be<b>fore</b> the deadline.",
+   "e": 168.17
+  }
+ ],
+ "verified": "2026-11-01"
+}

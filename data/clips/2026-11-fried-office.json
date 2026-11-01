@@ -1,0 +1,136 @@
+{
+ "slug": "2026-11-fried-office",
+ "video_id": "ted-jason_fried_why_work_doesn_t_happen_at_work",
+ "title": "Jason Fried, “Why work doesn't happen at work” (the office)",
+ "url": "https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work",
+ "meta": {
+  "hablante": "Jason Fried",
+  "charla": "Why work doesn't happen at work",
+  "acento": "Americano general",
+  "tema": "Trabajo: por qué la oficina no funciona"
+ },
+ "lines": [
+  "So I'm going to talk about <b>work</b>; / specifically, why people <b>can't</b> seem to get work done at work,",
+  "which is a <b>prob</b>lem we all kind of have.",
+  "Let's sort of start at the be<b>gin</b>ning.",
+  "So we have <b>com</b>panies and non<b>prof</b>its and <b>char</b>ities",
+  "and all these groups that have em<b>ploy</b>ees or volun<b>teers</b> of some sort.",
+  "And they ex<b>pect</b> these people who work for them / to do <b>great</b> work —",
+  "I would <b>hope</b>, at least.",
+  "At least <b>good</b> work. / Hopefully, at least it's good work — / hopefully <b>great</b> work.",
+  "And so what they <b>typ</b>ically do is they decide",
+  "that all these people need to come together in <b>one</b> place to do that work.",
+  "So a company, or a charity, or organization of any <b>kind</b>, / they typically —",
+  "unless you're working in <b>Af</b>rica, / if you're really <b>luck</b>y to do that —",
+  "most people have to go to an <b>of</b>fice every day.",
+  "And so these companies, / they build <b>of</b>fices.",
+  "They go out and they <b>buy</b> a building, / or they <b>rent</b> a building, / or they <b>lease</b> some space,",
+  "and they <b>fill</b> the space with stuff.",
+  "They fill it with <b>ta</b>bles, or <b>desks</b>, / <b>chairs</b>, computer equipment, / <b>soft</b>ware, internet access,",
+  "maybe a <b>fridge</b>, maybe a few other things,",
+  "and they expect their employees, or their volunteers, / to come to that lo<b>ca</b>tion every day / to do <b>great</b> work."
+ ],
+ "listen_for": "Relaxed, conversational American · fillers that natives use: <i>kind of, sort of, at least</i> · contrast: <b>good</b> work… <b>great</b> work · list rhythm: <i>buy a building, or rent a building, or lease some space</i>.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «Let's sort of start» (sin «But»), «they typically —» y «fill the space»; se sigue el audio. Whisper oye «Let's hopefully» (es «Hopefully»).",
+ "start": 3.7,
+ "end": 78.29,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 3.4,
+   "t": "So I'm going to talk about <b>work</b>; / specifically, why people <b>can't</b> seem to get work done at work,",
+   "e": 9.92
+  },
+  {
+   "s": 9.92,
+   "t": "which is a <b>prob</b>lem we all kind of have.",
+   "e": 12.38
+  },
+  {
+   "s": 12.38,
+   "t": "Let's sort of start at the be<b>gin</b>ning.",
+   "e": 13.84
+  },
+  {
+   "s": 13.84,
+   "t": "So we have <b>com</b>panies and non<b>prof</b>its and <b>char</b>ities",
+   "e": 17.92
+  },
+  {
+   "s": 17.92,
+   "t": "and all these groups that have em<b>ploy</b>ees or volun<b>teers</b> of some sort.",
+   "e": 23.46
+  },
+  {
+   "s": 23.46,
+   "t": "And they ex<b>pect</b> these people who work for them / to do <b>great</b> work —",
+   "e": 28.74
+  },
+  {
+   "s": 28.74,
+   "t": "I would <b>hope</b>, at least.",
+   "e": 30.18
+  },
+  {
+   "s": 30.18,
+   "t": "At least <b>good</b> work. / Hopefully, at least it's good work — / hopefully <b>great</b> work.",
+   "e": 34.48
+  },
+  {
+   "s": 34.48,
+   "t": "And so what they <b>typ</b>ically do is they decide",
+   "e": 36.12
+  },
+  {
+   "s": 36.12,
+   "t": "that all these people need to come together in <b>one</b> place to do that work.",
+   "e": 40.32
+  },
+  {
+   "s": 40.32,
+   "t": "So a company, or a charity, or organization of any <b>kind</b>, / they typically —",
+   "e": 44.78
+  },
+  {
+   "s": 44.78,
+   "t": "unless you're working in <b>Af</b>rica, / if you're really <b>luck</b>y to do that —",
+   "e": 47.16
+  },
+  {
+   "s": 47.16,
+   "t": "most people have to go to an <b>of</b>fice every day.",
+   "e": 49.88
+  },
+  {
+   "s": 49.88,
+   "t": "And so these companies, / they build <b>of</b>fices.",
+   "e": 53.26
+  },
+  {
+   "s": 53.26,
+   "t": "They go out and they <b>buy</b> a building, / or they <b>rent</b> a building, / or they <b>lease</b> some space,",
+   "e": 58.4
+  },
+  {
+   "s": 58.4,
+   "t": "and they <b>fill</b> the space with stuff.",
+   "e": 61.34
+  },
+  {
+   "s": 61.34,
+   "t": "They fill it with <b>ta</b>bles, or <b>desks</b>, / <b>chairs</b>, computer equipment, / <b>soft</b>ware, internet access,",
+   "e": 70.46
+  },
+  {
+   "s": 70.46,
+   "t": "maybe a <b>fridge</b>, maybe a few other things,",
+   "e": 73.14
+  },
+  {
+   "s": 73.14,
+   "t": "and they expect their employees, or their volunteers, / to come to that lo<b>ca</b>tion every day / to do <b>great</b> work.",
+   "e": 78.39
+  }
+ ],
+ "verified": "2026-11-01"
+}

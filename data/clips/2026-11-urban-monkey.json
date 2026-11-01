@@ -1,0 +1,142 @@
+{
+ "slug": "2026-11-urban-monkey",
+ "video_id": "ted-tim_urban_inside_the_mind_of_a_master_procrastinator",
+ "title": "Tim Urban, “Inside the mind of a master procrastinator” (the Instant Gratification Monkey)",
+ "url": "https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator",
+ "meta": {
+  "hablante": "Tim Urban",
+  "charla": "Inside the mind of a master procrastinator",
+  "acento": "Americano general",
+  "tema": "Procrastinación: el mono de la gratificación"
+ },
+ "lines": [
+  "Both brains have a Rational De<b>ci</b>sion-Maker in them,",
+  "but the procrasti<b>na</b>tor's brain / <b>al</b>so has an Instant Gratifi<b>ca</b>tion <b>Mon</b>key.",
+  "Now, what does this <b>mean</b> for the procrastinator?",
+  "Well, it means everything's <b>fine</b> / until <b>this</b> happens.",
+  "So the Rational Decision-Maker will make the <b>ra</b>tional decision / to do something pro<b>duc</b>tive,",
+  "but the Monkey <b>does</b>n't like that plan, / so he actually takes the <b>wheel</b>,",
+  "and he says, / “<b>Ac</b>tually, let's read the entire <b>Wik</b>ipedia page",
+  "of the Nancy <b>Ker</b>rigan / Tonya <b>Hard</b>ing scandal,",
+  "because I just re<b>mem</b>ber that that happened.",
+  "Then we're going to go over to the <b>fridge</b>, / we're going to see if there's anything <b>new</b> in there / since 10 minutes ago.",
+  "After that, we're going to go on a <b>You</b>Tube spiral",
+  "that starts with videos of Richard <b>Feyn</b>man talking about <b>mag</b>nets",
+  "and ends much, <b>much</b> later / with us watching interviews with Justin <b>Bie</b>ber's <b>mom</b>.",
+  "All of that's going to take a <b>while</b>, / so we're not going to really have room on the schedule / for any work to<b>day</b>.",
+  "<b>Sor</b>ry!”",
+  "Now, what is going on <b>here</b>?",
+  "The Instant Gratification Monkey does not seem like a guy / you want behind the <b>wheel</b>.",
+  "He lives en<b>tire</b>ly in the present moment.",
+  "He has no <b>mem</b>ory of the past, / no <b>knowl</b>edge of the future,",
+  "and he only cares about <b>two</b> things: / <b>eas</b>y and <b>fun</b>."
+ ],
+ "listen_for": "Fast, funny American: <i>gonna</i> everywhere · the voice changes when the Monkey speaks · linking in <i>takes_the wheel</i>, <i>much, much later</i>.",
+ "notas": "Subtítulos TED + Whisper small.en (dos pasadas). Se escribe «going to» (subtítulos y segunda pasada) y «I just remember» (las dos pasadas de Whisper). Whisper repite «then then» y «Richard Richard» y oye «Instagram gratification monkey» y «Tanya»: falsos positivos.",
+ "start": 229.74,
+ "end": 307.05,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 229.44,
+   "t": "Both brains have a Rational De<b>ci</b>sion-Maker in them,",
+   "e": 231.78
+  },
+  {
+   "s": 231.78,
+   "t": "but the procrasti<b>na</b>tor's brain / <b>al</b>so has an Instant Gratifi<b>ca</b>tion <b>Mon</b>key.",
+   "e": 236.58
+  },
+  {
+   "s": 236.58,
+   "t": "Now, what does this <b>mean</b> for the procrastinator?",
+   "e": 238.24
+  },
+  {
+   "s": 238.24,
+   "t": "Well, it means everything's <b>fine</b> / until <b>this</b> happens.",
+   "e": 243.32
+  },
+  {
+   "s": 243.32,
+   "t": "So the Rational Decision-Maker will make the <b>ra</b>tional decision / to do something pro<b>duc</b>tive,",
+   "e": 248.5
+  },
+  {
+   "s": 248.5,
+   "t": "but the Monkey <b>does</b>n't like that plan, / so he actually takes the <b>wheel</b>,",
+   "e": 251.9
+  },
+  {
+   "s": 251.9,
+   "t": "and he says, / “<b>Ac</b>tually, let's read the entire <b>Wik</b>ipedia page",
+   "e": 255.28
+  },
+  {
+   "s": 255.28,
+   "t": "of the Nancy <b>Ker</b>rigan / Tonya <b>Hard</b>ing scandal,",
+   "e": 257.18
+  },
+  {
+   "s": 257.18,
+   "t": "because I just re<b>mem</b>ber that that happened.",
+   "e": 258.78
+  },
+  {
+   "s": 258.78,
+   "t": "Then we're going to go over to the <b>fridge</b>, / we're going to see if there's anything <b>new</b> in there / since 10 minutes ago.",
+   "e": 266.36
+  },
+  {
+   "s": 266.36,
+   "t": "After that, we're going to go on a <b>You</b>Tube spiral",
+   "e": 270.56
+  },
+  {
+   "s": 270.56,
+   "t": "that starts with videos of Richard <b>Feyn</b>man talking about <b>mag</b>nets",
+   "e": 274.0
+  },
+  {
+   "s": 274.0,
+   "t": "and ends much, <b>much</b> later / with us watching interviews with Justin <b>Bie</b>ber's <b>mom</b>.",
+   "e": 280.48
+  },
+  {
+   "s": 280.48,
+   "t": "All of that's going to take a <b>while</b>, / so we're not going to really have room on the schedule / for any work to<b>day</b>.",
+   "e": 285.4
+  },
+  {
+   "s": 285.4,
+   "t": "<b>Sor</b>ry!”",
+   "e": 289.7
+  },
+  {
+   "s": 289.7,
+   "t": "Now, what is going on <b>here</b>?",
+   "e": 294.9
+  },
+  {
+   "s": 294.9,
+   "t": "The Instant Gratification Monkey does not seem like a guy / you want behind the <b>wheel</b>.",
+   "e": 298.78
+  },
+  {
+   "s": 298.78,
+   "t": "He lives en<b>tire</b>ly in the present moment.",
+   "e": 300.48
+  },
+  {
+   "s": 300.48,
+   "t": "He has no <b>mem</b>ory of the past, / no <b>knowl</b>edge of the future,",
+   "e": 303.9
+  },
+  {
+   "s": 303.9,
+   "t": "and he only cares about <b>two</b> things: / <b>eas</b>y and <b>fun</b>.",
+   "e": 307.15
+  }
+ ],
+ "verified": "2026-11-01"
+}

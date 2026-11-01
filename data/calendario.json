@@ -1,0 +1,275 @@
+{
+ "_nota": "Un clip por día. Lo edita `tools/shadow.py add`; `tools/shadow.py site` lo vuelca en site/index.html.",
+ "clips": [
+  {
+   "fecha": "2026-11-01",
+   "slug": "2026-11-01-cain-introverts-camp",
+   "hablante": "Susan Cain",
+   "charla": "The power of introverts",
+   "acento": "Americano general (mujer)",
+   "tema": "Introvertidos y presión social",
+   "duracion": 90
+  },
+  {
+   "fecha": "2026-11-02",
+   "slug": "2026-11-01-godin-sliced-bread",
+   "hablante": "Seth Godin",
+   "charla": "How to get your ideas to spread",
+   "acento": "Americano general",
+   "tema": "Marketing: difundir ideas (pan de molde)",
+   "duracion": 77
+  },
+  {
+   "fecha": "2026-11-03",
+   "slug": "2026-11-01-pink-candle-incentives",
+   "hablante": "Dan Pink",
+   "charla": "The puzzle of motivation",
+   "acento": "Americano general",
+   "tema": "Negocio: incentivos y creatividad",
+   "duracion": 93
+  },
+  {
+   "fecha": "2026-11-04",
+   "slug": "2026-11-01-headlee-conversation",
+   "hablante": "Celeste Headlee",
+   "charla": "10 ways to have a better conversation",
+   "acento": "Americano general (mujer)",
+   "tema": "Comunicación: escuchar y conversar",
+   "duracion": 82
+  },
+  {
+   "fecha": "2026-11-05",
+   "slug": "2026-11-01-cutts-30-days",
+   "hablante": "Matt Cutts",
+   "charla": "Try something new for 30 days",
+   "acento": "Americano general",
+   "tema": "Hábitos: retos de 30 días",
+   "duracion": 83
+  },
+  {
+   "fecha": "2026-11-06",
+   "slug": "2026-11-grant-warby-parker",
+   "hablante": "Adam Grant",
+   "charla": "The surprising habits of original thinkers",
+   "acento": "Americano general",
+   "tema": "Negocio: startups y originalidad",
+   "duracion": 75
+  },
+  {
+   "fecha": "2026-11-07",
+   "slug": "2026-11-duckworth-teaching",
+   "hablante": "Angela Lee Duckworth",
+   "charla": "Grit: the power of passion and perseverance",
+   "acento": "Americano general (mujer)",
+   "tema": "Educación y talento: más allá del IQ",
+   "duracion": 95
+  },
+  {
+   "fecha": "2026-11-08",
+   "slug": "2026-11-grady-stolen-chair",
+   "hablante": "David Grady",
+   "charla": "How to save the world (or at least yourself) from bad meetings",
+   "acento": "Americano general",
+   "tema": "Trabajo: reuniones que te roban tiempo",
+   "duracion": 65
+  },
+  {
+   "fecha": "2026-11-09",
+   "slug": "2026-11-sinek-golden-circle",
+   "hablante": "Simon Sinek",
+   "charla": "How great leaders inspire action",
+   "acento": "Americano general",
+   "tema": "Marketing: el «golden circle» (why, how, what)",
+   "duracion": 80
+  },
+  {
+   "fecha": "2026-11-10",
+   "slug": "2026-11-cuddy-posture-hack",
+   "hablante": "Amy Cuddy",
+   "charla": "Your body language may shape who you are",
+   "acento": "Americano general (mujer)",
+   "tema": "Lenguaje corporal y confianza",
+   "duracion": 71
+  },
+  {
+   "fecha": "2026-11-11",
+   "slug": "2026-11-schwartz-official-dogma",
+   "hablante": "Barry Schwartz",
+   "charla": "The paradox of choice",
+   "acento": "Americano general",
+   "tema": "Elección y libertad: el dogma oficial",
+   "duracion": 66
+  },
+  {
+   "fecha": "2026-11-12",
+   "slug": "2026-11-urban-procrastination",
+   "hablante": "Tim Urban",
+   "charla": "Inside the mind of a master procrastinator",
+   "acento": "Americano general",
+   "tema": "Procrastinación y fechas límite",
+   "duracion": 119
+  },
+  {
+   "fecha": "2026-11-13",
+   "slug": "2026-11-gross-startups",
+   "hablante": "Bill Gross",
+   "charla": "The single biggest reason why start-ups succeed",
+   "acento": "Americano general",
+   "tema": "Negocio: por qué triunfan las startups",
+   "duracion": 60
+  },
+  {
+   "fecha": "2026-11-14",
+   "slug": "2026-11-mcgonigal-stress-confession",
+   "hablante": "Kelly McGonigal",
+   "charla": "How to make stress your friend",
+   "acento": "Americano general (mujer)",
+   "tema": "Estrés: cambiar de opinión",
+   "duracion": 73
+  },
+  {
+   "fecha": "2026-11-15",
+   "slug": "2026-11-fried-office",
+   "hablante": "Jason Fried",
+   "charla": "Why work doesn't happen at work",
+   "acento": "Americano general",
+   "tema": "Trabajo: por qué la oficina no funciona",
+   "duracion": 75
+  },
+  {
+   "fecha": "2026-11-16",
+   "slug": "2026-11-gates-next-outbreak",
+   "hablante": "Bill Gates",
+   "charla": "The next outbreak? We're not ready",
+   "acento": "Americano general",
+   "tema": "Riesgos globales: epidemias",
+   "duracion": 70
+  },
+  {
+   "fecha": "2026-11-17",
+   "slug": "2026-11-egilbert-doomed",
+   "hablante": "Elizabeth Gilbert",
+   "charla": "Your elusive creative genius",
+   "acento": "Americano general (mujer)",
+   "tema": "Creatividad y miedo al fracaso",
+   "duracion": 68
+  },
+  {
+   "fecha": "2026-11-18",
+   "slug": "2026-11-schwartz-salad-dressings",
+   "hablante": "Barry Schwartz",
+   "charla": "The paradox of choice",
+   "acento": "Americano general",
+   "tema": "Marketing: exceso de opciones",
+   "duracion": 70
+  },
+  {
+   "fecha": "2026-11-19",
+   "slug": "2026-11-dgilbert-synthetic-happiness",
+   "hablante": "Dan Gilbert",
+   "charla": "The surprising science of happiness",
+   "acento": "Americano general",
+   "tema": "Psicología: la felicidad se fabrica",
+   "duracion": 98
+  },
+  {
+   "fecha": "2026-11-20",
+   "slug": "2026-11-grady-mindless-accept",
+   "hablante": "David Grady",
+   "charla": "How to save the world (or at least yourself) from bad meetings",
+   "acento": "Americano general",
+   "tema": "Trabajo: el síndrome de aceptar reuniones",
+   "duracion": 71
+  },
+  {
+   "fecha": "2026-11-21",
+   "slug": "2026-11-duckworth-grit",
+   "hablante": "Angela Lee Duckworth",
+   "charla": "Grit: the power of passion and perseverance",
+   "acento": "Americano general (mujer)",
+   "tema": "Qué predice el éxito: el grit",
+   "duracion": 99
+  },
+  {
+   "fecha": "2026-11-22",
+   "slug": "2026-11-grant-precrastinator",
+   "hablante": "Adam Grant",
+   "charla": "The surprising habits of original thinkers",
+   "acento": "Americano general",
+   "tema": "Productividad: el «precrastinador»",
+   "duracion": 67
+  },
+  {
+   "fecha": "2026-11-23",
+   "slug": "2026-11-urban-monkey",
+   "hablante": "Tim Urban",
+   "charla": "Inside the mind of a master procrastinator",
+   "acento": "Americano general",
+   "tema": "Procrastinación: el mono de la gratificación",
+   "duracion": 77
+  },
+  {
+   "fecha": "2026-11-24",
+   "slug": "2026-11-cuddy-fake-it",
+   "hablante": "Amy Cuddy",
+   "charla": "Your body language may shape who you are",
+   "acento": "Americano general (mujer)",
+   "tema": "Síndrome del impostor",
+   "duracion": 67
+  },
+  {
+   "fecha": "2026-11-25",
+   "slug": "2026-11-gross-five-factors",
+   "hablante": "Bill Gross",
+   "charla": "The single biggest reason why start-ups succeed",
+   "acento": "Americano general",
+   "tema": "Negocio: idea, equipo, modelo, financiación y timing",
+   "duracion": 67
+  },
+  {
+   "fecha": "2026-11-26",
+   "slug": "2026-11-sinek-i-have-a-dream",
+   "hablante": "Simon Sinek",
+   "charla": "How great leaders inspire action",
+   "acento": "Americano general",
+   "tema": "Liderazgo: inspirar con el porqué",
+   "duracion": 76
+  },
+  {
+   "fecha": "2026-11-27",
+   "slug": "2026-11-fried-work-moments",
+   "hablante": "Jason Fried",
+   "charla": "Why work doesn't happen at work",
+   "acento": "Americano general",
+   "tema": "Trabajo: dónde rinde la gente de verdad",
+   "duracion": 79
+  },
+  {
+   "fecha": "2026-11-28",
+   "slug": "2026-11-mcgonigal-stress-study",
+   "hablante": "Kelly McGonigal",
+   "charla": "How to make stress your friend",
+   "acento": "Americano general (mujer)",
+   "tema": "Estrés: lo que dicen los datos",
+   "duracion": 89
+  },
+  {
+   "fecha": "2026-11-29",
+   "slug": "2026-11-cutts-novel",
+   "hablante": "Matt Cutts",
+   "charla": "Try something new for 30 days",
+   "acento": "Americano general",
+   "tema": "Hábitos: cambios pequeños que duran",
+   "duracion": 97
+  },
+  {
+   "fecha": "2026-11-30",
+   "slug": "2026-11-gates-ebola",
+   "hablante": "Bill Gates",
+   "charla": "The next outbreak? We're not ready",
+   "acento": "Americano general",
+   "tema": "Sistemas: lo que falló con el ébola",
+   "duracion": 63
+  }
+ ]
+}

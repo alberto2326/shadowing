@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Shadowing</title>
+<style>
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;max-width:860px;margin:0 auto;padding:24px;background:#fafaf7;color:#222}
+h1{font-size:1.6rem;margin:0 0 4px}
+.src{color:#666;margin-bottom:16px}.src a{color:#2a6}
+.bar{position:sticky;top:0;background:#fafaf7;padding:12px 0;z-index:2;border-bottom:1px solid #ddd}
+audio{width:100%}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;align-items:center}
+button{font-size:1rem;padding:8px 14px;border-radius:10px;border:1px solid #bbb;background:#fff;cursor:pointer;color:#222}
+button.on{background:#2a6;color:#fff;border-color:#2a6}
+.line{font-size:1.7rem;line-height:1.4;padding:10px 14px;margin:6px 0;border-radius:12px;cursor:pointer;transition:background .15s,color .15s;color:#888}
+.line.past{color:#555}.line.cur{background:#fff3b0;color:#111;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+.line b{color:inherit;text-decoration:underline;text-decoration-thickness:3px;text-decoration-color:#e8a}
+body.hide .line{color:transparent;text-shadow:0 0 14px rgba(0,0,0,.35)}body.hide .line b{text-decoration-color:transparent}
+.tips{margin-top:24px;font-size:1.05rem;background:#fff;padding:14px 18px;border-radius:12px;border:1px solid #e5e5e5}
+#err{display:none;color:#b33;margin:8px 0}
+</style></head><body>
+<h1 id="title">Shadowing</h1>
+<div class="src"><span id="meta"></span> · <a id="orig" target="_blank" rel="noopener">original</a> · <a href="./">all clips</a></div>
+<div class="bar">
+<audio id="a" controls preload="auto"></audio>
+<div class="ctl">
+<span>Speed:</span>
+<button data-r="0.75">0.75x</button><button data-r="0.9">0.9x</button><button data-r="1" class="on">1x</button>
+<button id="pause">Pause after each phrase: off</button>
+<button id="rep">↺ Repeat phrase</button>
+<button id="hide">Hide text</button>
+</div></div>
+<div id="err"></div>
+<div id="lines"></div>
+<div class="tips"><b>Steps:</b> 1) listen without reading · 2) listen and read · 3) murmur along · 4) “Pause after each phrase” on, repeat each one · 5) whole clip with text · 6) whole clip with “Hide text”.<br><br>
+<b>Listen for:</b> <span id="listen"></span><br>
+Underlined syllables carry the stress; “/” marks a short pause. Tap any line to jump to it.</div>
+<script>
+// Un único reproductor para todos los clips: player.html?c=<slug> carga clips/<slug>.json y clips/<slug>.mp3
+const $ = id => document.getElementById(id);
+const a = $('a'), L = $('lines');
+const slug = (new URLSearchParams(location.search).get('c') || '').replace(/[^\w-]/g, '');
+const fail = msg => { $('err').textContent = msg; $('err').style.display = 'block'; };
+a.addEventListener('error', () => fail('The audio could not be loaded. Check your connection and reload.'));
+let cues = [], cur = -1, pauseMode = false, stopAt = null;
+function idx(t) { for (let i = cues.length - 1; i >= 0; i--) if (t >= cues[i].s - 0.05) return i; return -1; }
+function tick() {
+  const t = a.currentTime, i = idx(t);
+  if (stopAt !== null && t >= stopAt) { a.pause(); stopAt = null; }
+  if (i !== cur) {
+    if (pauseMode && cur >= 0 && i === cur + 1 && !a.paused) { a.pause(); a.currentTime = cues[i].s; }
+    cues.forEach((c, j) => { c.el.classList.toggle('cur', j === i); c.el.classList.toggle('past', j < i); });
+    if (i >= 0) cues[i].el.scrollIntoView({block: 'center', behavior: 'smooth'});
+    cur = i;
+  }
+  requestAnimationFrame(tick);
+}
+if (!slug) fail('No clip selected.');
+else fetch(`clips/${slug}.json`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => {
+  document.title = 'Shadowing – ' + d.title;
+  $('title').textContent = 'Shadowing – ' + d.title;
+  $('meta').textContent = `${d.source} · segment ${d.segment}`;
+  $('orig').href = d.url;
+  $('listen').innerHTML = d.listen_for;
+  a.src = `clips/${slug}.mp3`;
+  cues = d.cues;
+  cues.forEach(c => {
+    const el = document.createElement('div');
+    el.className = 'line'; el.innerHTML = c.t;
+    el.onclick = () => { a.currentTime = c.s; a.play(); };
+    L.appendChild(el); c.el = el;
+  });
+  requestAnimationFrame(tick);
+}).catch(() => fail('This clip is no longer available. Go back to all clips.'));
+document.querySelectorAll('[data-r]').forEach(b => b.onclick = () => {
+  a.playbackRate = +b.dataset.r;
+  document.querySelectorAll('[data-r]').forEach(x => x.classList.toggle('on', x === b));
+});
+$('pause').onclick = () => { pauseMode = !pauseMode; $('pause').textContent = 'Pause after each phrase: ' + (pauseMode ? 'on' : 'off'); $('pause').classList.toggle('on', pauseMode); };
+$('rep').onclick = () => { if (!cues.length) return; const i = Math.max(cur, 0); a.currentTime = cues[i].s; stopAt = pauseMode ? null : cues[i].e; a.play(); };
+$('hide').onclick = () => { const h = document.body.classList.toggle('hide'); $('hide').textContent = h ? 'Show text' : 'Hide text'; $('hide').classList.toggle('on', h); };
+</script>
+</body></html>

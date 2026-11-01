@@ -1,0 +1,41 @@
+# Publica la web (carpeta site/) en GitHub Pages, pero solo si pasan las comprobaciones.
+# Si algo no cuadra (un día sin clip, un audio que falta, una prueba que falla), no se publica
+# y la web sigue con la última versión buena.
+name: Publicar web
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pytest==9.2.0
+      - name: Comprobación del calendario y de los archivos
+        run: python tools/shadow.py check
+      - name: Pruebas
+        run: python -m pytest -q tests
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  publicar:
+    needs: comprobar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

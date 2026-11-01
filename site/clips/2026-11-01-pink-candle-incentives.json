@@ -1,0 +1,144 @@
+{
+ "title": "Dan Pink, “The puzzle of motivation” (the candle experiment)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation",
+ "segment": "02:51–04:25 (93 s)",
+ "listen_for": "Business storytelling: pauses before the punchline (<i>Question: … Answer: …</i>) · contrast stress: <b>sharpen</b> / <b>accelerate</b> vs <b>dulls</b> / <b>blocks</b> · flapped t in <i>getting</i>, <i>motivator</i>, <i>creativity</i>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 4.22,
+   "t": "Now, I want to tell you about an ex<b>per</b>iment / using the <b>can</b>dle problem,"
+  },
+  {
+   "s": 4.22,
+   "e": 8.9,
+   "t": "done by a scientist named Sam <b>Glucks</b>berg, / who's now at <b>Prince</b>ton University in the US."
+  },
+  {
+   "s": 8.9,
+   "e": 12.32,
+   "t": "This shows the <b>pow</b>er of <b>in</b>centives."
+  },
+  {
+   "s": 12.32,
+   "e": 15.02,
+   "t": "Here's what he <b>did</b>. / He gathered his par<b>tic</b>ipants and he said,"
+  },
+  {
+   "s": 15.02,
+   "e": 17.66,
+   "t": "“I'm going to <b>time</b> you, / how <b>quick</b>ly you can solve this problem.”"
+  },
+  {
+   "s": 17.66,
+   "e": 22.28,
+   "t": "To <b>one</b> group, he said, / “I'm going to time you to es<b>tab</b>lish <b>norms</b>,"
+  },
+  {
+   "s": 22.28,
+   "e": 26.72,
+   "t": "<b>av</b>erages for how long it <b>typ</b>ically takes someone / to solve this sort of problem.”"
+  },
+  {
+   "s": 26.72,
+   "e": 29.2,
+   "t": "To the <b>sec</b>ond group / he offered re<b>wards</b>."
+  },
+  {
+   "s": 29.2,
+   "e": 35.56,
+   "t": "He said, “If you're in the top 25% of the <b>fast</b>est times, / you get $<b>5</b>."
+  },
+  {
+   "s": 35.56,
+   "e": 41.18,
+   "t": "If you're the <b>fast</b>est of everyone we're testing here today, / you get $<b>20</b>.”"
+  },
+  {
+   "s": 41.18,
+   "e": 44.08,
+   "t": "Okay, now this is several years a<b>go</b>, / adjusted for in<b>fla</b>tion,"
+  },
+  {
+   "s": 44.08,
+   "e": 46.32,
+   "t": "it's a <b>de</b>cent sum of money / for a few minutes of <b>work</b>."
+  },
+  {
+   "s": 46.32,
+   "e": 47.84,
+   "t": "Okay, it's a <b>nice</b> <b>mo</b>tivator."
+  },
+  {
+   "s": 47.84,
+   "e": 53.88,
+   "t": "<b>Ques</b>tion: / How much <b>fast</b>er did this group solve the problem?"
+  },
+  {
+   "s": 53.88,
+   "e": 60.22,
+   "t": "<b>An</b>swer: / It took them, on average, / three and a half minutes <b>long</b>er."
+  },
+  {
+   "s": 60.22,
+   "e": 61.98,
+   "t": "Three and a half minutes <b>long</b>er."
+  },
+  {
+   "s": 61.98,
+   "e": 63.14,
+   "t": "This makes <b>no</b> sense, <b>right</b>?"
+  },
+  {
+   "s": 63.14,
+   "e": 66.52,
+   "t": "I mean, I'm an A<b>mer</b>ican. / I believe in free <b>mar</b>kets."
+  },
+  {
+   "s": 66.52,
+   "e": 70.04,
+   "t": "That's <b>not</b> how it's supposed to <b>work</b>, right?"
+  },
+  {
+   "s": 70.04,
+   "e": 73.64,
+   "t": "If you want people to per<b>form</b> better, / you re<b>ward</b> them. Right?"
+  },
+  {
+   "s": 73.64,
+   "e": 77.68,
+   "t": "<b>Bo</b>nuses, com<b>mis</b>sions, / their own re<b>al</b>ity show."
+  },
+  {
+   "s": 77.68,
+   "e": 79.98,
+   "t": "<b>In</b>centivize them."
+  },
+  {
+   "s": 79.98,
+   "e": 81.44,
+   "t": "That's how <b>bus</b>iness works."
+  },
+  {
+   "s": 81.44,
+   "e": 83.56,
+   "t": "But that's <b>not</b> happening here."
+  },
+  {
+   "s": 83.56,
+   "e": 88.68,
+   "t": "You've got an <b>in</b>centive designed / to <b>sharp</b>en thinking and ac<b>cel</b>erate creativity,"
+  },
+  {
+   "s": 88.68,
+   "e": 91.26,
+   "t": "and it does just the <b>op</b>posite."
+  },
+  {
+   "s": 91.26,
+   "e": 93.95,
+   "t": "It <b>dulls</b> thinking / and <b>blocks</b> creativity."
+  }
+ ]
+}

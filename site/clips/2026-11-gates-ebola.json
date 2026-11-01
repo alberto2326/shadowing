@@ -1,0 +1,94 @@
+{
+ "title": "Bill Gates, “The next outbreak? We're not ready” (what went wrong with Ebola)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready",
+ "segment": "01:27–02:30 (63 s)",
+ "listen_for": "Problem-solution structure you can reuse at work: <i>the problem wasn't…, the problem was…</i> · repetition for emphasis: <i>We didn't have… We didn't have…</i>, <i>No one to…</i> · <i>should have been</i> → “should've been”.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 1.86,
+   "t": "And as you <b>look</b> at what went on,"
+  },
+  {
+   "s": 1.86,
+   "e": 6.5,
+   "t": "the problem wasn't that there was a system / that didn't work well <b>e</b>nough,"
+  },
+  {
+   "s": 6.5,
+   "e": 10.86,
+   "t": "the problem was that we didn't have a <b>sys</b>tem at <b>all</b>."
+  },
+  {
+   "s": 10.86,
+   "e": 14.86,
+   "t": "In fact, there are some pretty <b>ob</b>vious key <b>miss</b>ing pieces."
+  },
+  {
+   "s": 14.86,
+   "e": 19.0,
+   "t": "We didn't have a group of epidemi<b>ol</b>ogists ready to go,"
+  },
+  {
+   "s": 19.0,
+   "e": 24.08,
+   "t": "who would have gone, / seen what the dis<b>ease</b> was, / seen how <b>far</b> it had spread."
+  },
+  {
+   "s": 24.08,
+   "e": 26.9,
+   "t": "The case reports came in on <b>pa</b>per."
+  },
+  {
+   "s": 26.9,
+   "e": 28.96,
+   "t": "It was very de<b>layed</b> before they were put online,"
+  },
+  {
+   "s": 28.96,
+   "e": 31.76,
+   "t": "and they were <b>ex</b>tremely in<b>ac</b>curate."
+  },
+  {
+   "s": 31.76,
+   "e": 34.02,
+   "t": "We didn't have a <b>med</b>ical team ready to go."
+  },
+  {
+   "s": 34.02,
+   "e": 36.82,
+   "t": "We didn't have a way of pre<b>par</b>ing people."
+  },
+  {
+   "s": 36.82,
+   "e": 42.26,
+   "t": "Now, Médecins Sans Frontières / did a <b>great</b> job orchestrating <b>vol</b>unteers."
+  },
+  {
+   "s": 42.26,
+   "e": 45.24,
+   "t": "But even so, / we were far <b>slow</b>er than we should have been"
+  },
+  {
+   "s": 45.24,
+   "e": 48.52,
+   "t": "getting the <b>thou</b>sands of workers into these countries."
+  },
+  {
+   "s": 48.52,
+   "e": 56.83,
+   "t": "And a <b>large</b> epidemic would require us / to have <b>hun</b>dreds of thousands of workers."
+  },
+  {
+   "s": 56.83,
+   "e": 61.1,
+   "t": "There was <b>no</b> one there to look at treatment approaches."
+  },
+  {
+   "s": 61.1,
+   "e": 63.29,
+   "t": "No one to look at the di<b>ag</b>nostics."
+  }
+ ]
+}

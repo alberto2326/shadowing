@@ -1,0 +1,184 @@
+{
+ "slug": "2026-11-01-pink-candle-incentives",
+ "video_id": "ted-dan_pink_the_puzzle_of_motivation",
+ "title": "Dan Pink, “The puzzle of motivation” (the candle experiment)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation",
+ "start": 171.62,
+ "end": 265.07,
+ "meta": {
+  "hablante": "Dan Pink",
+  "charla": "The puzzle of motivation",
+  "acento": "Americano general",
+  "tema": "Negocio: incentivos y creatividad"
+ },
+ "lines": [
+  "Now, I want to tell you about an ex<b>per</b>iment / using the <b>can</b>dle problem,",
+  "done by a scientist named Sam <b>Glucks</b>berg, / who's now at <b>Prince</b>ton University in the US.",
+  "This shows the <b>pow</b>er of <b>in</b>centives.",
+  "Here's what he <b>did</b>. / He gathered his par<b>tic</b>ipants and he said,",
+  "“I'm going to <b>time</b> you, / how <b>quick</b>ly you can solve this problem.”",
+  "To <b>one</b> group, he said, / “I'm going to time you to es<b>tab</b>lish <b>norms</b>,",
+  "<b>av</b>erages for how long it <b>typ</b>ically takes someone / to solve this sort of problem.”",
+  "To the <b>sec</b>ond group / he offered re<b>wards</b>.",
+  "He said, “If you're in the top 25% of the <b>fast</b>est times, / you get $<b>5</b>.",
+  "If you're the <b>fast</b>est of everyone we're testing here today, / you get $<b>20</b>.”",
+  "Okay, now this is several years a<b>go</b>, / adjusted for in<b>fla</b>tion,",
+  "it's a <b>de</b>cent sum of money / for a few minutes of <b>work</b>.",
+  "Okay, it's a <b>nice</b> <b>mo</b>tivator.",
+  "<b>Ques</b>tion: / How much <b>fast</b>er did this group solve the problem?",
+  "<b>An</b>swer: / It took them, on average, / three and a half minutes <b>long</b>er.",
+  "Three and a half minutes <b>long</b>er.",
+  "This makes <b>no</b> sense, <b>right</b>?",
+  "I mean, I'm an A<b>mer</b>ican. / I believe in free <b>mar</b>kets.",
+  "That's <b>not</b> how it's supposed to <b>work</b>, right?",
+  "If you want people to per<b>form</b> better, / you re<b>ward</b> them. Right?",
+  "<b>Bo</b>nuses, com<b>mis</b>sions, / their own re<b>al</b>ity show.",
+  "<b>In</b>centivize them.",
+  "That's how <b>bus</b>iness works.",
+  "But that's <b>not</b> happening here.",
+  "You've got an <b>in</b>centive designed / to <b>sharp</b>en thinking and ac<b>cel</b>erate creativity,",
+  "and it does just the <b>op</b>posite.",
+  "It <b>dulls</b> thinking / and <b>blocks</b> creativity."
+ ],
+ "listen_for": "Business storytelling: pauses before the punchline (<i>Question: … Answer: …</i>) · contrast stress: <b>sharpen</b> / <b>accelerate</b> vs <b>dulls</b> / <b>blocks</b> · flapped t in <i>getting</i>, <i>motivator</i>, <i>creativity</i>.",
+ "notas": "Subtítulos TED + Whisper small.en (dos pasadas). El audio añade «Here's what he did», «and he said», «Okay» (dos veces) y repite «three and a half minutes longer»; se sigue el audio. «gonna» y «absolutely» solo los oyó una pasada de Whisper: se dejan como en los subtítulos («going to», sin «absolutely»).",
+ "cues": [
+  {
+   "s": 171.32,
+   "t": "Now, I want to tell you about an ex<b>per</b>iment / using the <b>can</b>dle problem,",
+   "e": 175.44
+  },
+  {
+   "s": 175.44,
+   "t": "done by a scientist named Sam <b>Glucks</b>berg, / who's now at <b>Prince</b>ton University in the US.",
+   "e": 180.12
+  },
+  {
+   "s": 180.12,
+   "t": "This shows the <b>pow</b>er of <b>in</b>centives.",
+   "e": 183.54
+  },
+  {
+   "s": 183.54,
+   "t": "Here's what he <b>did</b>. / He gathered his par<b>tic</b>ipants and he said,",
+   "e": 186.24
+  },
+  {
+   "s": 186.24,
+   "t": "“I'm going to <b>time</b> you, / how <b>quick</b>ly you can solve this problem.”",
+   "e": 188.88
+  },
+  {
+   "s": 188.88,
+   "t": "To <b>one</b> group, he said, / “I'm going to time you to es<b>tab</b>lish <b>norms</b>,",
+   "e": 193.5
+  },
+  {
+   "s": 193.5,
+   "t": "<b>av</b>erages for how long it <b>typ</b>ically takes someone / to solve this sort of problem.”",
+   "e": 197.94
+  },
+  {
+   "s": 197.94,
+   "t": "To the <b>sec</b>ond group / he offered re<b>wards</b>.",
+   "e": 200.42
+  },
+  {
+   "s": 200.42,
+   "t": "He said, “If you're in the top 25% of the <b>fast</b>est times, / you get $<b>5</b>.",
+   "e": 206.78
+  },
+  {
+   "s": 206.78,
+   "t": "If you're the <b>fast</b>est of everyone we're testing here today, / you get $<b>20</b>.”",
+   "e": 212.4
+  },
+  {
+   "s": 212.4,
+   "t": "Okay, now this is several years a<b>go</b>, / adjusted for in<b>fla</b>tion,",
+   "e": 215.3
+  },
+  {
+   "s": 215.3,
+   "t": "it's a <b>de</b>cent sum of money / for a few minutes of <b>work</b>.",
+   "e": 217.54
+  },
+  {
+   "s": 217.54,
+   "t": "Okay, it's a <b>nice</b> <b>mo</b>tivator.",
+   "e": 219.06
+  },
+  {
+   "s": 219.06,
+   "t": "<b>Ques</b>tion: / How much <b>fast</b>er did this group solve the problem?",
+   "e": 225.1
+  },
+  {
+   "s": 225.1,
+   "t": "<b>An</b>swer: / It took them, on average, / three and a half minutes <b>long</b>er.",
+   "e": 231.44
+  },
+  {
+   "s": 231.44,
+   "t": "Three and a half minutes <b>long</b>er.",
+   "e": 233.2
+  },
+  {
+   "s": 233.2,
+   "t": "This makes <b>no</b> sense, <b>right</b>?",
+   "e": 234.36
+  },
+  {
+   "s": 234.36,
+   "t": "I mean, I'm an A<b>mer</b>ican. / I believe in free <b>mar</b>kets.",
+   "e": 237.74
+  },
+  {
+   "s": 237.74,
+   "t": "That's <b>not</b> how it's supposed to <b>work</b>, right?",
+   "e": 241.26
+  },
+  {
+   "s": 241.26,
+   "t": "If you want people to per<b>form</b> better, / you re<b>ward</b> them. Right?",
+   "e": 244.86
+  },
+  {
+   "s": 244.86,
+   "t": "<b>Bo</b>nuses, com<b>mis</b>sions, / their own re<b>al</b>ity show.",
+   "e": 248.9
+  },
+  {
+   "s": 248.9,
+   "t": "<b>In</b>centivize them.",
+   "e": 251.2
+  },
+  {
+   "s": 251.2,
+   "t": "That's how <b>bus</b>iness works.",
+   "e": 252.66
+  },
+  {
+   "s": 252.66,
+   "t": "But that's <b>not</b> happening here.",
+   "e": 254.78
+  },
+  {
+   "s": 254.78,
+   "t": "You've got an <b>in</b>centive designed / to <b>sharp</b>en thinking and ac<b>cel</b>erate creativity,",
+   "e": 259.9
+  },
+  {
+   "s": 259.9,
+   "t": "and it does just the <b>op</b>posite.",
+   "e": 262.48
+  },
+  {
+   "s": 262.48,
+   "t": "It <b>dulls</b> thinking / and <b>blocks</b> creativity.",
+   "e": 265.17
+  }
+ ],
+ "verified": "2026-11-01"
+}

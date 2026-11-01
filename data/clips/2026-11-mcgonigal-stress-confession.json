@@ -1,0 +1,118 @@
+{
+ "slug": "2026-11-mcgonigal-stress-confession",
+ "video_id": "ted-kelly_mcgonigal_how_to_make_stress_your_friend",
+ "title": "Kelly McGonigal, “How to make stress your friend” (a confession)",
+ "url": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend",
+ "meta": {
+  "hablante": "Kelly McGonigal",
+  "charla": "How to make stress your friend",
+  "acento": "Americano general (mujer)",
+  "tema": "Estrés: cambiar de opinión"
+ },
+ "lines": [
+  "I have a con<b>fes</b>sion to make.",
+  "But <b>first</b>, / I want you to make a little confession to <b>me</b>.",
+  "In the past <b>year</b>, / why don't you just <b>raise</b> your hand / if you've experienced relatively <b>lit</b>tle stress?",
+  "How about a <b>mod</b>erate amount of stress?",
+  "Who's experienced a <b>lot</b> of stress?",
+  "Yes, <b>yeah</b>. / Me <b>too</b>.",
+  "But that is <b>not</b> my confession.",
+  "My confession is <b>this</b>: / I am a <b>health</b> psychologist,",
+  "and my <b>mis</b>sion is to help people be <b>hap</b>pier and <b>health</b>ier.",
+  "But I <b>fear</b> that something I've been teaching for the last 10 years",
+  "is doing more <b>harm</b> than <b>good</b>, / and it has to do with <b>stress</b>.",
+  "For <b>years</b> I've been telling people, / stress makes you <b>sick</b>.",
+  "It increases the risk of <b>ev</b>erything / from the common <b>cold</b> / to cardio<b>vas</b>cular disease.",
+  "<b>Ba</b>sically, / I've turned stress into the <b>en</b>emy.",
+  "But I've <b>changed</b> my mind about stress, / and to<b>day</b>, / I want to change <b>yours</b>.",
+  "Let me start with the <b>stud</b>y / that made me re<b>think</b> my whole approach to stress."
+ ],
+ "listen_for": "A warm, steady voice with clear pauses · contrast: change my mind… change <b>yours</b> · contractions: <i>I've, who's, don't</i> — keep them short and linked.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «why don't you just raise your hand», «Who's experienced», «Yes, yeah» y «I've changed my mind»; se sigue el audio. Se omite «Anyone?», que Whisper no oye.",
+ "start": 4.08,
+ "end": 76.67,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 3.78,
+   "t": "I have a con<b>fes</b>sion to make.",
+   "e": 7.22
+  },
+  {
+   "s": 7.22,
+   "t": "But <b>first</b>, / I want you to make a little confession to <b>me</b>.",
+   "e": 15.2
+  },
+  {
+   "s": 15.2,
+   "t": "In the past <b>year</b>, / why don't you just <b>raise</b> your hand / if you've experienced relatively <b>lit</b>tle stress?",
+   "e": 23.7
+  },
+  {
+   "s": 23.7,
+   "t": "How about a <b>mod</b>erate amount of stress?",
+   "e": 27.08
+  },
+  {
+   "s": 27.08,
+   "t": "Who's experienced a <b>lot</b> of stress?",
+   "e": 29.28
+  },
+  {
+   "s": 29.28,
+   "t": "Yes, <b>yeah</b>. / Me <b>too</b>.",
+   "e": 32.32
+  },
+  {
+   "s": 32.32,
+   "t": "But that is <b>not</b> my confession.",
+   "e": 34.38
+  },
+  {
+   "s": 34.38,
+   "t": "My confession is <b>this</b>: / I am a <b>health</b> psychologist,",
+   "e": 38.21
+  },
+  {
+   "s": 38.21,
+   "t": "and my <b>mis</b>sion is to help people be <b>hap</b>pier and <b>health</b>ier.",
+   "e": 43.04
+  },
+  {
+   "s": 43.04,
+   "t": "But I <b>fear</b> that something I've been teaching for the last 10 years",
+   "e": 47.64
+  },
+  {
+   "s": 47.64,
+   "t": "is doing more <b>harm</b> than <b>good</b>, / and it has to do with <b>stress</b>.",
+   "e": 53.22
+  },
+  {
+   "s": 53.22,
+   "t": "For <b>years</b> I've been telling people, / stress makes you <b>sick</b>.",
+   "e": 56.34
+  },
+  {
+   "s": 56.34,
+   "t": "It increases the risk of <b>ev</b>erything / from the common <b>cold</b> / to cardio<b>vas</b>cular disease.",
+   "e": 61.54
+  },
+  {
+   "s": 61.54,
+   "t": "<b>Ba</b>sically, / I've turned stress into the <b>en</b>emy.",
+   "e": 65.84
+  },
+  {
+   "s": 65.84,
+   "t": "But I've <b>changed</b> my mind about stress, / and to<b>day</b>, / I want to change <b>yours</b>.",
+   "e": 72.4
+  },
+  {
+   "s": 72.4,
+   "t": "Let me start with the <b>stud</b>y / that made me re<b>think</b> my whole approach to stress.",
+   "e": 76.77
+  }
+ ],
+ "verified": "2026-11-01"
+}

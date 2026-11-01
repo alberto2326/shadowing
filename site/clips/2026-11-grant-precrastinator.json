@@ -1,0 +1,74 @@
+{
+ "title": "Adam Grant, “The surprising habits of original thinkers” (I'm a precrastinator)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers",
+ "segment": "01:41–02:48 (67 s)",
+ "listen_for": "Self-deprecating humor with pauses for the laugh · word play: <b>pre</b>crastinator vs <b>pro</b>crastinator · contractions: <i>I've traded</i>, <i>haven't done</i>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 5.44,
+   "t": "Now, you are <b>all</b> intimately familiar / with the mind of a procrasti<b>na</b>tor."
+  },
+  {
+   "s": 5.44,
+   "e": 7.94,
+   "t": "Well, I have a con<b>fes</b>sion for you. / I'm the <b>op</b>posite."
+  },
+  {
+   "s": 7.94,
+   "e": 10.88,
+   "t": "I'm a <b>pre</b>crastinator."
+  },
+  {
+   "s": 10.88,
+   "e": 12.44,
+   "t": "Yes, that's an <b>ac</b>tual term."
+  },
+  {
+   "s": 12.44,
+   "e": 17.46,
+   "t": "You know that <b>pan</b>ic you feel a few hours before a big <b>dead</b>line / when you haven't done <b>an</b>ything yet?"
+  },
+  {
+   "s": 17.46,
+   "e": 22.66,
+   "t": "I just feel that a few <b>months</b> ahead of time."
+  },
+  {
+   "s": 22.66,
+   "e": 29.3,
+   "t": "So this started <b>ear</b>ly: / when I was a kid, / I took <b>Nin</b>tendo games very <b>se</b>riously."
+  },
+  {
+   "s": 29.3,
+   "e": 35.18,
+   "t": "I would wake up at <b>5am</b>, / start playing and not <b>stop</b> until I had <b>mas</b>tered them."
+  },
+  {
+   "s": 35.18,
+   "e": 38.48,
+   "t": "Eventually it got so out of <b>hand</b> / that a local <b>news</b>paper came"
+  },
+  {
+   "s": 38.48,
+   "e": 52.44,
+   "t": "and did a story on the <b>dark</b> side of Nintendo, / <b>star</b>ring <b>me</b>."
+  },
+  {
+   "s": 52.44,
+   "e": 59.26,
+   "t": "Since then, / I've traded <b>hair</b> for <b>teeth</b>."
+  },
+  {
+   "s": 59.26,
+   "e": 62.22,
+   "t": "But this served me <b>well</b> in college,"
+  },
+  {
+   "s": 62.22,
+   "e": 67.57,
+   "t": "because I finished my senior thesis / <b>four</b> months be<b>fore</b> the deadline."
+  }
+ ]
+}

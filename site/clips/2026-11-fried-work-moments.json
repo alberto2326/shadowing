@@ -1,0 +1,124 @@
+{
+ "title": "Jason Fried, “Why work doesn't happen at work” (where do you go to get work done?)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work",
+ "segment": "01:34–02:53 (79 s)",
+ "listen_for": "Lists with rising tone: <i>the porch, the deck, the kitchen</i> · the punchline drop: <i>“The office.”</i> · contrast: work <b>day</b> vs work <b>moments</b>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 4.36,
+   "t": "If you ask people the <b>ques</b>tion, / where do you really need to <b>go</b> / when you need to get something done,"
+  },
+  {
+   "s": 4.36,
+   "e": 6.88,
+   "t": "you typically get <b>three</b> different kinds of answers."
+  },
+  {
+   "s": 6.88,
+   "e": 9.88,
+   "t": "<b>One</b> is kind of a place, / or a location, or a <b>room</b>."
+  },
+  {
+   "s": 9.88,
+   "e": 11.82,
+   "t": "Another one is a <b>mov</b>ing object."
+  },
+  {
+   "s": 11.82,
+   "e": 13.58,
+   "t": "And a <b>third</b> is a <b>time</b>."
+  },
+  {
+   "s": 13.58,
+   "e": 15.62,
+   "t": "So here's some <b>ex</b>amples."
+  },
+  {
+   "s": 15.62,
+   "e": 18.12,
+   "t": "When I ask people — / and I've been asking people this question for about <b>10</b> years —"
+  },
+  {
+   "s": 18.12,
+   "e": 20.8,
+   "t": "I ask them, / where do you when you <b>real</b>ly need to get something done?"
+  },
+  {
+   "s": 20.8,
+   "e": 26.16,
+   "t": "I'll hear things like, / the <b>porch</b>, the <b>deck</b>, the <b>kitch</b>en."
+  },
+  {
+   "s": 26.16,
+   "e": 32.88,
+   "t": "I'll hear things like an extra <b>room</b> in the house, / the <b>base</b>ment, / the <b>cof</b>fee shop, the <b>li</b>brary."
+  },
+  {
+   "s": 32.88,
+   "e": 39.02,
+   "t": "And then you'll hear things like the <b>train</b>, / a <b>plane</b>, a <b>car</b> — / so, the com<b>mute</b>."
+  },
+  {
+   "s": 39.02,
+   "e": 41.92,
+   "t": "And then you'll hear people say, / “Well, it doesn't really <b>mat</b>ter where I am,"
+  },
+  {
+   "s": 41.92,
+   "e": 45.92,
+   "t": "as long as it's really <b>ear</b>ly in the morning, / or really <b>late</b> at night, / or on the <b>week</b>ends.”"
+  },
+  {
+   "s": 45.92,
+   "e": 48.92,
+   "t": "You almost <b>nev</b>er hear someone say, / “The <b>of</b>fice.”"
+  },
+  {
+   "s": 48.92,
+   "e": 52.0,
+   "t": "But businesses are spending all this <b>mon</b>ey / on this place called the office,"
+  },
+  {
+   "s": 52.0,
+   "e": 57.04,
+   "t": "and they're making people go to it <b>all</b> the time, / <b>yet</b> people don't do work in the office."
+  },
+  {
+   "s": 57.04,
+   "e": 59.64,
+   "t": "What is <b>that</b> about?"
+  },
+  {
+   "s": 59.64,
+   "e": 63.42,
+   "t": "Like, why <b>is</b> that? / Why is that <b>hap</b>pening?"
+  },
+  {
+   "s": 63.42,
+   "e": 65.68,
+   "t": "And what you find out is, / if you dig a little bit <b>deep</b>er,"
+  },
+  {
+   "s": 65.68,
+   "e": 69.8,
+   "t": "you find out that people — / this is what happens —"
+  },
+  {
+   "s": 69.8,
+   "e": 75.98,
+   "t": "people go to <b>work</b>, / and they're basically <b>trad</b>ing in their work day / for a series of “work <b>mo</b>ments.”"
+  },
+  {
+   "s": 75.98,
+   "e": 77.5,
+   "t": "That's what happens at the <b>of</b>fice."
+  },
+  {
+   "s": 77.5,
+   "e": 79.83,
+   "t": "You don't <b>have</b> a work day anymore. / You have work <b>mo</b>ments."
+  }
+ ]
+}

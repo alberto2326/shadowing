@@ -1,0 +1,6 @@
+# Versiones fijas: si algo deja de funcionar, se actualiza a propósito, no por sorpresa.
+# yt-dlp es lo único que conviene actualizar si ted.com cambia su web (pip install -U yt-dlp y fijar la nueva versión).
+yt-dlp==2026.10.26
+faster-whisper==1.2.1
+numpy==2.5.3
+pytest==9.2.0

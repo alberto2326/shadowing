@@ -1,0 +1,142 @@
+{
+ "slug": "2026-11-gross-startups",
+ "video_id": "ted-bill_gross_the_single_biggest_reason_why_start_ups_succeed",
+ "title": "Bill Gross, “The single biggest reason why start-ups succeed” (why so many fail?)",
+ "url": "https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed",
+ "meta": {
+  "hablante": "Bill Gross",
+  "charla": "The single biggest reason why start-ups succeed",
+  "acento": "Americano general",
+  "tema": "Negocio: por qué triunfan las startups"
+ },
+ "lines": [
+  "I'm <b>real</b>ly excited to share with you / some <b>find</b>ings that really sur<b>prised</b> me",
+  "about what makes <b>com</b>panies succeed the most,",
+  "what <b>fac</b>tors actually matter the most / for <b>start</b>up success.",
+  "I be<b>lieve</b> that the startup organization",
+  "is one of the <b>great</b>est forms / to make the world a better place.",
+  "If you take a group of people / with the right <b>eq</b>uity incentives",
+  "and organize them in a <b>start</b>up,",
+  "you can un<b>lock</b> human potential / in a way <b>nev</b>er before possible.",
+  "You get them to achieve un<b>be</b>lievable things.",
+  "But if the startup organization is so <b>great</b>, / why do so many <b>fail</b>?",
+  "That's what I wanted to find <b>out</b>.",
+  "I wanted to find out what <b>ac</b>tually matters most / for startup success.",
+  "And I wanted to try to be syste<b>mat</b>ic about it,",
+  "avoid some of my in<b>stincts</b> / and maybe mis<b>per</b>ceptions I have",
+  "from so many companies I've seen over the <b>years</b>.",
+  "I wanted to know this / because I've been starting <b>bus</b>inesses since I was 12 years old,",
+  "when I sold <b>can</b>dy at the bus stop in junior high school,",
+  "to high school, when I made <b>so</b>lar energy devices,",
+  "to <b>col</b>lege, when I made <b>loud</b>speakers.",
+  "And when I graduated from college, / I started <b>soft</b>ware companies."
+ ],
+ "listen_for": "Entrepreneur's energy: fast but clear · business vocabulary: <i>equity incentives, unlock potential, be systematic</i> · the pattern <i>to high school, when I…; to college, when I…</i>",
+ "notas": "Subtítulos TED + Whisper small.en. Whisper oye «why does so many fail» y omite «I» en «I started software companies»; se siguen los subtítulos.",
+ "start": 4.1,
+ "end": 64.43,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 3.8,
+   "t": "I'm <b>real</b>ly excited to share with you / some <b>find</b>ings that really sur<b>prised</b> me",
+   "e": 8.52
+  },
+  {
+   "s": 8.52,
+   "t": "about what makes <b>com</b>panies succeed the most,",
+   "e": 11.62
+  },
+  {
+   "s": 11.62,
+   "t": "what <b>fac</b>tors actually matter the most / for <b>start</b>up success.",
+   "e": 16.16
+  },
+  {
+   "s": 16.16,
+   "t": "I be<b>lieve</b> that the startup organization",
+   "e": 17.92
+  },
+  {
+   "s": 17.92,
+   "t": "is one of the <b>great</b>est forms / to make the world a better place.",
+   "e": 22.74
+  },
+  {
+   "s": 22.74,
+   "t": "If you take a group of people / with the right <b>eq</b>uity incentives",
+   "e": 25.72
+  },
+  {
+   "s": 25.72,
+   "t": "and organize them in a <b>start</b>up,",
+   "e": 27.52
+  },
+  {
+   "s": 27.52,
+   "t": "you can un<b>lock</b> human potential / in a way <b>nev</b>er before possible.",
+   "e": 31.82
+  },
+  {
+   "s": 31.82,
+   "t": "You get them to achieve un<b>be</b>lievable things.",
+   "e": 34.9
+  },
+  {
+   "s": 34.9,
+   "t": "But if the startup organization is so <b>great</b>, / why do so many <b>fail</b>?",
+   "e": 38.78
+  },
+  {
+   "s": 38.78,
+   "t": "That's what I wanted to find <b>out</b>.",
+   "e": 40.0
+  },
+  {
+   "s": 40.0,
+   "t": "I wanted to find out what <b>ac</b>tually matters most / for startup success.",
+   "e": 44.14
+  },
+  {
+   "s": 44.14,
+   "t": "And I wanted to try to be syste<b>mat</b>ic about it,",
+   "e": 46.3
+  },
+  {
+   "s": 46.3,
+   "t": "avoid some of my in<b>stincts</b> / and maybe mis<b>per</b>ceptions I have",
+   "e": 48.94
+  },
+  {
+   "s": 48.94,
+   "t": "from so many companies I've seen over the <b>years</b>.",
+   "e": 51.68
+  },
+  {
+   "s": 51.68,
+   "t": "I wanted to know this / because I've been starting <b>bus</b>inesses since I was 12 years old,",
+   "e": 55.42
+  },
+  {
+   "s": 55.42,
+   "t": "when I sold <b>can</b>dy at the bus stop in junior high school,",
+   "e": 58.4
+  },
+  {
+   "s": 58.4,
+   "t": "to high school, when I made <b>so</b>lar energy devices,",
+   "e": 60.58
+  },
+  {
+   "s": 60.58,
+   "t": "to <b>col</b>lege, when I made <b>loud</b>speakers.",
+   "e": 62.28
+  },
+  {
+   "s": 62.28,
+   "t": "And when I graduated from college, / I started <b>soft</b>ware companies.",
+   "e": 64.53
+  }
+ ],
+ "verified": "2026-11-01"
+}

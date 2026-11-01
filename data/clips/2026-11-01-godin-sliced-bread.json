@@ -1,0 +1,148 @@
+{
+ "slug": "2026-11-01-godin-sliced-bread",
+ "video_id": "ted-seth_godin_how_to_get_your_ideas_to_spread",
+ "title": "Seth Godin, “How to get your ideas to spread” (sliced bread)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread",
+ "start": 33.58,
+ "end": 110.37,
+ "meta": {
+  "hablante": "Seth Godin",
+  "charla": "How to get your ideas to spread",
+  "acento": "Americano general",
+  "tema": "Marketing: difundir ideas (pan de molde)"
+ },
+ "lines": [
+  "Now, be<b>fore</b> sliced bread was in<b>vent</b>ed / in the <b>1910s</b>,",
+  "I <b>won</b>der what they <b>said</b>?",
+  "Like the <b>great</b>est in<b>ven</b>tion since the <b>tel</b>egraph or something.",
+  "But this guy named <b>Ot</b>to Rohwedder / in<b>vent</b>ed sliced <b>bread</b>,",
+  "and he <b>fo</b>cused, / like most in<b>ven</b>tors did, / on the <b>pat</b>ent part and the <b>mak</b>ing part.",
+  "And the <b>thing</b> about the invention of sliced bread is <b>this</b>,",
+  "that for the first <b>15</b> years / after sliced bread was a<b>vail</b>able,",
+  "<b>no</b> one bought it, / <b>no</b> one knew about it.",
+  "It was a com<b>plete</b> and <b>to</b>tal <b>fail</b>ure.",
+  "And the <b>rea</b>son is that until <b>Won</b>der came along",
+  "and figured out how to <b>spread</b> the idea of sliced bread, / <b>no</b> one <b>want</b>ed it.",
+  "That the suc<b>cess</b> of sliced bread,",
+  "like the success of <b>al</b>most everything / we've been talking about at this <b>con</b>ference",
+  "is <b>not</b> always about what the <b>pat</b>ent is like, / or what the <b>fac</b>tory is like.",
+  "It's about <b>can</b> you get your idea to <b>spread</b>, / or <b>not</b>.",
+  "And I think that the <b>way</b> you're going to get what you <b>want</b>,",
+  "or cause the <b>change</b> that you want to change to <b>hap</b>pen,",
+  "is you're going to <b>fig</b>ure out a way / to get your ideas to <b>spread</b>.",
+  "And it doesn't <b>mat</b>ter to me / whether you're running a <b>cof</b>fee shop,",
+  "or you're an intel<b>lec</b>tual, / or you're in <b>bus</b>iness, / or flying hot air <b>bal</b>loons.",
+  "I think that <b>all</b> this stuff applies to <b>ev</b>erybody, / re<b>gard</b>less of what we <b>do</b>."
+ ],
+ "listen_for": "American rhythm: <i>no one bought it, no one knew about it</i> (stress on <b>no</b>) · linking in <i>figure_out</i>, <i>get your_idea</i> · <i>going to</i> almost like “gonna” · the pattern <i>whether you're… or you're… or…</i>.",
+ "notas": "Subtítulos TED + Whisper small.en. Diferencias: el audio dice «we've been talking about», «is you're going to figure out» y «or flying hot air balloons»; se sigue el audio.",
+ "cues": [
+  {
+   "s": 33.28,
+   "t": "Now, be<b>fore</b> sliced bread was in<b>vent</b>ed / in the <b>1910s</b>,",
+   "e": 37.22
+  },
+  {
+   "s": 37.22,
+   "t": "I <b>won</b>der what they <b>said</b>?",
+   "e": 38.44
+  },
+  {
+   "s": 38.44,
+   "t": "Like the <b>great</b>est in<b>ven</b>tion since the <b>tel</b>egraph or something.",
+   "e": 41.6
+  },
+  {
+   "s": 41.6,
+   "t": "But this guy named <b>Ot</b>to Rohwedder / in<b>vent</b>ed sliced <b>bread</b>,",
+   "e": 44.9
+  },
+  {
+   "s": 44.9,
+   "t": "and he <b>fo</b>cused, / like most in<b>ven</b>tors did, / on the <b>pat</b>ent part and the <b>mak</b>ing part.",
+   "e": 50.36
+  },
+  {
+   "s": 50.36,
+   "t": "And the <b>thing</b> about the invention of sliced bread is <b>this</b>,",
+   "e": 53.08
+  },
+  {
+   "s": 53.08,
+   "t": "that for the first <b>15</b> years / after sliced bread was a<b>vail</b>able,",
+   "e": 57.32
+  },
+  {
+   "s": 57.32,
+   "t": "<b>no</b> one bought it, / <b>no</b> one knew about it.",
+   "e": 59.6
+  },
+  {
+   "s": 59.6,
+   "t": "It was a com<b>plete</b> and <b>to</b>tal <b>fail</b>ure.",
+   "e": 62.26
+  },
+  {
+   "s": 62.26,
+   "t": "And the <b>rea</b>son is that until <b>Won</b>der came along",
+   "e": 66.94
+  },
+  {
+   "s": 66.94,
+   "t": "and figured out how to <b>spread</b> the idea of sliced bread, / <b>no</b> one <b>want</b>ed it.",
+   "e": 72.24
+  },
+  {
+   "s": 72.24,
+   "t": "That the suc<b>cess</b> of sliced bread,",
+   "e": 73.88
+  },
+  {
+   "s": 73.88,
+   "t": "like the success of <b>al</b>most everything / we've been talking about at this <b>con</b>ference",
+   "e": 76.72
+  },
+  {
+   "s": 76.72,
+   "t": "is <b>not</b> always about what the <b>pat</b>ent is like, / or what the <b>fac</b>tory is like.",
+   "e": 84.26
+  },
+  {
+   "s": 84.26,
+   "t": "It's about <b>can</b> you get your idea to <b>spread</b>, / or <b>not</b>.",
+   "e": 87.72
+  },
+  {
+   "s": 87.72,
+   "t": "And I think that the <b>way</b> you're going to get what you <b>want</b>,",
+   "e": 90.5
+  },
+  {
+   "s": 90.5,
+   "t": "or cause the <b>change</b> that you want to change to <b>hap</b>pen,",
+   "e": 93.38
+  },
+  {
+   "s": 93.38,
+   "t": "is you're going to <b>fig</b>ure out a way / to get your ideas to <b>spread</b>.",
+   "e": 96.34
+  },
+  {
+   "s": 96.34,
+   "t": "And it doesn't <b>mat</b>ter to me / whether you're running a <b>cof</b>fee shop,",
+   "e": 99.64
+  },
+  {
+   "s": 99.64,
+   "t": "or you're an intel<b>lec</b>tual, / or you're in <b>bus</b>iness, / or flying hot air <b>bal</b>loons.",
+   "e": 103.86
+  },
+  {
+   "s": 103.86,
+   "t": "I think that <b>all</b> this stuff applies to <b>ev</b>erybody, / re<b>gard</b>less of what we <b>do</b>.",
+   "e": 110.47
+  }
+ ],
+ "verified": "2026-11-01"
+}

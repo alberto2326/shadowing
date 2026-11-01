@@ -1,0 +1,109 @@
+{
+ "title": "Angela Lee Duckworth, “Grit: the power of passion and perseverance” (what predicts success)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
+ "segment": "01:39–03:18 (99 s)",
+ "listen_for": "Repetition as rhythm: <i>Grit is… Grit is… Grit is…</i> · building lists: <i>not just for the week, not just for the month, but for years</i> · contrast at the end: a <b>marathon</b>, not a <b>sprint</b>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 5.78,
+   "t": "So I left the <b>class</b>room, / and I went to graduate school to become a psy<b>chol</b>ogist."
+  },
+  {
+   "s": 5.78,
+   "e": 10.3,
+   "t": "I started studying <b>kids</b> and <b>adults</b> / in all kinds of super <b>chal</b>lenging settings,"
+  },
+  {
+   "s": 10.3,
+   "e": 16.1,
+   "t": "and in <b>ev</b>ery study my question was, / <b>who</b> is successful here and <b>why</b>?"
+  },
+  {
+   "s": 16.1,
+   "e": 20.36,
+   "t": "My research team and I went to West Point Military <b>Acad</b>emy."
+  },
+  {
+   "s": 20.36,
+   "e": 26.24,
+   "t": "We tried to pre<b>dict</b> which cadets would <b>stay</b> in military training / and which would drop <b>out</b>."
+  },
+  {
+   "s": 26.24,
+   "e": 33.78,
+   "t": "We went to the National <b>Spell</b>ing Bee / and tried to predict which children would advance <b>far</b>thest in competition."
+  },
+  {
+   "s": 33.78,
+   "e": 37.98,
+   "t": "We studied <b>rook</b>ie teachers working in really <b>tough</b> neighborhoods,"
+  },
+  {
+   "s": 37.98,
+   "e": 43.44,
+   "t": "asking which teachers are still going to be here in teaching / by the <b>end</b> of the school year,"
+  },
+  {
+   "s": 43.44,
+   "e": 49.46,
+   "t": "and of those, / who will be the most ef<b>fec</b>tive / at improving learning outcomes for their students?"
+  },
+  {
+   "s": 49.46,
+   "e": 54.0,
+   "t": "We partnered with <b>pri</b>vate companies, asking, / which of these <b>sales</b>people is going to <b>keep</b> their jobs?"
+  },
+  {
+   "s": 54.0,
+   "e": 56.76,
+   "t": "And who's going to earn the <b>most</b> money?"
+  },
+  {
+   "s": 56.76,
+   "e": 64.5,
+   "t": "In all those very <b>dif</b>ferent contexts, / <b>one</b> characteristic emerged / as a significant predictor of suc<b>cess</b>."
+  },
+  {
+   "s": 64.5,
+   "e": 71.66,
+   "t": "And it <b>was</b>n't social intelligence. / It wasn't good <b>looks</b>, physical <b>health</b>, / and it wasn't <b>IQ</b>."
+  },
+  {
+   "s": 71.66,
+   "e": 74.1,
+   "t": "It was <b>grit</b>."
+  },
+  {
+   "s": 74.1,
+   "e": 79.18,
+   "t": "Grit is <b>pas</b>sion and perse<b>ver</b>ance / for very long-term <b>goals</b>."
+  },
+  {
+   "s": 79.18,
+   "e": 81.34,
+   "t": "Grit is having <b>stam</b>ina."
+  },
+  {
+   "s": 81.34,
+   "e": 85.5,
+   "t": "Grit is <b>stick</b>ing with your future, / day <b>in</b>, day <b>out</b>,"
+  },
+  {
+   "s": 85.5,
+   "e": 90.14,
+   "t": "not just for the <b>week</b>, / not just for the <b>month</b>, / but for <b>years</b>,"
+  },
+  {
+   "s": 90.14,
+   "e": 95.2,
+   "t": "and working really <b>hard</b> / to make that future a re<b>al</b>ity."
+  },
+  {
+   "s": 95.2,
+   "e": 99.05,
+   "t": "Grit is living life like it's a <b>mar</b>athon, / not a <b>sprint</b>."
+  }
+ ]
+}

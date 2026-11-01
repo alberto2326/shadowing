@@ -1,0 +1,94 @@
+{
+ "title": "Elizabeth Gilbert, “Your elusive creative genius” (after Eat, Pray, Love)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius",
+ "segment": "00:04–01:12 (68 s)",
+ "listen_for": "Ironic tone: <i>So that's reassuring</i> means the opposite · repeated questions with rising frustration: <i>Aren't you afraid…?</i> · <i>going to</i> reduced in fast speech · <i>kind of</i>, <i>sort of</i> as softeners.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 2.08,
+   "t": "I am a <b>writ</b>er."
+  },
+  {
+   "s": 2.08,
+   "e": 5.7,
+   "t": "Writing <b>books</b> is my profession, / but it's <b>more</b> than that, of course."
+  },
+  {
+   "s": 5.7,
+   "e": 9.8,
+   "t": "It is <b>al</b>so my great lifelong <b>love</b> and fasci<b>na</b>tion."
+  },
+  {
+   "s": 9.8,
+   "e": 12.74,
+   "t": "And I don't ex<b>pect</b> that that's ever going to change."
+  },
+  {
+   "s": 12.74,
+   "e": 19.68,
+   "t": "But, that said, / something kind of pe<b>cu</b>liar has happened recently / in my <b>life</b> and in my ca<b>reer</b>,"
+  },
+  {
+   "s": 19.68,
+   "e": 24.54,
+   "t": "which has caused me to have to sort of re<b>cal</b>ibrate / my <b>whole</b> relationship with this work."
+  },
+  {
+   "s": 24.54,
+   "e": 28.34,
+   "t": "And the peculiar thing is that I recently wrote this <b>book</b>,"
+  },
+  {
+   "s": 28.34,
+   "e": 30.18,
+   "t": "this memoir called “Eat, Pray, <b>Love</b>,”"
+  },
+  {
+   "s": 30.18,
+   "e": 34.46,
+   "t": "which, de<b>cid</b>edly unlike any of my previous books,"
+  },
+  {
+   "s": 34.46,
+   "e": 41.16,
+   "t": "went out in the world for some <b>rea</b>son, / and became this big, mega-sen<b>sa</b>tion, / international <b>best</b>seller thing."
+  },
+  {
+   "s": 41.16,
+   "e": 47.12,
+   "t": "The re<b>sult</b> of which is that everywhere I go now, / people treat me like I'm <b>doomed</b>."
+  },
+  {
+   "s": 47.12,
+   "e": 49.56,
+   "t": "<b>Se</b>riously — <b>doomed</b>, doomed!"
+  },
+  {
+   "s": 49.56,
+   "e": 51.64,
+   "t": "Like, they come up to me now, all <b>wor</b>ried, / and they say,"
+  },
+  {
+   "s": 51.64,
+   "e": 56.16,
+   "t": "“Aren't you afraid — / aren't you a<b>fraid</b> you're never going to be able to <b>top</b> that?"
+  },
+  {
+   "s": 56.16,
+   "e": 59.74,
+   "t": "Aren't you afraid you're going to keep writing for your <b>whole</b> life"
+  },
+  {
+   "s": 59.74,
+   "e": 65.92,
+   "t": "and you're never <b>a</b>gain going to create a book / that <b>an</b>ybody in the world cares about at all, / ever a<b>gain</b>?”"
+  },
+  {
+   "s": 65.92,
+   "e": 68.33,
+   "t": "So <b>that's</b> reassuring."
+  }
+ ]
+}

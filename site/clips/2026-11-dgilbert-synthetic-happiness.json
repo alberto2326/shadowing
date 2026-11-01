@@ -1,0 +1,149 @@
+{
+ "title": "Dan Gilbert, “The surprising science of happiness” (we synthesize happiness)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness",
+ "segment": "03:23–05:01 (98 s)",
+ "listen_for": "Fast academic speaker — use 0.9x first · pairs with contrast: <i>winning or losing</i>, <i>gaining or losing</i> · the final contrast: we <b>synthesize</b> happiness, but we <b>think</b> it's a thing to be <b>found</b>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 2.52,
+   "t": "From <b>field</b> studies to <b>lab</b>oratory studies,"
+  },
+  {
+   "s": 2.52,
+   "e": 4.92,
+   "t": "we see that <b>win</b>ning or <b>los</b>ing an election,"
+  },
+  {
+   "s": 4.92,
+   "e": 7.18,
+   "t": "<b>gain</b>ing or losing a romantic partner,"
+  },
+  {
+   "s": 7.18,
+   "e": 8.98,
+   "t": "<b>get</b>ting or not getting a promotion,"
+  },
+  {
+   "s": 8.98,
+   "e": 11.1,
+   "t": "<b>pass</b>ing or not passing a college test,"
+  },
+  {
+   "s": 11.1,
+   "e": 12.56,
+   "t": "on and <b>on</b>,"
+  },
+  {
+   "s": 12.56,
+   "e": 17.2,
+   "t": "have far <b>less</b> impact, / less in<b>ten</b>sity / and much less du<b>ra</b>tion"
+  },
+  {
+   "s": 17.2,
+   "e": 21.82,
+   "t": "than people ex<b>pect</b> them to have."
+  },
+  {
+   "s": 21.82,
+   "e": 26.0,
+   "t": "In fact, a recent study — / this almost <b>floors</b> me —"
+  },
+  {
+   "s": 26.0,
+   "e": 30.46,
+   "t": "a recent study showing how major life <b>trau</b>mas affect people"
+  },
+  {
+   "s": 30.46,
+   "e": 33.54,
+   "t": "suggests that if it happened over three months a<b>go</b>,"
+  },
+  {
+   "s": 33.54,
+   "e": 34.78,
+   "t": "with only a few ex<b>cep</b>tions,"
+  },
+  {
+   "s": 34.78,
+   "e": 39.56,
+   "t": "it has <b>no</b> impact whatsoever on your <b>hap</b>piness."
+  },
+  {
+   "s": 39.56,
+   "e": 41.3,
+   "t": "<b>Why</b>?"
+  },
+  {
+   "s": 41.3,
+   "e": 44.78,
+   "t": "Because happiness can be <b>syn</b>thesized."
+  },
+  {
+   "s": 44.78,
+   "e": 47.5,
+   "t": "Sir Thomas <b>Brown</b> wrote in 1642,"
+  },
+  {
+   "s": 47.5,
+   "e": 49.4,
+   "t": "“I am the <b>hap</b>piest man alive."
+  },
+  {
+   "s": 49.4,
+   "e": 54.4,
+   "t": "I have that in me that can convert <b>pov</b>erty to <b>rich</b>es, / ad<b>ver</b>sity to pros<b>per</b>ity."
+  },
+  {
+   "s": 54.4,
+   "e": 59.4,
+   "t": "I am more in<b>vul</b>nerable than A<b>chil</b>les; / fortune hath not <b>one</b> place to hit me.”"
+  },
+  {
+   "s": 59.4,
+   "e": 62.22,
+   "t": "What kind of re<b>mark</b>able machinery / does this guy have in his <b>head</b>?"
+  },
+  {
+   "s": 62.22,
+   "e": 68.62,
+   "t": "Well, it turns out / it's <b>pre</b>cisely the same remarkable machinery / that <b>all</b> of us have."
+  },
+  {
+   "s": 68.62,
+   "e": 73.8,
+   "t": "Human beings have something / that we might think of as a “psycho<b>log</b>ical im<b>mune</b> system,”"
+  },
+  {
+   "s": 73.8,
+   "e": 78.12,
+   "t": "a system of <b>cog</b>nitive processes, / largely non<b>con</b>scious cognitive processes,"
+  },
+  {
+   "s": 78.12,
+   "e": 81.66,
+   "t": "that help them change their <b>views</b> of the world,"
+  },
+  {
+   "s": 81.66,
+   "e": 86.7,
+   "t": "so that they can feel <b>bet</b>ter about the worlds / in which they find themselves."
+  },
+  {
+   "s": 86.7,
+   "e": 89.12,
+   "t": "<b>Like</b> Sir Thomas, / you have this machine."
+  },
+  {
+   "s": 89.12,
+   "e": 93.36,
+   "t": "<b>Un</b>like Sir Thomas, / you seem not to <b>know</b> it."
+  },
+  {
+   "s": 93.36,
+   "e": 98.43,
+   "t": "We <b>syn</b>thesize happiness, / but we <b>think</b> happiness is a thing to be <b>found</b>."
+  }
+ ]
+}

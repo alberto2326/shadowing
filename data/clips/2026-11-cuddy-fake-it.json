@@ -1,0 +1,148 @@
+{
+ "slug": "2026-11-cuddy-fake-it",
+ "video_id": "ted-amy_cuddy_your_body_language_may_shape_who_you_are",
+ "title": "Amy Cuddy, “Your body language may shape who you are” (fake it till you make it)",
+ "url": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are",
+ "meta": {
+  "hablante": "Amy Cuddy",
+  "charla": "Your body language may shape who you are",
+  "acento": "Americano general (mujer)",
+  "tema": "Síndrome del impostor"
+ },
+ "lines": [
+  "So when I tell people about this,",
+  "that our <b>bod</b>ies change our <b>minds</b> / and our minds can change our be<b>hav</b>ior,",
+  "and our behavior can change our <b>out</b>comes, / they say to me, / “It feels <b>fake</b>.” Right?",
+  "So I said, / <b>fake</b> it till you <b>make</b> it.",
+  "It's not <b>me</b>.",
+  "I don't want to get there / and then still feel like a <b>fraud</b>.",
+  "I don't want to feel like an im<b>pos</b>ter.",
+  "I don't want to get there / only to feel like I'm <b>not</b> supposed to be here.",
+  "And that really <b>res</b>onated with me,",
+  "because I want to tell you a little <b>sto</b>ry / about being an imposter / and feeling like I'm not supposed to be here.",
+  "When I was <b>19</b>, / I was in a really bad <b>car</b> accident.",
+  "I was <b>thrown</b> out of a car, / <b>rolled</b> several times.",
+  "I was thrown from the car. / And I woke up in a head injury re<b>hab</b> ward,",
+  "and I had been with<b>drawn</b> from college,",
+  "and I learned that my IQ had <b>dropped</b> / by two standard de<b>vi</b>ations,",
+  "which was very trau<b>mat</b>ic.",
+  "I knew my IQ / because I had i<b>den</b>tified with being <b>smart</b>,",
+  "and I had been called <b>gift</b>ed as a child.",
+  "So I'm taken out of <b>col</b>lege, / I keep trying to go <b>back</b>.",
+  "They say, “You're <b>not</b> going to finish college.",
+  "Like, just, you know, / there are <b>oth</b>er things for you to do, / but that's not going to work out for you.”"
+ ],
+ "listen_for": "Personal story: the pace slows and the voice drops on the hard parts · parallel sentences: <i>I don't want to… I don't want to… I don't want to…</i> · <i>fake it till you make it</i> — rhythm and rhyme.",
+ "notas": "Subtítulos TED + Whisper small.en (dos pasadas). Se escribe «going to» (subtítulos y segunda pasada) y «Like, just, you know» (las dos pasadas).",
+ "start": 928.8,
+ "end": 995.55,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 928.5,
+   "t": "So when I tell people about this,",
+   "e": 930.76
+  },
+  {
+   "s": 930.76,
+   "t": "that our <b>bod</b>ies change our <b>minds</b> / and our minds can change our be<b>hav</b>ior,",
+   "e": 934.1
+  },
+  {
+   "s": 934.1,
+   "t": "and our behavior can change our <b>out</b>comes, / they say to me, / “It feels <b>fake</b>.” Right?",
+   "e": 939.08
+  },
+  {
+   "s": 939.08,
+   "t": "So I said, / <b>fake</b> it till you <b>make</b> it.",
+   "e": 941.3
+  },
+  {
+   "s": 941.3,
+   "t": "It's not <b>me</b>.",
+   "e": 942.72
+  },
+  {
+   "s": 942.72,
+   "t": "I don't want to get there / and then still feel like a <b>fraud</b>.",
+   "e": 946.1
+  },
+  {
+   "s": 946.1,
+   "t": "I don't want to feel like an im<b>pos</b>ter.",
+   "e": 947.22
+  },
+  {
+   "s": 947.22,
+   "t": "I don't want to get there / only to feel like I'm <b>not</b> supposed to be here.",
+   "e": 951.92
+  },
+  {
+   "s": 951.92,
+   "t": "And that really <b>res</b>onated with me,",
+   "e": 954.08
+  },
+  {
+   "s": 954.08,
+   "t": "because I want to tell you a little <b>sto</b>ry / about being an imposter / and feeling like I'm not supposed to be here.",
+   "e": 959.34
+  },
+  {
+   "s": 959.34,
+   "t": "When I was <b>19</b>, / I was in a really bad <b>car</b> accident.",
+   "e": 962.76
+  },
+  {
+   "s": 962.76,
+   "t": "I was <b>thrown</b> out of a car, / <b>rolled</b> several times.",
+   "e": 965.88
+  },
+  {
+   "s": 965.88,
+   "t": "I was thrown from the car. / And I woke up in a head injury re<b>hab</b> ward,",
+   "e": 970.64
+  },
+  {
+   "s": 970.64,
+   "t": "and I had been with<b>drawn</b> from college,",
+   "e": 973.62
+  },
+  {
+   "s": 973.62,
+   "t": "and I learned that my IQ had <b>dropped</b> / by two standard de<b>vi</b>ations,",
+   "e": 978.98
+  },
+  {
+   "s": 978.98,
+   "t": "which was very trau<b>mat</b>ic.",
+   "e": 981.6
+  },
+  {
+   "s": 981.6,
+   "t": "I knew my IQ / because I had i<b>den</b>tified with being <b>smart</b>,",
+   "e": 984.1
+  },
+  {
+   "s": 984.1,
+   "t": "and I had been called <b>gift</b>ed as a child.",
+   "e": 986.54
+  },
+  {
+   "s": 986.54,
+   "t": "So I'm taken out of <b>col</b>lege, / I keep trying to go <b>back</b>.",
+   "e": 989.38
+  },
+  {
+   "s": 989.38,
+   "t": "They say, “You're <b>not</b> going to finish college.",
+   "e": 991.06
+  },
+  {
+   "s": 991.06,
+   "t": "Like, just, you know, / there are <b>oth</b>er things for you to do, / but that's not going to work out for you.”",
+   "e": 995.65
+  }
+ ],
+ "verified": "2026-11-01"
+}

@@ -1,0 +1,154 @@
+{
+ "slug": "2026-11-grant-warby-parker",
+ "video_id": "ted-adam_grant_the_surprising_habits_of_original_thinkers",
+ "title": "Adam Grant, “The surprising habits of original thinkers” (Warby Parker)",
+ "url": "https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers",
+ "meta": {
+  "hablante": "Adam Grant",
+  "charla": "The surprising habits of original thinkers",
+  "acento": "Americano general",
+  "tema": "Negocio: startups y originalidad"
+ },
+ "lines": [
+  "<b>Sev</b>en years ago, / a student came to me / and asked me to in<b>vest</b> in his company.",
+  "He said, / “I'm working with <b>three</b> friends,",
+  "and we're gonna try to dis<b>rupt</b> an industry / by selling stuff on<b>line</b>.”",
+  "And I said, / “<b>Okay</b>, you guys spent the whole <b>sum</b>mer on this, right?”",
+  "“<b>No</b>, we all took <b>in</b>ternships, / just in case it doesn't work out.”",
+  "“All <b>right</b>, / but you're gonna go in full <b>time</b> once you graduate.”",
+  "“Not ex<b>act</b>ly. / We've all lined up <b>back</b>up jobs.”",
+  "<b>Six</b> months go by, / it's the day be<b>fore</b> the company launches,",
+  "and there is <b>still</b> not a functioning <b>web</b>site.",
+  "“You guys realize, / the en<b>tire</b> company is a website. / That's <b>lit</b>erally all it is.”",
+  "So I <b>ob</b>viously declined to invest.",
+  "And they ended up naming the company <b>War</b>by <b>Par</b>ker.",
+  "They sell <b>glass</b>es online.",
+  "They were recently recognized / as the world's most <b>in</b>novative company",
+  "and valued at over a <b>bil</b>lion dollars.",
+  "And <b>now</b>? / My <b>wife</b> handles our investments.",
+  "<b>Why</b> was I so wrong?",
+  "To find out, / I've been studying people that I come to call “o<b>rig</b>inals.”",
+  "Originals are non-con<b>form</b>ists,",
+  "people who not only have <b>new</b> ideas / but take <b>ac</b>tion to champion them.",
+  "They're people who stand <b>out</b> and speak <b>up</b>.",
+  "Originals drive cre<b>a</b>tivity and <b>change</b> in the world."
+ ],
+ "listen_for": "Storytelling with dialogue: his voice changes for each speaker · business words: <i>invest, disrupt an industry, launch, valued at</i> · the punchline pause before <i>My wife handles our investments</i>.",
+ "notas": "Subtítulos TED + Whisper small.en (dos pasadas). Se oye «gonna» (los subtítulos ponen «going to»). Whisper inventa una frase inicial en el silencio y oye «They saw glasses» (es «sell»): falsos positivos descartados.",
+ "start": 4.76,
+ "end": 80.25,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 4.46,
+   "t": "<b>Sev</b>en years ago, / a student came to me / and asked me to in<b>vest</b> in his company.",
+   "e": 8.96
+  },
+  {
+   "s": 8.96,
+   "t": "He said, / “I'm working with <b>three</b> friends,",
+   "e": 10.38
+  },
+  {
+   "s": 10.38,
+   "t": "and we're gonna try to dis<b>rupt</b> an industry / by selling stuff on<b>line</b>.”",
+   "e": 15.04
+  },
+  {
+   "s": 15.04,
+   "t": "And I said, / “<b>Okay</b>, you guys spent the whole <b>sum</b>mer on this, right?”",
+   "e": 17.78
+  },
+  {
+   "s": 17.78,
+   "t": "“<b>No</b>, we all took <b>in</b>ternships, / just in case it doesn't work out.”",
+   "e": 21.2
+  },
+  {
+   "s": 21.2,
+   "t": "“All <b>right</b>, / but you're gonna go in full <b>time</b> once you graduate.”",
+   "e": 24.98
+  },
+  {
+   "s": 24.98,
+   "t": "“Not ex<b>act</b>ly. / We've all lined up <b>back</b>up jobs.”",
+   "e": 28.66
+  },
+  {
+   "s": 28.66,
+   "t": "<b>Six</b> months go by, / it's the day be<b>fore</b> the company launches,",
+   "e": 32.22
+  },
+  {
+   "s": 32.22,
+   "t": "and there is <b>still</b> not a functioning <b>web</b>site.",
+   "e": 34.84
+  },
+  {
+   "s": 34.84,
+   "t": "“You guys realize, / the en<b>tire</b> company is a website. / That's <b>lit</b>erally all it is.”",
+   "e": 40.8
+  },
+  {
+   "s": 40.8,
+   "t": "So I <b>ob</b>viously declined to invest.",
+   "e": 44.9
+  },
+  {
+   "s": 44.9,
+   "t": "And they ended up naming the company <b>War</b>by <b>Par</b>ker.",
+   "e": 48.54
+  },
+  {
+   "s": 48.54,
+   "t": "They sell <b>glass</b>es online.",
+   "e": 51.72
+  },
+  {
+   "s": 51.72,
+   "t": "They were recently recognized / as the world's most <b>in</b>novative company",
+   "e": 54.44
+  },
+  {
+   "s": 54.44,
+   "t": "and valued at over a <b>bil</b>lion dollars.",
+   "e": 56.82
+  },
+  {
+   "s": 56.82,
+   "t": "And <b>now</b>? / My <b>wife</b> handles our investments.",
+   "e": 62.58
+  },
+  {
+   "s": 62.58,
+   "t": "<b>Why</b> was I so wrong?",
+   "e": 64.46
+  },
+  {
+   "s": 64.46,
+   "t": "To find out, / I've been studying people that I come to call “o<b>rig</b>inals.”",
+   "e": 68.62
+  },
+  {
+   "s": 68.62,
+   "t": "Originals are non-con<b>form</b>ists,",
+   "e": 70.5
+  },
+  {
+   "s": 70.5,
+   "t": "people who not only have <b>new</b> ideas / but take <b>ac</b>tion to champion them.",
+   "e": 75.36
+  },
+  {
+   "s": 75.36,
+   "t": "They're people who stand <b>out</b> and speak <b>up</b>.",
+   "e": 78.06
+  },
+  {
+   "s": 78.06,
+   "t": "Originals drive cre<b>a</b>tivity and <b>change</b> in the world.",
+   "e": 80.35
+  }
+ ],
+ "verified": "2026-11-01"
+}

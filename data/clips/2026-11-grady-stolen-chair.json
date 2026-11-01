@@ -1,0 +1,142 @@
+{
+ "slug": "2026-11-grady-stolen-chair",
+ "video_id": "ted-david_grady_how_to_save_the_world_or_at_least_yourself_from_",
+ "title": "David Grady, “How to save the world (or at least yourself) from bad meetings” (the stolen chair)",
+ "url": "https://www.ted.com/talks/david_grady_how_to_save_the_world_or_at_least_yourself_from_bad_meetings",
+ "meta": {
+  "hablante": "David Grady",
+  "charla": "How to save the world (or at least yourself) from bad meetings",
+  "acento": "Americano general",
+  "tema": "Trabajo: reuniones que te roban tiempo"
+ },
+ "lines": [
+  "<b>Pic</b>ture this: / It's <b>Mon</b>day morning, / you're at the <b>of</b>fice,",
+  "you're settling <b>in</b> for the day of work,",
+  "and this <b>guy</b> that you sort of recognize from down the hall",
+  "walks right into your <b>cu</b>bicle / and he <b>steals</b> your <b>chair</b>.",
+  "Doesn't say a <b>word</b>, / just <b>rolls</b> away with it.",
+  "Doesn't give you any infor<b>ma</b>tion / about <b>why</b> he took your chair",
+  "out of all of the <b>chairs</b> that are out there.",
+  "Doesn't ac<b>knowl</b>edge the fact / that you might <b>need</b> your chair / to get some work done today.",
+  "You <b>would</b>n't stand for it. / You'd make a <b>stink</b>.",
+  "You'd <b>fol</b>low that guy back to his cubicle / and you'd say, “<b>Why</b> my chair?”",
+  "Okay, so now it's <b>Tues</b>day morning, / and you're at the office,",
+  "and a meeting invi<b>ta</b>tion pops up in your <b>cal</b>endar.",
+  "And it's from this <b>wom</b>an who you kind of know from down the hall,",
+  "and the subject line references some <b>pro</b>ject / you heard a little bit about.",
+  "But there's <b>no</b> agenda.",
+  "There's no information about <b>why</b> you were invited to the meeting.",
+  "And <b>yet</b> you accept the meeting invitation, / and you <b>go</b>.",
+  "And when this highly unpro<b>duc</b>tive session is over, / you go back to your <b>desk</b>,",
+  "and you stand at your desk and you say, / “<b>Boy</b>, I wish I had those <b>two</b> hours back,",
+  "like I wish I had my <b>chair</b> back.”"
+ ],
+ "listen_for": "Office English you can reuse: <i>a meeting invitation pops up, no agenda, I wish I had those two hours back</i> · <i>kind of</i> → “kinda”, <i>sort of</i> → “sorta” · parallel structure: <i>Doesn't say… Doesn't give… Doesn't acknowledge…</i>",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «for the day of work» y «out of all of the other chairs»; se sigue el audio. Whisper oye «You follow» (es «You'd follow») y «when you're at the office» (es «and you're»): falsos positivos. Verificación: la segunda pasada de Whisper no oye «that», «from», «of», «and» y oye «projects»/«her»/«when»; la primera pasada y los subtítulos sí coinciden con el texto: falsos positivos revisados (verify --force).",
+ "start": 5.04,
+ "end": 69.59,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 4.74,
+   "t": "<b>Pic</b>ture this: / It's <b>Mon</b>day morning, / you're at the <b>of</b>fice,",
+   "e": 8.4
+  },
+  {
+   "s": 8.4,
+   "t": "you're settling <b>in</b> for the day of work,",
+   "e": 10.1
+  },
+  {
+   "s": 10.1,
+   "t": "and this <b>guy</b> that you sort of recognize from down the hall",
+   "e": 12.4
+  },
+  {
+   "s": 12.4,
+   "t": "walks right into your <b>cu</b>bicle / and he <b>steals</b> your <b>chair</b>.",
+   "e": 16.52
+  },
+  {
+   "s": 16.52,
+   "t": "Doesn't say a <b>word</b>, / just <b>rolls</b> away with it.",
+   "e": 18.92
+  },
+  {
+   "s": 18.92,
+   "t": "Doesn't give you any infor<b>ma</b>tion / about <b>why</b> he took your chair",
+   "e": 21.26
+  },
+  {
+   "s": 21.26,
+   "t": "out of all of the <b>chairs</b> that are out there.",
+   "e": 23.42
+  },
+  {
+   "s": 23.42,
+   "t": "Doesn't ac<b>knowl</b>edge the fact / that you might <b>need</b> your chair / to get some work done today.",
+   "e": 27.14
+  },
+  {
+   "s": 27.14,
+   "t": "You <b>would</b>n't stand for it. / You'd make a <b>stink</b>.",
+   "e": 29.58
+  },
+  {
+   "s": 29.58,
+   "t": "You'd <b>fol</b>low that guy back to his cubicle / and you'd say, “<b>Why</b> my chair?”",
+   "e": 34.84
+  },
+  {
+   "s": 34.84,
+   "t": "Okay, so now it's <b>Tues</b>day morning, / and you're at the office,",
+   "e": 37.72
+  },
+  {
+   "s": 37.72,
+   "t": "and a meeting invi<b>ta</b>tion pops up in your <b>cal</b>endar.",
+   "e": 43.44
+  },
+  {
+   "s": 43.44,
+   "t": "And it's from this <b>wom</b>an who you kind of know from down the hall,",
+   "e": 46.14
+  },
+  {
+   "s": 46.14,
+   "t": "and the subject line references some <b>pro</b>ject / you heard a little bit about.",
+   "e": 49.74
+  },
+  {
+   "s": 49.74,
+   "t": "But there's <b>no</b> agenda.",
+   "e": 51.98
+  },
+  {
+   "s": 51.98,
+   "t": "There's no information about <b>why</b> you were invited to the meeting.",
+   "e": 54.22
+  },
+  {
+   "s": 54.22,
+   "t": "And <b>yet</b> you accept the meeting invitation, / and you <b>go</b>.",
+   "e": 59.32
+  },
+  {
+   "s": 59.32,
+   "t": "And when this highly unpro<b>duc</b>tive session is over, / you go back to your <b>desk</b>,",
+   "e": 64.0
+  },
+  {
+   "s": 64.0,
+   "t": "and you stand at your desk and you say, / “<b>Boy</b>, I wish I had those <b>two</b> hours back,",
+   "e": 68.14
+  },
+  {
+   "s": 68.14,
+   "t": "like I wish I had my <b>chair</b> back.”",
+   "e": 69.69
+  }
+ ],
+ "verified": "2026-11-01 (forzado: diferencias revisadas, ver notas)"
+}

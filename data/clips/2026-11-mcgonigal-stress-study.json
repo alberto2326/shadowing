@@ -1,0 +1,130 @@
+{
+ "slug": "2026-11-mcgonigal-stress-study",
+ "video_id": "ted-kelly_mcgonigal_how_to_make_stress_your_friend",
+ "title": "Kelly McGonigal, “How to make stress your friend” (the study)",
+ "url": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend",
+ "meta": {
+  "hablante": "Kelly McGonigal",
+  "charla": "How to make stress your friend",
+  "acento": "Americano general (mujer)",
+  "tema": "Estrés: lo que dicen los datos"
+ },
+ "lines": [
+  "This study <b>tracked</b> 30,000 adults in the United States / for <b>eight</b> years,",
+  "and they started by asking people, / “How much <b>stress</b> have you experienced in the last year?”",
+  "They also asked, / “Do you be<b>lieve</b> that stress is <b>harm</b>ful for your health?”",
+  "And then they used public <b>death</b> records / to find out who <b>died</b>.",
+  "<b>Okay</b>. / Some <b>bad</b> news first.",
+  "People who experienced a <b>lot</b> of stress in the previous year / had a 43% increased risk of <b>dy</b>ing.",
+  "But that was <b>on</b>ly true for the people / who <b>al</b>so believed that stress is harmful for your health.",
+  "People who experienced a lot of stress / but did <b>not</b> view stress as harmful",
+  "were no more <b>like</b>ly to die.",
+  "In fact, they had the <b>low</b>est risk of dying / of <b>an</b>yone in the study,",
+  "including people who had relatively <b>lit</b>tle stress.",
+  "Now the researchers <b>es</b>timated / that over the eight years they were tracking deaths,",
+  "182,000 Americans died pre<b>ma</b>turely,",
+  "<b>not</b> from stress, / but from the be<b>lief</b> that stress is bad for you.",
+  "That is over 20,000 deaths a <b>year</b>.",
+  "Now, if that estimate is <b>cor</b>rect,",
+  "that would make believing stress is bad for you / the <b>15th</b> <b>larg</b>est cause of death in the United States last year,",
+  "killing more people than <b>skin</b> cancer, / HIV/<b>AIDS</b> / and <b>hom</b>icide."
+ ],
+ "listen_for": "Numbers in a presentation: <i>thirty thousand</i>, <i>forty-three percent</i>, <i>a hundred eighty-two thousand</i> · contrast: <b>not</b> from stress, but from the <b>belief</b> · quoted questions read with question intonation.",
+ "notas": "Subtítulos TED + Whisper small.en. Whisper oye «stress as bad for you» (es «stress is bad»). Cifras en dígitos.",
+ "start": 77.74,
+ "end": 166.33,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 77.44,
+   "t": "This study <b>tracked</b> 30,000 adults in the United States / for <b>eight</b> years,",
+   "e": 81.62
+  },
+  {
+   "s": 81.62,
+   "t": "and they started by asking people, / “How much <b>stress</b> have you experienced in the last year?”",
+   "e": 88.42
+  },
+  {
+   "s": 88.42,
+   "t": "They also asked, / “Do you be<b>lieve</b> that stress is <b>harm</b>ful for your health?”",
+   "e": 94.1
+  },
+  {
+   "s": 94.1,
+   "t": "And then they used public <b>death</b> records / to find out who <b>died</b>.",
+   "e": 100.98
+  },
+  {
+   "s": 100.98,
+   "t": "<b>Okay</b>. / Some <b>bad</b> news first.",
+   "e": 104.56
+  },
+  {
+   "s": 104.56,
+   "t": "People who experienced a <b>lot</b> of stress in the previous year / had a 43% increased risk of <b>dy</b>ing.",
+   "e": 110.58
+  },
+  {
+   "s": 110.58,
+   "t": "But that was <b>on</b>ly true for the people / who <b>al</b>so believed that stress is harmful for your health.",
+   "e": 122.0
+  },
+  {
+   "s": 122.0,
+   "t": "People who experienced a lot of stress / but did <b>not</b> view stress as harmful",
+   "e": 126.26
+  },
+  {
+   "s": 126.26,
+   "t": "were no more <b>like</b>ly to die.",
+   "e": 128.36
+  },
+  {
+   "s": 128.36,
+   "t": "In fact, they had the <b>low</b>est risk of dying / of <b>an</b>yone in the study,",
+   "e": 133.12
+  },
+  {
+   "s": 133.12,
+   "t": "including people who had relatively <b>lit</b>tle stress.",
+   "e": 136.48
+  },
+  {
+   "s": 136.48,
+   "t": "Now the researchers <b>es</b>timated / that over the eight years they were tracking deaths,",
+   "e": 140.44
+  },
+  {
+   "s": 140.44,
+   "t": "182,000 Americans died pre<b>ma</b>turely,",
+   "e": 143.8
+  },
+  {
+   "s": 143.8,
+   "t": "<b>not</b> from stress, / but from the be<b>lief</b> that stress is bad for you.",
+   "e": 149.74
+  },
+  {
+   "s": 149.74,
+   "t": "That is over 20,000 deaths a <b>year</b>.",
+   "e": 153.48
+  },
+  {
+   "s": 153.48,
+   "t": "Now, if that estimate is <b>cor</b>rect,",
+   "e": 156.18
+  },
+  {
+   "s": 156.18,
+   "t": "that would make believing stress is bad for you / the <b>15th</b> <b>larg</b>est cause of death in the United States last year,",
+   "e": 162.52
+  },
+  {
+   "s": 162.52,
+   "t": "killing more people than <b>skin</b> cancer, / HIV/<b>AIDS</b> / and <b>hom</b>icide.",
+   "e": 166.43
+  }
+ ],
+ "verified": "2026-11-01"
+}

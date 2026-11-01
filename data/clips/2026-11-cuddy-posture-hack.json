@@ -1,0 +1,124 @@
+{
+ "slug": "2026-11-cuddy-posture-hack",
+ "video_id": "ted-amy_cuddy_your_body_language_may_shape_who_you_are",
+ "title": "Amy Cuddy, “Your body language may shape who you are” (a free life hack)",
+ "url": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are",
+ "meta": {
+  "hablante": "Amy Cuddy",
+  "charla": "Your body language may shape who you are",
+  "acento": "Americano general (mujer)",
+  "tema": "Lenguaje corporal y confianza"
+ },
+ "lines": [
+  "So I want to <b>start</b> by offering you / a <b>free</b> no-tech life <b>hack</b>,",
+  "and <b>all</b> it requires of you is <b>this</b>: / that you change your <b>pos</b>ture for <b>two</b> minutes.",
+  "But be<b>fore</b> I give it away, / I want to ask you to right <b>now</b>",
+  "do a little <b>au</b>dit of your <b>bod</b>y / and what you're <b>do</b>ing with your body.",
+  "So how many of you are sort of making yourselves <b>small</b>er?",
+  "Maybe you're <b>hunch</b>ing, / <b>cross</b>ing your legs, / maybe <b>wrap</b>ping your ankles.",
+  "Sometimes we hold onto our <b>arms</b> like this. / Sometimes we spread <b>out</b>.",
+  "I <b>see</b> you.",
+  "So I want you to pay at<b>ten</b>tion / to what you're doing right <b>now</b>.",
+  "We're going to come <b>back</b> to that in a few minutes,",
+  "and I'm <b>hop</b>ing that if you sort of learn to <b>tweak</b> this a little bit,",
+  "it could <b>sig</b>nificantly change / the way your <b>life</b> unfolds.",
+  "So, we're really <b>fas</b>cinated with body language,",
+  "and we're par<b>tic</b>ularly interested / in <b>oth</b>er people's body language.",
+  "We're interested in an <b>awk</b>ward interaction, / or a <b>smile</b>,",
+  "or a con<b>temp</b>tuous glance, / or maybe a very awkward <b>wink</b>,",
+  "or maybe even something like a <b>hand</b>shake."
+ ],
+ "listen_for": "Rising intonation in questions to the audience (<i>how many of you…?</i>) · lists: <i>hunching, crossing your legs, wrapping your ankles</i> — each item rises, the last one falls · flapped t in <i>audit</i>, <i>little</i>.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «if you sort of learn to tweak this»; se sigue el audio.",
+ "start": 4.34,
+ "end": 74.87,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 4.04,
+   "t": "So I want to <b>start</b> by offering you / a <b>free</b> no-tech life <b>hack</b>,",
+   "e": 9.58
+  },
+  {
+   "s": 9.58,
+   "t": "and <b>all</b> it requires of you is <b>this</b>: / that you change your <b>pos</b>ture for <b>two</b> minutes.",
+   "e": 16.4
+  },
+  {
+   "s": 16.4,
+   "t": "But be<b>fore</b> I give it away, / I want to ask you to right <b>now</b>",
+   "e": 19.64
+  },
+  {
+   "s": 19.64,
+   "t": "do a little <b>au</b>dit of your <b>bod</b>y / and what you're <b>do</b>ing with your body.",
+   "e": 23.44
+  },
+  {
+   "s": 23.44,
+   "t": "So how many of you are sort of making yourselves <b>small</b>er?",
+   "e": 25.76
+  },
+  {
+   "s": 25.76,
+   "t": "Maybe you're <b>hunch</b>ing, / <b>cross</b>ing your legs, / maybe <b>wrap</b>ping your ankles.",
+   "e": 29.8
+  },
+  {
+   "s": 29.8,
+   "t": "Sometimes we hold onto our <b>arms</b> like this. / Sometimes we spread <b>out</b>.",
+   "e": 37.32
+  },
+  {
+   "s": 37.32,
+   "t": "I <b>see</b> you.",
+   "e": 39.28
+  },
+  {
+   "s": 39.28,
+   "t": "So I want you to pay at<b>ten</b>tion / to what you're doing right <b>now</b>.",
+   "e": 41.86
+  },
+  {
+   "s": 41.86,
+   "t": "We're going to come <b>back</b> to that in a few minutes,",
+   "e": 44.24
+  },
+  {
+   "s": 44.24,
+   "t": "and I'm <b>hop</b>ing that if you sort of learn to <b>tweak</b> this a little bit,",
+   "e": 47.4
+  },
+  {
+   "s": 47.4,
+   "t": "it could <b>sig</b>nificantly change / the way your <b>life</b> unfolds.",
+   "e": 50.28
+  },
+  {
+   "s": 50.28,
+   "t": "So, we're really <b>fas</b>cinated with body language,",
+   "e": 55.36
+  },
+  {
+   "s": 55.36,
+   "t": "and we're par<b>tic</b>ularly interested / in <b>oth</b>er people's body language.",
+   "e": 59.8
+  },
+  {
+   "s": 59.8,
+   "t": "We're interested in an <b>awk</b>ward interaction, / or a <b>smile</b>,",
+   "e": 68.42
+  },
+  {
+   "s": 68.42,
+   "t": "or a con<b>temp</b>tuous glance, / or maybe a very awkward <b>wink</b>,",
+   "e": 72.36
+  },
+  {
+   "s": 72.36,
+   "t": "or maybe even something like a <b>hand</b>shake.",
+   "e": 74.97
+  }
+ ],
+ "verified": "2026-11-01"
+}

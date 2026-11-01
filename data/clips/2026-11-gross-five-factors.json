@@ -1,0 +1,160 @@
+{
+ "slug": "2026-11-gross-five-factors",
+ "video_id": "ted-bill_gross_the_single_biggest_reason_why_start_ups_succeed",
+ "title": "Bill Gross, “The single biggest reason why start-ups succeed” (five factors)",
+ "url": "https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed",
+ "meta": {
+  "hablante": "Bill Gross",
+  "charla": "The single biggest reason why start-ups succeed",
+  "acento": "Americano general",
+  "tema": "Negocio: idea, equipo, modelo, financiación y timing"
+ },
+ "lines": [
+  "So I looked at these <b>five</b>.",
+  "<b>First</b>, the i<b>de</b>a.",
+  "I used to think that the idea was <b>ev</b>erything.",
+  "I named my company Idealab / for how much I <b>wor</b>ship the “<b>aha</b>!” moment / when you first come up with the idea.",
+  "But then over <b>time</b>, / I came to think that maybe the <b>team</b>, / the exe<b>cu</b>tion, / adapta<b>bil</b>ity,",
+  "that mattered even <b>more</b> than the idea.",
+  "I never thought I'd be quoting <b>box</b>er Mike <b>Ty</b>son on the TED stage,",
+  "but he once said, / “Everybody has a <b>plan</b>, / until they get <b>punched</b> in the face.”",
+  "And I think that's so <b>true</b> about business as well.",
+  "So much about a team's exe<b>cu</b>tion / is its ability to a<b>dapt</b>",
+  "to getting punched in the face by the <b>cus</b>tomer.",
+  "The customer is the true re<b>al</b>ity.",
+  "And that's <b>why</b> I came to think / that the team maybe was the most im<b>por</b>tant thing.",
+  "Then I started looking at the <b>bus</b>iness model.",
+  "Does the company have a very <b>clear</b> path / generating customer <b>rev</b>enues?",
+  "That started rising to the <b>top</b> in my thinking / about maybe what mattered most for success.",
+  "Then I looked at the <b>fund</b>ing.",
+  "Sometimes companies received <b>in</b>tense amounts of funding.",
+  "Maybe that's the most important thing?",
+  "And then, of course, / the <b>tim</b>ing.",
+  "Is the idea way too <b>ear</b>ly / and the world's not <b>read</b>y for it?",
+  "Is it early, meaning you're in ad<b>vance</b> / and you have to <b>ed</b>ucate the world?",
+  "Is it just <b>right</b>? / Or is it too <b>late</b>, / and there's already too many com<b>pet</b>itors?"
+ ],
+ "listen_for": "Startup vocabulary: <i>execution, business model, revenues, funding, timing, competitors</i> · a list of questions: rising on each option, falling at the end · quote with a pause: <i>until they get punched in the face</i>.",
+ "notas": "Subtítulos TED + Whisper small.en. El audio dice «meaning you're in advance» (subtítulos: «as in»); se sigue el audio. Whisper oye «Idea Lab and how much» y «intense amount»: falsos positivos.",
+ "start": 81.34,
+ "end": 148.45,
+ "source": "TED",
+ "cues": [
+  {
+   "s": 81.04,
+   "t": "So I looked at these <b>five</b>.",
+   "e": 82.7
+  },
+  {
+   "s": 82.7,
+   "t": "<b>First</b>, the i<b>de</b>a.",
+   "e": 83.8
+  },
+  {
+   "s": 83.8,
+   "t": "I used to think that the idea was <b>ev</b>erything.",
+   "e": 85.9
+  },
+  {
+   "s": 85.9,
+   "t": "I named my company Idealab / for how much I <b>wor</b>ship the “<b>aha</b>!” moment / when you first come up with the idea.",
+   "e": 90.54
+  },
+  {
+   "s": 90.54,
+   "t": "But then over <b>time</b>, / I came to think that maybe the <b>team</b>, / the exe<b>cu</b>tion, / adapta<b>bil</b>ity,",
+   "e": 95.56
+  },
+  {
+   "s": 95.56,
+   "t": "that mattered even <b>more</b> than the idea.",
+   "e": 97.34
+  },
+  {
+   "s": 97.34,
+   "t": "I never thought I'd be quoting <b>box</b>er Mike <b>Ty</b>son on the TED stage,",
+   "e": 101.98
+  },
+  {
+   "s": 101.98,
+   "t": "but he once said, / “Everybody has a <b>plan</b>, / until they get <b>punched</b> in the face.”",
+   "e": 107.8
+  },
+  {
+   "s": 107.8,
+   "t": "And I think that's so <b>true</b> about business as well.",
+   "e": 111.06
+  },
+  {
+   "s": 111.06,
+   "t": "So much about a team's exe<b>cu</b>tion / is its ability to a<b>dapt</b>",
+   "e": 114.62
+  },
+  {
+   "s": 114.62,
+   "t": "to getting punched in the face by the <b>cus</b>tomer.",
+   "e": 117.02
+  },
+  {
+   "s": 117.02,
+   "t": "The customer is the true re<b>al</b>ity.",
+   "e": 118.88
+  },
+  {
+   "s": 118.88,
+   "t": "And that's <b>why</b> I came to think / that the team maybe was the most im<b>por</b>tant thing.",
+   "e": 123.44
+  },
+  {
+   "s": 123.44,
+   "t": "Then I started looking at the <b>bus</b>iness model.",
+   "e": 125.3
+  },
+  {
+   "s": 125.3,
+   "t": "Does the company have a very <b>clear</b> path / generating customer <b>rev</b>enues?",
+   "e": 128.26
+  },
+  {
+   "s": 128.26,
+   "t": "That started rising to the <b>top</b> in my thinking / about maybe what mattered most for success.",
+   "e": 133.32
+  },
+  {
+   "s": 133.32,
+   "t": "Then I looked at the <b>fund</b>ing.",
+   "e": 134.42
+  },
+  {
+   "s": 134.42,
+   "t": "Sometimes companies received <b>in</b>tense amounts of funding.",
+   "e": 136.96
+  },
+  {
+   "s": 136.96,
+   "t": "Maybe that's the most important thing?",
+   "e": 138.56
+  },
+  {
+   "s": 138.56,
+   "t": "And then, of course, / the <b>tim</b>ing.",
+   "e": 140.04
+  },
+  {
+   "s": 140.04,
+   "t": "Is the idea way too <b>ear</b>ly / and the world's not <b>read</b>y for it?",
+   "e": 142.88
+  },
+  {
+   "s": 142.88,
+   "t": "Is it early, meaning you're in ad<b>vance</b> / and you have to <b>ed</b>ucate the world?",
+   "e": 145.8
+  },
+  {
+   "s": 145.8,
+   "t": "Is it just <b>right</b>? / Or is it too <b>late</b>, / and there's already too many com<b>pet</b>itors?",
+   "e": 148.55
+  }
+ ],
+ "verified": "2026-11-01"
+}

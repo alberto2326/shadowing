@@ -1,0 +1,129 @@
+{
+ "title": "Susan Cain, “The power of introverts” (summer camp)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
+ "segment": "00:03–01:34 (90 s)",
+ "listen_for": "Storytelling intonation: the voice rises on the build-up and falls at the end of each sentence · contrast stress: for <b>us</b> it was a <b>dif</b>ferent way of being social · linking in <i>went_off</i>, <i>full_of</i>, <i>go_off_and</i>.",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 4.3,
+   "t": "When I was <b>nine</b> years old, / I went off to <b>sum</b>mer camp for the <b>first</b> time,"
+  },
+  {
+   "s": 4.3,
+   "e": 8.16,
+   "t": "and my <b>moth</b>er packed me a suitcase full of <b>books</b>,"
+  },
+  {
+   "s": 8.16,
+   "e": 11.28,
+   "t": "which to <b>me</b> seemed like a perfectly <b>nat</b>ural thing to do,"
+  },
+  {
+   "s": 11.28,
+   "e": 15.48,
+   "t": "because in my <b>fam</b>ily, / <b>read</b>ing was the <b>pri</b>mary <b>group</b> activity."
+  },
+  {
+   "s": 15.48,
+   "e": 18.0,
+   "t": "And this might sound anti<b>so</b>cial to you,"
+  },
+  {
+   "s": 18.0,
+   "e": 21.24,
+   "t": "but for <b>us</b>, it was really just a <b>dif</b>ferent way of being <b>so</b>cial."
+  },
+  {
+   "s": 21.24,
+   "e": 24.22,
+   "t": "You had the <b>an</b>imal <b>warmth</b> of your family / sitting right <b>next</b> to you,"
+  },
+  {
+   "s": 24.22,
+   "e": 28.82,
+   "t": "but you were <b>al</b>so free to go <b>roam</b>ing around / the <b>Ad</b>ventureland inside your <b>own</b> mind."
+  },
+  {
+   "s": 28.82,
+   "e": 35.72,
+   "t": "And I had this i<b>de</b>a / that <b>camp</b> was going to be just like <b>this</b>, / but <b>bet</b>ter."
+  },
+  {
+   "s": 35.72,
+   "e": 38.98,
+   "t": "I had a <b>vi</b>sion of <b>ten</b> girls sitting in a <b>cab</b>in"
+  },
+  {
+   "s": 38.98,
+   "e": 42.34,
+   "t": "<b>co</b>zily reading books / in their <b>match</b>ing <b>night</b>gowns."
+  },
+  {
+   "s": 42.34,
+   "e": 45.5,
+   "t": "Camp was more like a <b>keg</b> party / without any <b>al</b>cohol."
+  },
+  {
+   "s": 45.5,
+   "e": 50.54,
+   "t": "And on the <b>ver</b>y first day, / our <b>coun</b>selor gathered us all together"
+  },
+  {
+   "s": 50.54,
+   "e": 53.32,
+   "t": "and she <b>taught</b> us a cheer / that she said we would be doing"
+  },
+  {
+   "s": 53.32,
+   "e": 56.74,
+   "t": "<b>ev</b>ery day for the rest of the <b>sum</b>mer / to in<b>still</b> camp <b>spir</b>it."
+  },
+  {
+   "s": 56.74,
+   "e": 59.48,
+   "t": "And it went like <b>this</b>:"
+  },
+  {
+   "s": 59.48,
+   "e": 62.32,
+   "t": "“R-O-W-D-I-<b>E</b>, / that's the way we spell <b>row</b>dy."
+  },
+  {
+   "s": 62.32,
+   "e": 67.54,
+   "t": "Rowdy, <b>row</b>dy, / let's get <b>row</b>dy.”"
+  },
+  {
+   "s": 67.54,
+   "e": 69.84,
+   "t": "<b>Yeah</b>."
+  },
+  {
+   "s": 69.84,
+   "e": 73.9,
+   "t": "So I couldn't figure out for the <b>life</b> of me / why we were supposed to be so <b>row</b>dy,"
+  },
+  {
+   "s": 73.9,
+   "e": 82.82,
+   "t": "or why we had to spell this word in<b>cor</b>rectly."
+  },
+  {
+   "s": 82.82,
+   "e": 86.2,
+   "t": "But I re<b>cit</b>ed the cheer. / I recited the cheer along with <b>ev</b>erybody else."
+  },
+  {
+   "s": 86.2,
+   "e": 87.46,
+   "t": "I did my <b>best</b>."
+  },
+  {
+   "s": 87.46,
+   "e": 90.83,
+   "t": "And I just <b>wait</b>ed for the time / that I could go off and <b>read</b> my <b>books</b>."
+  }
+ ]
+}
