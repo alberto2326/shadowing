@@ -39,11 +39,8 @@ Pensado para replicarlo en otra cuenta. Solo hace falta una cuenta de GitHub y C
      *.huggingface.co
      *.hf.co
      ```
-   - *Setup script* (instala las herramientas y descarga el modelo de Whisper al crear cada sesión):
-     ```bash
-     python3 -m pip install -q --root-user-action=ignore "yt-dlp==2026.10.26" "faster-whisper==1.2.1" "numpy==2.5.3" "pytest==9.2.0"
-     python3 -c "from faster_whisper import WhisperModel; WhisperModel('small.en', device='cpu', compute_type='int8')" >/dev/null
-     ```
+   - *Setup script*: déjalo **vacío**. Las herramientas las instala `tools/setup.sh` al empezar cada tanda, con el
+     mismo Python que se usa después (si se instalan también aquí, pueden acabar en otro Python y fallar).
 5. **Primera tanda**: abre una sesión de Claude Code con el repo y escribe `/nueva-tanda`.
 6. **Automatización**: en Claude Code, crea una tarea programada (sección de tareas programadas) con este repo y
    este entorno, que se ejecute cada lunes por la mañana con este texto (si la tanda ya está hecha, termina sin hacer nada):
@@ -54,7 +51,7 @@ Pensado para replicarlo en otra cuenta. Solo hace falta una cuenta de GitHub y C
 ## Mantenimiento
 
 - **Si una descarga de TED falla**: actualiza yt-dlp (`pip install -U yt-dlp`), fija la nueva versión en
-  `tools/requirements.txt`, `tools/setup.sh` y el *Setup script* del entorno.
+  `tools/requirements.txt`.
 - **Tamaño**: cada clip ocupa ~0,6 MB. La web solo conserva los clips de los últimos 60 días (`retain_days`).
 - **Comprobar todo a mano**: `python3 tools/shadow.py check && python3 -m pytest -q tests`.
 

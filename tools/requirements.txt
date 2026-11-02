@@ -2,5 +2,5 @@
 # yt-dlp es lo único que conviene actualizar si ted.com cambia su web (pip install -U yt-dlp y fijar la nueva versión).
 yt-dlp==2026.10.26
 faster-whisper==1.2.1
-numpy==2.5.3
+numpy>=1.26,<3   # la trae faster-whisper; sin versión exacta para que valga con cualquier Python 3.10+
 pytest==9.2.0
