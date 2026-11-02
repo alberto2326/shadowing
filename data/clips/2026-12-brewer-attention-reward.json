@@ -1,0 +1,196 @@
+{
+ "slug": "2026-12-brewer-attention-reward",
+ "video_id": "ted-judson_brewer_a_simple_way_to_break_a_bad_habit",
+ "title": "Judson Brewer, “A simple way to break a bad habit” (Por qué cuesta tanto prestar atención)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit",
+ "start": 31.94,
+ "end": 95.67,
+ "meta": {
+  "hablante": "Judson Brewer",
+  "charla": "A simple way to break a bad habit",
+  "acento": "Americano general (hombre)",
+  "tema": "Por qué cuesta tanto prestar atención"
+ },
+ "lines": [
+  "So <b>why</b> is it so <b>hard</b> to pay at<b>ten</b>tion?",
+  "<b>Well</b>, / <b>stud</b>ies <b>show</b>",
+  "that <b>e</b>ven when we're <b>real</b>ly trying to pay at<b>ten</b>tion to <b>some</b>thing --",
+  "like <b>may</b>be this <b>talk</b> --",
+  "at <b>some</b> point,",
+  "a<b>bout</b> half of us will <b>drift</b> off into a <b>day</b>dream,",
+  "or have this <b>urge</b> to <b>check</b> our <b>Twit</b>ter feed.",
+  "So <b>what's</b> going on <b>here</b>?",
+  "It turns <b>out</b> that we're <b>fight</b>ing / one of the most evo<b>lu</b>tionarily-con<b>served</b>",
+  "<b>learn</b>ing processes <b>cur</b>rently known in <b>sci</b>ence,",
+  "one that's con<b>served</b>",
+  "<b>back</b> to the most <b>ba</b>sic <b>ner</b>vous systems known to <b>man</b>.",
+  "This re<b>ward</b>-based <b>learn</b>ing process",
+  "is called <b>pos</b>itive and <b>neg</b>ative re<b>in</b>forcement,",
+  "and <b>ba</b>sically goes like <b>this</b>.",
+  "We see some <b>food</b> that looks <b>good</b>,",
+  "our <b>brain</b> says, / “<b>Cal</b>ories! / ... Sur<b>viv</b>al!”",
+  "We <b>eat</b> the food, we <b>taste</b> it --",
+  "it <b>tastes</b> good.",
+  "And es<b>pe</b>cially with <b>sug</b>ar,",
+  "our <b>bod</b>ies send a <b>sig</b>nal to our <b>brain</b> that says,",
+  "“Re<b>mem</b>ber what you're <b>eat</b>ing / and <b>where</b> you found it.”",
+  "We lay <b>down</b> this con<b>text</b>-de<b>pend</b>ent <b>mem</b>ory",
+  "and <b>learn</b> to re<b>peat</b> the <b>proc</b>ess next <b>time</b>.",
+  "See <b>food</b>,",
+  "<b>eat</b> food, feel <b>good</b>,",
+  "re<b>peat</b>.",
+  "<b>Trig</b>ger, be<b>hav</b>ior, re<b>ward</b>.",
+  "<b>Sim</b>ple, / <b>right</b>?"
+ ],
+ "listen_for": "The reward loop <i>trigger, behavior, reward</i> (three beats), and the way <i>See food, eat food, feel good, repeat</i> speeds up",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 31.64,
+   "t": "So <b>why</b> is it so <b>hard</b> to pay at<b>ten</b>tion?",
+   "e": 34.54
+  },
+  {
+   "s": 34.54,
+   "t": "<b>Well</b>, / <b>stud</b>ies <b>show</b>",
+   "e": 35.92
+  },
+  {
+   "s": 35.92,
+   "t": "that <b>e</b>ven when we're <b>real</b>ly trying to pay at<b>ten</b>tion to <b>some</b>thing --",
+   "e": 38.76
+  },
+  {
+   "s": 38.76,
+   "t": "like <b>may</b>be this <b>talk</b> --",
+   "e": 40.74
+  },
+  {
+   "s": 40.74,
+   "t": "at <b>some</b> point,",
+   "e": 41.4
+  },
+  {
+   "s": 41.4,
+   "t": "a<b>bout</b> half of us will <b>drift</b> off into a <b>day</b>dream,",
+   "e": 44.06
+  },
+  {
+   "s": 44.06,
+   "t": "or have this <b>urge</b> to <b>check</b> our <b>Twit</b>ter feed.",
+   "e": 47.56
+  },
+  {
+   "s": 47.56,
+   "t": "So <b>what's</b> going on <b>here</b>?",
+   "e": 50.1
+  },
+  {
+   "s": 50.1,
+   "t": "It turns <b>out</b> that we're <b>fight</b>ing / one of the most evo<b>lu</b>tionarily-con<b>served</b>",
+   "e": 53.96
+  },
+  {
+   "s": 53.96,
+   "t": "<b>learn</b>ing processes <b>cur</b>rently known in <b>sci</b>ence,",
+   "e": 56.72
+  },
+  {
+   "s": 56.72,
+   "t": "one that's con<b>served</b>",
+   "e": 57.56
+  },
+  {
+   "s": 57.56,
+   "t": "<b>back</b> to the most <b>ba</b>sic <b>ner</b>vous systems known to <b>man</b>.",
+   "e": 61.0
+  },
+  {
+   "s": 61.0,
+   "t": "This re<b>ward</b>-based <b>learn</b>ing process",
+   "e": 62.58
+  },
+  {
+   "s": 62.58,
+   "t": "is called <b>pos</b>itive and <b>neg</b>ative re<b>in</b>forcement,",
+   "e": 64.44
+  },
+  {
+   "s": 64.44,
+   "t": "and <b>ba</b>sically goes like <b>this</b>.",
+   "e": 67.4
+  },
+  {
+   "s": 67.4,
+   "t": "We see some <b>food</b> that looks <b>good</b>,",
+   "e": 69.3
+  },
+  {
+   "s": 69.3,
+   "t": "our <b>brain</b> says, / “<b>Cal</b>ories! / ... Sur<b>viv</b>al!”",
+   "e": 71.92
+  },
+  {
+   "s": 71.92,
+   "t": "We <b>eat</b> the food, we <b>taste</b> it --",
+   "e": 73.56
+  },
+  {
+   "s": 73.56,
+   "t": "it <b>tastes</b> good.",
+   "e": 74.72
+  },
+  {
+   "s": 74.72,
+   "t": "And es<b>pe</b>cially with <b>sug</b>ar,",
+   "e": 76.3
+  },
+  {
+   "s": 76.3,
+   "t": "our <b>bod</b>ies send a <b>sig</b>nal to our <b>brain</b> that says,",
+   "e": 78.18
+  },
+  {
+   "s": 78.18,
+   "t": "“Re<b>mem</b>ber what you're <b>eat</b>ing / and <b>where</b> you found it.”",
+   "e": 82.58
+  },
+  {
+   "s": 82.58,
+   "t": "We lay <b>down</b> this con<b>text</b>-de<b>pend</b>ent <b>mem</b>ory",
+   "e": 84.92
+  },
+  {
+   "s": 84.92,
+   "t": "and <b>learn</b> to re<b>peat</b> the <b>proc</b>ess next <b>time</b>.",
+   "e": 88.0
+  },
+  {
+   "s": 88.0,
+   "t": "See <b>food</b>,",
+   "e": 89.06
+  },
+  {
+   "s": 89.06,
+   "t": "<b>eat</b> food, feel <b>good</b>,",
+   "e": 90.94
+  },
+  {
+   "s": 90.94,
+   "t": "re<b>peat</b>.",
+   "e": 92.5
+  },
+  {
+   "s": 92.5,
+   "t": "<b>Trig</b>ger, be<b>hav</b>ior, re<b>ward</b>.",
+   "e": 95.0
+  },
+  {
+   "s": 95.0,
+   "t": "<b>Sim</b>ple, / <b>right</b>?",
+   "e": 95.77
+  }
+ ],
+ "verified": "2026-11-02"
+}

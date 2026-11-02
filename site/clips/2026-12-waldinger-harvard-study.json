@@ -1,0 +1,104 @@
+{
+ "title": "Robert Waldinger, “What makes a good life?” (El estudio de Harvard sobre la felicidad)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness",
+ "segment": "01:49–02:54 (65 s)",
+ "listen_for": "Numbers and years (<i>75 years, 724 men</i>), the pause-and-stress pattern of a speaker explaining, and <i>or…or…or</i> lists",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 2.32,
+   "t": "The <b>Har</b>vard <b>Stud</b>y of <b>A</b>dult De<b>vel</b>opment"
+  },
+  {
+   "s": 2.32,
+   "e": 8.16,
+   "t": "may be the <b>long</b>est study of <b>a</b>dult life / that's <b>ev</b>er been done."
+  },
+  {
+   "s": 8.16,
+   "e": 15.62,
+   "t": "For 75 <b>years</b>, / we've <b>tracked</b> the lives of 724 <b>men</b>,"
+  },
+  {
+   "s": 15.62,
+   "e": 20.4,
+   "t": "<b>year</b> after <b>year</b>, / <b>ask</b>ing about their <b>work</b>, / their <b>home</b> lives, / their <b>health</b>,"
+  },
+  {
+   "s": 20.4,
+   "e": 22.7,
+   "t": "and of <b>course</b> / ask<b>ing</b> all a<b>long</b> the way"
+  },
+  {
+   "s": 22.7,
+   "e": 28.16,
+   "t": "with<b>out</b> know<b>ing</b> how their life <b>sto</b>ries were going to turn <b>out</b>."
+  },
+  {
+   "s": 28.16,
+   "e": 31.56,
+   "t": "<b>Stud</b>ies like this are ex<b>ceed</b>ingly <b>rare</b>."
+  },
+  {
+   "s": 31.56,
+   "e": 35.5,
+   "t": "<b>Al</b>most all <b>proj</b>ects of this <b>kind</b> fall a<b>part</b> within a <b>dec</b>ade"
+  },
+  {
+   "s": 35.5,
+   "e": 38.2,
+   "t": "be<b>cause</b> too many <b>peo</b>ple drop <b>out</b> of the <b>stud</b>y,"
+  },
+  {
+   "s": 38.2,
+   "e": 41.24,
+   "t": "or <b>fund</b>ing for the re<b>search</b> dries <b>up</b>,"
+  },
+  {
+   "s": 41.24,
+   "e": 43.9,
+   "t": "or the re<b>search</b>ers get dis<b>tract</b>ed,"
+  },
+  {
+   "s": 43.9,
+   "e": 48.82,
+   "t": "or they <b>die</b>, / and <b>no</b>body <b>moves</b> the <b>ball</b> further <b>down</b> the <b>field</b>."
+  },
+  {
+   "s": 48.82,
+   "e": 50.68,
+   "t": "But through a combi<b>na</b>tion of <b>luck</b>"
+  },
+  {
+   "s": 50.68,
+   "e": 54.78,
+   "t": "and the per<b>sis</b>tence of <b>sev</b>eral gene<b>ra</b>tions of re<b>search</b>ers,"
+  },
+  {
+   "s": 54.78,
+   "e": 57.18,
+   "t": "this study has sur<b>vived</b>."
+  },
+  {
+   "s": 57.18,
+   "e": 60.98,
+   "t": "A<b>bout</b> 60 of our o<b>rig</b>inal 724 <b>men</b>"
+  },
+  {
+   "s": 60.98,
+   "e": 63.14,
+   "t": "are still a<b>live</b>,"
+  },
+  {
+   "s": 63.14,
+   "e": 65.16,
+   "t": "still par<b>tic</b>ipating in the <b>stud</b>y,"
+  },
+  {
+   "s": 65.16,
+   "e": 65.95,
+   "t": "<b>most</b> of them in their <b>90s</b>."
+  }
+ ]
+}

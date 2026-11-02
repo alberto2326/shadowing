@@ -1,0 +1,208 @@
+{
+ "slug": "2026-12-vanderkam-water-heater",
+ "video_id": "ted-laura_vanderkam_how_to_gain_control_of_your_free_time",
+ "title": "Laura Vanderkam, “How to gain control of your free time” (Gestión del tiempo y prioridades)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time",
+ "start": 118.84,
+ "end": 201.85,
+ "meta": {
+  "hablante": "Laura Vanderkam",
+  "charla": "How to gain control of your free time",
+  "acento": "Americano general (mujer)",
+  "tema": "Gestión del tiempo y prioridades"
+ },
+ "lines": [
+  "<b>Here's</b> what I <b>mean</b>.",
+  "I <b>re</b>cently did a <b>time</b> di<b>ar</b>y <b>pro</b>ject",
+  "<b>look</b>ing at 1,001 <b>days</b> in the <b>lives</b> of ex<b>treme</b>ly <b>bus</b>y <b>wom</b>en.",
+  "They had de<b>mand</b>ing <b>jobs</b>, / <b>some</b>times their <b>own</b> businesses,",
+  "<b>kids</b> to care for, / <b>may</b>be <b>par</b>ents to care for,",
+  "com<b>mu</b>nity com<b>mit</b>ments --",
+  "<b>bus</b>y, <b>bus</b>y people.",
+  "I had them keep <b>track</b> of their <b>time</b> for a <b>week</b>",
+  "so I could <b>add</b> up how much they <b>worked</b> and <b>slept</b>,",
+  "and I <b>in</b>terviewed them about their <b>strat</b>egies, / for my <b>book</b>.",
+  "<b>One</b> of the <b>wom</b>en whose <b>time</b> logs I <b>stud</b>ied",
+  "she goes <b>out</b> for a <b>Wednes</b>day night for <b>some</b>thing.",
+  "She comes <b>home</b> to find that her <b>wa</b>ter <b>heat</b>er has <b>bro</b>ken,",
+  "and there is <b>now</b> water <b>all</b> over her <b>base</b>ment.",
+  "If you've <b>ev</b>er had <b>an</b>ything like this <b>hap</b>pen to you,",
+  "you <b>know</b> it is a <b>huge</b>ly <b>dam</b>aging, / <b>fright</b>ening, / <b>sop</b>ping <b>mess</b>.",
+  "So she's <b>deal</b>ing with the im<b>me</b>diate <b>af</b>termath that <b>night</b>,",
+  "<b>next</b> day she's got <b>plumb</b>ers <b>com</b>ing in,",
+  "<b>day</b> after that, / pro<b>fes</b>sional <b>clean</b>ing crew <b>deal</b>ing with the <b>ru</b>ined <b>car</b>pet.",
+  "All this is being re<b>cord</b>ed on her <b>time</b> log.",
+  "<b>Wind</b>s up <b>tak</b>ing <b>sev</b>en hours of her <b>week</b>.",
+  "<b>Sev</b>en <b>hours</b>.",
+  "That's like <b>find</b>ing an <b>ex</b>tra hour in the <b>day</b>.",
+  "But I'm <b>sure</b> if you had <b>asked</b> her at the <b>start</b> of the week,",
+  "“Could you <b>find</b> seven hours to <b>train</b> for a tri<b>ath</b>lon?”",
+  "“Could you find <b>sev</b>en hours to <b>men</b>tor seven <b>wor</b>thy <b>peo</b>ple?”",
+  "I'm <b>sure</b> she would've <b>said</b> what <b>most</b> of us would've said,",
+  "which is, “<b>No</b> -- / can't you <b>see</b> how <b>bus</b>y I am?”",
+  "<b>Yet</b> when she had to <b>find</b> seven hours",
+  "be<b>cause</b> there is <b>wa</b>ter all over her <b>base</b>ment,",
+  "she found <b>sev</b>en <b>hours</b>."
+ ],
+ "listen_for": "Contrast and stress in <i>Seven hours.</i> (short, heavy sentences) and the conditional <i>If you've ever had anything like this happen to you…</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper. Donde el audio difiere de los subtítulos (some language, time logs, she goes out for…), se sigue al audio.",
+ "cues": [
+  {
+   "s": 118.54,
+   "t": "<b>Here's</b> what I <b>mean</b>.",
+   "e": 119.4
+  },
+  {
+   "s": 119.4,
+   "t": "I <b>re</b>cently did a <b>time</b> di<b>ar</b>y <b>pro</b>ject",
+   "e": 121.16
+  },
+  {
+   "s": 121.16,
+   "t": "<b>look</b>ing at 1,001 <b>days</b> in the <b>lives</b> of ex<b>treme</b>ly <b>bus</b>y <b>wom</b>en.",
+   "e": 125.76
+  },
+  {
+   "s": 125.76,
+   "t": "They had de<b>mand</b>ing <b>jobs</b>, / <b>some</b>times their <b>own</b> businesses,",
+   "e": 128.46
+  },
+  {
+   "s": 128.46,
+   "t": "<b>kids</b> to care for, / <b>may</b>be <b>par</b>ents to care for,",
+   "e": 130.62
+  },
+  {
+   "s": 130.62,
+   "t": "com<b>mu</b>nity com<b>mit</b>ments --",
+   "e": 131.98
+  },
+  {
+   "s": 131.98,
+   "t": "<b>bus</b>y, <b>bus</b>y people.",
+   "e": 134.14
+  },
+  {
+   "s": 134.14,
+   "t": "I had them keep <b>track</b> of their <b>time</b> for a <b>week</b>",
+   "e": 135.94
+  },
+  {
+   "s": 135.94,
+   "t": "so I could <b>add</b> up how much they <b>worked</b> and <b>slept</b>,",
+   "e": 138.54
+  },
+  {
+   "s": 138.54,
+   "t": "and I <b>in</b>terviewed them about their <b>strat</b>egies, / for my <b>book</b>.",
+   "e": 141.38
+  },
+  {
+   "s": 141.38,
+   "t": "<b>One</b> of the <b>wom</b>en whose <b>time</b> logs I <b>stud</b>ied",
+   "e": 143.2
+  },
+  {
+   "s": 143.2,
+   "t": "she goes <b>out</b> for a <b>Wednes</b>day night for <b>some</b>thing.",
+   "e": 145.4
+  },
+  {
+   "s": 145.4,
+   "t": "She comes <b>home</b> to find that her <b>wa</b>ter <b>heat</b>er has <b>bro</b>ken,",
+   "e": 148.24
+  },
+  {
+   "s": 148.24,
+   "t": "and there is <b>now</b> water <b>all</b> over her <b>base</b>ment.",
+   "e": 151.7
+  },
+  {
+   "s": 151.7,
+   "t": "If you've <b>ev</b>er had <b>an</b>ything like this <b>hap</b>pen to you,",
+   "e": 153.62
+  },
+  {
+   "s": 153.62,
+   "t": "you <b>know</b> it is a <b>huge</b>ly <b>dam</b>aging, / <b>fright</b>ening, / <b>sop</b>ping <b>mess</b>.",
+   "e": 157.04
+  },
+  {
+   "s": 157.04,
+   "t": "So she's <b>deal</b>ing with the im<b>me</b>diate <b>af</b>termath that <b>night</b>,",
+   "e": 159.82
+  },
+  {
+   "s": 159.82,
+   "t": "<b>next</b> day she's got <b>plumb</b>ers <b>com</b>ing in,",
+   "e": 161.46
+  },
+  {
+   "s": 161.46,
+   "t": "<b>day</b> after that, / pro<b>fes</b>sional <b>clean</b>ing crew <b>deal</b>ing with the <b>ru</b>ined <b>car</b>pet.",
+   "e": 163.98
+  },
+  {
+   "s": 163.98,
+   "t": "All this is being re<b>cord</b>ed on her <b>time</b> log.",
+   "e": 166.98
+  },
+  {
+   "s": 166.98,
+   "t": "<b>Wind</b>s up <b>tak</b>ing <b>sev</b>en hours of her <b>week</b>.",
+   "e": 170.54
+  },
+  {
+   "s": 170.54,
+   "t": "<b>Sev</b>en <b>hours</b>.",
+   "e": 172.32
+  },
+  {
+   "s": 172.32,
+   "t": "That's like <b>find</b>ing an <b>ex</b>tra hour in the <b>day</b>.",
+   "e": 176.14
+  },
+  {
+   "s": 176.14,
+   "t": "But I'm <b>sure</b> if you had <b>asked</b> her at the <b>start</b> of the week,",
+   "e": 178.82
+  },
+  {
+   "s": 178.82,
+   "t": "“Could you <b>find</b> seven hours to <b>train</b> for a tri<b>ath</b>lon?”",
+   "e": 183.26
+  },
+  {
+   "s": 183.26,
+   "t": "“Could you find <b>sev</b>en hours to <b>men</b>tor seven <b>wor</b>thy <b>peo</b>ple?”",
+   "e": 187.3
+  },
+  {
+   "s": 187.3,
+   "t": "I'm <b>sure</b> she would've <b>said</b> what <b>most</b> of us would've said,",
+   "e": 189.3
+  },
+  {
+   "s": 189.3,
+   "t": "which is, “<b>No</b> -- / can't you <b>see</b> how <b>bus</b>y I am?”",
+   "e": 195.02
+  },
+  {
+   "s": 195.02,
+   "t": "<b>Yet</b> when she had to <b>find</b> seven hours",
+   "e": 196.8
+  },
+  {
+   "s": 196.8,
+   "t": "be<b>cause</b> there is <b>wa</b>ter all over her <b>base</b>ment,",
+   "e": 199.54
+  },
+  {
+   "s": 199.54,
+   "t": "she found <b>sev</b>en <b>hours</b>.",
+   "e": 201.95
+  }
+ ],
+ "verified": "2026-11-02"
+}

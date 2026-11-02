@@ -1,0 +1,130 @@
+{
+ "slug": "2026-12-dweck-not-yet",
+ "video_id": "ted-carol_dweck_the_power_of_believing_that_you_can_improve",
+ "title": "Carol Dweck, “The power of believing that you can improve” (Mentalidad de crecimiento)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+ "start": 7.58,
+ "end": 74.03,
+ "meta": {
+  "hablante": "Carol Dweck",
+  "charla": "The power of believing that you can improve",
+  "acento": "Americano general (mujer)",
+  "tema": "Mentalidad de crecimiento"
+ },
+ "lines": [
+  "I <b>heard</b> about a high <b>school</b> in Chi<b>ca</b>go",
+  "where <b>stu</b>dents had to <b>pass</b> a <b>cer</b>tain <b>num</b>ber of <b>cours</b>es to <b>grad</b>uate,",
+  "and if they <b>did</b>n't pass a <b>course</b>, / they got the <b>grade</b> “Not <b>Yet</b>.”",
+  "And I <b>thought</b> that was fan<b>tas</b>tic,",
+  "be<b>cause</b> if you get a <b>fail</b>ing grade, / you <b>think</b>, / I'm <b>noth</b>ing, / I'm no<b>where</b>.",
+  "But if you get the <b>grade</b> “Not <b>Yet</b>,”",
+  "you under<b>stand</b> that you're on a <b>learn</b>ing <b>curve</b>.",
+  "It <b>gives</b> you a <b>path</b> into the <b>fu</b>ture.",
+  "“Not <b>Yet</b>” also <b>gave</b> me <b>in</b>sight",
+  "into a <b>crit</b>ical e<b>vent</b> early in my ca<b>reer</b>,",
+  "a <b>real</b> turning <b>point</b>.",
+  "I <b>want</b>ed to <b>see</b>",
+  "how <b>chil</b>dren <b>coped</b> with <b>chall</b>enge and <b>dif</b>ficulty,",
+  "so I <b>gave</b> 10-year-<b>olds</b>",
+  "<b>prob</b>lems that were <b>slight</b>ly too <b>hard</b> for them.",
+  "<b>Some</b> of them re<b>act</b>ed in a <b>shock</b>ingly <b>pos</b>itive way.",
+  "They said <b>things</b> like, / “I <b>love</b> a <b>chall</b>enge,”",
+  "or, “You <b>know</b>, / I was <b>hop</b>ing this would be in<b>for</b>mative.”"
+ ],
+ "listen_for": "The contrast <i>Not Yet</i> vs. a failing grade, and how <b>stress</b> lands on the key words of each idea: <i>fantastic, nowhere, path, future</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 7.28,
+   "t": "I <b>heard</b> about a high <b>school</b> in Chi<b>ca</b>go",
+   "e": 9.3
+  },
+  {
+   "s": 9.3,
+   "t": "where <b>stu</b>dents had to <b>pass</b> a <b>cer</b>tain <b>num</b>ber of <b>cours</b>es to <b>grad</b>uate,",
+   "e": 13.76
+  },
+  {
+   "s": 13.76,
+   "t": "and if they <b>did</b>n't pass a <b>course</b>, / they got the <b>grade</b> “Not <b>Yet</b>.”",
+   "e": 18.64
+  },
+  {
+   "s": 18.64,
+   "t": "And I <b>thought</b> that was fan<b>tas</b>tic,",
+   "e": 21.46
+  },
+  {
+   "s": 21.46,
+   "t": "be<b>cause</b> if you get a <b>fail</b>ing grade, / you <b>think</b>, / I'm <b>noth</b>ing, / I'm no<b>where</b>.",
+   "e": 25.42
+  },
+  {
+   "s": 25.42,
+   "t": "But if you get the <b>grade</b> “Not <b>Yet</b>,”",
+   "e": 28.78
+  },
+  {
+   "s": 28.78,
+   "t": "you under<b>stand</b> that you're on a <b>learn</b>ing <b>curve</b>.",
+   "e": 32.3
+  },
+  {
+   "s": 32.3,
+   "t": "It <b>gives</b> you a <b>path</b> into the <b>fu</b>ture.",
+   "e": 35.7
+  },
+  {
+   "s": 35.7,
+   "t": "“Not <b>Yet</b>” also <b>gave</b> me <b>in</b>sight",
+   "e": 39.08
+  },
+  {
+   "s": 39.08,
+   "t": "into a <b>crit</b>ical e<b>vent</b> early in my ca<b>reer</b>,",
+   "e": 43.86
+  },
+  {
+   "s": 43.86,
+   "t": "a <b>real</b> turning <b>point</b>.",
+   "e": 45.92
+  },
+  {
+   "s": 45.92,
+   "t": "I <b>want</b>ed to <b>see</b>",
+   "e": 47.14
+  },
+  {
+   "s": 47.14,
+   "t": "how <b>chil</b>dren <b>coped</b> with <b>chall</b>enge and <b>dif</b>ficulty,",
+   "e": 52.94
+  },
+  {
+   "s": 52.94,
+   "t": "so I <b>gave</b> 10-year-<b>olds</b>",
+   "e": 55.7
+  },
+  {
+   "s": 55.7,
+   "t": "<b>prob</b>lems that were <b>slight</b>ly too <b>hard</b> for them.",
+   "e": 60.54
+  },
+  {
+   "s": 60.54,
+   "t": "<b>Some</b> of them re<b>act</b>ed in a <b>shock</b>ingly <b>pos</b>itive way.",
+   "e": 65.52
+  },
+  {
+   "s": 65.52,
+   "t": "They said <b>things</b> like, / “I <b>love</b> a <b>chall</b>enge,”",
+   "e": 69.46
+  },
+  {
+   "s": 69.46,
+   "t": "or, “You <b>know</b>, / I was <b>hop</b>ing this would be in<b>for</b>mative.”",
+   "e": 74.13
+  }
+ ],
+ "verified": "2026-11-02"
+}

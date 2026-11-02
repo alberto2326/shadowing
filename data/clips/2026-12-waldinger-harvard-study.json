@@ -1,0 +1,136 @@
+{
+ "slug": "2026-12-waldinger-harvard-study",
+ "video_id": "ted-robert_waldinger_what_makes_a_good_life_lessons_from_the_lon",
+ "title": "Robert Waldinger, “What makes a good life?” (El estudio de Harvard sobre la felicidad)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness",
+ "start": 109.22,
+ "end": 174.67,
+ "meta": {
+  "hablante": "Robert Waldinger",
+  "charla": "What makes a good life?",
+  "acento": "Americano general (hombre)",
+  "tema": "El estudio de Harvard sobre la felicidad"
+ },
+ "lines": [
+  "The <b>Har</b>vard <b>Stud</b>y of <b>A</b>dult De<b>vel</b>opment",
+  "may be the <b>long</b>est study of <b>a</b>dult life / that's <b>ev</b>er been done.",
+  "For 75 <b>years</b>, / we've <b>tracked</b> the lives of 724 <b>men</b>,",
+  "<b>year</b> after <b>year</b>, / <b>ask</b>ing about their <b>work</b>, / their <b>home</b> lives, / their <b>health</b>,",
+  "and of <b>course</b> / ask<b>ing</b> all a<b>long</b> the way",
+  "with<b>out</b> know<b>ing</b> how their life <b>sto</b>ries were going to turn <b>out</b>.",
+  "<b>Stud</b>ies like this are ex<b>ceed</b>ingly <b>rare</b>.",
+  "<b>Al</b>most all <b>proj</b>ects of this <b>kind</b> fall a<b>part</b> within a <b>dec</b>ade",
+  "be<b>cause</b> too many <b>peo</b>ple drop <b>out</b> of the <b>stud</b>y,",
+  "or <b>fund</b>ing for the re<b>search</b> dries <b>up</b>,",
+  "or the re<b>search</b>ers get dis<b>tract</b>ed,",
+  "or they <b>die</b>, / and <b>no</b>body <b>moves</b> the <b>ball</b> further <b>down</b> the <b>field</b>.",
+  "But through a combi<b>na</b>tion of <b>luck</b>",
+  "and the per<b>sis</b>tence of <b>sev</b>eral gene<b>ra</b>tions of re<b>search</b>ers,",
+  "this study has sur<b>vived</b>.",
+  "A<b>bout</b> 60 of our o<b>rig</b>inal 724 <b>men</b>",
+  "are still a<b>live</b>,",
+  "still par<b>tic</b>ipating in the <b>stud</b>y,",
+  "<b>most</b> of them in their <b>90s</b>."
+ ],
+ "listen_for": "Numbers and years (<i>75 years, 724 men</i>), the pause-and-stress pattern of a speaker explaining, and <i>or…or…or</i> lists",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 108.92,
+   "t": "The <b>Har</b>vard <b>Stud</b>y of <b>A</b>dult De<b>vel</b>opment",
+   "e": 111.14
+  },
+  {
+   "s": 111.14,
+   "t": "may be the <b>long</b>est study of <b>a</b>dult life / that's <b>ev</b>er been done.",
+   "e": 116.98
+  },
+  {
+   "s": 116.98,
+   "t": "For 75 <b>years</b>, / we've <b>tracked</b> the lives of 724 <b>men</b>,",
+   "e": 124.44
+  },
+  {
+   "s": 124.44,
+   "t": "<b>year</b> after <b>year</b>, / <b>ask</b>ing about their <b>work</b>, / their <b>home</b> lives, / their <b>health</b>,",
+   "e": 129.22
+  },
+  {
+   "s": 129.22,
+   "t": "and of <b>course</b> / ask<b>ing</b> all a<b>long</b> the way",
+   "e": 131.52
+  },
+  {
+   "s": 131.52,
+   "t": "with<b>out</b> know<b>ing</b> how their life <b>sto</b>ries were going to turn <b>out</b>.",
+   "e": 136.98
+  },
+  {
+   "s": 136.98,
+   "t": "<b>Stud</b>ies like this are ex<b>ceed</b>ingly <b>rare</b>.",
+   "e": 140.38
+  },
+  {
+   "s": 140.38,
+   "t": "<b>Al</b>most all <b>proj</b>ects of this <b>kind</b> fall a<b>part</b> within a <b>dec</b>ade",
+   "e": 144.32
+  },
+  {
+   "s": 144.32,
+   "t": "be<b>cause</b> too many <b>peo</b>ple drop <b>out</b> of the <b>stud</b>y,",
+   "e": 147.02
+  },
+  {
+   "s": 147.02,
+   "t": "or <b>fund</b>ing for the re<b>search</b> dries <b>up</b>,",
+   "e": 150.06
+  },
+  {
+   "s": 150.06,
+   "t": "or the re<b>search</b>ers get dis<b>tract</b>ed,",
+   "e": 152.72
+  },
+  {
+   "s": 152.72,
+   "t": "or they <b>die</b>, / and <b>no</b>body <b>moves</b> the <b>ball</b> further <b>down</b> the <b>field</b>.",
+   "e": 157.64
+  },
+  {
+   "s": 157.64,
+   "t": "But through a combi<b>na</b>tion of <b>luck</b>",
+   "e": 159.5
+  },
+  {
+   "s": 159.5,
+   "t": "and the per<b>sis</b>tence of <b>sev</b>eral gene<b>ra</b>tions of re<b>search</b>ers,",
+   "e": 163.6
+  },
+  {
+   "s": 163.6,
+   "t": "this study has sur<b>vived</b>.",
+   "e": 166.0
+  },
+  {
+   "s": 166.0,
+   "t": "A<b>bout</b> 60 of our o<b>rig</b>inal 724 <b>men</b>",
+   "e": 169.8
+  },
+  {
+   "s": 169.8,
+   "t": "are still a<b>live</b>,",
+   "e": 171.96
+  },
+  {
+   "s": 171.96,
+   "t": "still par<b>tic</b>ipating in the <b>stud</b>y,",
+   "e": 173.98
+  },
+  {
+   "s": 173.98,
+   "t": "<b>most</b> of them in their <b>90s</b>.",
+   "e": 174.77
+  }
+ ],
+ "verified": "2026-11-02"
+}

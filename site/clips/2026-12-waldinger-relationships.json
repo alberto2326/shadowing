@@ -1,0 +1,89 @@
+{
+ "title": "Robert Waldinger, “What makes a good life?” (Las relaciones nos hacen más felices)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness",
+ "segment": "05:55–06:59 (64 s)",
+ "listen_for": "<i>Good relationships keep us happier and healthier. Period.</i> — the sharp stop on <b>Period</b>; comparatives <i>happier, healthier</i>; <i>more… than</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 6.78,
+   "t": "Well, the <b>les</b>sons aren't a<b>bout</b> wealth or <b>fame</b> / or <b>work</b>ing <b>hard</b>er and <b>hard</b>er."
+  },
+  {
+   "s": 6.78,
+   "e": 13.38,
+   "t": "The <b>clear</b>est <b>mes</b>sage that we <b>get</b> / from this 75-year <b>stud</b>y is <b>this</b>:"
+  },
+  {
+   "s": 13.38,
+   "e": 19.4,
+   "t": "<b>Good</b> re<b>la</b>tionships / keep us <b>hap</b>pier and <b>health</b>ier. / <b>Pe</b>riod."
+  },
+  {
+   "s": 19.4,
+   "e": 23.26,
+   "t": "We've <b>learned</b> three big <b>les</b>sons about re<b>la</b>tionships."
+  },
+  {
+   "s": 23.26,
+   "e": 27.02,
+   "t": "The <b>first</b> is that <b>so</b>cial con<b>nec</b>tions are <b>real</b>ly good for <b>us</b>,"
+  },
+  {
+   "s": 27.02,
+   "e": 30.0,
+   "t": "and that <b>lone</b>liness <b>kills</b>."
+  },
+  {
+   "s": 30.0,
+   "e": 33.0,
+   "t": "It turns <b>out</b> that <b>peo</b>ple who are more <b>so</b>cially con<b>nect</b>ed"
+  },
+  {
+   "s": 33.0,
+   "e": 36.0,
+   "t": "to <b>fam</b>ily, / to <b>friends</b>, / to com<b>mu</b>nity,"
+  },
+  {
+   "s": 36.0,
+   "e": 40.96,
+   "t": "are <b>hap</b>pier, / they're <b>phys</b>ically <b>health</b>ier, / and they <b>live</b> longer"
+  },
+  {
+   "s": 40.96,
+   "e": 44.58,
+   "t": "than <b>peo</b>ple who are <b>less</b> well con<b>nect</b>ed."
+  },
+  {
+   "s": 44.58,
+   "e": 48.36,
+   "t": "And the ex<b>per</b>ience of <b>lone</b>liness / turns <b>out</b> to be <b>tox</b>ic."
+  },
+  {
+   "s": 48.36,
+   "e": 53.24,
+   "t": "<b>Peo</b>ple who are more <b>i</b>solated than they <b>want</b> to be from <b>oth</b>ers"
+  },
+  {
+   "s": 53.24,
+   "e": 56.76,
+   "t": "<b>find</b> that they are <b>less</b> happy,"
+  },
+  {
+   "s": 56.76,
+   "e": 59.72,
+   "t": "their <b>health</b> de<b>clines</b> earlier in <b>mid</b>life,"
+  },
+  {
+   "s": 59.72,
+   "e": 61.92,
+   "t": "their <b>brain</b> functioning de<b>clines</b> <b>soon</b>er"
+  },
+  {
+   "s": 61.92,
+   "e": 64.77,
+   "t": "and they <b>live</b> shorter <b>lives</b> than <b>peo</b>ple who are <b>not</b> lonely."
+  }
+ ]
+}

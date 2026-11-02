@@ -1,0 +1,184 @@
+{
+ "slug": "2026-12-gottlieb-edit-story",
+ "video_id": "ted-lori_gottlieb_how_changing_your_story_can_change_your_life",
+ "title": "Lori Gottlieb, “How changing your story can change your life” (Editar la historia: libertad y cambio)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/lori_gottlieb_how_changing_your_story_can_change_your_life",
+ "start": 260.56,
+ "end": 325.79,
+ "meta": {
+  "hablante": "Lori Gottlieb",
+  "charla": "How changing your story can change your life",
+  "acento": "Americano general (mujer)",
+  "tema": "Editar la historia: libertad y cambio"
+ },
+ "lines": [
+  "But the <b>main</b> reason I say I'm an <b>ed</b>itor",
+  "is be<b>cause</b> it's <b>true</b>.",
+  "<b>Now</b>, it's the <b>job</b> of all <b>ther</b>apists / to help people <b>ed</b>it,",
+  "but what's <b>in</b>teresting about my spe<b>cif</b>ic <b>role</b> as Dear <b>Ther</b>apist",
+  "is that when I <b>ed</b>it, / I'm <b>not</b> just <b>ed</b>iting for <b>one</b> person.",
+  "I'm <b>try</b>ing to <b>teach</b> a whole group of <b>read</b>ers how to <b>ed</b>it,",
+  "using <b>one</b> letter each <b>week</b> as the e<b>xam</b>ple.",
+  "So I'm <b>think</b>ing about <b>things</b> like,",
+  "“<b>What</b> ma<b>te</b>rial is ex<b>tra</b>neous?”",
+  "“Is the pro<b>tag</b>onist <b>mov</b>ing <b>for</b>ward or going in <b>cir</b>cles,",
+  "are the sup<b>port</b>ing <b>char</b>acters im<b>por</b>tant or are they a dis<b>trac</b>tion?”",
+  "“Do the <b>plot</b> points re<b>veal</b> a <b>theme</b>?”",
+  "And what I've <b>no</b>ticed",
+  "is that <b>most</b> people's <b>sto</b>ries tend to <b>cir</b>cle a<b>round</b> two key <b>themes</b>.",
+  "The <b>first</b> is <b>free</b>dom,",
+  "and the <b>sec</b>ond is <b>change</b>.",
+  "And when I <b>ed</b>it,",
+  "<b>those</b> are the <b>themes</b> that I <b>start</b> with.",
+  "So, let's take a <b>look</b> at <b>free</b>dom for a <b>sec</b>ond.",
+  "Our <b>sto</b>ries about <b>free</b>dom go like <b>this</b>:",
+  "we be<b>lieve</b>, in <b>gen</b>eral,",
+  "that we have an e<b>nor</b>mous a<b>mount</b> of <b>free</b>dom.",
+  "Ex<b>cept</b> when it comes to the <b>prob</b>lem at <b>hand</b>,",
+  "in which <b>case</b>, <b>sud</b>denly, / we <b>feel</b> like we have <b>none</b>.",
+  "<b>Man</b>y of our <b>sto</b>ries are about <b>feel</b>ing <b>trapped</b>, right?",
+  "We feel <b>im</b>prisoned by our <b>fam</b>ilies, / our <b>jobs</b>,",
+  "our re<b>la</b>tionships, / our <b>pasts</b>."
+ ],
+ "listen_for": "The questions of an editor read as a list (<i>Is the protagonist moving forward or going in circles?</i>) and the two themes, <b>freedom</b> and <b>change</b>, with a clear pause between them",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 260.26,
+   "t": "But the <b>main</b> reason I say I'm an <b>ed</b>itor",
+   "e": 262.74
+  },
+  {
+   "s": 262.74,
+   "t": "is be<b>cause</b> it's <b>true</b>.",
+   "e": 264.36
+  },
+  {
+   "s": 264.36,
+   "t": "<b>Now</b>, it's the <b>job</b> of all <b>ther</b>apists / to help people <b>ed</b>it,",
+   "e": 266.96
+  },
+  {
+   "s": 266.96,
+   "t": "but what's <b>in</b>teresting about my spe<b>cif</b>ic <b>role</b> as Dear <b>Ther</b>apist",
+   "e": 269.66
+  },
+  {
+   "s": 269.66,
+   "t": "is that when I <b>ed</b>it, / I'm <b>not</b> just <b>ed</b>iting for <b>one</b> person.",
+   "e": 272.52
+  },
+  {
+   "s": 272.52,
+   "t": "I'm <b>try</b>ing to <b>teach</b> a whole group of <b>read</b>ers how to <b>ed</b>it,",
+   "e": 274.74
+  },
+  {
+   "s": 274.74,
+   "t": "using <b>one</b> letter each <b>week</b> as the e<b>xam</b>ple.",
+   "e": 276.86
+  },
+  {
+   "s": 276.86,
+   "t": "So I'm <b>think</b>ing about <b>things</b> like,",
+   "e": 278.62
+  },
+  {
+   "s": 278.62,
+   "t": "“<b>What</b> ma<b>te</b>rial is ex<b>tra</b>neous?”",
+   "e": 281.0
+  },
+  {
+   "s": 281.0,
+   "t": "“Is the pro<b>tag</b>onist <b>mov</b>ing <b>for</b>ward or going in <b>cir</b>cles,",
+   "e": 284.32
+  },
+  {
+   "s": 284.32,
+   "t": "are the sup<b>port</b>ing <b>char</b>acters im<b>por</b>tant or are they a dis<b>trac</b>tion?”",
+   "e": 287.36
+  },
+  {
+   "s": 287.36,
+   "t": "“Do the <b>plot</b> points re<b>veal</b> a <b>theme</b>?”",
+   "e": 289.94
+  },
+  {
+   "s": 289.94,
+   "t": "And what I've <b>no</b>ticed",
+   "e": 290.92
+  },
+  {
+   "s": 290.92,
+   "t": "is that <b>most</b> people's <b>sto</b>ries tend to <b>cir</b>cle a<b>round</b> two key <b>themes</b>.",
+   "e": 295.56
+  },
+  {
+   "s": 295.56,
+   "t": "The <b>first</b> is <b>free</b>dom,",
+   "e": 296.98
+  },
+  {
+   "s": 296.98,
+   "t": "and the <b>sec</b>ond is <b>change</b>.",
+   "e": 298.88
+  },
+  {
+   "s": 298.88,
+   "t": "And when I <b>ed</b>it,",
+   "e": 300.08
+  },
+  {
+   "s": 300.08,
+   "t": "<b>those</b> are the <b>themes</b> that I <b>start</b> with.",
+   "e": 302.28
+  },
+  {
+   "s": 302.28,
+   "t": "So, let's take a <b>look</b> at <b>free</b>dom for a <b>sec</b>ond.",
+   "e": 304.24
+  },
+  {
+   "s": 304.24,
+   "t": "Our <b>sto</b>ries about <b>free</b>dom go like <b>this</b>:",
+   "e": 307.66
+  },
+  {
+   "s": 307.66,
+   "t": "we be<b>lieve</b>, in <b>gen</b>eral,",
+   "e": 309.7
+  },
+  {
+   "s": 309.7,
+   "t": "that we have an e<b>nor</b>mous a<b>mount</b> of <b>free</b>dom.",
+   "e": 313.58
+  },
+  {
+   "s": 313.58,
+   "t": "Ex<b>cept</b> when it comes to the <b>prob</b>lem at <b>hand</b>,",
+   "e": 315.54
+  },
+  {
+   "s": 315.54,
+   "t": "in which <b>case</b>, <b>sud</b>denly, / we <b>feel</b> like we have <b>none</b>.",
+   "e": 318.26
+  },
+  {
+   "s": 318.26,
+   "t": "<b>Man</b>y of our <b>sto</b>ries are about <b>feel</b>ing <b>trapped</b>, right?",
+   "e": 320.84
+  },
+  {
+   "s": 320.84,
+   "t": "We feel <b>im</b>prisoned by our <b>fam</b>ilies, / our <b>jobs</b>,",
+   "e": 323.52
+  },
+  {
+   "s": 323.52,
+   "t": "our re<b>la</b>tionships, / our <b>pasts</b>.",
+   "e": 325.89
+  }
+ ],
+ "verified": "2026-11-02"
+}

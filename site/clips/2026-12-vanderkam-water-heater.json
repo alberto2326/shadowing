@@ -1,0 +1,164 @@
+{
+ "title": "Laura Vanderkam, “How to gain control of your free time” (Gestión del tiempo y prioridades)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time",
+ "segment": "01:58–03:21 (83 s)",
+ "listen_for": "Contrast and stress in <i>Seven hours.</i> (short, heavy sentences) and the conditional <i>If you've ever had anything like this happen to you…</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 0.96,
+   "t": "<b>Here's</b> what I <b>mean</b>."
+  },
+  {
+   "s": 0.96,
+   "e": 2.72,
+   "t": "I <b>re</b>cently did a <b>time</b> di<b>ar</b>y <b>pro</b>ject"
+  },
+  {
+   "s": 2.72,
+   "e": 7.32,
+   "t": "<b>look</b>ing at 1,001 <b>days</b> in the <b>lives</b> of ex<b>treme</b>ly <b>bus</b>y <b>wom</b>en."
+  },
+  {
+   "s": 7.32,
+   "e": 10.02,
+   "t": "They had de<b>mand</b>ing <b>jobs</b>, / <b>some</b>times their <b>own</b> businesses,"
+  },
+  {
+   "s": 10.02,
+   "e": 12.18,
+   "t": "<b>kids</b> to care for, / <b>may</b>be <b>par</b>ents to care for,"
+  },
+  {
+   "s": 12.18,
+   "e": 13.54,
+   "t": "com<b>mu</b>nity com<b>mit</b>ments --"
+  },
+  {
+   "s": 13.54,
+   "e": 15.7,
+   "t": "<b>bus</b>y, <b>bus</b>y people."
+  },
+  {
+   "s": 15.7,
+   "e": 17.5,
+   "t": "I had them keep <b>track</b> of their <b>time</b> for a <b>week</b>"
+  },
+  {
+   "s": 17.5,
+   "e": 20.1,
+   "t": "so I could <b>add</b> up how much they <b>worked</b> and <b>slept</b>,"
+  },
+  {
+   "s": 20.1,
+   "e": 22.94,
+   "t": "and I <b>in</b>terviewed them about their <b>strat</b>egies, / for my <b>book</b>."
+  },
+  {
+   "s": 22.94,
+   "e": 24.76,
+   "t": "<b>One</b> of the <b>wom</b>en whose <b>time</b> logs I <b>stud</b>ied"
+  },
+  {
+   "s": 24.76,
+   "e": 26.96,
+   "t": "she goes <b>out</b> for a <b>Wednes</b>day night for <b>some</b>thing."
+  },
+  {
+   "s": 26.96,
+   "e": 29.8,
+   "t": "She comes <b>home</b> to find that her <b>wa</b>ter <b>heat</b>er has <b>bro</b>ken,"
+  },
+  {
+   "s": 29.8,
+   "e": 33.26,
+   "t": "and there is <b>now</b> water <b>all</b> over her <b>base</b>ment."
+  },
+  {
+   "s": 33.26,
+   "e": 35.18,
+   "t": "If you've <b>ev</b>er had <b>an</b>ything like this <b>hap</b>pen to you,"
+  },
+  {
+   "s": 35.18,
+   "e": 38.6,
+   "t": "you <b>know</b> it is a <b>huge</b>ly <b>dam</b>aging, / <b>fright</b>ening, / <b>sop</b>ping <b>mess</b>."
+  },
+  {
+   "s": 38.6,
+   "e": 41.38,
+   "t": "So she's <b>deal</b>ing with the im<b>me</b>diate <b>af</b>termath that <b>night</b>,"
+  },
+  {
+   "s": 41.38,
+   "e": 43.02,
+   "t": "<b>next</b> day she's got <b>plumb</b>ers <b>com</b>ing in,"
+  },
+  {
+   "s": 43.02,
+   "e": 45.54,
+   "t": "<b>day</b> after that, / pro<b>fes</b>sional <b>clean</b>ing crew <b>deal</b>ing with the <b>ru</b>ined <b>car</b>pet."
+  },
+  {
+   "s": 45.54,
+   "e": 48.54,
+   "t": "All this is being re<b>cord</b>ed on her <b>time</b> log."
+  },
+  {
+   "s": 48.54,
+   "e": 52.1,
+   "t": "<b>Wind</b>s up <b>tak</b>ing <b>sev</b>en hours of her <b>week</b>."
+  },
+  {
+   "s": 52.1,
+   "e": 53.88,
+   "t": "<b>Sev</b>en <b>hours</b>."
+  },
+  {
+   "s": 53.88,
+   "e": 57.7,
+   "t": "That's like <b>find</b>ing an <b>ex</b>tra hour in the <b>day</b>."
+  },
+  {
+   "s": 57.7,
+   "e": 60.38,
+   "t": "But I'm <b>sure</b> if you had <b>asked</b> her at the <b>start</b> of the week,"
+  },
+  {
+   "s": 60.38,
+   "e": 64.82,
+   "t": "“Could you <b>find</b> seven hours to <b>train</b> for a tri<b>ath</b>lon?”"
+  },
+  {
+   "s": 64.82,
+   "e": 68.86,
+   "t": "“Could you find <b>sev</b>en hours to <b>men</b>tor seven <b>wor</b>thy <b>peo</b>ple?”"
+  },
+  {
+   "s": 68.86,
+   "e": 70.86,
+   "t": "I'm <b>sure</b> she would've <b>said</b> what <b>most</b> of us would've said,"
+  },
+  {
+   "s": 70.86,
+   "e": 76.58,
+   "t": "which is, “<b>No</b> -- / can't you <b>see</b> how <b>bus</b>y I am?”"
+  },
+  {
+   "s": 76.58,
+   "e": 78.36,
+   "t": "<b>Yet</b> when she had to <b>find</b> seven hours"
+  },
+  {
+   "s": 78.36,
+   "e": 81.1,
+   "t": "be<b>cause</b> there is <b>wa</b>ter all over her <b>base</b>ment,"
+  },
+  {
+   "s": 81.1,
+   "e": 83.51,
+   "t": "she found <b>sev</b>en <b>hours</b>."
+  }
+ ]
+}

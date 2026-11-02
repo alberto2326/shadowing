@@ -1,0 +1,190 @@
+{
+ "slug": "2026-12-brown-shame-connection",
+ "video_id": "ted-brene_brown_the_power_of_vulnerability",
+ "title": "Brené Brown, “The power of vulnerability” (Vergüenza y conexión)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
+ "start": 251.58,
+ "end": 340.51,
+ "meta": {
+  "hablante": "Brené Brown",
+  "charla": "The power of vulnerability",
+  "acento": "Americano general (mujer)",
+  "tema": "Vergüenza y conexión"
+ },
+ "lines": [
+  "So <b>ver</b>y quickly -- / really about <b>six</b> weeks into this re<b>search</b> --",
+  "I ran into this un<b>named</b> thing / that abso<b>lute</b>ly un<b>rav</b>eled con<b>nec</b>tion",
+  "in a <b>way</b> that I <b>did</b>n't under<b>stand</b> / or had <b>nev</b>er <b>seen</b>.",
+  "And so I <b>pulled</b> back out of the re<b>search</b>",
+  "and <b>thought</b>, / I need to <b>fig</b>ure out what this <b>is</b>.",
+  "And it turned <b>out</b> to be <b>shame</b>.",
+  "And shame is <b>real</b>ly <b>ea</b>sily under<b>stood</b> as the <b>fear</b> of discon<b>nec</b>tion:",
+  "Is there <b>some</b>thing about <b>me</b> / that, if <b>oth</b>er <b>peo</b>ple <b>know</b> it or <b>see</b> it,",
+  "that I <b>won't</b> be <b>wor</b>thy of con<b>nec</b>tion?",
+  "The <b>things</b> I can <b>tell</b> you about it:",
+  "It's uni<b>ver</b>sal; / we <b>all</b> have it.",
+  "The <b>on</b>ly <b>peo</b>ple who <b>don't</b> ex<b>per</b>ience <b>shame</b>",
+  "have <b>no</b> ca<b>pac</b>ity for <b>hu</b>man <b>em</b>pathy or con<b>nec</b>tion.",
+  "<b>No</b> one wants to <b>talk</b> about it,",
+  "and the <b>less</b> you talk about it, / the <b>more</b> you have it.",
+  "What under<b>pinned</b> this <b>shame</b>, / this “I'm not <b>good</b> e<b>nough</b>,” --",
+  "which, we <b>all</b> know that <b>feel</b>ing:",
+  "“I'm not <b>blank</b> e<b>nough</b>. / I'm not <b>thin</b> e<b>nough</b>,",
+  "<b>rich</b> enough, / <b>beau</b>tiful enough, / <b>smart</b> enough, / pro<b>mo</b>ted enough.”",
+  "The <b>thing</b> that under<b>pinned</b> this / was ex<b>cru</b>ciating vulnera<b>bil</b>ity.",
+  "This i<b>de</b>a of, / in <b>or</b>der for con<b>nec</b>tion to <b>hap</b>pen,",
+  "we have to al<b>low</b> ourselves to be <b>seen</b>, / <b>real</b>ly <b>seen</b>.",
+  "And you <b>know</b> how I <b>feel</b> about vulnera<b>bil</b>ity. / I <b>hate</b> vulnera<b>bil</b>ity.",
+  "And so I <b>thought</b>, / this is my <b>chance</b> to <b>beat</b> it back / with my <b>mea</b>suring stick.",
+  "I'm <b>go</b>ing in, / I'm going to <b>fig</b>ure this stuff <b>out</b>,",
+  "I'm going to <b>spend</b> a year, / I'm going to <b>to</b>tally de<b>con</b>struct <b>shame</b>,",
+  "I'm going to under<b>stand</b> how vulnera<b>bil</b>ity <b>works</b>,",
+  "and I'm going to out<b>smart</b> it."
+ ],
+ "listen_for": "Weak forms (<i>of, that, to</i>), the stress on <b>shame</b>, and the rhythm of the lists: <i>I'm going in, I'm going to figure this out…</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper (dos pasadas). Whisper oyó «unless» en lugar de «less»: se sigue a los subtítulos.",
+ "cues": [
+  {
+   "s": 251.28,
+   "t": "So <b>ver</b>y quickly -- / really about <b>six</b> weeks into this re<b>search</b> --",
+   "e": 254.08
+  },
+  {
+   "s": 254.08,
+   "t": "I ran into this un<b>named</b> thing / that abso<b>lute</b>ly un<b>rav</b>eled con<b>nec</b>tion",
+   "e": 259.1
+  },
+  {
+   "s": 259.1,
+   "t": "in a <b>way</b> that I <b>did</b>n't under<b>stand</b> / or had <b>nev</b>er <b>seen</b>.",
+   "e": 263.22
+  },
+  {
+   "s": 263.22,
+   "t": "And so I <b>pulled</b> back out of the re<b>search</b>",
+   "e": 264.8
+  },
+  {
+   "s": 264.8,
+   "t": "and <b>thought</b>, / I need to <b>fig</b>ure out what this <b>is</b>.",
+   "e": 267.4
+  },
+  {
+   "s": 267.4,
+   "t": "And it turned <b>out</b> to be <b>shame</b>.",
+   "e": 271.5
+  },
+  {
+   "s": 271.5,
+   "t": "And shame is <b>real</b>ly <b>ea</b>sily under<b>stood</b> as the <b>fear</b> of discon<b>nec</b>tion:",
+   "e": 275.28
+  },
+  {
+   "s": 275.28,
+   "t": "Is there <b>some</b>thing about <b>me</b> / that, if <b>oth</b>er <b>peo</b>ple <b>know</b> it or <b>see</b> it,",
+   "e": 279.88
+  },
+  {
+   "s": 279.88,
+   "t": "that I <b>won't</b> be <b>wor</b>thy of con<b>nec</b>tion?",
+   "e": 283.74
+  },
+  {
+   "s": 283.74,
+   "t": "The <b>things</b> I can <b>tell</b> you about it:",
+   "e": 284.94
+  },
+  {
+   "s": 284.94,
+   "t": "It's uni<b>ver</b>sal; / we <b>all</b> have it.",
+   "e": 286.68
+  },
+  {
+   "s": 286.68,
+   "t": "The <b>on</b>ly <b>peo</b>ple who <b>don't</b> ex<b>per</b>ience <b>shame</b>",
+   "e": 287.92
+  },
+  {
+   "s": 287.92,
+   "t": "have <b>no</b> ca<b>pac</b>ity for <b>hu</b>man <b>em</b>pathy or con<b>nec</b>tion.",
+   "e": 291.56
+  },
+  {
+   "s": 291.56,
+   "t": "<b>No</b> one wants to <b>talk</b> about it,",
+   "e": 292.78
+  },
+  {
+   "s": 292.78,
+   "t": "and the <b>less</b> you talk about it, / the <b>more</b> you have it.",
+   "e": 298.26
+  },
+  {
+   "s": 298.26,
+   "t": "What under<b>pinned</b> this <b>shame</b>, / this “I'm not <b>good</b> e<b>nough</b>,” --",
+   "e": 302.32
+  },
+  {
+   "s": 302.32,
+   "t": "which, we <b>all</b> know that <b>feel</b>ing:",
+   "e": 303.74
+  },
+  {
+   "s": 303.74,
+   "t": "“I'm not <b>blank</b> e<b>nough</b>. / I'm not <b>thin</b> e<b>nough</b>,",
+   "e": 305.7
+  },
+  {
+   "s": 305.7,
+   "t": "<b>rich</b> enough, / <b>beau</b>tiful enough, / <b>smart</b> enough, / pro<b>mo</b>ted enough.”",
+   "e": 309.46
+  },
+  {
+   "s": 309.46,
+   "t": "The <b>thing</b> that under<b>pinned</b> this / was ex<b>cru</b>ciating vulnera<b>bil</b>ity.",
+   "e": 315.08
+  },
+  {
+   "s": 315.08,
+   "t": "This i<b>de</b>a of, / in <b>or</b>der for con<b>nec</b>tion to <b>hap</b>pen,",
+   "e": 319.3
+  },
+  {
+   "s": 319.3,
+   "t": "we have to al<b>low</b> ourselves to be <b>seen</b>, / <b>real</b>ly <b>seen</b>.",
+   "e": 322.58
+  },
+  {
+   "s": 322.58,
+   "t": "And you <b>know</b> how I <b>feel</b> about vulnera<b>bil</b>ity. / I <b>hate</b> vulnera<b>bil</b>ity.",
+   "e": 326.82
+  },
+  {
+   "s": 326.82,
+   "t": "And so I <b>thought</b>, / this is my <b>chance</b> to <b>beat</b> it back / with my <b>mea</b>suring stick.",
+   "e": 331.36
+  },
+  {
+   "s": 331.36,
+   "t": "I'm <b>go</b>ing in, / I'm going to <b>fig</b>ure this stuff <b>out</b>,",
+   "e": 334.64
+  },
+  {
+   "s": 334.64,
+   "t": "I'm going to <b>spend</b> a year, / I'm going to <b>to</b>tally de<b>con</b>struct <b>shame</b>,",
+   "e": 337.82
+  },
+  {
+   "s": 337.82,
+   "t": "I'm going to under<b>stand</b> how vulnera<b>bil</b>ity <b>works</b>,",
+   "e": 339.62
+  },
+  {
+   "s": 339.62,
+   "t": "and I'm going to out<b>smart</b> it.",
+   "e": 340.61
+  }
+ ],
+ "verified": "2026-11-02"
+}

@@ -1,0 +1,190 @@
+{
+ "slug": "2026-12-vanderkam-priorities",
+ "video_id": "ted-laura_vanderkam_how_to_gain_control_of_your_free_time",
+ "title": "Laura Vanderkam, “How to gain control of your free time” («No tengo tiempo» significa «no es prioridad»)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time",
+ "start": 202.76,
+ "end": 279.29,
+ "meta": {
+  "hablante": "Laura Vanderkam",
+  "charla": "How to gain control of your free time",
+  "acento": "Americano general (mujer)",
+  "tema": "«No tengo tiempo» significa «no es prioridad»"
+ },
+ "lines": [
+  "And what this <b>shows</b> us / is that <b>time</b> is <b>high</b>ly e<b>las</b>tic.",
+  "We <b>can</b>not make more <b>time</b>,",
+  "but <b>time</b> will <b>stretch</b> to ac<b>com</b>modate / what we <b>choose</b> to put into it.",
+  "And so the <b>key</b> to <b>time</b> management",
+  "is <b>treat</b>ing our pri<b>or</b>ities",
+  "as the e<b>quiv</b>alent of that <b>bro</b>ken <b>wa</b>ter <b>heat</b>er.",
+  "To <b>get</b> at this,",
+  "I <b>like</b> to use some <b>lan</b>guage from <b>one</b> of the <b>bus</b>iest people I ever <b>in</b>terviewed.",
+  "By <b>bus</b>y, I mean she was <b>run</b>ning a small <b>busi</b>ness",
+  "with 12 <b>peo</b>ple on the <b>pay</b>roll,",
+  "she had <b>six</b> children in her <b>spare</b> time.",
+  "I was <b>get</b>ting in <b>touch</b> with her to <b>set</b> up an <b>in</b>terview",
+  "on how she “had it <b>all</b>” -- / that <b>phrase</b>.",
+  "I re<b>mem</b>ber it was a <b>Thurs</b>day morning,",
+  "and she was <b>not</b> a<b>vail</b>able to <b>speak</b> with me.",
+  "Of <b>course</b>, right?",
+  "But the <b>rea</b>son she was una<b>vail</b>able to speak with me",
+  "is that she was <b>out</b> for a <b>hike</b>,",
+  "be<b>cause</b> it was a <b>beau</b>tiful <b>spring</b> morning,",
+  "and she <b>want</b>ed to go for a <b>hike</b>.",
+  "So of <b>course</b> this makes me e<b>ven</b> more in<b>trigued</b>,",
+  "and when I <b>fi</b>nally do <b>catch</b> up with her, / she ex<b>plains</b> it like <b>this</b>.",
+  "She says, “<b>Lis</b>ten Laura, / <b>ev</b>erything I <b>do</b>,",
+  "<b>ev</b>ery <b>min</b>ute I spend, / is my <b>choice</b>.”",
+  "And <b>rath</b>er than say,",
+  "“I <b>don't</b> have time to do x, y or z,”",
+  "she'd say, “I <b>don't</b> do x, y or z / be<b>cause</b> it's <b>not</b> a pri<b>or</b>ity.”",
+  "“I don't have <b>time</b>,” often <b>means</b> / “It's <b>not</b> a pri<b>or</b>ity.”"
+ ],
+ "listen_for": "<i>time will stretch to accommodate</i> and the reported speech: <i>she'd say, “I don't do x, y or z because it's not a priority.”</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper. Donde el audio difiere de los subtítulos (some language, time logs, she goes out for…), se sigue al audio.",
+ "cues": [
+  {
+   "s": 202.46,
+   "t": "And what this <b>shows</b> us / is that <b>time</b> is <b>high</b>ly e<b>las</b>tic.",
+   "e": 206.92
+  },
+  {
+   "s": 206.92,
+   "t": "We <b>can</b>not make more <b>time</b>,",
+   "e": 208.9
+  },
+  {
+   "s": 208.9,
+   "t": "but <b>time</b> will <b>stretch</b> to ac<b>com</b>modate / what we <b>choose</b> to put into it.",
+   "e": 213.8
+  },
+  {
+   "s": 213.8,
+   "t": "And so the <b>key</b> to <b>time</b> management",
+   "e": 216.82
+  },
+  {
+   "s": 216.82,
+   "t": "is <b>treat</b>ing our pri<b>or</b>ities",
+   "e": 219.06
+  },
+  {
+   "s": 219.06,
+   "t": "as the e<b>quiv</b>alent of that <b>bro</b>ken <b>wa</b>ter <b>heat</b>er.",
+   "e": 223.74
+  },
+  {
+   "s": 223.74,
+   "t": "To <b>get</b> at this,",
+   "e": 224.54
+  },
+  {
+   "s": 224.54,
+   "t": "I <b>like</b> to use some <b>lan</b>guage from <b>one</b> of the <b>bus</b>iest people I ever <b>in</b>terviewed.",
+   "e": 227.86
+  },
+  {
+   "s": 227.86,
+   "t": "By <b>bus</b>y, I mean she was <b>run</b>ning a small <b>busi</b>ness",
+   "e": 229.74
+  },
+  {
+   "s": 229.74,
+   "t": "with 12 <b>peo</b>ple on the <b>pay</b>roll,",
+   "e": 231.54
+  },
+  {
+   "s": 231.54,
+   "t": "she had <b>six</b> children in her <b>spare</b> time.",
+   "e": 233.92
+  },
+  {
+   "s": 233.92,
+   "t": "I was <b>get</b>ting in <b>touch</b> with her to <b>set</b> up an <b>in</b>terview",
+   "e": 236.18
+  },
+  {
+   "s": 236.18,
+   "t": "on how she “had it <b>all</b>” -- / that <b>phrase</b>.",
+   "e": 239.14
+  },
+  {
+   "s": 239.14,
+   "t": "I re<b>mem</b>ber it was a <b>Thurs</b>day morning,",
+   "e": 240.4
+  },
+  {
+   "s": 240.4,
+   "t": "and she was <b>not</b> a<b>vail</b>able to <b>speak</b> with me.",
+   "e": 242.56
+  },
+  {
+   "s": 242.56,
+   "t": "Of <b>course</b>, right?",
+   "e": 244.1
+  },
+  {
+   "s": 244.1,
+   "t": "But the <b>rea</b>son she was una<b>vail</b>able to speak with me",
+   "e": 246.42
+  },
+  {
+   "s": 246.42,
+   "t": "is that she was <b>out</b> for a <b>hike</b>,",
+   "e": 248.4
+  },
+  {
+   "s": 248.4,
+   "t": "be<b>cause</b> it was a <b>beau</b>tiful <b>spring</b> morning,",
+   "e": 249.86
+  },
+  {
+   "s": 249.86,
+   "t": "and she <b>want</b>ed to go for a <b>hike</b>.",
+   "e": 252.06
+  },
+  {
+   "s": 252.06,
+   "t": "So of <b>course</b> this makes me e<b>ven</b> more in<b>trigued</b>,",
+   "e": 254.92
+  },
+  {
+   "s": 254.92,
+   "t": "and when I <b>fi</b>nally do <b>catch</b> up with her, / she ex<b>plains</b> it like <b>this</b>.",
+   "e": 257.48
+  },
+  {
+   "s": 257.48,
+   "t": "She says, “<b>Lis</b>ten Laura, / <b>ev</b>erything I <b>do</b>,",
+   "e": 261.06
+  },
+  {
+   "s": 261.06,
+   "t": "<b>ev</b>ery <b>min</b>ute I spend, / is my <b>choice</b>.”",
+   "e": 265.24
+  },
+  {
+   "s": 265.24,
+   "t": "And <b>rath</b>er than say,",
+   "e": 266.36
+  },
+  {
+   "s": 266.36,
+   "t": "“I <b>don't</b> have time to do x, y or z,”",
+   "e": 269.28
+  },
+  {
+   "s": 269.28,
+   "t": "she'd say, “I <b>don't</b> do x, y or z / be<b>cause</b> it's <b>not</b> a pri<b>or</b>ity.”",
+   "e": 274.9
+  },
+  {
+   "s": 274.9,
+   "t": "“I don't have <b>time</b>,” often <b>means</b> / “It's <b>not</b> a pri<b>or</b>ity.”",
+   "e": 279.39
+  }
+ ],
+ "verified": "2026-11-02"
+}

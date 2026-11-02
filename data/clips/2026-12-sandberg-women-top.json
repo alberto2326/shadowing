@@ -1,0 +1,166 @@
+{
+ "slug": "2026-12-sandberg-women-top",
+ "video_id": "ted-sheryl_sandberg_why_we_have_too_few_women_leaders",
+ "title": "Sheryl Sandberg, “Why we have too few women leaders” (Mujeres en la cima del trabajo)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders",
+ "start": 4.1,
+ "end": 70.75,
+ "meta": {
+  "hablante": "Sheryl Sandberg",
+  "charla": "Why we have too few women leaders",
+  "acento": "Americano general (mujer)",
+  "tema": "Mujeres en la cima del trabajo"
+ },
+ "lines": [
+  "So for <b>an</b>y of us in this <b>room</b> to<b>day</b>, / let's <b>start</b> out by ad<b>mit</b>ting we're <b>luck</b>y.",
+  "We <b>don't</b> live in the <b>world</b> our <b>moth</b>ers lived in,",
+  "our <b>grand</b>mothers lived in,",
+  "where ca<b>reer</b> choices for <b>wom</b>en were so <b>lim</b>ited.",
+  "And if you're in this <b>room</b> to<b>day</b>,",
+  "<b>most</b> of us grew up in a <b>world</b> / where we have <b>ba</b>sic <b>civ</b>il <b>rights</b>,",
+  "and a<b>maz</b>ingly, / we <b>still</b> live in a <b>world</b> where some <b>wom</b>en <b>don't</b> have them.",
+  "But <b>all</b> that a<b>side</b>, / we still have a <b>prob</b>lem,",
+  "and it's a <b>real</b> prob<b>lem</b>.",
+  "And the <b>prob</b>lem is <b>this</b>:",
+  "<b>Wom</b>en are <b>not</b> making it to the <b>top</b> of any pro<b>fes</b>sion",
+  "<b>an</b>ywhere in the <b>world</b>.",
+  "The <b>num</b>bers <b>tell</b> the story quite <b>clear</b>ly.",
+  "190 <b>heads</b> of <b>state</b> -- / 9 are <b>wom</b>en.",
+  "Of all the <b>peo</b>ple in <b>par</b>liament in the <b>world</b>,",
+  "13% are <b>wom</b>en.",
+  "In the <b>cor</b>porate <b>sec</b>tor, / <b>wom</b>en at the <b>top</b>,",
+  "C-level <b>jobs</b>, / <b>board</b> seats --",
+  "<b>tops</b> out at 15, 16%.",
+  "The <b>num</b>bers have not <b>moved</b> since 2002",
+  "and are <b>go</b>ing in the <b>wrong</b> di<b>rec</b>tion.",
+  "And <b>e</b>ven in the <b>non</b>-profit <b>world</b>,",
+  "a <b>world</b> we <b>some</b>times think of as being <b>led</b> by more <b>wom</b>en,",
+  "<b>wom</b>en at the <b>top</b>: / 20%."
+ ],
+ "listen_for": "Numbers read aloud (<i>190 heads of state</i>), the contrast <i>we don't live in… / we still have a problem</i>, and the falling intonation on each statistic",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 3.8,
+   "t": "So for <b>an</b>y of us in this <b>room</b> to<b>day</b>, / let's <b>start</b> out by ad<b>mit</b>ting we're <b>luck</b>y.",
+   "e": 8.8
+  },
+  {
+   "s": 8.8,
+   "t": "We <b>don't</b> live in the <b>world</b> our <b>moth</b>ers lived in,",
+   "e": 11.38
+  },
+  {
+   "s": 11.38,
+   "t": "our <b>grand</b>mothers lived in,",
+   "e": 12.76
+  },
+  {
+   "s": 12.76,
+   "t": "where ca<b>reer</b> choices for <b>wom</b>en were so <b>lim</b>ited.",
+   "e": 15.78
+  },
+  {
+   "s": 15.78,
+   "t": "And if you're in this <b>room</b> to<b>day</b>,",
+   "e": 17.64
+  },
+  {
+   "s": 17.64,
+   "t": "<b>most</b> of us grew up in a <b>world</b> / where we have <b>ba</b>sic <b>civ</b>il <b>rights</b>,",
+   "e": 22.12
+  },
+  {
+   "s": 22.12,
+   "t": "and a<b>maz</b>ingly, / we <b>still</b> live in a <b>world</b> where some <b>wom</b>en <b>don't</b> have them.",
+   "e": 25.78
+  },
+  {
+   "s": 25.78,
+   "t": "But <b>all</b> that a<b>side</b>, / we still have a <b>prob</b>lem,",
+   "e": 29.46
+  },
+  {
+   "s": 29.46,
+   "t": "and it's a <b>real</b> prob<b>lem</b>.",
+   "e": 30.98
+  },
+  {
+   "s": 30.98,
+   "t": "And the <b>prob</b>lem is <b>this</b>:",
+   "e": 32.68
+  },
+  {
+   "s": 32.68,
+   "t": "<b>Wom</b>en are <b>not</b> making it to the <b>top</b> of any pro<b>fes</b>sion",
+   "e": 36.06
+  },
+  {
+   "s": 36.06,
+   "t": "<b>an</b>ywhere in the <b>world</b>.",
+   "e": 38.5
+  },
+  {
+   "s": 38.5,
+   "t": "The <b>num</b>bers <b>tell</b> the story quite <b>clear</b>ly.",
+   "e": 41.18
+  },
+  {
+   "s": 41.18,
+   "t": "190 <b>heads</b> of <b>state</b> -- / 9 are <b>wom</b>en.",
+   "e": 44.64
+  },
+  {
+   "s": 44.64,
+   "t": "Of all the <b>peo</b>ple in <b>par</b>liament in the <b>world</b>,",
+   "e": 47.12
+  },
+  {
+   "s": 47.12,
+   "t": "13% are <b>wom</b>en.",
+   "e": 48.46
+  },
+  {
+   "s": 48.46,
+   "t": "In the <b>cor</b>porate <b>sec</b>tor, / <b>wom</b>en at the <b>top</b>,",
+   "e": 52.16
+  },
+  {
+   "s": 52.16,
+   "t": "C-level <b>jobs</b>, / <b>board</b> seats --",
+   "e": 54.56
+  },
+  {
+   "s": 54.56,
+   "t": "<b>tops</b> out at 15, 16%.",
+   "e": 56.94
+  },
+  {
+   "s": 56.94,
+   "t": "The <b>num</b>bers have not <b>moved</b> since 2002",
+   "e": 59.66
+  },
+  {
+   "s": 59.66,
+   "t": "and are <b>go</b>ing in the <b>wrong</b> di<b>rec</b>tion.",
+   "e": 62.74
+  },
+  {
+   "s": 62.74,
+   "t": "And <b>e</b>ven in the <b>non</b>-profit <b>world</b>,",
+   "e": 64.9
+  },
+  {
+   "s": 64.9,
+   "t": "a <b>world</b> we <b>some</b>times think of as being <b>led</b> by more <b>wom</b>en,",
+   "e": 68.32
+  },
+  {
+   "s": 68.32,
+   "t": "<b>wom</b>en at the <b>top</b>: / 20%.",
+   "e": 70.85
+  }
+ ],
+ "verified": "2026-11-02"
+}

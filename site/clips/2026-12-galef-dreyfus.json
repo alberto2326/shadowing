@@ -1,0 +1,129 @@
+{
+ "title": "Julia Galef, “Why you think you're right — even if you're wrong” (Juicio, decisiones y el caso Dreyfus)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong",
+ "segment": "01:20–02:32 (72 s)",
+ "listen_for": "Storytelling pace with clear stress on narrative turns (<i>but never mind that</i>), and the sarcastic <i>which was highly suspicious, right?</i> (that one is later; here: <i>This just convinced them more…</i>)",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 3.78,
+   "t": "What I'm going to ar<b>gue</b> to<b>day</b> / is that <b>hav</b>ing good <b>judg</b>ment,"
+  },
+  {
+   "s": 3.78,
+   "e": 6.28,
+   "t": "<b>mak</b>ing <b>ac</b>curate pre<b>dic</b>tions, / <b>mak</b>ing good de<b>ci</b>sions,"
+  },
+  {
+   "s": 6.28,
+   "e": 11.26,
+   "t": "is <b>most</b>ly about which <b>mind</b>set you're <b>in</b>."
+  },
+  {
+   "s": 11.26,
+   "e": 13.28,
+   "t": "To <b>il</b>lustrate these <b>mind</b>sets in <b>ac</b>tion,"
+  },
+  {
+   "s": 13.28,
+   "e": 16.14,
+   "t": "I'm going to <b>take</b> you <b>back</b> to 19th-<b>cen</b>tury <b>France</b>,"
+  },
+  {
+   "s": 16.14,
+   "e": 19.38,
+   "t": "where this in<b>noc</b>uous-looking <b>piece</b> of <b>pa</b>per"
+  },
+  {
+   "s": 19.38,
+   "e": 23.08,
+   "t": "<b>launched</b> one of the <b>big</b>gest po<b>lit</b>ical <b>scan</b>dals in <b>his</b>tory."
+  },
+  {
+   "s": 23.08,
+   "e": 28.6,
+   "t": "It was dis<b>cov</b>ered in 1894 / by <b>of</b>ficers in the <b>French</b> general <b>staff</b>."
+  },
+  {
+   "s": 28.6,
+   "e": 30.94,
+   "t": "It was <b>torn</b> up in a <b>waste</b>paper <b>bas</b>ket,"
+  },
+  {
+   "s": 30.94,
+   "e": 32.82,
+   "t": "but when they <b>pieced</b> it <b>back</b> to<b>geth</b>er,"
+  },
+  {
+   "s": 32.82,
+   "e": 34.76,
+   "t": "they dis<b>cov</b>ered that <b>some</b>one in their <b>ranks</b>"
+  },
+  {
+   "s": 34.76,
+   "e": 38.1,
+   "t": "had been <b>sell</b>ing <b>mil</b>itary <b>se</b>crets to <b>Ger</b>many."
+  },
+  {
+   "s": 38.1,
+   "e": 40.48,
+   "t": "So they <b>launched</b> a big in<b>ves</b>ti<b>ga</b>tion,"
+  },
+  {
+   "s": 40.48,
+   "e": 44.45,
+   "t": "and their sus<b>pi</b>cions <b>quick</b>ly con<b>verged</b> on this <b>man</b>,"
+  },
+  {
+   "s": 44.45,
+   "e": 45.1,
+   "t": "<b>Al</b>fred <b>Drey</b>fus."
+  },
+  {
+   "s": 45.1,
+   "e": 48.06,
+   "t": "He had a <b>ster</b>ling <b>rec</b>ord,"
+  },
+  {
+   "s": 48.06,
+   "e": 52.04,
+   "t": "<b>no</b> past <b>his</b>tory of <b>wrong</b>doing, / <b>no</b> mo<b>tive</b> as far as they could <b>tell</b>."
+  },
+  {
+   "s": 52.04,
+   "e": 57.42,
+   "t": "But <b>Drey</b>fus was the <b>on</b>ly <b>Jew</b>ish officer at that <b>rank</b> in the <b>ar</b>my,"
+  },
+  {
+   "s": 57.42,
+   "e": 61.62,
+   "t": "and un<b>for</b>tunately at this <b>time</b>, / the French <b>Ar</b>my was <b>high</b>ly anti-<b>Sem</b>itic."
+  },
+  {
+   "s": 61.62,
+   "e": 63.98,
+   "t": "They com<b>pared</b> <b>Drey</b>fus's <b>hand</b>writing to that on the <b>me</b>mo"
+  },
+  {
+   "s": 63.98,
+   "e": 66.7,
+   "t": "and con<b>clud</b>ed that it was a <b>match</b>,"
+  },
+  {
+   "s": 66.7,
+   "e": 69.2,
+   "t": "even though out<b>side</b> pro<b>fes</b>sional <b>hand</b>writing <b>ex</b>perts"
+  },
+  {
+   "s": 69.2,
+   "e": 71.56,
+   "t": "were much <b>less</b> <b>con</b>fident in the simi<b>lar</b>ity,"
+  },
+  {
+   "s": 71.56,
+   "e": 72.79,
+   "t": "but <b>nev</b>er <b>mind</b> that."
+  }
+ ]
+}

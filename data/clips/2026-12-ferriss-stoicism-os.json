@@ -1,0 +1,178 @@
+{
+ "slug": "2026-12-ferriss-stoicism-os",
+ "video_id": "ted-tim_ferriss_why_you_should_define_your_fears_instead_of_your",
+ "title": "Tim Ferriss, “Why you should define your fears instead of your goals” (Estoicismo y decisiones bajo presión)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals",
+ "start": 162.06,
+ "end": 231.57,
+ "meta": {
+  "hablante": "Tim Ferriss",
+  "charla": "Why you should define your fears instead of your goals",
+  "acento": "Americano general (hombre)",
+  "tema": "Estoicismo y decisiones bajo presión"
+ },
+ "lines": [
+  "So <b>why</b> would <b>peo</b>ple of <b>ac</b>tion / <b>fo</b>cus so much on an <b>an</b>cient phi<b>los</b>ophy that <b>seems</b> very aca<b>dem</b>ic?",
+  "And I would en<b>cour</b>age you to <b>think</b> about <b>sto</b>icism a little bit <b>dif</b>ferently,",
+  "as an <b>op</b>erating <b>sys</b>tem for <b>thriv</b>ing in high-<b>stress</b> en<b>vi</b>ronments,",
+  "for <b>mak</b>ing <b>bet</b>ter de<b>ci</b>sions.",
+  "And it <b>all</b> started <b>here</b>,",
+  "kind of,",
+  "on a <b>porch</b>.",
+  "So a<b>round</b> 300 B.C. in <b>Ath</b>ens,",
+  "<b>some</b>one named <b>Ze</b>no of <b>Ci</b>tium taught many <b>lec</b>tures",
+  "<b>walk</b>ing a<b>round</b> a <b>paint</b>ed porch, / a “<b>sto</b>a.”",
+  "That <b>lat</b>er be<b>came</b> “<b>sto</b>icism.”",
+  "And in the <b>Gre</b>co-<b>Ro</b>man world,",
+  "<b>peo</b>ple used <b>sto</b>icism as a compre<b>hen</b>sive <b>sys</b>tem",
+  "for <b>do</b>ing many, many <b>things</b>.",
+  "But for our <b>pur</b>poses, / <b>chief</b> among them was <b>train</b>ing yourself",
+  "to <b>sep</b>arate what you <b>can</b> con<b>trol</b> / from what you <b>can</b>not con<b>trol</b>,",
+  "and then <b>do</b>ing <b>ex</b>ercises to <b>fo</b>cus ex<b>clu</b>sively",
+  "on the <b>for</b>mer.",
+  "This de<b>creas</b>es e<b>mo</b>tional reac<b>tiv</b>ity,",
+  "which can be a <b>su</b>perpower.",
+  "Con<b>verse</b>ly, / let's say you're a <b>quar</b>terback.",
+  "You <b>miss</b> a <b>pass</b>. / You get <b>fur</b>ious with your<b>self</b>.",
+  "That could <b>cost</b> you a <b>game</b>.",
+  "If you're a <b>C</b>E<b>O</b>, / and you <b>fly</b> off the <b>han</b>dle at a very <b>val</b>ued em<b>ploy</b>ee",
+  "be<b>cause</b> of a <b>mi</b>nor in<b>frac</b>tion,",
+  "that could <b>cost</b> you the em<b>ploy</b>ee."
+ ],
+ "listen_for": "Casual conversational rhythm with stressed contrast: <i>what you <b>can</b> control / what you <b>cannot</b> control</i>; the <i>If you're a… that could cost you…</i> pattern",
+ "notas": "Subtítulos humanos contrastados con Whisper. Audio: «philosophy that seems very academic» (dos pasadas coinciden) y se sigue al audio. En «world/worlds» y «used/use» las dos pasadas no coinciden: se sigue a los subtítulos.",
+ "cues": [
+  {
+   "s": 161.76,
+   "t": "So <b>why</b> would <b>peo</b>ple of <b>ac</b>tion / <b>fo</b>cus so much on an <b>an</b>cient phi<b>los</b>ophy that <b>seems</b> very aca<b>dem</b>ic?",
+   "e": 168.1
+  },
+  {
+   "s": 168.1,
+   "t": "And I would en<b>cour</b>age you to <b>think</b> about <b>sto</b>icism a little bit <b>dif</b>ferently,",
+   "e": 170.44
+  },
+  {
+   "s": 170.44,
+   "t": "as an <b>op</b>erating <b>sys</b>tem for <b>thriv</b>ing in high-<b>stress</b> en<b>vi</b>ronments,",
+   "e": 174.82
+  },
+  {
+   "s": 174.82,
+   "t": "for <b>mak</b>ing <b>bet</b>ter de<b>ci</b>sions.",
+   "e": 175.88
+  },
+  {
+   "s": 175.88,
+   "t": "And it <b>all</b> started <b>here</b>,",
+   "e": 179.54
+  },
+  {
+   "s": 179.54,
+   "t": "kind of,",
+   "e": 180.42
+  },
+  {
+   "s": 180.42,
+   "t": "on a <b>porch</b>.",
+   "e": 182.3
+  },
+  {
+   "s": 182.3,
+   "t": "So a<b>round</b> 300 B.C. in <b>Ath</b>ens,",
+   "e": 185.6
+  },
+  {
+   "s": 185.6,
+   "t": "<b>some</b>one named <b>Ze</b>no of <b>Ci</b>tium taught many <b>lec</b>tures",
+   "e": 188.22
+  },
+  {
+   "s": 188.22,
+   "t": "<b>walk</b>ing a<b>round</b> a <b>paint</b>ed porch, / a “<b>sto</b>a.”",
+   "e": 190.52
+  },
+  {
+   "s": 190.52,
+   "t": "That <b>lat</b>er be<b>came</b> “<b>sto</b>icism.”",
+   "e": 193.7
+  },
+  {
+   "s": 193.7,
+   "t": "And in the <b>Gre</b>co-<b>Ro</b>man world,",
+   "e": 196.0
+  },
+  {
+   "s": 196.0,
+   "t": "<b>peo</b>ple used <b>sto</b>icism as a compre<b>hen</b>sive <b>sys</b>tem",
+   "e": 198.88
+  },
+  {
+   "s": 198.88,
+   "t": "for <b>do</b>ing many, many <b>things</b>.",
+   "e": 200.04
+  },
+  {
+   "s": 200.04,
+   "t": "But for our <b>pur</b>poses, / <b>chief</b> among them was <b>train</b>ing yourself",
+   "e": 204.5
+  },
+  {
+   "s": 204.5,
+   "t": "to <b>sep</b>arate what you <b>can</b> con<b>trol</b> / from what you <b>can</b>not con<b>trol</b>,",
+   "e": 207.82
+  },
+  {
+   "s": 207.82,
+   "t": "and then <b>do</b>ing <b>ex</b>ercises to <b>fo</b>cus ex<b>clu</b>sively",
+   "e": 211.28
+  },
+  {
+   "s": 211.28,
+   "t": "on the <b>for</b>mer.",
+   "e": 212.66
+  },
+  {
+   "s": 212.66,
+   "t": "This de<b>creas</b>es e<b>mo</b>tional reac<b>tiv</b>ity,",
+   "e": 215.12
+  },
+  {
+   "s": 215.12,
+   "t": "which can be a <b>su</b>perpower.",
+   "e": 217.62
+  },
+  {
+   "s": 217.62,
+   "t": "Con<b>verse</b>ly, / let's say you're a <b>quar</b>terback.",
+   "e": 220.42
+  },
+  {
+   "s": 220.42,
+   "t": "You <b>miss</b> a <b>pass</b>. / You get <b>fur</b>ious with your<b>self</b>.",
+   "e": 222.4
+  },
+  {
+   "s": 222.4,
+   "t": "That could <b>cost</b> you a <b>game</b>.",
+   "e": 224.62
+  },
+  {
+   "s": 224.62,
+   "t": "If you're a <b>C</b>E<b>O</b>, / and you <b>fly</b> off the <b>han</b>dle at a very <b>val</b>ued em<b>ploy</b>ee",
+   "e": 228.22
+  },
+  {
+   "s": 228.22,
+   "t": "be<b>cause</b> of a <b>mi</b>nor in<b>frac</b>tion,",
+   "e": 229.46
+  },
+  {
+   "s": 229.46,
+   "t": "that could <b>cost</b> you the em<b>ploy</b>ee.",
+   "e": 231.67
+  }
+ ],
+ "verified": "2026-11-02"
+}

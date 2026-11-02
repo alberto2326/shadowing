@@ -1,0 +1,196 @@
+{
+ "slug": "2026-12-gottlieb-unreliable-narrators",
+ "video_id": "ted-lori_gottlieb_how_changing_your_story_can_change_your_life",
+ "title": "Lori Gottlieb, “How changing your story can change your life” (Todos contamos nuestra historia a nuestra manera)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/lori_gottlieb_how_changing_your_story_can_change_your_life",
+ "start": 123.48,
+ "end": 193.57,
+ "meta": {
+  "hablante": "Lori Gottlieb",
+  "charla": "How changing your story can change your life",
+  "acento": "Americano general (mujer)",
+  "tema": "Todos contamos nuestra historia a nuestra manera"
+ },
+ "lines": [
+  "But I have to be <b>real</b>ly <b>care</b>ful / when I re<b>spond</b> to these <b>let</b>ters",
+  "be<b>cause</b> I <b>know</b> that <b>ev</b>ery <b>let</b>ter I get / is <b>ac</b>tually just a <b>sto</b>ry",
+  "<b>writ</b>ten by a spe<b>cif</b>ic <b>au</b>thor.",
+  "And that a<b>no</b>ther <b>ver</b>sion of this story <b>al</b>so ex<b>ists</b>.",
+  "It <b>al</b>ways <b>does</b>.",
+  "And I <b>know</b> this",
+  "be<b>cause</b> if I've <b>learned</b> anything as a <b>ther</b>apist,",
+  "it's that we are <b>all</b> unre<b>li</b>able <b>nar</b>rators of our <b>own</b> lives.",
+  "I <b>am</b>.",
+  "You <b>are</b>.",
+  "And so is <b>ev</b>eryone you <b>know</b>.",
+  "Which I <b>prob</b>ably <b>should</b>n't have <b>told</b> you",
+  "be<b>cause</b> now you're <b>not</b> going to be<b>lieve</b> my TED Talk.",
+  "<b>Look</b>, / I <b>don't</b> mean that we <b>pur</b>posely mis<b>lead</b>.",
+  "<b>Most</b> of what <b>peo</b>ple tell me is <b>ab</b>solutely <b>true</b>,",
+  "just from their <b>cur</b>rent <b>points</b> of view.",
+  "De<b>pend</b>ing on what they <b>em</b>phasize or <b>min</b>imize,",
+  "what they <b>leave</b> in, / what they <b>leave</b> out,",
+  "what they <b>see</b> and want me to <b>see</b>,",
+  "they <b>tell</b> their <b>sto</b>ries in a par<b>tic</b>ular way.",
+  "The psy<b>chol</b>ogist Je<b>rome</b> <b>Bru</b>ner de<b>scribed</b> this <b>beau</b>tifully -- he <b>said</b>,",
+  "“To <b>tell</b> a <b>sto</b>ry is, in<b>es</b>capably, / to take a <b>mor</b>al <b>stance</b>.”",
+  "All of us <b>walk</b> a<b>round</b> with <b>sto</b>ries about our <b>lives</b>.",
+  "<b>Why</b> choices were <b>made</b>, / why things went <b>wrong</b>,",
+  "<b>why</b> we <b>treat</b>ed someone a <b>cer</b>tain way --",
+  "be<b>cause</b> obviously, they de<b>served</b> it --",
+  "why <b>some</b>one treated <b>us</b> a certain way --",
+  "<b>e</b>ven though, obviously, we <b>did</b>n't.",
+  "<b>Sto</b>ries are the <b>way</b> we make <b>sense</b> of our <b>lives</b>."
+ ],
+ "listen_for": "The long, flowing sentence with embedded clauses (<i>because I know that every letter I get is actually just a story written by a specific author</i>) and the short punchy ones: <i>I am. You are.</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 123.18,
+   "t": "But I have to be <b>real</b>ly <b>care</b>ful / when I re<b>spond</b> to these <b>let</b>ters",
+   "e": 126.56
+  },
+  {
+   "s": 126.56,
+   "t": "be<b>cause</b> I <b>know</b> that <b>ev</b>ery <b>let</b>ter I get / is <b>ac</b>tually just a <b>sto</b>ry",
+   "e": 129.94
+  },
+  {
+   "s": 129.94,
+   "t": "<b>writ</b>ten by a spe<b>cif</b>ic <b>au</b>thor.",
+   "e": 132.56
+  },
+  {
+   "s": 132.56,
+   "t": "And that a<b>no</b>ther <b>ver</b>sion of this story <b>al</b>so ex<b>ists</b>.",
+   "e": 135.56
+  },
+  {
+   "s": 135.56,
+   "t": "It <b>al</b>ways <b>does</b>.",
+   "e": 137.46
+  },
+  {
+   "s": 137.46,
+   "t": "And I <b>know</b> this",
+   "e": 138.26
+  },
+  {
+   "s": 138.26,
+   "t": "be<b>cause</b> if I've <b>learned</b> anything as a <b>ther</b>apist,",
+   "e": 140.14
+  },
+  {
+   "s": 140.14,
+   "t": "it's that we are <b>all</b> unre<b>li</b>able <b>nar</b>rators of our <b>own</b> lives.",
+   "e": 144.64
+  },
+  {
+   "s": 144.64,
+   "t": "I <b>am</b>.",
+   "e": 146.18
+  },
+  {
+   "s": 146.18,
+   "t": "You <b>are</b>.",
+   "e": 147.84
+  },
+  {
+   "s": 147.84,
+   "t": "And so is <b>ev</b>eryone you <b>know</b>.",
+   "e": 150.02
+  },
+  {
+   "s": 150.02,
+   "t": "Which I <b>prob</b>ably <b>should</b>n't have <b>told</b> you",
+   "e": 151.42
+  },
+  {
+   "s": 151.42,
+   "t": "be<b>cause</b> now you're <b>not</b> going to be<b>lieve</b> my TED Talk.",
+   "e": 154.36
+  },
+  {
+   "s": 154.36,
+   "t": "<b>Look</b>, / I <b>don't</b> mean that we <b>pur</b>posely mis<b>lead</b>.",
+   "e": 156.96
+  },
+  {
+   "s": 156.96,
+   "t": "<b>Most</b> of what <b>peo</b>ple tell me is <b>ab</b>solutely <b>true</b>,",
+   "e": 159.5
+  },
+  {
+   "s": 159.5,
+   "t": "just from their <b>cur</b>rent <b>points</b> of view.",
+   "e": 162.34
+  },
+  {
+   "s": 162.34,
+   "t": "De<b>pend</b>ing on what they <b>em</b>phasize or <b>min</b>imize,",
+   "e": 164.9
+  },
+  {
+   "s": 164.9,
+   "t": "what they <b>leave</b> in, / what they <b>leave</b> out,",
+   "e": 166.4
+  },
+  {
+   "s": 166.4,
+   "t": "what they <b>see</b> and want me to <b>see</b>,",
+   "e": 168.26
+  },
+  {
+   "s": 168.26,
+   "t": "they <b>tell</b> their <b>sto</b>ries in a par<b>tic</b>ular way.",
+   "e": 171.46
+  },
+  {
+   "s": 171.46,
+   "t": "The psy<b>chol</b>ogist Je<b>rome</b> <b>Bru</b>ner de<b>scribed</b> this <b>beau</b>tifully -- he <b>said</b>,",
+   "e": 174.4
+  },
+  {
+   "s": 174.4,
+   "t": "“To <b>tell</b> a <b>sto</b>ry is, in<b>es</b>capably, / to take a <b>mor</b>al <b>stance</b>.”",
+   "e": 179.24
+  },
+  {
+   "s": 179.24,
+   "t": "All of us <b>walk</b> a<b>round</b> with <b>sto</b>ries about our <b>lives</b>.",
+   "e": 181.94
+  },
+  {
+   "s": 181.94,
+   "t": "<b>Why</b> choices were <b>made</b>, / why things went <b>wrong</b>,",
+   "e": 184.44
+  },
+  {
+   "s": 184.44,
+   "t": "<b>why</b> we <b>treat</b>ed someone a <b>cer</b>tain way --",
+   "e": 186.18
+  },
+  {
+   "s": 186.18,
+   "t": "be<b>cause</b> obviously, they de<b>served</b> it --",
+   "e": 188.3
+  },
+  {
+   "s": 188.3,
+   "t": "why <b>some</b>one treated <b>us</b> a certain way --",
+   "e": 190.04
+  },
+  {
+   "s": 190.04,
+   "t": "<b>e</b>ven though, obviously, we <b>did</b>n't.",
+   "e": 192.3
+  },
+  {
+   "s": 192.3,
+   "t": "<b>Sto</b>ries are the <b>way</b> we make <b>sense</b> of our <b>lives</b>.",
+   "e": 193.67
+  }
+ ],
+ "verified": "2026-11-02"
+}

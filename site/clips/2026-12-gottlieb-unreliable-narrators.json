@@ -1,0 +1,154 @@
+{
+ "title": "Lori Gottlieb, “How changing your story can change your life” (Todos contamos nuestra historia a nuestra manera)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/lori_gottlieb_how_changing_your_story_can_change_your_life",
+ "segment": "02:03–03:13 (70 s)",
+ "listen_for": "The long, flowing sentence with embedded clauses (<i>because I know that every letter I get is actually just a story written by a specific author</i>) and the short punchy ones: <i>I am. You are.</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 3.48,
+   "t": "But I have to be <b>real</b>ly <b>care</b>ful / when I re<b>spond</b> to these <b>let</b>ters"
+  },
+  {
+   "s": 3.48,
+   "e": 6.86,
+   "t": "be<b>cause</b> I <b>know</b> that <b>ev</b>ery <b>let</b>ter I get / is <b>ac</b>tually just a <b>sto</b>ry"
+  },
+  {
+   "s": 6.86,
+   "e": 9.48,
+   "t": "<b>writ</b>ten by a spe<b>cif</b>ic <b>au</b>thor."
+  },
+  {
+   "s": 9.48,
+   "e": 12.48,
+   "t": "And that a<b>no</b>ther <b>ver</b>sion of this story <b>al</b>so ex<b>ists</b>."
+  },
+  {
+   "s": 12.48,
+   "e": 14.38,
+   "t": "It <b>al</b>ways <b>does</b>."
+  },
+  {
+   "s": 14.38,
+   "e": 15.18,
+   "t": "And I <b>know</b> this"
+  },
+  {
+   "s": 15.18,
+   "e": 17.06,
+   "t": "be<b>cause</b> if I've <b>learned</b> anything as a <b>ther</b>apist,"
+  },
+  {
+   "s": 17.06,
+   "e": 21.56,
+   "t": "it's that we are <b>all</b> unre<b>li</b>able <b>nar</b>rators of our <b>own</b> lives."
+  },
+  {
+   "s": 21.56,
+   "e": 23.1,
+   "t": "I <b>am</b>."
+  },
+  {
+   "s": 23.1,
+   "e": 24.76,
+   "t": "You <b>are</b>."
+  },
+  {
+   "s": 24.76,
+   "e": 26.94,
+   "t": "And so is <b>ev</b>eryone you <b>know</b>."
+  },
+  {
+   "s": 26.94,
+   "e": 28.34,
+   "t": "Which I <b>prob</b>ably <b>should</b>n't have <b>told</b> you"
+  },
+  {
+   "s": 28.34,
+   "e": 31.28,
+   "t": "be<b>cause</b> now you're <b>not</b> going to be<b>lieve</b> my TED Talk."
+  },
+  {
+   "s": 31.28,
+   "e": 33.88,
+   "t": "<b>Look</b>, / I <b>don't</b> mean that we <b>pur</b>posely mis<b>lead</b>."
+  },
+  {
+   "s": 33.88,
+   "e": 36.42,
+   "t": "<b>Most</b> of what <b>peo</b>ple tell me is <b>ab</b>solutely <b>true</b>,"
+  },
+  {
+   "s": 36.42,
+   "e": 39.26,
+   "t": "just from their <b>cur</b>rent <b>points</b> of view."
+  },
+  {
+   "s": 39.26,
+   "e": 41.82,
+   "t": "De<b>pend</b>ing on what they <b>em</b>phasize or <b>min</b>imize,"
+  },
+  {
+   "s": 41.82,
+   "e": 43.32,
+   "t": "what they <b>leave</b> in, / what they <b>leave</b> out,"
+  },
+  {
+   "s": 43.32,
+   "e": 45.18,
+   "t": "what they <b>see</b> and want me to <b>see</b>,"
+  },
+  {
+   "s": 45.18,
+   "e": 48.38,
+   "t": "they <b>tell</b> their <b>sto</b>ries in a par<b>tic</b>ular way."
+  },
+  {
+   "s": 48.38,
+   "e": 51.32,
+   "t": "The psy<b>chol</b>ogist Je<b>rome</b> <b>Bru</b>ner de<b>scribed</b> this <b>beau</b>tifully -- he <b>said</b>,"
+  },
+  {
+   "s": 51.32,
+   "e": 56.16,
+   "t": "“To <b>tell</b> a <b>sto</b>ry is, in<b>es</b>capably, / to take a <b>mor</b>al <b>stance</b>.”"
+  },
+  {
+   "s": 56.16,
+   "e": 58.86,
+   "t": "All of us <b>walk</b> a<b>round</b> with <b>sto</b>ries about our <b>lives</b>."
+  },
+  {
+   "s": 58.86,
+   "e": 61.36,
+   "t": "<b>Why</b> choices were <b>made</b>, / why things went <b>wrong</b>,"
+  },
+  {
+   "s": 61.36,
+   "e": 63.1,
+   "t": "<b>why</b> we <b>treat</b>ed someone a <b>cer</b>tain way --"
+  },
+  {
+   "s": 63.1,
+   "e": 65.22,
+   "t": "be<b>cause</b> obviously, they de<b>served</b> it --"
+  },
+  {
+   "s": 65.22,
+   "e": 66.96,
+   "t": "why <b>some</b>one treated <b>us</b> a certain way --"
+  },
+  {
+   "s": 66.96,
+   "e": 69.22,
+   "t": "<b>e</b>ven though, obviously, we <b>did</b>n't."
+  },
+  {
+   "s": 69.22,
+   "e": 70.59,
+   "t": "<b>Sto</b>ries are the <b>way</b> we make <b>sense</b> of our <b>lives</b>."
+  }
+ ]
+}

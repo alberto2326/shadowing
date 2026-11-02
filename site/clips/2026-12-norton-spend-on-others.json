@@ -1,0 +1,124 @@
+{
+ "title": "Michael Norton, “How to buy happiness” (Dinero y felicidad: gastar en otros)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/michael_norton_how_to_buy_happiness",
+ "segment": "02:11–03:06 (55 s)",
+ "listen_for": "Spontaneous, chatty speech: <i>And we said, well, maybe…</i>; the experiment told step by step with <i>and… and… and</i> links; contrast <b>yourself</b> / <b>somebody else</b>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 2.22,
+   "t": "And we <b>said</b>, / <b>well</b>, / <b>may</b>be the <b>rea</b>son that <b>mon</b>ey doesn't make us <b>hap</b>py"
+  },
+  {
+   "s": 2.22,
+   "e": 4.54,
+   "t": "is that we're <b>al</b>ways <b>spend</b>ing it on the <b>wrong</b> things,"
+  },
+  {
+   "s": 4.54,
+   "e": 7.3,
+   "t": "and in par<b>tic</b>ular, / that we're <b>al</b>ways <b>spend</b>ing it on our<b>selves</b>."
+  },
+  {
+   "s": 7.3,
+   "e": 8.54,
+   "t": "And we <b>thought</b>, / I <b>won</b>der what would <b>hap</b>pen"
+  },
+  {
+   "s": 8.54,
+   "e": 11.44,
+   "t": "if we made <b>peo</b>ple spend <b>more</b> of their money on <b>oth</b>er people?"
+  },
+  {
+   "s": 11.44,
+   "e": 13.64,
+   "t": "So in<b>stead</b> of being anti-<b>so</b>cial with your <b>mon</b>ey,"
+  },
+  {
+   "s": 13.64,
+   "e": 15.76,
+   "t": "what if you were a little bit more pro-<b>so</b>cial with your money?"
+  },
+  {
+   "s": 15.76,
+   "e": 18.62,
+   "t": "And we <b>thought</b>, / let's <b>make</b> people do it and <b>see</b> what <b>hap</b>pens."
+  },
+  {
+   "s": 18.62,
+   "e": 20.5,
+   "t": "So let's have some <b>peo</b>ple do what they <b>u</b>sually do"
+  },
+  {
+   "s": 20.5,
+   "e": 21.8,
+   "t": "and <b>spend</b> money on them<b>selves</b>,"
+  },
+  {
+   "s": 21.8,
+   "e": 23.96,
+   "t": "and let's make some people <b>give</b> money a<b>way</b>"
+  },
+  {
+   "s": 23.96,
+   "e": 26.94,
+   "t": "and <b>meas</b>ure their <b>hap</b>piness / and see if in <b>fact</b> they get <b>hap</b>pier."
+  },
+  {
+   "s": 26.94,
+   "e": 29.88,
+   "t": "So the <b>first</b> way that we did this / on one Van<b>cou</b>ver <b>morn</b>ing,"
+  },
+  {
+   "s": 29.88,
+   "e": 32.48,
+   "t": "we went <b>out</b> on the <b>cam</b>pus at Uni<b>ver</b>sity of British Co<b>lum</b>bia"
+  },
+  {
+   "s": 32.48,
+   "e": 34.96,
+   "t": "and we ap<b>proached</b> people and said, / “Do you <b>want</b> to be in an ex<b>per</b>iment?”"
+  },
+  {
+   "s": 34.96,
+   "e": 36.22,
+   "t": "and they said, “<b>Yes</b>.”"
+  },
+  {
+   "s": 36.22,
+   "e": 39.34,
+   "t": "We <b>asked</b> them how <b>hap</b>py they were / and then we <b>gave</b> them an <b>en</b>velope."
+  },
+  {
+   "s": 39.34,
+   "e": 42.02,
+   "t": "And <b>one</b> of the <b>en</b>velopes had <b>things</b> in it that said,"
+  },
+  {
+   "s": 42.02,
+   "e": 45.8,
+   "t": "“By 5 p.m. to<b>day</b>, / <b>spend</b> this money on your<b>self</b>.”"
+  },
+  {
+   "s": 45.8,
+   "e": 47.88,
+   "t": "So we <b>gave</b> some ex<b>am</b>ples of what you could <b>spend</b> it on."
+  },
+  {
+   "s": 47.88,
+   "e": 50.24,
+   "t": "<b>Oth</b>er people in the <b>morn</b>ing / got a <b>slip</b> of <b>pa</b>per that said,"
+  },
+  {
+   "s": 50.24,
+   "e": 53.48,
+   "t": "“By 5 p.m. to<b>day</b>, / <b>spend</b> this money on <b>some</b>body <b>else</b>.”"
+  },
+  {
+   "s": 53.48,
+   "e": 55.81,
+   "t": "<b>Al</b>so in<b>side</b> the <b>en</b>velope was <b>mon</b>ey."
+  }
+ ]
+}

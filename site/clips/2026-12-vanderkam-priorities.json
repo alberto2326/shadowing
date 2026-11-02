@@ -1,0 +1,149 @@
+{
+ "title": "Laura Vanderkam, “How to gain control of your free time” («No tengo tiempo» significa «no es prioridad»)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time",
+ "segment": "03:22–04:39 (77 s)",
+ "listen_for": "<i>time will stretch to accommodate</i> and the reported speech: <i>she'd say, “I don't do x, y or z because it's not a priority.”</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 4.56,
+   "t": "And what this <b>shows</b> us / is that <b>time</b> is <b>high</b>ly e<b>las</b>tic."
+  },
+  {
+   "s": 4.56,
+   "e": 6.54,
+   "t": "We <b>can</b>not make more <b>time</b>,"
+  },
+  {
+   "s": 6.54,
+   "e": 11.44,
+   "t": "but <b>time</b> will <b>stretch</b> to ac<b>com</b>modate / what we <b>choose</b> to put into it."
+  },
+  {
+   "s": 11.44,
+   "e": 14.46,
+   "t": "And so the <b>key</b> to <b>time</b> management"
+  },
+  {
+   "s": 14.46,
+   "e": 16.7,
+   "t": "is <b>treat</b>ing our pri<b>or</b>ities"
+  },
+  {
+   "s": 16.7,
+   "e": 21.38,
+   "t": "as the e<b>quiv</b>alent of that <b>bro</b>ken <b>wa</b>ter <b>heat</b>er."
+  },
+  {
+   "s": 21.38,
+   "e": 22.18,
+   "t": "To <b>get</b> at this,"
+  },
+  {
+   "s": 22.18,
+   "e": 25.5,
+   "t": "I <b>like</b> to use some <b>lan</b>guage from <b>one</b> of the <b>bus</b>iest people I ever <b>in</b>terviewed."
+  },
+  {
+   "s": 25.5,
+   "e": 27.38,
+   "t": "By <b>bus</b>y, I mean she was <b>run</b>ning a small <b>busi</b>ness"
+  },
+  {
+   "s": 27.38,
+   "e": 29.18,
+   "t": "with 12 <b>peo</b>ple on the <b>pay</b>roll,"
+  },
+  {
+   "s": 29.18,
+   "e": 31.56,
+   "t": "she had <b>six</b> children in her <b>spare</b> time."
+  },
+  {
+   "s": 31.56,
+   "e": 33.82,
+   "t": "I was <b>get</b>ting in <b>touch</b> with her to <b>set</b> up an <b>in</b>terview"
+  },
+  {
+   "s": 33.82,
+   "e": 36.78,
+   "t": "on how she “had it <b>all</b>” -- / that <b>phrase</b>."
+  },
+  {
+   "s": 36.78,
+   "e": 38.04,
+   "t": "I re<b>mem</b>ber it was a <b>Thurs</b>day morning,"
+  },
+  {
+   "s": 38.04,
+   "e": 40.2,
+   "t": "and she was <b>not</b> a<b>vail</b>able to <b>speak</b> with me."
+  },
+  {
+   "s": 40.2,
+   "e": 41.74,
+   "t": "Of <b>course</b>, right?"
+  },
+  {
+   "s": 41.74,
+   "e": 44.06,
+   "t": "But the <b>rea</b>son she was una<b>vail</b>able to speak with me"
+  },
+  {
+   "s": 44.06,
+   "e": 46.04,
+   "t": "is that she was <b>out</b> for a <b>hike</b>,"
+  },
+  {
+   "s": 46.04,
+   "e": 47.5,
+   "t": "be<b>cause</b> it was a <b>beau</b>tiful <b>spring</b> morning,"
+  },
+  {
+   "s": 47.5,
+   "e": 49.7,
+   "t": "and she <b>want</b>ed to go for a <b>hike</b>."
+  },
+  {
+   "s": 49.7,
+   "e": 52.56,
+   "t": "So of <b>course</b> this makes me e<b>ven</b> more in<b>trigued</b>,"
+  },
+  {
+   "s": 52.56,
+   "e": 55.12,
+   "t": "and when I <b>fi</b>nally do <b>catch</b> up with her, / she ex<b>plains</b> it like <b>this</b>."
+  },
+  {
+   "s": 55.12,
+   "e": 58.7,
+   "t": "She says, “<b>Lis</b>ten Laura, / <b>ev</b>erything I <b>do</b>,"
+  },
+  {
+   "s": 58.7,
+   "e": 62.88,
+   "t": "<b>ev</b>ery <b>min</b>ute I spend, / is my <b>choice</b>.”"
+  },
+  {
+   "s": 62.88,
+   "e": 64.0,
+   "t": "And <b>rath</b>er than say,"
+  },
+  {
+   "s": 64.0,
+   "e": 66.92,
+   "t": "“I <b>don't</b> have time to do x, y or z,”"
+  },
+  {
+   "s": 66.92,
+   "e": 72.54,
+   "t": "she'd say, “I <b>don't</b> do x, y or z / be<b>cause</b> it's <b>not</b> a pri<b>or</b>ity.”"
+  },
+  {
+   "s": 72.54,
+   "e": 77.03,
+   "t": "“I don't have <b>time</b>,” often <b>means</b> / “It's <b>not</b> a pri<b>or</b>ity.”"
+  }
+ ]
+}

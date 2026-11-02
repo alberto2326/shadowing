@@ -1,0 +1,202 @@
+{
+ "slug": "2026-12-brewer-habit-loop",
+ "video_id": "ted-judson_brewer_a_simple_way_to_break_a_bad_habit",
+ "title": "Judson Brewer, “A simple way to break a bad habit” (Cómo se forma un hábito)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit",
+ "start": 97.42,
+ "end": 163.53,
+ "meta": {
+  "hablante": "Judson Brewer",
+  "charla": "A simple way to break a bad habit",
+  "acento": "Americano general (hombre)",
+  "tema": "Cómo se forma un hábito"
+ },
+ "lines": [
+  "<b>Well</b>, after a <b>while</b>, / our cre<b>a</b>tive brains <b>say</b>,",
+  "“You <b>know</b> what?",
+  "You can <b>use</b> this for <b>more</b> than just re<b>mem</b>bering where <b>food</b> is.",
+  "You <b>know</b>, next <b>time</b> you feel <b>bad</b>,",
+  "<b>why</b> don't you try <b>eat</b>ing something <b>good</b> / so you'll feel <b>bet</b>ter?”",
+  "We <b>thank</b> our brains for the great i<b>de</b>a,",
+  "try <b>this</b> / and <b>quick</b>ly <b>learn</b>",
+  "that if we <b>eat</b> chocolate or <b>ice</b> cream / when we're <b>mad</b> or <b>sad</b>,",
+  "we feel <b>bet</b>ter.",
+  "<b>Same</b> process,",
+  "just a <b>dif</b>ferent <b>trig</b>ger.",
+  "In<b>stead</b> of this <b>hun</b>ger signal / coming from our <b>stom</b>ach,",
+  "this e<b>mo</b>tional <b>sig</b>nal -- / feeling <b>sad</b> --",
+  "<b>trig</b>gers that <b>urge</b> to <b>eat</b>.",
+  "<b>May</b>be in our <b>teen</b>age years,",
+  "we were a <b>nerd</b> at school,",
+  "and we see those <b>reb</b>el kids outside <b>smok</b>ing and we <b>think</b>,",
+  "“Hey, I <b>want</b> to be <b>cool</b>.”",
+  "So we <b>start</b> smoking.",
+  "The <b>Marl</b>boro Man wasn't a <b>dork</b>, / and that was no <b>ac</b>cident.",
+  "See <b>cool</b>,",
+  "<b>smoke</b> to be <b>cool</b>,",
+  "feel <b>good</b>. / Re<b>peat</b>.",
+  "<b>Trig</b>ger, be<b>hav</b>ior, re<b>ward</b>.",
+  "And <b>each</b> time we do this,",
+  "we <b>learn</b> to re<b>peat</b> the process",
+  "and it be<b>comes</b> a <b>hab</b>it.",
+  "So <b>lat</b>er,",
+  "feeling <b>stressed</b> out triggers that <b>urge</b> to <b>smoke</b> a ciga<b>rette</b>",
+  "or to <b>eat</b> something <b>sweet</b>."
+ ],
+ "listen_for": "Reported thoughts as direct quotes (<i>“You know what?”</i>), and the repeated pattern <i>See cool, smoke to be cool, feel good. Repeat.</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 97.12,
+   "t": "<b>Well</b>, after a <b>while</b>, / our cre<b>a</b>tive brains <b>say</b>,",
+   "e": 99.38
+  },
+  {
+   "s": 99.38,
+   "t": "“You <b>know</b> what?",
+   "e": 100.54
+  },
+  {
+   "s": 100.54,
+   "t": "You can <b>use</b> this for <b>more</b> than just re<b>mem</b>bering where <b>food</b> is.",
+   "e": 104.38
+  },
+  {
+   "s": 104.38,
+   "t": "You <b>know</b>, next <b>time</b> you feel <b>bad</b>,",
+   "e": 106.62
+  },
+  {
+   "s": 106.62,
+   "t": "<b>why</b> don't you try <b>eat</b>ing something <b>good</b> / so you'll feel <b>bet</b>ter?”",
+   "e": 110.84
+  },
+  {
+   "s": 110.84,
+   "t": "We <b>thank</b> our brains for the great i<b>de</b>a,",
+   "e": 112.72
+  },
+  {
+   "s": 112.72,
+   "t": "try <b>this</b> / and <b>quick</b>ly <b>learn</b>",
+   "e": 114.66
+  },
+  {
+   "s": 114.66,
+   "t": "that if we <b>eat</b> chocolate or <b>ice</b> cream / when we're <b>mad</b> or <b>sad</b>,",
+   "e": 118.1
+  },
+  {
+   "s": 118.1,
+   "t": "we feel <b>bet</b>ter.",
+   "e": 120.06
+  },
+  {
+   "s": 120.06,
+   "t": "<b>Same</b> process,",
+   "e": 121.28
+  },
+  {
+   "s": 121.28,
+   "t": "just a <b>dif</b>ferent <b>trig</b>ger.",
+   "e": 123.18
+  },
+  {
+   "s": 123.18,
+   "t": "In<b>stead</b> of this <b>hun</b>ger signal / coming from our <b>stom</b>ach,",
+   "e": 126.32
+  },
+  {
+   "s": 126.32,
+   "t": "this e<b>mo</b>tional <b>sig</b>nal -- / feeling <b>sad</b> --",
+   "e": 128.24
+  },
+  {
+   "s": 128.24,
+   "t": "<b>trig</b>gers that <b>urge</b> to <b>eat</b>.",
+   "e": 130.48
+  },
+  {
+   "s": 130.48,
+   "t": "<b>May</b>be in our <b>teen</b>age years,",
+   "e": 132.22
+  },
+  {
+   "s": 132.22,
+   "t": "we were a <b>nerd</b> at school,",
+   "e": 134.66
+  },
+  {
+   "s": 134.66,
+   "t": "and we see those <b>reb</b>el kids outside <b>smok</b>ing and we <b>think</b>,",
+   "e": 137.78
+  },
+  {
+   "s": 137.78,
+   "t": "“Hey, I <b>want</b> to be <b>cool</b>.”",
+   "e": 138.94
+  },
+  {
+   "s": 138.94,
+   "t": "So we <b>start</b> smoking.",
+   "e": 140.78
+  },
+  {
+   "s": 140.78,
+   "t": "The <b>Marl</b>boro Man wasn't a <b>dork</b>, / and that was no <b>ac</b>cident.",
+   "e": 145.16
+  },
+  {
+   "s": 145.16,
+   "t": "See <b>cool</b>,",
+   "e": 146.24
+  },
+  {
+   "s": 146.24,
+   "t": "<b>smoke</b> to be <b>cool</b>,",
+   "e": 147.52
+  },
+  {
+   "s": 147.52,
+   "t": "feel <b>good</b>. / Re<b>peat</b>.",
+   "e": 149.72
+  },
+  {
+   "s": 149.72,
+   "t": "<b>Trig</b>ger, be<b>hav</b>ior, re<b>ward</b>.",
+   "e": 152.06
+  },
+  {
+   "s": 152.06,
+   "t": "And <b>each</b> time we do this,",
+   "e": 153.22
+  },
+  {
+   "s": 153.22,
+   "t": "we <b>learn</b> to re<b>peat</b> the process",
+   "e": 155.18
+  },
+  {
+   "s": 155.18,
+   "t": "and it be<b>comes</b> a <b>hab</b>it.",
+   "e": 157.32
+  },
+  {
+   "s": 157.32,
+   "t": "So <b>lat</b>er,",
+   "e": 158.58
+  },
+  {
+   "s": 158.58,
+   "t": "feeling <b>stressed</b> out triggers that <b>urge</b> to <b>smoke</b> a ciga<b>rette</b>",
+   "e": 161.58
+  },
+  {
+   "s": 161.58,
+   "t": "or to <b>eat</b> something <b>sweet</b>.",
+   "e": 163.63
+  }
+ ],
+ "verified": "2026-11-02"
+}

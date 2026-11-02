@@ -270,6 +270,159 @@
    "acento": "Americano general",
    "tema": "Sistemas: lo que falló con el ébola",
    "duracion": 63
+  },
+  {
+   "fecha": "2026-12-01",
+   "slug": "2026-12-sandberg-women-top",
+   "hablante": "Sheryl Sandberg",
+   "charla": "Why we have too few women leaders",
+   "acento": "Americano general (mujer)",
+   "tema": "Mujeres en la cima del trabajo",
+   "duracion": 67
+  },
+  {
+   "fecha": "2026-12-02",
+   "slug": "2026-12-waldinger-harvard-study",
+   "hablante": "Robert Waldinger",
+   "charla": "What makes a good life?",
+   "acento": "Americano general (hombre)",
+   "tema": "El estudio de Harvard sobre la felicidad",
+   "duracion": 65
+  },
+  {
+   "fecha": "2026-12-03",
+   "slug": "2026-12-gottlieb-unreliable-narrators",
+   "hablante": "Lori Gottlieb",
+   "charla": "How changing your story can change your life",
+   "acento": "Americano general (mujer)",
+   "tema": "Todos contamos nuestra historia a nuestra manera",
+   "duracion": 70
+  },
+  {
+   "fecha": "2026-12-04",
+   "slug": "2026-12-ferriss-stoicism-os",
+   "hablante": "Tim Ferriss",
+   "charla": "Why you should define your fears instead of your goals",
+   "acento": "Americano general (hombre)",
+   "tema": "Estoicismo y decisiones bajo presión",
+   "duracion": 70
+  },
+  {
+   "fecha": "2026-12-05",
+   "slug": "2026-12-dweck-not-yet",
+   "hablante": "Carol Dweck",
+   "charla": "The power of believing that you can improve",
+   "acento": "Americano general (mujer)",
+   "tema": "Mentalidad de crecimiento",
+   "duracion": 66
+  },
+  {
+   "fecha": "2026-12-06",
+   "slug": "2026-12-achor-cult-average",
+   "hablante": "Shawn Achor",
+   "charla": "The happy secret to better work",
+   "acento": "Americano general (hombre)",
+   "tema": "Psicología positiva: más allá de la media",
+   "duracion": 63
+  },
+  {
+   "fecha": "2026-12-07",
+   "slug": "2026-12-vanderkam-water-heater",
+   "hablante": "Laura Vanderkam",
+   "charla": "How to gain control of your free time",
+   "acento": "Americano general (mujer)",
+   "tema": "Gestión del tiempo y prioridades",
+   "duracion": 83
+  },
+  {
+   "fecha": "2026-12-08",
+   "slug": "2026-12-brewer-attention-reward",
+   "hablante": "Judson Brewer",
+   "charla": "A simple way to break a bad habit",
+   "acento": "Americano general (hombre)",
+   "tema": "Por qué cuesta tanto prestar atención",
+   "duracion": 64
+  },
+  {
+   "fecha": "2026-12-09",
+   "slug": "2026-12-brown-shame-connection",
+   "hablante": "Brené Brown",
+   "charla": "The power of vulnerability",
+   "acento": "Americano general (mujer)",
+   "tema": "Vergüenza y conexión",
+   "duracion": 89
+  },
+  {
+   "fecha": "2026-12-10",
+   "slug": "2026-12-norton-spend-on-others",
+   "hablante": "Michael Norton",
+   "charla": "How to buy happiness",
+   "acento": "Americano general (hombre)",
+   "tema": "Dinero y felicidad: gastar en otros",
+   "duracion": 55
+  },
+  {
+   "fecha": "2026-12-11",
+   "slug": "2026-12-galef-soldier-scout",
+   "hablante": "Julia Galef",
+   "charla": "Why you think you're right — even if you're wrong",
+   "acento": "Americano general (mujer)",
+   "tema": "Mentalidad de soldado y de explorador",
+   "duracion": 64
+  },
+  {
+   "fecha": "2026-12-12",
+   "slug": "2026-12-waldinger-relationships",
+   "hablante": "Robert Waldinger",
+   "charla": "What makes a good life?",
+   "acento": "Americano general (hombre)",
+   "tema": "Las relaciones nos hacen más felices",
+   "duracion": 64
+  },
+  {
+   "fecha": "2026-12-13",
+   "slug": "2026-12-gottlieb-edit-story",
+   "hablante": "Lori Gottlieb",
+   "charla": "How changing your story can change your life",
+   "acento": "Americano general (mujer)",
+   "tema": "Editar la historia: libertad y cambio",
+   "duracion": 65
+  },
+  {
+   "fecha": "2026-12-14",
+   "slug": "2026-12-brewer-habit-loop",
+   "hablante": "Judson Brewer",
+   "charla": "A simple way to break a bad habit",
+   "acento": "Americano general (hombre)",
+   "tema": "Cómo se forma un hábito",
+   "duracion": 66
+  },
+  {
+   "fecha": "2026-12-15",
+   "slug": "2026-12-dweck-praise-process",
+   "hablante": "Carol Dweck",
+   "charla": "The power of believing that you can improve",
+   "acento": "Americano general (mujer)",
+   "tema": "Elogiar el esfuerzo, no el talento",
+   "duracion": 84
+  },
+  {
+   "fecha": "2026-12-16",
+   "slug": "2026-12-vanderkam-priorities",
+   "hablante": "Laura Vanderkam",
+   "charla": "How to gain control of your free time",
+   "acento": "Americano general (mujer)",
+   "tema": "«No tengo tiempo» significa «no es prioridad»",
+   "duracion": 77
+  },
+  {
+   "fecha": "2026-12-17",
+   "slug": "2026-12-galef-dreyfus",
+   "hablante": "Julia Galef",
+   "charla": "Why you think you're right — even if you're wrong",
+   "acento": "Americano general (mujer)",
+   "tema": "Juicio, decisiones y el caso Dreyfus",
+   "duracion": 72
   }
  ]
 }

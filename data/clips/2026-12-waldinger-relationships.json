@@ -1,0 +1,118 @@
+{
+ "slug": "2026-12-waldinger-relationships",
+ "video_id": "ted-robert_waldinger_what_makes_a_good_life_lessons_from_the_lon",
+ "title": "Robert Waldinger, “What makes a good life?” (Las relaciones nos hacen más felices)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness",
+ "start": 355.34,
+ "end": 419.61,
+ "meta": {
+  "hablante": "Robert Waldinger",
+  "charla": "What makes a good life?",
+  "acento": "Americano general (hombre)",
+  "tema": "Las relaciones nos hacen más felices"
+ },
+ "lines": [
+  "Well, the <b>les</b>sons aren't a<b>bout</b> wealth or <b>fame</b> / or <b>work</b>ing <b>hard</b>er and <b>hard</b>er.",
+  "The <b>clear</b>est <b>mes</b>sage that we <b>get</b> / from this 75-year <b>stud</b>y is <b>this</b>:",
+  "<b>Good</b> re<b>la</b>tionships / keep us <b>hap</b>pier and <b>health</b>ier. / <b>Pe</b>riod.",
+  "We've <b>learned</b> three big <b>les</b>sons about re<b>la</b>tionships.",
+  "The <b>first</b> is that <b>so</b>cial con<b>nec</b>tions are <b>real</b>ly good for <b>us</b>,",
+  "and that <b>lone</b>liness <b>kills</b>.",
+  "It turns <b>out</b> that <b>peo</b>ple who are more <b>so</b>cially con<b>nect</b>ed",
+  "to <b>fam</b>ily, / to <b>friends</b>, / to com<b>mu</b>nity,",
+  "are <b>hap</b>pier, / they're <b>phys</b>ically <b>health</b>ier, / and they <b>live</b> longer",
+  "than <b>peo</b>ple who are <b>less</b> well con<b>nect</b>ed.",
+  "And the ex<b>per</b>ience of <b>lone</b>liness / turns <b>out</b> to be <b>tox</b>ic.",
+  "<b>Peo</b>ple who are more <b>i</b>solated than they <b>want</b> to be from <b>oth</b>ers",
+  "<b>find</b> that they are <b>less</b> happy,",
+  "their <b>health</b> de<b>clines</b> earlier in <b>mid</b>life,",
+  "their <b>brain</b> functioning de<b>clines</b> <b>soon</b>er",
+  "and they <b>live</b> shorter <b>lives</b> than <b>peo</b>ple who are <b>not</b> lonely."
+ ],
+ "listen_for": "<i>Good relationships keep us happier and healthier. Period.</i> — the sharp stop on <b>Period</b>; comparatives <i>happier, healthier</i>; <i>more… than</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 355.04,
+   "t": "Well, the <b>les</b>sons aren't a<b>bout</b> wealth or <b>fame</b> / or <b>work</b>ing <b>hard</b>er and <b>hard</b>er.",
+   "e": 361.72
+  },
+  {
+   "s": 361.72,
+   "t": "The <b>clear</b>est <b>mes</b>sage that we <b>get</b> / from this 75-year <b>stud</b>y is <b>this</b>:",
+   "e": 368.32
+  },
+  {
+   "s": 368.32,
+   "t": "<b>Good</b> re<b>la</b>tionships / keep us <b>hap</b>pier and <b>health</b>ier. / <b>Pe</b>riod.",
+   "e": 374.34
+  },
+  {
+   "s": 374.34,
+   "t": "We've <b>learned</b> three big <b>les</b>sons about re<b>la</b>tionships.",
+   "e": 378.2
+  },
+  {
+   "s": 378.2,
+   "t": "The <b>first</b> is that <b>so</b>cial con<b>nec</b>tions are <b>real</b>ly good for <b>us</b>,",
+   "e": 381.96
+  },
+  {
+   "s": 381.96,
+   "t": "and that <b>lone</b>liness <b>kills</b>.",
+   "e": 384.94
+  },
+  {
+   "s": 384.94,
+   "t": "It turns <b>out</b> that <b>peo</b>ple who are more <b>so</b>cially con<b>nect</b>ed",
+   "e": 387.94
+  },
+  {
+   "s": 387.94,
+   "t": "to <b>fam</b>ily, / to <b>friends</b>, / to com<b>mu</b>nity,",
+   "e": 390.94
+  },
+  {
+   "s": 390.94,
+   "t": "are <b>hap</b>pier, / they're <b>phys</b>ically <b>health</b>ier, / and they <b>live</b> longer",
+   "e": 395.9
+  },
+  {
+   "s": 395.9,
+   "t": "than <b>peo</b>ple who are <b>less</b> well con<b>nect</b>ed.",
+   "e": 399.52
+  },
+  {
+   "s": 399.52,
+   "t": "And the ex<b>per</b>ience of <b>lone</b>liness / turns <b>out</b> to be <b>tox</b>ic.",
+   "e": 403.3
+  },
+  {
+   "s": 403.3,
+   "t": "<b>Peo</b>ple who are more <b>i</b>solated than they <b>want</b> to be from <b>oth</b>ers",
+   "e": 408.18
+  },
+  {
+   "s": 408.18,
+   "t": "<b>find</b> that they are <b>less</b> happy,",
+   "e": 411.7
+  },
+  {
+   "s": 411.7,
+   "t": "their <b>health</b> de<b>clines</b> earlier in <b>mid</b>life,",
+   "e": 414.66
+  },
+  {
+   "s": 414.66,
+   "t": "their <b>brain</b> functioning de<b>clines</b> <b>soon</b>er",
+   "e": 416.86
+  },
+  {
+   "s": 416.86,
+   "t": "and they <b>live</b> shorter <b>lives</b> than <b>peo</b>ple who are <b>not</b> lonely.",
+   "e": 419.71
+  }
+ ],
+ "verified": "2026-11-02"
+}

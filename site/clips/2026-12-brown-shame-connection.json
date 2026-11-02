@@ -1,0 +1,149 @@
+{
+ "title": "Brené Brown, “The power of vulnerability” (Vergüenza y conexión)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
+ "segment": "04:11–05:40 (89 s)",
+ "listen_for": "Weak forms (<i>of, that, to</i>), the stress on <b>shame</b>, and the rhythm of the lists: <i>I'm going in, I'm going to figure this out…</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 2.9,
+   "t": "So <b>ver</b>y quickly -- / really about <b>six</b> weeks into this re<b>search</b> --"
+  },
+  {
+   "s": 2.9,
+   "e": 7.92,
+   "t": "I ran into this un<b>named</b> thing / that abso<b>lute</b>ly un<b>rav</b>eled con<b>nec</b>tion"
+  },
+  {
+   "s": 7.92,
+   "e": 12.04,
+   "t": "in a <b>way</b> that I <b>did</b>n't under<b>stand</b> / or had <b>nev</b>er <b>seen</b>."
+  },
+  {
+   "s": 12.04,
+   "e": 13.62,
+   "t": "And so I <b>pulled</b> back out of the re<b>search</b>"
+  },
+  {
+   "s": 13.62,
+   "e": 16.22,
+   "t": "and <b>thought</b>, / I need to <b>fig</b>ure out what this <b>is</b>."
+  },
+  {
+   "s": 16.22,
+   "e": 20.32,
+   "t": "And it turned <b>out</b> to be <b>shame</b>."
+  },
+  {
+   "s": 20.32,
+   "e": 24.1,
+   "t": "And shame is <b>real</b>ly <b>ea</b>sily under<b>stood</b> as the <b>fear</b> of discon<b>nec</b>tion:"
+  },
+  {
+   "s": 24.1,
+   "e": 28.7,
+   "t": "Is there <b>some</b>thing about <b>me</b> / that, if <b>oth</b>er <b>peo</b>ple <b>know</b> it or <b>see</b> it,"
+  },
+  {
+   "s": 28.7,
+   "e": 32.56,
+   "t": "that I <b>won't</b> be <b>wor</b>thy of con<b>nec</b>tion?"
+  },
+  {
+   "s": 32.56,
+   "e": 33.76,
+   "t": "The <b>things</b> I can <b>tell</b> you about it:"
+  },
+  {
+   "s": 33.76,
+   "e": 35.5,
+   "t": "It's uni<b>ver</b>sal; / we <b>all</b> have it."
+  },
+  {
+   "s": 35.5,
+   "e": 36.74,
+   "t": "The <b>on</b>ly <b>peo</b>ple who <b>don't</b> ex<b>per</b>ience <b>shame</b>"
+  },
+  {
+   "s": 36.74,
+   "e": 40.38,
+   "t": "have <b>no</b> ca<b>pac</b>ity for <b>hu</b>man <b>em</b>pathy or con<b>nec</b>tion."
+  },
+  {
+   "s": 40.38,
+   "e": 41.6,
+   "t": "<b>No</b> one wants to <b>talk</b> about it,"
+  },
+  {
+   "s": 41.6,
+   "e": 47.08,
+   "t": "and the <b>less</b> you talk about it, / the <b>more</b> you have it."
+  },
+  {
+   "s": 47.08,
+   "e": 51.14,
+   "t": "What under<b>pinned</b> this <b>shame</b>, / this “I'm not <b>good</b> e<b>nough</b>,” --"
+  },
+  {
+   "s": 51.14,
+   "e": 52.56,
+   "t": "which, we <b>all</b> know that <b>feel</b>ing:"
+  },
+  {
+   "s": 52.56,
+   "e": 54.52,
+   "t": "“I'm not <b>blank</b> e<b>nough</b>. / I'm not <b>thin</b> e<b>nough</b>,"
+  },
+  {
+   "s": 54.52,
+   "e": 58.28,
+   "t": "<b>rich</b> enough, / <b>beau</b>tiful enough, / <b>smart</b> enough, / pro<b>mo</b>ted enough.”"
+  },
+  {
+   "s": 58.28,
+   "e": 63.9,
+   "t": "The <b>thing</b> that under<b>pinned</b> this / was ex<b>cru</b>ciating vulnera<b>bil</b>ity."
+  },
+  {
+   "s": 63.9,
+   "e": 68.12,
+   "t": "This i<b>de</b>a of, / in <b>or</b>der for con<b>nec</b>tion to <b>hap</b>pen,"
+  },
+  {
+   "s": 68.12,
+   "e": 71.4,
+   "t": "we have to al<b>low</b> ourselves to be <b>seen</b>, / <b>real</b>ly <b>seen</b>."
+  },
+  {
+   "s": 71.4,
+   "e": 75.64,
+   "t": "And you <b>know</b> how I <b>feel</b> about vulnera<b>bil</b>ity. / I <b>hate</b> vulnera<b>bil</b>ity."
+  },
+  {
+   "s": 75.64,
+   "e": 80.18,
+   "t": "And so I <b>thought</b>, / this is my <b>chance</b> to <b>beat</b> it back / with my <b>mea</b>suring stick."
+  },
+  {
+   "s": 80.18,
+   "e": 83.46,
+   "t": "I'm <b>go</b>ing in, / I'm going to <b>fig</b>ure this stuff <b>out</b>,"
+  },
+  {
+   "s": 83.46,
+   "e": 86.64,
+   "t": "I'm going to <b>spend</b> a year, / I'm going to <b>to</b>tally de<b>con</b>struct <b>shame</b>,"
+  },
+  {
+   "s": 86.64,
+   "e": 88.44,
+   "t": "I'm going to under<b>stand</b> how vulnera<b>bil</b>ity <b>works</b>,"
+  },
+  {
+   "s": 88.44,
+   "e": 89.43,
+   "t": "and I'm going to out<b>smart</b> it."
+  }
+ ]
+}

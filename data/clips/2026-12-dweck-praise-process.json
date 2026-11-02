@@ -1,0 +1,148 @@
+{
+ "slug": "2026-12-dweck-praise-process",
+ "video_id": "ted-carol_dweck_the_power_of_believing_that_you_can_improve",
+ "title": "Carol Dweck, “The power of believing that you can improve” (Elogiar el esfuerzo, no el talento)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+ "start": 185.5,
+ "end": 269.89,
+ "meta": {
+  "hablante": "Carol Dweck",
+  "charla": "The power of believing that you can improve",
+  "acento": "Americano general (mujer)",
+  "tema": "Elogiar el esfuerzo, no el talento"
+ },
+ "lines": [
+  "How are we <b>rais</b>ing our <b>chil</b>dren?",
+  "Are we <b>rais</b>ing them for <b>now</b> / in<b>stead</b> of <b>yet</b>?",
+  "Are we <b>rais</b>ing kids who are ob<b>sessed</b> with <b>get</b>ting <b>A</b>s?",
+  "Are we <b>rais</b>ing kids who <b>don't</b> know how to <b>dream</b> big <b>dreams</b>?",
+  "Their <b>big</b>gest <b>goal</b> is <b>get</b>ting the next <b>A</b>, / or the next <b>test</b> score?",
+  "And are they <b>car</b>rying this <b>need</b> for <b>con</b>stant vali<b>da</b>tion with them",
+  "into their <b>fu</b>ture <b>lives</b>?",
+  "<b>May</b>be, / be<b>cause</b> em<b>ploy</b>ers are <b>com</b>ing to me and <b>say</b>ing,",
+  "“We have al<b>read</b>y raised a gene<b>ra</b>tion",
+  "of <b>young</b> workers / who <b>can't</b> get through the <b>day</b>",
+  "with<b>out</b> an a<b>ward</b>.”",
+  "So <b>what</b> can we <b>do</b>?",
+  "How can we <b>build</b> that <b>bridge</b> to <b>yet</b>?",
+  "Here are <b>some</b> things we can <b>do</b>.",
+  "<b>First</b> of all, / we can <b>praise</b> wisely,",
+  "<b>not</b> praising in<b>tel</b>ligence or <b>tal</b>ent.",
+  "That has <b>failed</b>.",
+  "<b>Don't</b> do that any<b>more</b>.",
+  "But <b>prais</b>ing the <b>pro</b>cess that kids en<b>gage</b> in,",
+  "their <b>ef</b>fort, / their <b>strat</b>egies, / their <b>fo</b>cus, / their per<b>se</b>verance, / their im<b>prove</b>ment.",
+  "This <b>pro</b>cess praise cre<b>ates</b> kids / who are <b>har</b>dy and re<b>sil</b>ient."
+ ],
+ "listen_for": "Rhetorical questions with rising intonation (<i>Are we raising them for now instead of yet?</i>) and the list of praise: <i>effort, strategies, focus…</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 185.2,
+   "t": "How are we <b>rais</b>ing our <b>chil</b>dren?",
+   "e": 188.0
+  },
+  {
+   "s": 188.0,
+   "t": "Are we <b>rais</b>ing them for <b>now</b> / in<b>stead</b> of <b>yet</b>?",
+   "e": 193.16
+  },
+  {
+   "s": 193.16,
+   "t": "Are we <b>rais</b>ing kids who are ob<b>sessed</b> with <b>get</b>ting <b>A</b>s?",
+   "e": 198.4
+  },
+  {
+   "s": 198.4,
+   "t": "Are we <b>rais</b>ing kids who <b>don't</b> know how to <b>dream</b> big <b>dreams</b>?",
+   "e": 203.76
+  },
+  {
+   "s": 203.76,
+   "t": "Their <b>big</b>gest <b>goal</b> is <b>get</b>ting the next <b>A</b>, / or the next <b>test</b> score?",
+   "e": 210.74
+  },
+  {
+   "s": 210.74,
+   "t": "And are they <b>car</b>rying this <b>need</b> for <b>con</b>stant vali<b>da</b>tion with them",
+   "e": 217.0
+  },
+  {
+   "s": 217.0,
+   "t": "into their <b>fu</b>ture <b>lives</b>?",
+   "e": 219.64
+  },
+  {
+   "s": 219.64,
+   "t": "<b>May</b>be, / be<b>cause</b> em<b>ploy</b>ers are <b>com</b>ing to me and <b>say</b>ing,",
+   "e": 223.2
+  },
+  {
+   "s": 223.2,
+   "t": "“We have al<b>read</b>y raised a gene<b>ra</b>tion",
+   "e": 226.58
+  },
+  {
+   "s": 226.58,
+   "t": "of <b>young</b> workers / who <b>can't</b> get through the <b>day</b>",
+   "e": 230.96
+  },
+  {
+   "s": 230.96,
+   "t": "with<b>out</b> an a<b>ward</b>.”",
+   "e": 234.28
+  },
+  {
+   "s": 234.28,
+   "t": "So <b>what</b> can we <b>do</b>?",
+   "e": 237.08
+  },
+  {
+   "s": 237.08,
+   "t": "How can we <b>build</b> that <b>bridge</b> to <b>yet</b>?",
+   "e": 240.76
+  },
+  {
+   "s": 240.76,
+   "t": "Here are <b>some</b> things we can <b>do</b>.",
+   "e": 242.94
+  },
+  {
+   "s": 242.94,
+   "t": "<b>First</b> of all, / we can <b>praise</b> wisely,",
+   "e": 246.8
+  },
+  {
+   "s": 246.8,
+   "t": "<b>not</b> praising in<b>tel</b>ligence or <b>tal</b>ent.",
+   "e": 250.12
+  },
+  {
+   "s": 250.12,
+   "t": "That has <b>failed</b>.",
+   "e": 251.2
+  },
+  {
+   "s": 251.2,
+   "t": "<b>Don't</b> do that any<b>more</b>.",
+   "e": 253.5
+  },
+  {
+   "s": 253.5,
+   "t": "But <b>prais</b>ing the <b>pro</b>cess that kids en<b>gage</b> in,",
+   "e": 258.02
+  },
+  {
+   "s": 258.02,
+   "t": "their <b>ef</b>fort, / their <b>strat</b>egies, / their <b>fo</b>cus, / their per<b>se</b>verance, / their im<b>prove</b>ment.",
+   "e": 263.98
+  },
+  {
+   "s": 263.98,
+   "t": "This <b>pro</b>cess praise cre<b>ates</b> kids / who are <b>har</b>dy and re<b>sil</b>ient.",
+   "e": 269.99
+  }
+ ],
+ "verified": "2026-11-02"
+}

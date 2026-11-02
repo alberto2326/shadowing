@@ -1,0 +1,160 @@
+{
+ "slug": "2026-12-norton-spend-on-others",
+ "video_id": "ted-michael_norton_how_to_buy_happiness",
+ "title": "Michael Norton, “How to buy happiness” (Dinero y felicidad: gastar en otros)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/michael_norton_how_to_buy_happiness",
+ "start": 131.34,
+ "end": 186.65,
+ "meta": {
+  "hablante": "Michael Norton",
+  "charla": "How to buy happiness",
+  "acento": "Americano general (hombre)",
+  "tema": "Dinero y felicidad: gastar en otros"
+ },
+ "lines": [
+  "And we <b>said</b>, / <b>well</b>, / <b>may</b>be the <b>rea</b>son that <b>mon</b>ey doesn't make us <b>hap</b>py",
+  "is that we're <b>al</b>ways <b>spend</b>ing it on the <b>wrong</b> things,",
+  "and in par<b>tic</b>ular, / that we're <b>al</b>ways <b>spend</b>ing it on our<b>selves</b>.",
+  "And we <b>thought</b>, / I <b>won</b>der what would <b>hap</b>pen",
+  "if we made <b>peo</b>ple spend <b>more</b> of their money on <b>oth</b>er people?",
+  "So in<b>stead</b> of being anti-<b>so</b>cial with your <b>mon</b>ey,",
+  "what if you were a little bit more pro-<b>so</b>cial with your money?",
+  "And we <b>thought</b>, / let's <b>make</b> people do it and <b>see</b> what <b>hap</b>pens.",
+  "So let's have some <b>peo</b>ple do what they <b>u</b>sually do",
+  "and <b>spend</b> money on them<b>selves</b>,",
+  "and let's make some people <b>give</b> money a<b>way</b>",
+  "and <b>meas</b>ure their <b>hap</b>piness / and see if in <b>fact</b> they get <b>hap</b>pier.",
+  "So the <b>first</b> way that we did this / on one Van<b>cou</b>ver <b>morn</b>ing,",
+  "we went <b>out</b> on the <b>cam</b>pus at Uni<b>ver</b>sity of British Co<b>lum</b>bia",
+  "and we ap<b>proached</b> people and said, / “Do you <b>want</b> to be in an ex<b>per</b>iment?”",
+  "and they said, “<b>Yes</b>.”",
+  "We <b>asked</b> them how <b>hap</b>py they were / and then we <b>gave</b> them an <b>en</b>velope.",
+  "And <b>one</b> of the <b>en</b>velopes had <b>things</b> in it that said,",
+  "“By 5 p.m. to<b>day</b>, / <b>spend</b> this money on your<b>self</b>.”",
+  "So we <b>gave</b> some ex<b>am</b>ples of what you could <b>spend</b> it on.",
+  "<b>Oth</b>er people in the <b>morn</b>ing / got a <b>slip</b> of <b>pa</b>per that said,",
+  "“By 5 p.m. to<b>day</b>, / <b>spend</b> this money on <b>some</b>body <b>else</b>.”",
+  "<b>Al</b>so in<b>side</b> the <b>en</b>velope was <b>mon</b>ey."
+ ],
+ "listen_for": "Spontaneous, chatty speech: <i>And we said, well, maybe…</i>; the experiment told step by step with <i>and… and… and</i> links; contrast <b>yourself</b> / <b>somebody else</b>",
+ "notas": "Texto según el audio (Whisper, dos pasadas); el habla es espontánea y difiere de los subtítulos en varias palabras sueltas.",
+ "cues": [
+  {
+   "s": 131.04,
+   "t": "And we <b>said</b>, / <b>well</b>, / <b>may</b>be the <b>rea</b>son that <b>mon</b>ey doesn't make us <b>hap</b>py",
+   "e": 133.16
+  },
+  {
+   "s": 133.16,
+   "t": "is that we're <b>al</b>ways <b>spend</b>ing it on the <b>wrong</b> things,",
+   "e": 135.48
+  },
+  {
+   "s": 135.48,
+   "t": "and in par<b>tic</b>ular, / that we're <b>al</b>ways <b>spend</b>ing it on our<b>selves</b>.",
+   "e": 138.24
+  },
+  {
+   "s": 138.24,
+   "t": "And we <b>thought</b>, / I <b>won</b>der what would <b>hap</b>pen",
+   "e": 139.48
+  },
+  {
+   "s": 139.48,
+   "t": "if we made <b>peo</b>ple spend <b>more</b> of their money on <b>oth</b>er people?",
+   "e": 142.38
+  },
+  {
+   "s": 142.38,
+   "t": "So in<b>stead</b> of being anti-<b>so</b>cial with your <b>mon</b>ey,",
+   "e": 144.58
+  },
+  {
+   "s": 144.58,
+   "t": "what if you were a little bit more pro-<b>so</b>cial with your money?",
+   "e": 146.7
+  },
+  {
+   "s": 146.7,
+   "t": "And we <b>thought</b>, / let's <b>make</b> people do it and <b>see</b> what <b>hap</b>pens.",
+   "e": 149.56
+  },
+  {
+   "s": 149.56,
+   "t": "So let's have some <b>peo</b>ple do what they <b>u</b>sually do",
+   "e": 151.44
+  },
+  {
+   "s": 151.44,
+   "t": "and <b>spend</b> money on them<b>selves</b>,",
+   "e": 152.74
+  },
+  {
+   "s": 152.74,
+   "t": "and let's make some people <b>give</b> money a<b>way</b>",
+   "e": 154.9
+  },
+  {
+   "s": 154.9,
+   "t": "and <b>meas</b>ure their <b>hap</b>piness / and see if in <b>fact</b> they get <b>hap</b>pier.",
+   "e": 157.88
+  },
+  {
+   "s": 157.88,
+   "t": "So the <b>first</b> way that we did this / on one Van<b>cou</b>ver <b>morn</b>ing,",
+   "e": 160.82
+  },
+  {
+   "s": 160.82,
+   "t": "we went <b>out</b> on the <b>cam</b>pus at Uni<b>ver</b>sity of British Co<b>lum</b>bia",
+   "e": 163.42
+  },
+  {
+   "s": 163.42,
+   "t": "and we ap<b>proached</b> people and said, / “Do you <b>want</b> to be in an ex<b>per</b>iment?”",
+   "e": 165.9
+  },
+  {
+   "s": 165.9,
+   "t": "and they said, “<b>Yes</b>.”",
+   "e": 167.16
+  },
+  {
+   "s": 167.16,
+   "t": "We <b>asked</b> them how <b>hap</b>py they were / and then we <b>gave</b> them an <b>en</b>velope.",
+   "e": 170.28
+  },
+  {
+   "s": 170.28,
+   "t": "And <b>one</b> of the <b>en</b>velopes had <b>things</b> in it that said,",
+   "e": 172.96
+  },
+  {
+   "s": 172.96,
+   "t": "“By 5 p.m. to<b>day</b>, / <b>spend</b> this money on your<b>self</b>.”",
+   "e": 176.74
+  },
+  {
+   "s": 176.74,
+   "t": "So we <b>gave</b> some ex<b>am</b>ples of what you could <b>spend</b> it on.",
+   "e": 178.82
+  },
+  {
+   "s": 178.82,
+   "t": "<b>Oth</b>er people in the <b>morn</b>ing / got a <b>slip</b> of <b>pa</b>per that said,",
+   "e": 181.18
+  },
+  {
+   "s": 181.18,
+   "t": "“By 5 p.m. to<b>day</b>, / <b>spend</b> this money on <b>some</b>body <b>else</b>.”",
+   "e": 184.42
+  },
+  {
+   "s": 184.42,
+   "t": "<b>Al</b>so in<b>side</b> the <b>en</b>velope was <b>mon</b>ey.",
+   "e": 186.75
+  }
+ ],
+ "verified": "2026-11-02"
+}

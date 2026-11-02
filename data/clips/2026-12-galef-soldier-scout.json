@@ -1,0 +1,142 @@
+{
+ "slug": "2026-12-galef-soldier-scout",
+ "video_id": "ted-julia_galef_why_you_think_you_re_right_even_if_you_re_wrong",
+ "title": "Julia Galef, “Why you think you're right — even if you're wrong” (Mentalidad de soldado y de explorador)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong",
+ "start": 4.1,
+ "end": 68.11,
+ "meta": {
+  "hablante": "Julia Galef",
+  "charla": "Why you think you're right — even if you're wrong",
+  "acento": "Americano general (mujer)",
+  "tema": "Mentalidad de soldado y de explorador"
+ },
+ "lines": [
+  "So I'd like you to i<b>ma</b>gine for a <b>mo</b>ment",
+  "that you're a <b>sol</b>dier in the <b>heat</b> of <b>bat</b>tle.",
+  "<b>May</b>be you're a <b>Ro</b>man foot <b>sol</b>dier / or a me<b>die</b>val <b>arch</b>er",
+  "or <b>may</b>be you're a <b>Zu</b>lu <b>war</b>rior.",
+  "Re<b>gard</b>less of your <b>time</b> and <b>place</b>, / there are some <b>things</b> that are <b>con</b>stant.",
+  "Your <b>ad</b>renaline is <b>el</b>evated,",
+  "and your <b>ac</b>tions are <b>stem</b>ming from these <b>deep</b>ly in<b>grained</b> <b>re</b>flexes,",
+  "<b>re</b>flexes <b>root</b>ed in a <b>need</b> to pro<b>tect</b> your<b>self</b> and your <b>side</b>",
+  "and to de<b>feat</b> the <b>en</b>emy.",
+  "So <b>now</b>, / I'd like you to i<b>ma</b>gine <b>play</b>ing a very <b>dif</b>ferent <b>role</b>,",
+  "that of the <b>scout</b>.",
+  "The <b>scout's</b> job is <b>not</b> to at<b>tack</b> or de<b>fend</b>.",
+  "The scout's <b>job</b> is to under<b>stand</b>.",
+  "The <b>scout</b> is the one <b>go</b>ing out,",
+  "<b>map</b>ping the ter<b>rain</b>, / i<b>den</b>tifying po<b>ten</b>tial <b>ob</b>stacles.",
+  "And the scout may <b>hope</b> to learn that, say, there's a <b>bridge</b>",
+  "in a con<b>ven</b>ient lo<b>ca</b>tion a<b>cross</b> a <b>riv</b>er.",
+  "But a<b>bove</b> all, / the scout <b>wants</b> to know / what's <b>real</b>ly <b>there</b>,",
+  "as <b>ac</b>curately as pos<b>si</b>ble.",
+  "And in a <b>real</b>, <b>ac</b>tual <b>ar</b>my, / both the <b>sol</b>dier and the <b>scout</b> are es<b>sen</b>tial."
+ ],
+ "listen_for": "Imagery built from lists (<i>a Roman foot soldier or a medieval archer or a Zulu warrior</i>) and the contrast <b>soldier</b> / <b>scout</b>: <i>attack or defend / understand</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper.",
+ "cues": [
+  {
+   "s": 3.8,
+   "t": "So I'd like you to i<b>ma</b>gine for a <b>mo</b>ment",
+   "e": 6.52
+  },
+  {
+   "s": 6.52,
+   "t": "that you're a <b>sol</b>dier in the <b>heat</b> of <b>bat</b>tle.",
+   "e": 10.18
+  },
+  {
+   "s": 10.18,
+   "t": "<b>May</b>be you're a <b>Ro</b>man foot <b>sol</b>dier / or a me<b>die</b>val <b>arch</b>er",
+   "e": 13.74
+  },
+  {
+   "s": 13.74,
+   "t": "or <b>may</b>be you're a <b>Zu</b>lu <b>war</b>rior.",
+   "e": 15.68
+  },
+  {
+   "s": 15.68,
+   "t": "Re<b>gard</b>less of your <b>time</b> and <b>place</b>, / there are some <b>things</b> that are <b>con</b>stant.",
+   "e": 19.88
+  },
+  {
+   "s": 19.88,
+   "t": "Your <b>ad</b>renaline is <b>el</b>evated,",
+   "e": 21.82
+  },
+  {
+   "s": 21.82,
+   "t": "and your <b>ac</b>tions are <b>stem</b>ming from these <b>deep</b>ly in<b>grained</b> <b>re</b>flexes,",
+   "e": 26.46
+  },
+  {
+   "s": 26.46,
+   "t": "<b>re</b>flexes <b>root</b>ed in a <b>need</b> to pro<b>tect</b> your<b>self</b> and your <b>side</b>",
+   "e": 30.54
+  },
+  {
+   "s": 30.54,
+   "t": "and to de<b>feat</b> the <b>en</b>emy.",
+   "e": 34.38
+  },
+  {
+   "s": 34.38,
+   "t": "So <b>now</b>, / I'd like you to i<b>ma</b>gine <b>play</b>ing a very <b>dif</b>ferent <b>role</b>,",
+   "e": 37.74
+  },
+  {
+   "s": 37.74,
+   "t": "that of the <b>scout</b>.",
+   "e": 39.58
+  },
+  {
+   "s": 39.58,
+   "t": "The <b>scout's</b> job is <b>not</b> to at<b>tack</b> or de<b>fend</b>.",
+   "e": 42.76
+  },
+  {
+   "s": 42.76,
+   "t": "The scout's <b>job</b> is to under<b>stand</b>.",
+   "e": 45.7
+  },
+  {
+   "s": 45.7,
+   "t": "The <b>scout</b> is the one <b>go</b>ing out,",
+   "e": 47.8
+  },
+  {
+   "s": 47.8,
+   "t": "<b>map</b>ping the ter<b>rain</b>, / i<b>den</b>tifying po<b>ten</b>tial <b>ob</b>stacles.",
+   "e": 51.62
+  },
+  {
+   "s": 51.62,
+   "t": "And the scout may <b>hope</b> to learn that, say, there's a <b>bridge</b>",
+   "e": 55.38
+  },
+  {
+   "s": 55.38,
+   "t": "in a con<b>ven</b>ient lo<b>ca</b>tion a<b>cross</b> a <b>riv</b>er.",
+   "e": 57.1
+  },
+  {
+   "s": 57.1,
+   "t": "But a<b>bove</b> all, / the scout <b>wants</b> to know / what's <b>real</b>ly <b>there</b>,",
+   "e": 60.48
+  },
+  {
+   "s": 60.48,
+   "t": "as <b>ac</b>curately as pos<b>si</b>ble.",
+   "e": 62.06
+  },
+  {
+   "s": 62.06,
+   "t": "And in a <b>real</b>, <b>ac</b>tual <b>ar</b>my, / both the <b>sol</b>dier and the <b>scout</b> are es<b>sen</b>tial.",
+   "e": 68.21
+  }
+ ],
+ "verified": "2026-11-02"
+}

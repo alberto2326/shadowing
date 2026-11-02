@@ -1,0 +1,99 @@
+{
+ "title": "Carol Dweck, “The power of believing that you can improve” (Mentalidad de crecimiento)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
+ "segment": "00:07–01:14 (66 s)",
+ "listen_for": "The contrast <i>Not Yet</i> vs. a failing grade, and how <b>stress</b> lands on the key words of each idea: <i>fantastic, nowhere, path, future</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 2.12,
+   "t": "I <b>heard</b> about a high <b>school</b> in Chi<b>ca</b>go"
+  },
+  {
+   "s": 2.12,
+   "e": 6.58,
+   "t": "where <b>stu</b>dents had to <b>pass</b> a <b>cer</b>tain <b>num</b>ber of <b>cours</b>es to <b>grad</b>uate,"
+  },
+  {
+   "s": 6.58,
+   "e": 11.46,
+   "t": "and if they <b>did</b>n't pass a <b>course</b>, / they got the <b>grade</b> “Not <b>Yet</b>.”"
+  },
+  {
+   "s": 11.46,
+   "e": 14.28,
+   "t": "And I <b>thought</b> that was fan<b>tas</b>tic,"
+  },
+  {
+   "s": 14.28,
+   "e": 18.24,
+   "t": "be<b>cause</b> if you get a <b>fail</b>ing grade, / you <b>think</b>, / I'm <b>noth</b>ing, / I'm no<b>where</b>."
+  },
+  {
+   "s": 18.24,
+   "e": 21.6,
+   "t": "But if you get the <b>grade</b> “Not <b>Yet</b>,”"
+  },
+  {
+   "s": 21.6,
+   "e": 25.12,
+   "t": "you under<b>stand</b> that you're on a <b>learn</b>ing <b>curve</b>."
+  },
+  {
+   "s": 25.12,
+   "e": 28.52,
+   "t": "It <b>gives</b> you a <b>path</b> into the <b>fu</b>ture."
+  },
+  {
+   "s": 28.52,
+   "e": 31.9,
+   "t": "“Not <b>Yet</b>” also <b>gave</b> me <b>in</b>sight"
+  },
+  {
+   "s": 31.9,
+   "e": 36.68,
+   "t": "into a <b>crit</b>ical e<b>vent</b> early in my ca<b>reer</b>,"
+  },
+  {
+   "s": 36.68,
+   "e": 38.74,
+   "t": "a <b>real</b> turning <b>point</b>."
+  },
+  {
+   "s": 38.74,
+   "e": 39.96,
+   "t": "I <b>want</b>ed to <b>see</b>"
+  },
+  {
+   "s": 39.96,
+   "e": 45.76,
+   "t": "how <b>chil</b>dren <b>coped</b> with <b>chall</b>enge and <b>dif</b>ficulty,"
+  },
+  {
+   "s": 45.76,
+   "e": 48.52,
+   "t": "so I <b>gave</b> 10-year-<b>olds</b>"
+  },
+  {
+   "s": 48.52,
+   "e": 53.36,
+   "t": "<b>prob</b>lems that were <b>slight</b>ly too <b>hard</b> for them."
+  },
+  {
+   "s": 53.36,
+   "e": 58.34,
+   "t": "<b>Some</b> of them re<b>act</b>ed in a <b>shock</b>ingly <b>pos</b>itive way."
+  },
+  {
+   "s": 58.34,
+   "e": 62.28,
+   "t": "They said <b>things</b> like, / “I <b>love</b> a <b>chall</b>enge,”"
+  },
+  {
+   "s": 62.28,
+   "e": 66.95,
+   "t": "or, “You <b>know</b>, / I was <b>hop</b>ing this would be in<b>for</b>mative.”"
+  }
+ ]
+}

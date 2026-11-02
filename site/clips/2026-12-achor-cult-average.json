@@ -1,0 +1,139 @@
+{
+ "title": "Shawn Achor, “The happy secret to better work” (Psicología positiva: más allá de la media)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work",
+ "segment": "03:46–04:49 (63 s)",
+ "listen_for": "Fast, humorous delivery with stress on contrast words: <i>average / potential</i>; the rhetorical question <i>Why is it that some of you are so high above the curve?</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 1.76,
+   "t": "So one of the <b>ver</b>y first <b>things</b> that we <b>teach</b> people"
+  },
+  {
+   "s": 1.76,
+   "e": 4.44,
+   "t": "in eco<b>nom</b>ics and sta<b>tis</b>tics and <b>busi</b>ness and psy<b>chol</b>ogy courses"
+  },
+  {
+   "s": 4.44,
+   "e": 7.66,
+   "t": "is <b>how</b>, / in a sta<b>tis</b>tically <b>val</b>id way, / do we e<b>lim</b>inate the <b>weir</b>dos?"
+  },
+  {
+   "s": 7.66,
+   "e": 11.48,
+   "t": "How do we e<b>lim</b>inate the <b>out</b>liers / so that we can <b>find</b> the line of <b>best</b> fit?"
+  },
+  {
+   "s": 11.48,
+   "e": 13.2,
+   "t": "Which is fan<b>tas</b>tic if I'm <b>try</b>ing to find <b>out</b>"
+  },
+  {
+   "s": 13.2,
+   "e": 15.64,
+   "t": "how many <b>Ad</b>vil the <b>av</b>erage person should be <b>tak</b>ing -- / <b>two</b>."
+  },
+  {
+   "s": 15.64,
+   "e": 17.38,
+   "t": "But if I'm <b>in</b>terested in po<b>ten</b>tial,"
+  },
+  {
+   "s": 17.38,
+   "e": 21.68,
+   "t": "if I'm <b>in</b>terested in your po<b>ten</b>tial, / or for <b>hap</b>piness or produc<b>tiv</b>ity or <b>en</b>ergy or creativ<b>i</b>ty,"
+  },
+  {
+   "s": 21.68,
+   "e": 24.28,
+   "t": "what we're <b>do</b>ing is we're cre<b>a</b>ting the <b>cult</b> of the <b>av</b>erage with <b>sci</b>ence."
+  },
+  {
+   "s": 24.28,
+   "e": 28.12,
+   "t": "If I ask a ques<b>tion</b> like, / “How <b>fast</b> can the <b>child</b> learn how to <b>read</b> in a <b>class</b>room?”"
+  },
+  {
+   "s": 28.12,
+   "e": 29.46,
+   "t": "<b>sci</b>entists <b>change</b> the <b>an</b>swer to"
+  },
+  {
+   "s": 29.46,
+   "e": 32.54,
+   "t": "“How fast does the <b>av</b>erage child <b>learn</b> how to read in that <b>class</b>room?”"
+  },
+  {
+   "s": 32.54,
+   "e": 34.38,
+   "t": "and then we <b>tai</b>lor the <b>class</b> right to<b>wards</b> the <b>av</b>erage."
+  },
+  {
+   "s": 34.38,
+   "e": 36.76,
+   "t": "Now if you <b>fall</b> be<b>low</b> the <b>av</b>erage on this <b>curve</b>,"
+  },
+  {
+   "s": 36.76,
+   "e": 38.4,
+   "t": "then psy<b>chol</b>ogists get <b>thrilled</b>,"
+  },
+  {
+   "s": 38.4,
+   "e": 40.9,
+   "t": "be<b>cause</b> that <b>means</b> you're <b>ei</b>ther de<b>pressed</b> or you have a dis<b>or</b>der,"
+  },
+  {
+   "s": 40.9,
+   "e": 43.32,
+   "t": "or <b>hope</b>fully <b>both</b>."
+  },
+  {
+   "s": 43.32,
+   "e": 45.28,
+   "t": "We're <b>hop</b>ing for both be<b>cause</b> our <b>busi</b>ness <b>mod</b>el is,"
+  },
+  {
+   "s": 45.28,
+   "e": 47.34,
+   "t": "if you come into a <b>ther</b>apy <b>ses</b>sion with <b>one</b> problem,"
+  },
+  {
+   "s": 47.34,
+   "e": 49.38,
+   "t": "we want to make <b>sure</b> you <b>leave</b> knowing you have 10."
+  },
+  {
+   "s": 49.38,
+   "e": 51.1,
+   "t": "So you'll keep <b>com</b>ing back / <b>o</b>ver and <b>o</b>ver a<b>gain</b>."
+  },
+  {
+   "s": 51.1,
+   "e": 52.64,
+   "t": "We'll go back into your <b>child</b>hood if <b>nec</b>essary,"
+  },
+  {
+   "s": 52.64,
+   "e": 55.42,
+   "t": "but e<b>ven</b>tually what we <b>want</b> to do is to make you <b>nor</b>mal a<b>gain</b>."
+  },
+  {
+   "s": 55.42,
+   "e": 57.4,
+   "t": "But <b>nor</b>mal is <b>mere</b>ly <b>av</b>erage."
+  },
+  {
+   "s": 57.4,
+   "e": 59.9,
+   "t": "And what I po<b>sit</b>, and what <b>pos</b>itive psy<b>chol</b>ogy <b>pos</b>its,"
+  },
+  {
+   "s": 59.9,
+   "e": 63.35,
+   "t": "is that if we <b>stud</b>y what is <b>mere</b>ly <b>av</b>erage, / we will re<b>main</b> merely <b>av</b>erage."
+  }
+ ]
+}

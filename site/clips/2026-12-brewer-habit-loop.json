@@ -1,0 +1,159 @@
+{
+ "title": "Judson Brewer, “A simple way to break a bad habit” (Cómo se forma un hábito)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit",
+ "segment": "01:37–02:43 (66 s)",
+ "listen_for": "Reported thoughts as direct quotes (<i>“You know what?”</i>), and the repeated pattern <i>See cool, smoke to be cool, feel good. Repeat.</i>",
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 2.36,
+   "t": "<b>Well</b>, after a <b>while</b>, / our cre<b>a</b>tive brains <b>say</b>,"
+  },
+  {
+   "s": 2.36,
+   "e": 3.52,
+   "t": "“You <b>know</b> what?"
+  },
+  {
+   "s": 3.52,
+   "e": 7.36,
+   "t": "You can <b>use</b> this for <b>more</b> than just re<b>mem</b>bering where <b>food</b> is."
+  },
+  {
+   "s": 7.36,
+   "e": 9.6,
+   "t": "You <b>know</b>, next <b>time</b> you feel <b>bad</b>,"
+  },
+  {
+   "s": 9.6,
+   "e": 13.82,
+   "t": "<b>why</b> don't you try <b>eat</b>ing something <b>good</b> / so you'll feel <b>bet</b>ter?”"
+  },
+  {
+   "s": 13.82,
+   "e": 15.7,
+   "t": "We <b>thank</b> our brains for the great i<b>de</b>a,"
+  },
+  {
+   "s": 15.7,
+   "e": 17.64,
+   "t": "try <b>this</b> / and <b>quick</b>ly <b>learn</b>"
+  },
+  {
+   "s": 17.64,
+   "e": 21.08,
+   "t": "that if we <b>eat</b> chocolate or <b>ice</b> cream / when we're <b>mad</b> or <b>sad</b>,"
+  },
+  {
+   "s": 21.08,
+   "e": 23.04,
+   "t": "we feel <b>bet</b>ter."
+  },
+  {
+   "s": 23.04,
+   "e": 24.26,
+   "t": "<b>Same</b> process,"
+  },
+  {
+   "s": 24.26,
+   "e": 26.16,
+   "t": "just a <b>dif</b>ferent <b>trig</b>ger."
+  },
+  {
+   "s": 26.16,
+   "e": 29.3,
+   "t": "In<b>stead</b> of this <b>hun</b>ger signal / coming from our <b>stom</b>ach,"
+  },
+  {
+   "s": 29.3,
+   "e": 31.22,
+   "t": "this e<b>mo</b>tional <b>sig</b>nal -- / feeling <b>sad</b> --"
+  },
+  {
+   "s": 31.22,
+   "e": 33.46,
+   "t": "<b>trig</b>gers that <b>urge</b> to <b>eat</b>."
+  },
+  {
+   "s": 33.46,
+   "e": 35.2,
+   "t": "<b>May</b>be in our <b>teen</b>age years,"
+  },
+  {
+   "s": 35.2,
+   "e": 37.64,
+   "t": "we were a <b>nerd</b> at school,"
+  },
+  {
+   "s": 37.64,
+   "e": 40.76,
+   "t": "and we see those <b>reb</b>el kids outside <b>smok</b>ing and we <b>think</b>,"
+  },
+  {
+   "s": 40.76,
+   "e": 41.92,
+   "t": "“Hey, I <b>want</b> to be <b>cool</b>.”"
+  },
+  {
+   "s": 41.92,
+   "e": 43.76,
+   "t": "So we <b>start</b> smoking."
+  },
+  {
+   "s": 43.76,
+   "e": 48.14,
+   "t": "The <b>Marl</b>boro Man wasn't a <b>dork</b>, / and that was no <b>ac</b>cident."
+  },
+  {
+   "s": 48.14,
+   "e": 49.22,
+   "t": "See <b>cool</b>,"
+  },
+  {
+   "s": 49.22,
+   "e": 50.5,
+   "t": "<b>smoke</b> to be <b>cool</b>,"
+  },
+  {
+   "s": 50.5,
+   "e": 52.7,
+   "t": "feel <b>good</b>. / Re<b>peat</b>."
+  },
+  {
+   "s": 52.7,
+   "e": 55.04,
+   "t": "<b>Trig</b>ger, be<b>hav</b>ior, re<b>ward</b>."
+  },
+  {
+   "s": 55.04,
+   "e": 56.2,
+   "t": "And <b>each</b> time we do this,"
+  },
+  {
+   "s": 56.2,
+   "e": 58.16,
+   "t": "we <b>learn</b> to re<b>peat</b> the process"
+  },
+  {
+   "s": 58.16,
+   "e": 60.3,
+   "t": "and it be<b>comes</b> a <b>hab</b>it."
+  },
+  {
+   "s": 60.3,
+   "e": 61.56,
+   "t": "So <b>lat</b>er,"
+  },
+  {
+   "s": 61.56,
+   "e": 64.56,
+   "t": "feeling <b>stressed</b> out triggers that <b>urge</b> to <b>smoke</b> a ciga<b>rette</b>"
+  },
+  {
+   "s": 64.56,
+   "e": 66.61,
+   "t": "or to <b>eat</b> something <b>sweet</b>."
+  }
+ ]
+}

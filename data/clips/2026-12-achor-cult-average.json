@@ -1,0 +1,178 @@
+{
+ "slug": "2026-12-achor-cult-average",
+ "video_id": "ted-shawn_achor_the_happy_secret_to_better_work",
+ "title": "Shawn Achor, “The happy secret to better work” (Psicología positiva: más allá de la media)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work",
+ "start": 226.98,
+ "end": 289.83,
+ "meta": {
+  "hablante": "Shawn Achor",
+  "charla": "The happy secret to better work",
+  "acento": "Americano general (hombre)",
+  "tema": "Psicología positiva: más allá de la media"
+ },
+ "lines": [
+  "So one of the <b>ver</b>y first <b>things</b> that we <b>teach</b> people",
+  "in eco<b>nom</b>ics and sta<b>tis</b>tics and <b>busi</b>ness and psy<b>chol</b>ogy courses",
+  "is <b>how</b>, / in a sta<b>tis</b>tically <b>val</b>id way, / do we e<b>lim</b>inate the <b>weir</b>dos?",
+  "How do we e<b>lim</b>inate the <b>out</b>liers / so that we can <b>find</b> the line of <b>best</b> fit?",
+  "Which is fan<b>tas</b>tic if I'm <b>try</b>ing to find <b>out</b>",
+  "how many <b>Ad</b>vil the <b>av</b>erage person should be <b>tak</b>ing -- / <b>two</b>.",
+  "But if I'm <b>in</b>terested in po<b>ten</b>tial,",
+  "if I'm <b>in</b>terested in your po<b>ten</b>tial, / or for <b>hap</b>piness or produc<b>tiv</b>ity or <b>en</b>ergy or creativ<b>i</b>ty,",
+  "what we're <b>do</b>ing is we're cre<b>a</b>ting the <b>cult</b> of the <b>av</b>erage with <b>sci</b>ence.",
+  "If I ask a ques<b>tion</b> like, / “How <b>fast</b> can the <b>child</b> learn how to <b>read</b> in a <b>class</b>room?”",
+  "<b>sci</b>entists <b>change</b> the <b>an</b>swer to",
+  "“How fast does the <b>av</b>erage child <b>learn</b> how to read in that <b>class</b>room?”",
+  "and then we <b>tai</b>lor the <b>class</b> right to<b>wards</b> the <b>av</b>erage.",
+  "Now if you <b>fall</b> be<b>low</b> the <b>av</b>erage on this <b>curve</b>,",
+  "then psy<b>chol</b>ogists get <b>thrilled</b>,",
+  "be<b>cause</b> that <b>means</b> you're <b>ei</b>ther de<b>pressed</b> or you have a dis<b>or</b>der,",
+  "or <b>hope</b>fully <b>both</b>.",
+  "We're <b>hop</b>ing for both be<b>cause</b> our <b>busi</b>ness <b>mod</b>el is,",
+  "if you come into a <b>ther</b>apy <b>ses</b>sion with <b>one</b> problem,",
+  "we want to make <b>sure</b> you <b>leave</b> knowing you have 10.",
+  "So you'll keep <b>com</b>ing back / <b>o</b>ver and <b>o</b>ver a<b>gain</b>.",
+  "We'll go back into your <b>child</b>hood if <b>nec</b>essary,",
+  "but e<b>ven</b>tually what we <b>want</b> to do is to make you <b>nor</b>mal a<b>gain</b>.",
+  "But <b>nor</b>mal is <b>mere</b>ly <b>av</b>erage.",
+  "And what I po<b>sit</b>, and what <b>pos</b>itive psy<b>chol</b>ogy <b>pos</b>its,",
+  "is that if we <b>stud</b>y what is <b>mere</b>ly <b>av</b>erage, / we will re<b>main</b> merely <b>av</b>erage."
+ ],
+ "listen_for": "Fast, humorous delivery with stress on contrast words: <i>average / potential</i>; the rhetorical question <i>Why is it that some of you are so high above the curve?</i>",
+ "notas": "Subtítulos humanos contrastados con Whisper. El audio difiere en varias palabras sueltas (very, that, on this curve, over and over again…) y se sigue al audio. Whisper oyó «cold» por «cult» en dos pasadas distintas: se sigue a los subtítulos (--force).",
+ "cues": [
+  {
+   "s": 226.68,
+   "t": "So one of the <b>ver</b>y first <b>things</b> that we <b>teach</b> people",
+   "e": 228.34
+  },
+  {
+   "s": 228.34,
+   "t": "in eco<b>nom</b>ics and sta<b>tis</b>tics and <b>busi</b>ness and psy<b>chol</b>ogy courses",
+   "e": 231.02
+  },
+  {
+   "s": 231.02,
+   "t": "is <b>how</b>, / in a sta<b>tis</b>tically <b>val</b>id way, / do we e<b>lim</b>inate the <b>weir</b>dos?",
+   "e": 234.24
+  },
+  {
+   "s": 234.24,
+   "t": "How do we e<b>lim</b>inate the <b>out</b>liers / so that we can <b>find</b> the line of <b>best</b> fit?",
+   "e": 238.06
+  },
+  {
+   "s": 238.06,
+   "t": "Which is fan<b>tas</b>tic if I'm <b>try</b>ing to find <b>out</b>",
+   "e": 239.78
+  },
+  {
+   "s": 239.78,
+   "t": "how many <b>Ad</b>vil the <b>av</b>erage person should be <b>tak</b>ing -- / <b>two</b>.",
+   "e": 242.22
+  },
+  {
+   "s": 242.22,
+   "t": "But if I'm <b>in</b>terested in po<b>ten</b>tial,",
+   "e": 243.96
+  },
+  {
+   "s": 243.96,
+   "t": "if I'm <b>in</b>terested in your po<b>ten</b>tial, / or for <b>hap</b>piness or produc<b>tiv</b>ity or <b>en</b>ergy or creativ<b>i</b>ty,",
+   "e": 248.26
+  },
+  {
+   "s": 248.26,
+   "t": "what we're <b>do</b>ing is we're cre<b>a</b>ting the <b>cult</b> of the <b>av</b>erage with <b>sci</b>ence.",
+   "e": 250.86
+  },
+  {
+   "s": 250.86,
+   "t": "If I ask a ques<b>tion</b> like, / “How <b>fast</b> can the <b>child</b> learn how to <b>read</b> in a <b>class</b>room?”",
+   "e": 254.7
+  },
+  {
+   "s": 254.7,
+   "t": "<b>sci</b>entists <b>change</b> the <b>an</b>swer to",
+   "e": 256.04
+  },
+  {
+   "s": 256.04,
+   "t": "“How fast does the <b>av</b>erage child <b>learn</b> how to read in that <b>class</b>room?”",
+   "e": 259.12
+  },
+  {
+   "s": 259.12,
+   "t": "and then we <b>tai</b>lor the <b>class</b> right to<b>wards</b> the <b>av</b>erage.",
+   "e": 260.96
+  },
+  {
+   "s": 260.96,
+   "t": "Now if you <b>fall</b> be<b>low</b> the <b>av</b>erage on this <b>curve</b>,",
+   "e": 263.34
+  },
+  {
+   "s": 263.34,
+   "t": "then psy<b>chol</b>ogists get <b>thrilled</b>,",
+   "e": 264.98
+  },
+  {
+   "s": 264.98,
+   "t": "be<b>cause</b> that <b>means</b> you're <b>ei</b>ther de<b>pressed</b> or you have a dis<b>or</b>der,",
+   "e": 267.48
+  },
+  {
+   "s": 267.48,
+   "t": "or <b>hope</b>fully <b>both</b>.",
+   "e": 269.9
+  },
+  {
+   "s": 269.9,
+   "t": "We're <b>hop</b>ing for both be<b>cause</b> our <b>busi</b>ness <b>mod</b>el is,",
+   "e": 271.86
+  },
+  {
+   "s": 271.86,
+   "t": "if you come into a <b>ther</b>apy <b>ses</b>sion with <b>one</b> problem,",
+   "e": 273.92
+  },
+  {
+   "s": 273.92,
+   "t": "we want to make <b>sure</b> you <b>leave</b> knowing you have 10.",
+   "e": 275.96
+  },
+  {
+   "s": 275.96,
+   "t": "So you'll keep <b>com</b>ing back / <b>o</b>ver and <b>o</b>ver a<b>gain</b>.",
+   "e": 277.68
+  },
+  {
+   "s": 277.68,
+   "t": "We'll go back into your <b>child</b>hood if <b>nec</b>essary,",
+   "e": 279.22
+  },
+  {
+   "s": 279.22,
+   "t": "but e<b>ven</b>tually what we <b>want</b> to do is to make you <b>nor</b>mal a<b>gain</b>.",
+   "e": 282.0
+  },
+  {
+   "s": 282.0,
+   "t": "But <b>nor</b>mal is <b>mere</b>ly <b>av</b>erage.",
+   "e": 283.98
+  },
+  {
+   "s": 283.98,
+   "t": "And what I po<b>sit</b>, and what <b>pos</b>itive psy<b>chol</b>ogy <b>pos</b>its,",
+   "e": 286.48
+  },
+  {
+   "s": 286.48,
+   "t": "is that if we <b>stud</b>y what is <b>mere</b>ly <b>av</b>erage, / we will re<b>main</b> merely <b>av</b>erage.",
+   "e": 289.93
+  }
+ ],
+ "verified": "2026-11-02 (forzado: diferencias revisadas, ver notas)"
+}
