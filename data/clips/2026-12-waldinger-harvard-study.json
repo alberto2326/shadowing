@@ -17,8 +17,8 @@
   "may be the <b>long</b>est study of <b>a</b>dult life / that's <b>ev</b>er been done.",
   "For 75 <b>years</b>, / we've <b>tracked</b> the lives of 724 <b>men</b>,",
   "<b>year</b> after <b>year</b>, / <b>ask</b>ing about their <b>work</b>, / their <b>home</b> lives, / their <b>health</b>,",
-  "and of <b>course</b> / ask<b>ing</b> all a<b>long</b> the way",
-  "with<b>out</b> know<b>ing</b> how their life <b>sto</b>ries were going to turn <b>out</b>.",
+  "and of <b>course</b> / <b>ask</b>ing all a<b>long</b> the way",
+  "with<b>out</b> <b>know</b>ing how their life <b>sto</b>ries were going to turn <b>out</b>.",
   "<b>Stud</b>ies like this are ex<b>ceed</b>ingly <b>rare</b>.",
   "<b>Al</b>most all <b>proj</b>ects of this <b>kind</b> fall a<b>part</b> within a <b>dec</b>ade",
   "be<b>cause</b> too many <b>peo</b>ple drop <b>out</b> of the <b>stud</b>y,",
@@ -58,12 +58,12 @@
   },
   {
    "s": 129.22,
-   "t": "and of <b>course</b> / ask<b>ing</b> all a<b>long</b> the way",
+   "t": "and of <b>course</b> / <b>ask</b>ing all a<b>long</b> the way",
    "e": 131.52
   },
   {
    "s": 131.52,
-   "t": "with<b>out</b> know<b>ing</b> how their life <b>sto</b>ries were going to turn <b>out</b>.",
+   "t": "with<b>out</b> <b>know</b>ing how their life <b>sto</b>ries were going to turn <b>out</b>.",
    "e": 136.98
   },
   {

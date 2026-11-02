@@ -68,6 +68,16 @@ def plain_tokens(line):
     return [t for t in re.split(r"[\s\u2014-]+", txt) if norm(t)]
 
 
+# Terminaciones que en inglés nunca llevan el acento: si aparecen marcadas como tónicas, el marcado está mal
+# (p. ej. «ask<b>ing</b>» en vez de «<b>ask</b>ing», «ques<b>tion</b>» en vez de «<b>ques</b>tion»).
+BAD_STRESS = re.compile(r"[A-Za-z]<b>(ing|ed|es|ly|s|er|ers|ness|ment|tion|sion)</b>(?![A-Za-z])")
+
+
+def stress_problems(lines):
+    """Marcas de sílaba tónica puestas en una terminación átona."""
+    return [m.group(0) for l in lines for m in BAD_STRESS.finditer(l)]
+
+
 def mmss(x):
     return f"{int(x) // 60:02d}:{int(x) % 60:02d}"
 
@@ -281,6 +291,13 @@ def cmd_add(a):
             sys.exit(f"Falta meta.{k} en el descriptor")
     if not d.get("verified"):
         sys.exit("El clip no ha pasado `verify`.")
+    c = cfg()
+    dur = d["end"] - d["start"]
+    if not c["clip_min_s"] <= dur <= c["clip_max_s"]:
+        sys.exit(f"Dura {dur:.0f} s: tiene que estar entre {c['clip_min_s']} y {c['clip_max_s']} s.")
+    bad = stress_problems(d["lines"])
+    if bad:
+        sys.exit(f"Sílabas tónicas mal marcadas (en una terminación átona): {bad}")
     used = {x["fecha"] for x in cal["clips"]}
     if a.fecha:
         if a.fecha in used:
@@ -362,6 +379,8 @@ def problems():
         dsc = jload(p)
         if not dsc.get("verified"):
             errs.append(f"{x['slug']}: sin verificar")
+        if stress_problems(dsc.get("lines", [])):
+            errs.append(f"{x['slug']}: sílabas tónicas mal marcadas {stress_problems(dsc['lines'])}")
         if not c["clip_min_s"] - 5 <= x["duracion"] <= c["clip_max_s"] + 5:
             errs.append(f"{x['slug']}: dura {x['duracion']} s")
     m = re.search(r'<script id="data" type="application/json">(.*?)</script>', open(INDEX, encoding="utf-8").read(), re.S)

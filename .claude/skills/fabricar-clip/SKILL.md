@@ -46,6 +46,8 @@ Slug: `AAAA-MM-apellido-tema-corto`. `start`/`end` aproximados (segundos en la c
 ```
 - `lines`: una frase o grupo de sentido por línea (≈1–5 s), palabra por palabra como en el audio.
 - `<b>…</b>` solo en la **sílaba tónica** de las palabras con más peso; ` / ` donde hay una pausa breve.
+  Las terminaciones (-ing, -ed, -ly, -es, -er, -tion, -ment…) **nunca** llevan el acento: `<b>ask</b>ing`,
+  `<b>ques</b>tion`, `<b>quick</b>ly` (no `ask<b>ing</b>`). `add` y `check` rechazan ese error.
 - `listen_for`: formas débiles, palabras que se enlazan, contraste de acento, entonación, *gonna*/*kinda*.
 
 ## 5. Alinear, construir, verificar y programar

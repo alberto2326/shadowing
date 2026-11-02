@@ -68,6 +68,21 @@ def test_align_asigna_tiempos_a_cada_linea(S):
     assert cues[0]["e"] == cues[1]["s"]
 
 
+def test_detecta_tonicas_en_terminaciones_atonas(S):
+    assert S.stress_problems(["ask<b>ing</b> about the <b>ques</b>tion", "ques<b>tion</b>s"]) == ["k<b>ing</b>"]
+    assert S.stress_problems(["<b>ask</b>ing about <b>ques</b>tions, <b>ev</b>erything"]) == []
+
+
+def test_add_rechaza_duracion_fuera_de_rango_y_tonicas_mal_marcadas(S):
+    make_clip(S, "corto", dur=40)
+    with pytest.raises(SystemExit):
+        S.cmd_add(args(slug="corto", fecha=None))
+    make_clip(S, "mal")
+    d = S.jload(S.desc_path("mal")); d["lines"] = ["they were ask<b>ing</b>"]; S.jsave(S.desc_path("mal"), d)
+    with pytest.raises(SystemExit):
+        S.cmd_add(args(slug="mal", fecha=None))
+
+
 def test_compare_detecta_palabras_que_faltan(S):
     cues = [{"s": 0.0, "e": 2.0, "t": "hello big world"}]
     missing, extra, bad = S.compare(cues, [(0.1, 0.3, "hello"), (0.5, 0.9, "world")], 0)
