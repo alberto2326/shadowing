@@ -78,6 +78,32 @@ def stress_problems(lines):
     return [m.group(0) for l in lines for m in BAD_STRESS.finditer(l)]
 
 
+# Vocabulario avanzado: pocas palabras por clip (nivel C1 o superior), cada una con su explicación.
+# Ficha: "vocab": [{"w": "palabra tal como suena en el texto", "en": "definition", "es": "traducción"}]
+VOCAB_MAX = 4
+
+
+def vocab_problems(d):
+    """Problemas del vocabulario de una ficha (lista vacía si está bien o si no tiene)."""
+    v = d.get("vocab", [])
+    errs = []
+    if len(v) > VOCAB_MAX:
+        errs.append(f"vocabulario: {len(v)} palabras (máximo {VOCAB_MAX}: solo las realmente difíciles)")
+    text = " ".join(re.sub(r"<[^>]+>", "", l) for l in d.get("lines", []))
+    vistas = set()
+    for e in v:
+        w = (e.get("w") or "").strip()
+        if not w or not (e.get("en") or "").strip() or not (e.get("es") or "").strip():
+            errs.append(f"vocabulario: cada palabra necesita w, en y es ({e})")
+            continue
+        if w.lower() in vistas:
+            errs.append(f"vocabulario: «{w}» repetida")
+        vistas.add(w.lower())
+        if not re.search(r"(?<![\w'-])" + re.escape(w) + r"(?![\w])", text, re.I):
+            errs.append(f"vocabulario: «{w}» no aparece tal cual en el texto del clip")
+    return errs
+
+
 def mmss(x):
     return f"{int(x) // 60:02d}:{int(x) % 60:02d}"
 
@@ -222,6 +248,7 @@ def clip_data(d):
     return {"title": d["title"], "source": d["source"], "url": d["url"],
             "segment": f'{mmss(d["start"])}–{mmss(d["end"])} ({round(d["end"] - d["start"])} s)',
             "listen_for": d.get("listen_for", ""),
+            "vocab": d.get("vocab", []),
             "cues": [{"s": round(x["s"] - off, 2), "e": round(x["e"] - off, 2), "t": x["t"]} for x in d["cues"]]}
 
 
@@ -298,6 +325,8 @@ def cmd_add(a):
     bad = stress_problems(d["lines"])
     if bad:
         sys.exit(f"Sílabas tónicas mal marcadas (en una terminación átona): {bad}")
+    if vocab_problems(d):
+        sys.exit("; ".join(vocab_problems(d)))
     used = {x["fecha"] for x in cal["clips"]}
     if a.fecha:
         if a.fecha in used:
@@ -381,6 +410,8 @@ def problems():
             errs.append(f"{x['slug']}: sin verificar")
         if stress_problems(dsc.get("lines", [])):
             errs.append(f"{x['slug']}: sílabas tónicas mal marcadas {stress_problems(dsc['lines'])}")
+        for pv in vocab_problems(dsc):
+            errs.append(f"{x['slug']}: {pv}")
         if not c["clip_min_s"] - 5 <= x["duracion"] <= c["clip_max_s"] + 5:
             errs.append(f"{x['slug']}: dura {x['duracion']} s")
     m = re.search(r'<script id="data" type="application/json">(.*?)</script>', open(INDEX, encoding="utf-8").read(), re.S)

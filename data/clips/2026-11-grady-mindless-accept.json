@@ -126,5 +126,22 @@
    "e": 143.67
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "pervasive",
+   "en": "spreading through every part of something",
+   "es": "omnipresente, generalizado"
+  },
+  {
+   "w": "involuntary",
+   "en": "done without choosing or meaning to",
+   "es": "involuntario"
+  },
+  {
+   "w": "self-inflicted",
+   "en": "caused by yourself",
+   "es": "autoinfligido"
+  }
+ ]
 }

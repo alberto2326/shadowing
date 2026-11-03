@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
  "segment": "00:03–01:34 (90 s)",
  "listen_for": "Storytelling intonation: the voice rises on the build-up and falls at the end of each sentence · contrast stress: for <b>us</b> it was a <b>dif</b>ferent way of being social · linking in <i>went_off</i>, <i>full_of</i>, <i>go_off_and</i>.",
+ "vocab": [
+  {
+   "w": "rowdy",
+   "en": "noisy and wild in a way that is hard to control",
+   "es": "escandaloso, alborotador"
+  },
+  {
+   "w": "instill",
+   "en": "to gradually put a feeling or idea into someone's mind",
+   "es": "inculcar"
+  },
+  {
+   "w": "roaming",
+   "en": "walking or travelling around freely with no fixed plan",
+   "es": "vagar, deambular"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

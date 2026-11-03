@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
  "segment": "04:11–05:40 (89 s)",
  "listen_for": "Weak forms (<i>of, that, to</i>), the stress on <b>shame</b>, and the rhythm of the lists: <i>I'm going in, I'm going to figure this out…</i>",
+ "vocab": [
+  {
+   "w": "excruciating",
+   "en": "extremely painful",
+   "es": "insoportable, atroz"
+  },
+  {
+   "w": "unraveled",
+   "en": "came apart, or fell to pieces",
+   "es": "se deshizo, se desmoronó"
+  },
+  {
+   "w": "vulnerability",
+   "en": "being open to being hurt, emotionally or physically",
+   "es": "vulnerabilidad"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

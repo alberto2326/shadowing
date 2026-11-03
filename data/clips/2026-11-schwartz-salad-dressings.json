@@ -126,5 +126,17 @@
    "e": 150.43
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "off-chance",
+   "en": "a very small possibility",
+   "es": "remota posibilidad"
+  },
+  {
+   "w": "on offer",
+   "en": "available to buy or choose",
+   "es": "disponible, en oferta"
+  }
+ ]
 }

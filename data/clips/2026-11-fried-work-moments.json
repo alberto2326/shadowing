@@ -156,5 +156,17 @@
    "e": 173.95
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "commute",
+   "en": "the regular trip between home and work",
+   "es": "trayecto al trabajo"
+  },
+  {
+   "w": "trading in",
+   "en": "giving up one thing in exchange for another",
+   "es": "cambiar, intercambiar"
+  }
+ ]
 }

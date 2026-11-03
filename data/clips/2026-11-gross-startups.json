@@ -138,5 +138,17 @@
    "e": 64.53
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "equity",
+   "en": "ownership of a company, in the form of shares",
+   "es": "participación, capital"
+  },
+  {
+   "w": "misperceptions",
+   "en": "wrong ideas about what something is like",
+   "es": "ideas erróneas, percepciones falsas"
+  }
+ ]
 }

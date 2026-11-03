@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation",
  "segment": "00:04–01:26 (82 s)",
  "listen_for": "A radio voice: very clear, steady pace — ideal to copy · rising intonation on yes/no questions (<i>how many of you…?</i>) · lists with rising tone until the last item: <i>where to live, who to marry, and even who our friends are going to be</i>.",
+ "vocab": [
+  {
+   "w": "devolve",
+   "en": "to get worse or less developed over time",
+   "es": "degenerar, ir a peor"
+  },
+  {
+   "w": "polarized",
+   "en": "divided into two extreme, opposite groups",
+   "es": "polarizado"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

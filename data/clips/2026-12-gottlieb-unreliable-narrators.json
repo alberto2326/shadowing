@@ -192,5 +192,22 @@
    "e": 193.67
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "unreliable narrators",
+   "en": "storytellers whose version of events you can't fully trust",
+   "es": "narradores poco fiables"
+  },
+  {
+   "w": "stance",
+   "en": "your position or attitude on something",
+   "es": "postura"
+  },
+  {
+   "w": "inescapably",
+   "en": "in a way that cannot be avoided",
+   "es": "ineludiblemente"
+  }
+ ]
 }

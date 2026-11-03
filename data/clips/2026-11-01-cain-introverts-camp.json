@@ -162,5 +162,22 @@
    "e": 94.15
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "rowdy",
+   "en": "noisy and wild in a way that is hard to control",
+   "es": "escandaloso, alborotador"
+  },
+  {
+   "w": "instill",
+   "en": "to gradually put a feeling or idea into someone's mind",
+   "es": "inculcar"
+  },
+  {
+   "w": "roaming",
+   "en": "walking or travelling around freely with no fixed plan",
+   "es": "vagar, deambular"
+  }
+ ]
 }

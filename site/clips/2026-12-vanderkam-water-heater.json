@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/laura_vanderkam_how_to_gain_control_of_your_free_time",
  "segment": "01:58–03:21 (83 s)",
  "listen_for": "Contrast and stress in <i>Seven hours.</i> (short, heavy sentences) and the conditional <i>If you've ever had anything like this happen to you…</i>",
+ "vocab": [
+  {
+   "w": "sopping",
+   "en": "completely soaked with water",
+   "es": "empapado"
+  },
+  {
+   "w": "aftermath",
+   "en": "the situation that follows a bad event",
+   "es": "secuelas, consecuencias"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

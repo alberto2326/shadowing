@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong",
  "segment": "00:04–01:08 (64 s)",
  "listen_for": "Imagery built from lists (<i>a Roman foot soldier or a medieval archer or a Zulu warrior</i>) and the contrast <b>soldier</b> / <b>scout</b>: <i>attack or defend / understand</i>",
+ "vocab": [
+  {
+   "w": "ingrained",
+   "en": "fixed deeply, and hard to change",
+   "es": "arraigado, muy interiorizado"
+  },
+  {
+   "w": "terrain",
+   "en": "the physical features of an area of land",
+   "es": "terreno"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

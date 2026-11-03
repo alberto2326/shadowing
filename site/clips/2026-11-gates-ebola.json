@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready",
  "segment": "01:27–02:30 (63 s)",
  "listen_for": "Problem-solution structure you can reuse at work: <i>the problem wasn't…, the problem was…</i> · repetition for emphasis: <i>We didn't have… We didn't have…</i>, <i>No one to…</i> · <i>should have been</i> → “should've been”.",
+ "vocab": [
+  {
+   "w": "orchestrating",
+   "en": "organizing a complex plan so that everything works together",
+   "es": "orquestar, coordinar"
+  },
+  {
+   "w": "epidemiologists",
+   "en": "scientists who study how diseases spread",
+   "es": "epidemiólogos"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work",
  "segment": "03:46–04:49 (63 s)",
  "listen_for": "Fast, humorous delivery with stress on contrast words: <i>average / potential</i>; the rhetorical question <i>Why is it that some of you are so high above the curve?</i>",
+ "vocab": [
+  {
+   "w": "outliers",
+   "en": "results far away from the average",
+   "es": "valores atípicos"
+  },
+  {
+   "w": "posits",
+   "en": "puts forward an idea as a basis for discussion",
+   "es": "plantea, postula"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

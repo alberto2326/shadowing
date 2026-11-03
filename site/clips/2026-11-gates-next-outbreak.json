@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready",
  "segment": "00:08–01:18 (70 s)",
  "listen_for": "Calm, flat delivery with strong contrasts: not <b>missiles</b>, but <b>microbes</b> · <i>this</i> vs <i>this</i> with pointing intonation · weak forms: <i>filled with cans of food and water</i>.",
+ "vocab": [
+  {
+   "w": "hunker",
+   "en": "to stay hidden or sheltered somewhere (hunker down)",
+   "es": "refugiarse, atrincherarse"
+  },
+  {
+   "w": "deterrence",
+   "en": "stopping something by making people afraid of the consequences",
+   "es": "disuasión"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

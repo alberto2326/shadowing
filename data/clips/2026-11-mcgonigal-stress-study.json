@@ -126,5 +126,12 @@
    "e": 166.43
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "prematurely",
+   "en": "earlier than is normal or expected",
+   "es": "prematuramente"
+  }
+ ]
 }

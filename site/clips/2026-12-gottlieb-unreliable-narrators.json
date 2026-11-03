@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/lori_gottlieb_how_changing_your_story_can_change_your_life",
  "segment": "02:03–03:13 (70 s)",
  "listen_for": "The long, flowing sentence with embedded clauses (<i>because I know that every letter I get is actually just a story written by a specific author</i>) and the short punchy ones: <i>I am. You are.</i>",
+ "vocab": [
+  {
+   "w": "unreliable narrators",
+   "en": "storytellers whose version of events you can't fully trust",
+   "es": "narradores poco fiables"
+  },
+  {
+   "w": "stance",
+   "en": "your position or attitude on something",
+   "es": "postura"
+  },
+  {
+   "w": "inescapably",
+   "en": "in a way that cannot be avoided",
+   "es": "ineludiblemente"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

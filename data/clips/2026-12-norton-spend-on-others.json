@@ -156,5 +156,17 @@
    "e": 186.75
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "pro-social",
+   "en": "helping or benefiting other people",
+   "es": "prosocial, que ayuda a los demás"
+  },
+  {
+   "w": "slip of paper",
+   "en": "a small, thin piece of paper",
+   "es": "papelito, trozo de papel"
+  }
+ ]
 }

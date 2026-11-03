@@ -4,6 +4,13 @@
  "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
  "segment": "00:03–01:38 (95 s)",
  "listen_for": "Clear, measured pace — ideal to copy · contrast stress: my <b>best</b> and my <b>worst</b> students · the question at the end rises on <i>what if…</i> and falls on <i>quickly and easily</i>.",
+ "vocab": [
+  {
+   "w": "stratospheric",
+   "en": "extremely high",
+   "es": "por las nubes, altísimo"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

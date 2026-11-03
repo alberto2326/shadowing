@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers",
  "segment": "01:41–02:48 (67 s)",
  "listen_for": "Self-deprecating humor with pauses for the laugh · word play: <b>pre</b>crastinator vs <b>pro</b>crastinator · contractions: <i>I've traded</i>, <i>haven't done</i>.",
+ "vocab": [
+  {
+   "w": "procrastinator",
+   "en": "someone who keeps delaying what they have to do",
+   "es": "procrastinador"
+  },
+  {
+   "w": "intimately",
+   "en": "in a very close, detailed way",
+   "es": "íntimamente, a fondo"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/lori_gottlieb_how_changing_your_story_can_change_your_life",
  "segment": "04:20–05:25 (65 s)",
  "listen_for": "The questions of an editor read as a list (<i>Is the protagonist moving forward or going in circles?</i>) and the two themes, <b>freedom</b> and <b>change</b>, with a clear pause between them",
+ "vocab": [
+  {
+   "w": "extraneous",
+   "en": "not directly related to the subject",
+   "es": "ajeno, irrelevante"
+  },
+  {
+   "w": "protagonist",
+   "en": "the main character in a story",
+   "es": "protagonista"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

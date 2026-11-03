@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
  "segment": "00:07–01:14 (66 s)",
  "listen_for": "The contrast <i>Not Yet</i> vs. a failing grade, and how <b>stress</b> lands on the key words of each idea: <i>fantastic, nowhere, path, future</i>",
+ "vocab": [
+  {
+   "w": "insight",
+   "en": "a deep and clear understanding of something",
+   "es": "comprensión profunda, revelación"
+  },
+  {
+   "w": "coped with",
+   "en": "dealt successfully with a difficult situation",
+   "es": "afrontaba, sobrellevaba"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

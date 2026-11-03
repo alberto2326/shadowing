@@ -96,5 +96,17 @@
    "e": 168.17
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "procrastinator",
+   "en": "someone who keeps delaying what they have to do",
+   "es": "procrastinador"
+  },
+  {
+   "w": "intimately",
+   "en": "in a very close, detailed way",
+   "es": "íntimamente, a fondo"
+  }
+ ]
 }

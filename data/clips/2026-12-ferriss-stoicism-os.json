@@ -174,5 +174,17 @@
    "e": 231.67
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "stoicism",
+   "en": "staying calm and accepting what you cannot control",
+   "es": "estoicismo"
+  },
+  {
+   "w": "thriving",
+   "en": "growing and doing very well",
+   "es": "prosperando, floreciendo"
+  }
+ ]
 }

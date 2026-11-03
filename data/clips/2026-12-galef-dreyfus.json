@@ -162,5 +162,22 @@
    "e": 152.53
   }
  ],
- "verified": "2026-11-02 (forzado: diferencias revisadas, ver notas)"
+ "verified": "2026-11-02 (forzado: diferencias revisadas, ver notas)",
+ "vocab": [
+  {
+   "w": "wrongdoing",
+   "en": "illegal or immoral behaviour",
+   "es": "fechoría, conducta indebida"
+  },
+  {
+   "w": "converged",
+   "en": "came together at the same point",
+   "es": "convergieron"
+  },
+  {
+   "w": "mindset",
+   "en": "a person's usual way of thinking",
+   "es": "mentalidad"
+  }
+ ]
 }

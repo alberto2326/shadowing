@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator",
  "segment": "03:49–05:07 (77 s)",
  "listen_for": "Fast, funny American: <i>gonna</i> everywhere · the voice changes when the Monkey speaks · linking in <i>takes_the wheel</i>, <i>much, much later</i>.",
+ "vocab": [
+  {
+   "w": "gratification",
+   "en": "the pleasure of getting what you want",
+   "es": "gratificación"
+  },
+  {
+   "w": "spiral",
+   "en": "to get worse and worse, faster and faster",
+   "es": "entrar en espiral"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

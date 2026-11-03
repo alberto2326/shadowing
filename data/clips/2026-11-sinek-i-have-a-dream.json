@@ -144,5 +144,17 @@
    "e": 1060.87
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "comprehensive",
+   "en": "including everything that is needed",
+   "es": "exhaustivo, completo"
+  },
+  {
+   "w": "consistent with",
+   "en": "in agreement with, not contradicting",
+   "es": "coherente con"
+  }
+ ]
 }

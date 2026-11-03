@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness",
  "segment": "05:55–06:59 (64 s)",
  "listen_for": "<i>Good relationships keep us happier and healthier. Period.</i> — the sharp stop on <b>Period</b>; comparatives <i>happier, healthier</i>; <i>more… than</i>",
+ "vocab": [
+  {
+   "w": "midlife",
+   "en": "the middle part of a person's life",
+   "es": "mediana edad"
+  },
+  {
+   "w": "loneliness",
+   "en": "the sad feeling of being alone",
+   "es": "soledad"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

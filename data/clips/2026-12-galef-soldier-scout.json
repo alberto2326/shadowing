@@ -138,5 +138,17 @@
    "e": 68.21
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "ingrained",
+   "en": "fixed deeply, and hard to change",
+   "es": "arraigado, muy interiorizado"
+  },
+  {
+   "w": "terrain",
+   "en": "the physical features of an area of land",
+   "es": "terreno"
+  }
+ ]
 }

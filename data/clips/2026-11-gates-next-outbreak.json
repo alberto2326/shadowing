@@ -102,5 +102,17 @@
    "e": 78.77
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "hunker",
+   "en": "to stay hidden or sheltered somewhere (hunker down)",
+   "es": "refugiarse, atrincherarse"
+  },
+  {
+   "w": "deterrence",
+   "en": "stopping something by making people afraid of the consequences",
+   "es": "disuasión"
+  }
+ ]
 }

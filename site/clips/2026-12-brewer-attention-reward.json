@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit",
  "segment": "00:31–01:35 (64 s)",
  "listen_for": "The reward loop <i>trigger, behavior, reward</i> (three beats), and the way <i>See food, eat food, feel good, repeat</i> speeds up",
+ "vocab": [
+  {
+   "w": "reinforcement",
+   "en": "something that strengthens a behaviour or idea",
+   "es": "refuerzo"
+  },
+  {
+   "w": "daydream",
+   "en": "to think pleasant thoughts instead of paying attention",
+   "es": "soñar despierto"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

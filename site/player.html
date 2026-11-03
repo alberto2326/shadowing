@@ -15,6 +15,15 @@ button:focus-visible,a:focus-visible,audio:focus-visible{outline:3px solid #2a6;
 .line.past{color:#555}.line.cur{background:#fff3b0;color:#111;box-shadow:0 1px 4px rgba(0,0,0,.08)}
 .line b{color:inherit;text-decoration:underline;text-decoration-thickness:3px;text-decoration-color:#e8a}
 body.hide .line{color:transparent;text-shadow:0 0 14px rgba(0,0,0,.35)}body.hide .line b{text-decoration-color:transparent}
+/* Vocabulario avanzado: palabra con subrayado punteado verde (el de las sílabas fuertes es rosa y continuo) */
+.v{border-bottom:2px dotted #1a8a4f;background:rgba(26,138,79,.10);border-radius:4px;cursor:help;outline-offset:3px}
+.v:focus-visible{outline:3px solid #2a6}
+body.hide .v{background:none;border-bottom-color:transparent;pointer-events:none}
+#tip{position:fixed;z-index:10;max-width:min(300px,calc(100vw - 24px));padding:10px 12px;border-radius:10px;background:#1c2b22;color:#fff;font-size:.95rem;line-height:1.35;box-shadow:0 4px 16px rgba(0,0,0,.25);pointer-events:none;display:none}
+#tip b{display:block;font-size:1.02rem}#tip i{display:block;margin-top:4px;color:#b9e3c9;font-style:normal}
+.vocab{margin-top:20px;padding:14px 18px;border-radius:12px;background:#fff;border:1px solid #e5e5e5}
+.vocab h2{font-size:1.05rem;margin:0 0 4px}.vocab small{color:#666;font-weight:400}
+.vocab dl{margin:8px 0 0}.vocab dt{font-weight:700;margin-top:10px}.vocab dd{margin:2px 0 0;color:#333}.vocab dd i{color:#1a6d41;font-style:normal}
 .tips{margin-top:24px;font-size:1.05rem;background:#fff;padding:14px 18px;border-radius:12px;border:1px solid #e5e5e5}
 #err{display:none;color:#b33;margin:8px 0}
 /* Atajos de teclado: solo se muestran en ordenador (ratón + cursor preciso), para no recargar el móvil */
@@ -39,6 +48,8 @@ button.on kbd{background:rgba(255,255,255,.18);border-color:rgba(255,255,255,.6)
 </div>
 <div id="err"></div>
 <div id="lines"></div>
+<div class="vocab" id="vocab" hidden><h2>Vocabulary <small>· a few advanced words from this clip (the dotted ones in the text)</small></h2><dl id="vocabList"></dl></div>
+<div id="tip" role="tooltip"></div>
 <div class="tips"><b>🎧 Listen only (no talking):</b> 1) listen without reading · 2) listen and read.<br>
 <b>🎤 Listen and speak out loud:</b> 3) murmur along · 4) “Pause after each phrase” on: it stops after each phrase, you repeat it out loud, then press play · 5) whole clip with text · 6) whole clip with “Hide text”, from memory.<br><br>
 <b>Listen for:</b> <span id="listen"></span><br>
@@ -95,18 +106,78 @@ function repeatPhrase() {                  // repite la frase que suena o, si es
   go(i);
   if (!pauseMode) stopAt = cues[i].e;
 }
+let rate = 1;
 function setRate(r) {
-  a.playbackRate = r;
+  rate = r; a.defaultPlaybackRate = r; a.playbackRate = r;
   document.querySelectorAll('[data-r]').forEach(b => { const on = +b.dataset.r === r; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on); });
 }
-function cycleRate() { setRate(RATES[(Math.max(RATES.indexOf(a.playbackRate), 0) + 1) % RATES.length]); }
+function cycleRate() { setRate(RATES[(Math.max(RATES.indexOf(rate), 0) + 1) % RATES.length]); }
 function setPauseMode(v) {
   pauseMode = v;
   $('pauseLbl').textContent = 'Pause after each phrase: ' + (v ? 'on' : 'off');
   $('pause').classList.toggle('on', v); $('pause').setAttribute('aria-pressed', v);
 }
+// ---- vocabulario avanzado: palabra marcada en el texto + globo con la explicación + bloque al final
+const tip = $('tip'); let VOCAB = [];
+function showTip(sp) {
+  const e = VOCAB[sp.dataset.k]; if (!e) return;
+  tip.textContent = '';
+  const w = document.createElement('b'); w.textContent = e.w;
+  const es = document.createElement('i'); es.textContent = e.es;
+  tip.append(w, e.en, es);
+  tip.style.display = 'block';
+  const r = sp.getClientRects()[0] || sp.getBoundingClientRect(), tw = tip.offsetWidth, th = tip.offsetHeight;
+  let top = r.bottom + 8; if (top + th > innerHeight - 8) top = Math.max(8, r.top - th - 8);
+  tip.style.top = top + 'px';
+  tip.style.left = Math.max(8, Math.min(r.left + r.width / 2 - tw / 2, innerWidth - tw - 8)) + 'px';
+  sp.setAttribute('aria-describedby', 'tip');
+}
+function hideTip() {
+  tip.style.display = 'none';
+  document.querySelectorAll('.v[aria-describedby]').forEach(s => s.removeAttribute('aria-describedby'));
+}
+// Envuelve la primera aparición de la palabra dentro de una frase, aunque la sílaba fuerte (<b>) la parta en trozos.
+function markWord(el, e, k) {
+  const re = new RegExp("(^|[^\\w'-])(" + e.w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ")(?![\\w])", 'i');
+  const m = re.exec(el.textContent); if (!m) return false;
+  const start = m.index + m[1].length, end = start + m[2].length;
+  const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT), r = document.createRange();
+  let pos = 0, n, ini = false;
+  while ((n = walker.nextNode())) {
+    const len = n.data.length;
+    if (!ini && start < pos + len) { r.setStart(n, start - pos); ini = true; }
+    if (ini && end <= pos + len) { r.setEnd(n, end - pos); break; }
+    pos += len;
+  }
+  const sp = document.createElement('span');
+  sp.className = 'v'; sp.dataset.k = k; sp.tabIndex = document.body.classList.contains('hide') ? -1 : 0;
+  sp.appendChild(r.extractContents()); r.insertNode(sp);
+  sp.addEventListener('pointerenter', ev => { if (ev.pointerType === 'mouse') showTip(sp); });
+  sp.addEventListener('pointerleave', ev => { if (ev.pointerType === 'mouse' && document.activeElement !== sp) hideTip(); });
+  sp.addEventListener('focus', () => showTip(sp));
+  sp.addEventListener('blur', hideTip);
+  sp.addEventListener('click', ev => { ev.stopPropagation(); showTip(sp); });   // tocar la palabra no salta a la frase
+  return true;
+}
+function setupVocab(v) {
+  VOCAB = v;
+  v.forEach((e, k) => { for (const c of cues) if (markWord(c.el, e, k)) break; });
+  if (!v.length) return;
+  const dl = $('vocabList');
+  v.forEach(e => {
+    const dt = document.createElement('dt'), dd = document.createElement('dd'), es = document.createElement('i');
+    dt.textContent = e.w; es.textContent = e.es; dd.append(e.en + ' · ', es); dl.append(dt, dd);
+  });
+  $('vocab').hidden = false;
+}
+document.addEventListener('click', e => { if (!(e.target.closest && e.target.closest('.v'))) hideTip(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') hideTip(); });
+addEventListener('scroll', hideTip, {passive: true});
+
 function setHide(v) {
   document.body.classList.toggle('hide', v);
+  document.querySelectorAll('.v').forEach(s => { s.tabIndex = v ? -1 : 0; });
+  if (v) hideTip();
   $('hideLbl').textContent = v ? 'Show text' : 'Hide text';
   $('hide').classList.toggle('on', v); $('hide').setAttribute('aria-pressed', v);
 }
@@ -127,6 +198,7 @@ else fetch(`clips/${slug}.json`).then(r => { if (!r.ok) throw new Error(r.status
     el.onclick = () => go(i);
     L.appendChild(el); c.el = el;
   });
+  setupVocab(d.vocab || []);
   requestAnimationFrame(tick);
 }).catch(() => fail('This clip is no longer available. Go back to all clips.'));
 
@@ -145,13 +217,21 @@ const KEYS = {
   r: repeatPhrase, p: () => setPauseMode(!pauseMode), h: () => setHide(!document.body.classList.contains('hide')), s: cycleRate,
 };
 const typing = el => el && (el.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(el.tagName));
+const CODES = {Space: ' ', KeyR: 'r', KeyP: 'p', KeyH: 'h', KeyS: 's'};      // por si el sistema no da e.key (teclas muertas, otros idiomas)
 document.addEventListener('keydown', e => {
   if (e.ctrlKey || e.metaKey || e.altKey || typing(e.target)) return;        // no pisar atajos del navegador ni escribir en campos
-  const fn = KEYS[e.key.length === 1 ? e.key.toLowerCase() : e.key];
+  let k = e.key.length === 1 ? e.key.toLowerCase() : e.key;
+  if (/^(Dead|Unidentified|Process)$/.test(k)) k = CODES[e.code] || k;
+  const fn = KEYS[k];
   if (!fn) return;
-  if (e.key === ' ' && e.target.closest && e.target.closest('button, a, summary')) return;   // Espacio sobre un botón o enlace enfocado lo activa
+  if (k === ' ' && e.target.closest && e.target.closest('button, a, summary')) return;   // Espacio sobre un botón o enlace enfocado lo activa
   e.preventDefault();                                                        // evita que Espacio desplace la página o que el <audio> haga su propia acción
+  e.stopPropagation();                                                       // y que el reproductor nativo (Safari) reciba también la tecla y la repita o la anule
   if (!e.repeat) fn();                                                       // mantener la tecla pulsada no repite la acción
 }, true);
+// Tras usar los controles nativos del audio con el ratón, el foco vuelve a la página: así las teclas no las recibe el <audio>.
+a.addEventListener('pointerup', () => setTimeout(() => { if (document.activeElement === a) a.blur(); }, 0));
+// Safari a veces devuelve la velocidad a 1x al volver a reproducir: se reaplica la elegida.
+a.addEventListener('play', () => { if (a.playbackRate !== rate) a.playbackRate = rate; });
 </script>
 </body></html>

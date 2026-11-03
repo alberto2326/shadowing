@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness",
  "segment": "03:23–05:01 (98 s)",
  "listen_for": "Fast academic speaker — use 0.9x first · pairs with contrast: <i>winning or losing</i>, <i>gaining or losing</i> · the final contrast: we <b>synthesize</b> happiness, but we <b>think</b> it's a thing to be <b>found</b>.",
+ "vocab": [
+  {
+   "w": "adversity",
+   "en": "a difficult or unlucky situation",
+   "es": "adversidad"
+  },
+  {
+   "w": "invulnerable",
+   "en": "impossible to harm or defeat",
+   "es": "invulnerable"
+  },
+  {
+   "w": "synthesized",
+   "en": "made by combining things, rather than found naturally",
+   "es": "sintetizado"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

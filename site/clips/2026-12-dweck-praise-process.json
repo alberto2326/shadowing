@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve",
  "segment": "03:05–04:29 (84 s)",
  "listen_for": "Rhetorical questions with rising intonation (<i>Are we raising them for now instead of yet?</i>) and the list of praise: <i>effort, strategies, focus…</i>",
+ "vocab": [
+  {
+   "w": "validation",
+   "en": "approval that makes you feel accepted",
+   "es": "validación, aprobación"
+  },
+  {
+   "w": "resilient",
+   "en": "able to recover quickly from difficulties",
+   "es": "resiliente"
+  },
+  {
+   "w": "perseverance",
+   "en": "continuing to try despite difficulty",
+   "es": "perseverancia"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

@@ -198,5 +198,12 @@
    "e": 123.09
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "all-nighters",
+   "en": "nights spent working or studying without sleeping",
+   "es": "noches en vela (estudiando)"
+  }
+ ]
 }

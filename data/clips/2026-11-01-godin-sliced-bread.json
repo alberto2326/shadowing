@@ -144,5 +144,17 @@
    "e": 110.47
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "patent",
+   "en": "an official right to be the only one who makes or sells an invention",
+   "es": "patente"
+  },
+  {
+   "w": "regardless of",
+   "en": "without being affected by something",
+   "es": "sin importar, independientemente de"
+  }
+ ]
 }

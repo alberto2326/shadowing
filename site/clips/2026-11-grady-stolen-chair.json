@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/david_grady_how_to_save_the_world_or_at_least_yourself_from_bad_meetings",
  "segment": "00:05–01:09 (65 s)",
  "listen_for": "Office English you can reuse: <i>a meeting invitation pops up, no agenda, I wish I had those two hours back</i> · <i>kind of</i> → “kinda”, <i>sort of</i> → “sorta” · parallel structure: <i>Doesn't say… Doesn't give… Doesn't acknowledge…</i>",
+ "vocab": [
+  {
+   "w": "make a stink",
+   "en": "to complain loudly and make a fuss",
+   "es": "armar un escándalo"
+  },
+  {
+   "w": "stand for it",
+   "en": "to accept bad treatment without complaining",
+   "es": "tolerarlo, aguantarlo"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

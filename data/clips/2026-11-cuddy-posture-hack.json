@@ -120,5 +120,22 @@
    "e": 74.97
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "hunching",
+   "en": "bending your back and shoulders forward",
+   "es": "encorvarse"
+  },
+  {
+   "w": "contemptuous",
+   "en": "showing that you think someone is worthless",
+   "es": "despectivo, desdeñoso"
+  },
+  {
+   "w": "tweak",
+   "en": "to make a small change to improve something",
+   "es": "retocar, ajustar"
+  }
+ ]
 }

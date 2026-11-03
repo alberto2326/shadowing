@@ -114,5 +114,17 @@
    "e": 419.71
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "midlife",
+   "en": "the middle part of a person's life",
+   "es": "mediana edad"
+  },
+  {
+   "w": "loneliness",
+   "en": "the sad feeling of being alone",
+   "es": "soledad"
+  }
+ ]
 }

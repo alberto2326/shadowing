@@ -162,5 +162,17 @@
    "e": 70.85
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "tops out",
+   "en": "reaches its highest level and goes no further",
+   "es": "llega a su tope"
+  },
+  {
+   "w": "heads of state",
+   "en": "the official leaders of countries",
+   "es": "jefes de Estado"
+  }
+ ]
 }

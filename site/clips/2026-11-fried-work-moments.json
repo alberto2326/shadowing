@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work",
  "segment": "01:34–02:53 (79 s)",
  "listen_for": "Lists with rising tone: <i>the porch, the deck, the kitchen</i> · the punchline drop: <i>“The office.”</i> · contrast: work <b>day</b> vs work <b>moments</b>.",
+ "vocab": [
+  {
+   "w": "commute",
+   "en": "the regular trip between home and work",
+   "es": "trayecto al trabajo"
+  },
+  {
+   "w": "trading in",
+   "en": "giving up one thing in exchange for another",
+   "es": "cambiar, intercambiar"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

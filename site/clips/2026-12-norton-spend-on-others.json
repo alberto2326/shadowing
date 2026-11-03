@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/michael_norton_how_to_buy_happiness",
  "segment": "02:11–03:06 (55 s)",
  "listen_for": "Spontaneous, chatty speech: <i>And we said, well, maybe…</i>; the experiment told step by step with <i>and… and… and</i> links; contrast <b>yourself</b> / <b>somebody else</b>",
+ "vocab": [
+  {
+   "w": "pro-social",
+   "en": "helping or benefiting other people",
+   "es": "prosocial, que ayuda a los demás"
+  },
+  {
+   "w": "slip of paper",
+   "en": "a small, thin piece of paper",
+   "es": "papelito, trozo de papel"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed",
  "segment": "00:04–01:04 (60 s)",
  "listen_for": "Entrepreneur's energy: fast but clear · business vocabulary: <i>equity incentives, unlock potential, be systematic</i> · the pattern <i>to high school, when I…; to college, when I…</i>",
+ "vocab": [
+  {
+   "w": "equity",
+   "en": "ownership of a company, in the form of shares",
+   "es": "participación, capital"
+  },
+  {
+   "w": "misperceptions",
+   "en": "wrong ideas about what something is like",
+   "es": "ideas erróneas, percepciones falsas"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/david_grady_how_to_save_the_world_or_at_least_yourself_from_bad_meetings",
  "segment": "01:12–02:23 (71 s)",
  "listen_for": "Business vocabulary: <i>collaboration, enterprise, actionable results, pervasive</i> · emphasis by repetition: <i>time. Your time.</i> · sound effects with rhythm: <i>ding, click, bing</i>.",
+ "vocab": [
+  {
+   "w": "pervasive",
+   "en": "spreading through every part of something",
+   "es": "omnipresente, generalizado"
+  },
+  {
+   "w": "involuntary",
+   "en": "done without choosing or meaning to",
+   "es": "involuntario"
+  },
+  {
+   "w": "self-inflicted",
+   "en": "caused by yourself",
+   "es": "autoinfligido"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

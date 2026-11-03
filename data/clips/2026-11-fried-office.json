@@ -132,5 +132,17 @@
    "e": 78.39
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "lease",
+   "en": "to rent a building or land for a long period",
+   "es": "arrendar, alquilar"
+  },
+  {
+   "w": "nonprofits",
+   "en": "organizations that don't aim to make a profit",
+   "es": "organizaciones sin ánimo de lucro"
+  }
+ ]
 }

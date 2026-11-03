@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers",
  "segment": "00:04–01:20 (75 s)",
  "listen_for": "Storytelling with dialogue: his voice changes for each speaker · business words: <i>invest, disrupt an industry, launch, valued at</i> · the punchline pause before <i>My wife handles our investments</i>.",
+ "vocab": [
+  {
+   "w": "disrupt",
+   "en": "to change an established industry in a big way",
+   "es": "revolucionar, trastocar"
+  },
+  {
+   "w": "non-conformists",
+   "en": "people who refuse to follow the usual rules",
+   "es": "inconformistas"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

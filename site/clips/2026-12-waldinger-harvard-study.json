@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness",
  "segment": "01:49–02:54 (65 s)",
  "listen_for": "Numbers and years (<i>75 years, 724 men</i>), the pause-and-stress pattern of a speaker explaining, and <i>or…or…or</i> lists",
+ "vocab": [
+  {
+   "w": "exceedingly",
+   "en": "extremely",
+   "es": "sumamente, extremadamente"
+  },
+  {
+   "w": "dries up",
+   "en": "stops being available",
+   "es": "se agota, desaparece"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

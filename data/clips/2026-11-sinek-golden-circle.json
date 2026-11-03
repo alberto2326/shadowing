@@ -156,5 +156,17 @@
    "e": 165.53
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "differentiating",
+   "en": "showing how something is different from the rest",
+   "es": "diferenciar"
+  },
+  {
+   "w": "proprietary",
+   "en": "owned and controlled by one company",
+   "es": "propietario, exclusivo"
+  }
+ ]
 }

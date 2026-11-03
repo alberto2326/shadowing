@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are",
  "segment": "00:04–01:14 (71 s)",
  "listen_for": "Rising intonation in questions to the audience (<i>how many of you…?</i>) · lists: <i>hunching, crossing your legs, wrapping your ankles</i> — each item rises, the last one falls · flapped t in <i>audit</i>, <i>little</i>.",
+ "vocab": [
+  {
+   "w": "hunching",
+   "en": "bending your back and shoulders forward",
+   "es": "encorvarse"
+  },
+  {
+   "w": "contemptuous",
+   "en": "showing that you think someone is worthless",
+   "es": "despectivo, desdeñoso"
+  },
+  {
+   "w": "tweak",
+   "en": "to make a small change to improve something",
+   "es": "retocar, ajustar"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

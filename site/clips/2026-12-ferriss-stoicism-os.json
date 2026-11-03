@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals",
  "segment": "02:42–03:51 (70 s)",
  "listen_for": "Casual conversational rhythm with stressed contrast: <i>what you <b>can</b> control / what you <b>cannot</b> control</i>; the <i>If you're a… that could cost you…</i> pattern",
+ "vocab": [
+  {
+   "w": "stoicism",
+   "en": "staying calm and accepting what you cannot control",
+   "es": "estoicismo"
+  },
+  {
+   "w": "thriving",
+   "en": "growing and doing very well",
+   "es": "prosperando, floreciendo"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

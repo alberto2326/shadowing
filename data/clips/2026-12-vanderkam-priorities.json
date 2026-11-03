@@ -186,5 +186,17 @@
    "e": 279.39
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "accommodate",
+   "en": "to have enough space or time for something",
+   "es": "dar cabida a, acomodar"
+  },
+  {
+   "w": "intrigued",
+   "en": "very interested and curious",
+   "es": "intrigado"
+  }
+ ]
 }

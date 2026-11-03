@@ -186,5 +186,22 @@
    "e": 302.01
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "adversity",
+   "en": "a difficult or unlucky situation",
+   "es": "adversidad"
+  },
+  {
+   "w": "invulnerable",
+   "en": "impossible to harm or defeat",
+   "es": "invulnerable"
+  },
+  {
+   "w": "synthesized",
+   "en": "made by combining things, rather than found naturally",
+   "es": "sintetizado"
+  }
+ ]
 }

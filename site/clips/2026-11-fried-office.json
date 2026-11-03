@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work",
  "segment": "00:03–01:18 (75 s)",
  "listen_for": "Relaxed, conversational American · fillers that natives use: <i>kind of, sort of, at least</i> · contrast: <b>good</b> work… <b>great</b> work · list rhythm: <i>buy a building, or rent a building, or lease some space</i>.",
+ "vocab": [
+  {
+   "w": "lease",
+   "en": "to rent a building or land for a long period",
+   "es": "arrendar, alquilar"
+  },
+  {
+   "w": "nonprofits",
+   "en": "organizations that don't aim to make a profit",
+   "es": "organizaciones sin ánimo de lucro"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

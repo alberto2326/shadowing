@@ -126,5 +126,17 @@
    "e": 74.13
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "insight",
+   "en": "a deep and clear understanding of something",
+   "es": "comprensión profunda, revelación"
+  },
+  {
+   "w": "coped with",
+   "en": "dealt successfully with a difficult situation",
+   "es": "afrontaba, sobrellevaba"
+  }
+ ]
 }

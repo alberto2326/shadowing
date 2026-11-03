@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread",
  "segment": "00:33–01:50 (77 s)",
  "listen_for": "American rhythm: <i>no one bought it, no one knew about it</i> (stress on <b>no</b>) · linking in <i>figure_out</i>, <i>get your_idea</i> · <i>going to</i> almost like “gonna” · the pattern <i>whether you're… or you're… or…</i>.",
+ "vocab": [
+  {
+   "w": "patent",
+   "en": "an official right to be the only one who makes or sells an invention",
+   "es": "patente"
+  },
+  {
+   "w": "regardless of",
+   "en": "without being affected by something",
+   "es": "sin importar, independientemente de"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

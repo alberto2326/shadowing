@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/bill_gross_the_single_biggest_reason_why_start_ups_succeed",
  "segment": "01:21–02:28 (67 s)",
  "listen_for": "Startup vocabulary: <i>execution, business model, revenues, funding, timing, competitors</i> · a list of questions: rising on each option, falling at the end · quote with a pause: <i>until they get punched in the face</i>.",
+ "vocab": [
+  {
+   "w": "adaptability",
+   "en": "the ability to change when things change",
+   "es": "capacidad de adaptación"
+  },
+  {
+   "w": "revenues",
+   "en": "the money a company earns from selling things",
+   "es": "ingresos"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

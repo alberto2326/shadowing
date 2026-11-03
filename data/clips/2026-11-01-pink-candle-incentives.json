@@ -180,5 +180,22 @@
    "e": 265.17
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "incentives",
+   "en": "things that encourage you to do something, like rewards",
+   "es": "incentivos, alicientes"
+  },
+  {
+   "w": "accelerate",
+   "en": "to make something happen faster",
+   "es": "acelerar"
+  },
+  {
+   "w": "dulls",
+   "en": "makes something less sharp or less clear",
+   "es": "embota, apaga"
+  }
+ ]
 }

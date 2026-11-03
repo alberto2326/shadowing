@@ -186,5 +186,22 @@
    "e": 340.61
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "excruciating",
+   "en": "extremely painful",
+   "es": "insoportable, atroz"
+  },
+  {
+   "w": "unraveled",
+   "en": "came apart, or fell to pieces",
+   "es": "se deshizo, se desmoronó"
+  },
+  {
+   "w": "vulnerability",
+   "en": "being open to being hurt, emotionally or physically",
+   "es": "vulnerabilidad"
+  }
+ ]
 }

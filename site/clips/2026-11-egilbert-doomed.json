@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius",
  "segment": "00:04–01:12 (68 s)",
  "listen_for": "Ironic tone: <i>So that's reassuring</i> means the opposite · repeated questions with rising frustration: <i>Aren't you afraid…?</i> · <i>going to</i> reduced in fast speech · <i>kind of</i>, <i>sort of</i> as softeners.",
+ "vocab": [
+  {
+   "w": "recalibrate",
+   "en": "to adjust something so it works or feels right again",
+   "es": "reajustar, recalibrar"
+  },
+  {
+   "w": "decidedly",
+   "en": "clearly, without any doubt",
+   "es": "claramente, sin duda"
+  },
+  {
+   "w": "peculiar",
+   "en": "strange in an unusual way",
+   "es": "peculiar, extraño"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

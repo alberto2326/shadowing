@@ -156,5 +156,17 @@
    "e": 148.55
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "adaptability",
+   "en": "the ability to change when things change",
+   "es": "capacidad de adaptación"
+  },
+  {
+   "w": "revenues",
+   "en": "the money a company earns from selling things",
+   "es": "ingresos"
+  }
+ ]
 }

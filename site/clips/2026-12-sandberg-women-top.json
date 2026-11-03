@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders",
  "segment": "00:04–01:10 (67 s)",
  "listen_for": "Numbers read aloud (<i>190 heads of state</i>), the contrast <i>we don't live in… / we still have a problem</i>, and the falling intonation on each statistic",
+ "vocab": [
+  {
+   "w": "tops out",
+   "en": "reaches its highest level and goes no further",
+   "es": "llega a su tope"
+  },
+  {
+   "w": "heads of state",
+   "en": "the official leaders of countries",
+   "es": "jefes de Estado"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

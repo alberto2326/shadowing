@@ -162,5 +162,17 @@
    "e": 86.55
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "rut",
+   "en": "a boring routine that is hard to escape (stuck in a rut)",
+   "es": "rutina estancada"
+  },
+  {
+   "w": "desk-dwelling",
+   "en": "spending most of your time sitting at a desk",
+   "es": "sedentario, de escritorio"
+  }
+ ]
 }

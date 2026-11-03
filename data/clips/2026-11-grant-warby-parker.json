@@ -150,5 +150,17 @@
    "e": 80.35
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "disrupt",
+   "en": "to change an established industry in a big way",
+   "es": "revolucionar, trastocar"
+  },
+  {
+   "w": "non-conformists",
+   "en": "people who refuse to follow the usual rules",
+   "es": "inconformistas"
+  }
+ ]
 }

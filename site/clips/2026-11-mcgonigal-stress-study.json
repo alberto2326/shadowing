@@ -4,6 +4,13 @@
  "url": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend",
  "segment": "01:17–02:46 (89 s)",
  "listen_for": "Numbers in a presentation: <i>thirty thousand</i>, <i>forty-three percent</i>, <i>a hundred eighty-two thousand</i> · contrast: <b>not</b> from stress, but from the <b>belief</b> · quoted questions read with question intonation.",
+ "vocab": [
+  {
+   "w": "prematurely",
+   "en": "earlier than is normal or expected",
+   "es": "prematuramente"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

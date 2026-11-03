@@ -192,5 +192,17 @@
    "e": 95.77
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "reinforcement",
+   "en": "something that strengthens a behaviour or idea",
+   "es": "refuerzo"
+  },
+  {
+   "w": "daydream",
+   "en": "to think pleasant thoughts instead of paying attention",
+   "es": "soñar despierto"
+  }
+ ]
 }

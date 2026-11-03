@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days",
  "segment": "01:27–03:04 (97 s)",
  "listen_for": "Big numbers said fast: <i>fifty thousand</i>, <i>sixteen sixty-seven</i> · short punchy sentences: <i>So I did. It's awful.</i> · contrast: <b>small</b>, sustainable changes vs <b>big</b>, crazy challenges.",
+ "vocab": [
+  {
+   "w": "from scratch",
+   "en": "from the very beginning, with nothing prepared",
+   "es": "desde cero"
+  },
+  {
+   "w": "sleep-deprived",
+   "en": "not getting enough sleep",
+   "es": "con falta de sueño"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

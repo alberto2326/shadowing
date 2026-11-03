@@ -132,5 +132,17 @@
    "e": 174.77
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "exceedingly",
+   "en": "extremely",
+   "es": "sumamente, extremadamente"
+  },
+  {
+   "w": "dries up",
+   "en": "stops being available",
+   "es": "se agota, desaparece"
+  }
+ ]
 }

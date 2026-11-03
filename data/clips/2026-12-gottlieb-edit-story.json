@@ -180,5 +180,17 @@
    "e": 325.89
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "extraneous",
+   "en": "not directly related to the subject",
+   "es": "ajeno, irrelevante"
+  },
+  {
+   "w": "protagonist",
+   "en": "the main character in a story",
+   "es": "protagonista"
+  }
+ ]
 }

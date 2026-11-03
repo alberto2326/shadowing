@@ -144,5 +144,22 @@
    "e": 269.99
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "validation",
+   "en": "approval that makes you feel accepted",
+   "es": "validación, aprobación"
+  },
+  {
+   "w": "resilient",
+   "en": "able to recover quickly from difficulties",
+   "es": "resiliente"
+  },
+  {
+   "w": "perseverance",
+   "en": "continuing to try despite difficulty",
+   "es": "perseverancia"
+  }
+ ]
 }

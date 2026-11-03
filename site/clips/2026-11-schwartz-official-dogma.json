@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice",
  "segment": "00:14–01:20 (66 s)",
  "listen_for": "Academic but clear: long sentences broken into short sense groups · parallel structure: <i>the more choice…, the more freedom…, the more welfare…</i> · rising question <i>The official dogma of what?</i>",
+ "vocab": [
+  {
+   "w": "dogma",
+   "en": "a belief that is accepted as true without question",
+   "es": "dogma"
+  },
+  {
+   "w": "embedded",
+   "en": "fixed deeply inside something",
+   "es": "arraigado, incrustado"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

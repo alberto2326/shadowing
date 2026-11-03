@@ -114,5 +114,12 @@
    "e": 76.77
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "cardiovascular",
+   "en": "relating to the heart and blood vessels",
+   "es": "cardiovascular"
+  }
+ ]
 }

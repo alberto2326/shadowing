@@ -120,5 +120,17 @@
    "e": 80.55
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "dogma",
+   "en": "a belief that is accepted as true without question",
+   "es": "dogma"
+  },
+  {
+   "w": "embedded",
+   "en": "fixed deeply inside something",
+   "es": "arraigado, incrustado"
+  }
+ ]
 }

@@ -138,5 +138,17 @@
    "e": 307.15
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "gratification",
+   "en": "the pleasure of getting what you want",
+   "es": "gratificación"
+  },
+  {
+   "w": "spiral",
+   "en": "to get worse and worse, faster and faster",
+   "es": "entrar en espiral"
+  }
+ ]
 }

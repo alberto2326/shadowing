@@ -15,6 +15,8 @@ Habla con Alberto en español (no es técnico: explica sin jerga). Los reproduct
   de Whisper no coinciden, se sigue a los subtítulos). Un clip solo se programa si pasa `verify`.
 - **Variedad**: hombres y mujeres equilibrados, hablantes que no se repitan en días seguidos, temas alternos
   (negocio/marketing, trabajo, psicología y generales; Alberto trabaja en performance marketing).
+- **Vocabulario**: cada clip lleva 1–3 palabras de nivel C1 o superior (`vocab` en la ficha, máximo 4), con definición
+  en inglés y traducción. La web las marca en el texto (explicación al pasar el ratón o tocar) y las lista al final.
 - **Licencia TED** (CC BY-NC-ND): uso no comercial, citar siempre charla y enlace, no alterar el audio.
 - Sin tokens ni credenciales en archivos. Nunca audio de terceros sin licencia que permita publicarlo.
 

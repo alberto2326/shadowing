@@ -120,5 +120,22 @@
    "e": 72.35
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "recalibrate",
+   "en": "to adjust something so it works or feels right again",
+   "es": "reajustar, recalibrar"
+  },
+  {
+   "w": "decidedly",
+   "en": "clearly, without any doubt",
+   "es": "claramente, sin duda"
+  },
+  {
+   "w": "peculiar",
+   "en": "strange in an unusual way",
+   "es": "peculiar, extraño"
+  }
+ ]
 }

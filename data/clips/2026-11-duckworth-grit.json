@@ -138,5 +138,17 @@
    "e": 198.51
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "grit",
+   "en": "courage and determination to keep going when things are hard",
+   "es": "agallas, determinación"
+  },
+  {
+   "w": "stamina",
+   "en": "the energy to keep doing something for a long time",
+   "es": "resistencia, aguante"
+  }
+ ]
 }

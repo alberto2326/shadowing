@@ -3,7 +3,24 @@
  "source": "TED",
  "url": "https://www.ted.com/talks/julia_galef_why_you_think_you_re_right_even_if_you_re_wrong",
  "segment": "01:20–02:32 (72 s)",
- "listen_for": "Storytelling pace with clear stress on narrative turns (<i>but never mind that</i>), and the sarcastic <i>which was highly suspicious, right?</i> (that one is later; here: <i>This just convinced them more…</i>)",
+ "listen_for": "Storytelling pace with clear stress on narrative turns (<i>but never mind that</i>), long sentences broken into thought groups, and <i>discovered / pieced it back together</i> linking",
+ "vocab": [
+  {
+   "w": "wrongdoing",
+   "en": "illegal or immoral behaviour",
+   "es": "fechoría, conducta indebida"
+  },
+  {
+   "w": "converged",
+   "en": "came together at the same point",
+   "es": "convergieron"
+  },
+  {
+   "w": "mindset",
+   "en": "a person's usual way of thinking",
+   "es": "mentalidad"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

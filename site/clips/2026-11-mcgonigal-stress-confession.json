@@ -4,6 +4,13 @@
  "url": "https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend",
  "segment": "00:04–01:16 (73 s)",
  "listen_for": "A warm, steady voice with clear pauses · contrast: change my mind… change <b>yours</b> · contractions: <i>I've, who's, don't</i> — keep them short and linked.",
+ "vocab": [
+  {
+   "w": "cardiovascular",
+   "en": "relating to the heart and blood vessels",
+   "es": "cardiovascular"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

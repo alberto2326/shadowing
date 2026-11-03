@@ -4,6 +4,13 @@
  "url": "https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator",
  "segment": "00:03–02:02 (119 s)",
  "listen_for": "Comic timing: short pauses before the punchline · reduced forms: <i>kind of</i> → “kinda”, <i>going to</i> → “gonna” · stress on numbers: <b>two</b> months, <b>one</b> month, two <b>weeks</b>.",
+ "vocab": [
+  {
+   "w": "all-nighters",
+   "en": "nights spent working or studying without sleeping",
+   "es": "noches en vela (estudiando)"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

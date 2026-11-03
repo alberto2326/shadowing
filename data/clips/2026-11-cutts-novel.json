@@ -156,5 +156,17 @@
    "e": 184.74
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "from scratch",
+   "en": "from the very beginning, with nothing prepared",
+   "es": "desde cero"
+  },
+  {
+   "w": "sleep-deprived",
+   "en": "not getting enough sleep",
+   "es": "con falta de sueño"
+  }
+ ]
 }

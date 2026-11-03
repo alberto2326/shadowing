@@ -174,5 +174,17 @@
    "e": 289.93
   }
  ],
- "verified": "2026-11-02 (forzado: diferencias revisadas, ver notas)"
+ "verified": "2026-11-02 (forzado: diferencias revisadas, ver notas)",
+ "vocab": [
+  {
+   "w": "outliers",
+   "en": "results far away from the average",
+   "es": "valores atípicos"
+  },
+  {
+   "w": "posits",
+   "en": "puts forward an idea as a basis for discussion",
+   "es": "plantea, postula"
+  }
+ ]
 }

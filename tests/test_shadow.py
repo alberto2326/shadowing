@@ -149,3 +149,22 @@ def test_el_repo_real_esta_listo_para_publicar():
     os.environ.pop("SHADOW_ROOT", None)
     mod = importlib.reload(importlib.import_module("shadow"))
     assert mod.problems() == []
+
+
+def test_vocabulario_pocas_palabras_presentes_en_el_texto(S):
+    d = {"lines": ["Now, I want an ex<b>per</b>iment / using the <b>can</b>dle.", "It <b>dulls</b> thinking."]}
+    assert S.vocab_problems(d) == []                                    # sin vocabulario también vale
+    ok = {"w": "experiment", "en": "a test", "es": "experimento"}       # la sílaba fuerte (<b>) no impide encontrarla
+    assert S.vocab_problems({**d, "vocab": [ok, {"w": "dulls", "en": "x", "es": "y"}]}) == []
+    assert S.vocab_problems({**d, "vocab": [{"w": "zebra", "en": "x", "es": "y"}]})        # no está en el texto
+    assert S.vocab_problems({**d, "vocab": [{"w": "dulls", "en": "x"}]})                    # falta la traducción
+    assert S.vocab_problems({**d, "vocab": [ok, ok]})                                       # repetida
+    muchas = [{"w": w, "en": "x", "es": "y"} for w in ("now", "want", "using", "candle", "thinking")]
+    assert S.vocab_problems({**d, "vocab": muchas})                                         # demasiadas
+
+
+def test_clip_data_publica_el_vocabulario(S):
+    d = {"title": "T", "source": "TED", "url": "u", "start": 10.0, "end": 20.0, "cues": [],
+         "vocab": [{"w": "x", "en": "y", "es": "z"}]}
+    assert S.clip_data(d)["vocab"] == d["vocab"]
+    assert S.clip_data({**d, "vocab": []})["vocab"] == []

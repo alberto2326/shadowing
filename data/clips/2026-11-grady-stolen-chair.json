@@ -138,5 +138,17 @@
    "e": 69.69
   }
  ],
- "verified": "2026-11-01 (forzado: diferencias revisadas, ver notas)"
+ "verified": "2026-11-01 (forzado: diferencias revisadas, ver notas)",
+ "vocab": [
+  {
+   "w": "make a stink",
+   "en": "to complain loudly and make a fuss",
+   "es": "armar un escándalo"
+  },
+  {
+   "w": "stand for it",
+   "en": "to accept bad treatment without complaining",
+   "es": "tolerarlo, aguantarlo"
+  }
+ ]
 }

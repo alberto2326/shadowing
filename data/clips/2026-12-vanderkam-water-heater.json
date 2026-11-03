@@ -204,5 +204,17 @@
    "e": 201.95
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "sopping",
+   "en": "completely soaked with water",
+   "es": "empapado"
+  },
+  {
+   "w": "aftermath",
+   "en": "the situation that follows a bad event",
+   "es": "secuelas, consecuencias"
+  }
+ ]
 }

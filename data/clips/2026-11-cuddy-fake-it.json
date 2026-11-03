@@ -144,5 +144,22 @@
    "e": 995.65
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "withdrawn",
+   "en": "quiet and not wanting to talk to other people",
+   "es": "retraído"
+  },
+  {
+   "w": "resonated",
+   "en": "felt true and meaningful to someone",
+   "es": "resonó, conectó"
+  },
+  {
+   "w": "imposter",
+   "en": "someone who pretends to be what they are not",
+   "es": "impostor"
+  }
+ ]
 }

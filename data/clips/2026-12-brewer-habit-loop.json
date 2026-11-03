@@ -198,5 +198,22 @@
    "e": 163.63
   }
  ],
- "verified": "2026-11-02"
+ "verified": "2026-11-02",
+ "vocab": [
+  {
+   "w": "trigger",
+   "en": "something that causes a reaction or behaviour",
+   "es": "desencadenante"
+  },
+  {
+   "w": "urge",
+   "en": "a strong wish to do something",
+   "es": "impulso, ganas"
+  },
+  {
+   "w": "dork",
+   "en": "an awkward, uncool person (informal)",
+   "es": "pringado, bobo"
+  }
+ ]
 }

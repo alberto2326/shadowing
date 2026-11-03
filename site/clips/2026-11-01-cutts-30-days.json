@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days",
  "segment": "00:03–01:26 (83 s)",
  "listen_for": "Clear, relaxed American: falling intonation at the end of each statement · flapped t sounds like a soft d in <i>pretty</i>, <i>started</i>, <i>computer</i> · linking in <i>stuck_in_a rut</i>, <i>try_it</i>, <i>figured_out</i>.",
+ "vocab": [
+  {
+   "w": "rut",
+   "en": "a boring routine that is hard to escape (stuck in a rut)",
+   "es": "rutina estancada"
+  },
+  {
+   "w": "desk-dwelling",
+   "en": "spending most of your time sitting at a desk",
+   "es": "sedentario, de escritorio"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

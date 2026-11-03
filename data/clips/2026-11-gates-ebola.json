@@ -120,5 +120,17 @@
    "e": 150.27
   }
  ],
- "verified": "2026-11-01 (forzado: diferencias revisadas, ver notas)"
+ "verified": "2026-11-01 (forzado: diferencias revisadas, ver notas)",
+ "vocab": [
+  {
+   "w": "orchestrating",
+   "en": "organizing a complex plan so that everything works together",
+   "es": "orquestar, coordinar"
+  },
+  {
+   "w": "epidemiologists",
+   "en": "scientists who study how diseases spread",
+   "es": "epidemiólogos"
+  }
+ ]
 }

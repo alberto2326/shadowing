@@ -174,5 +174,17 @@
    "e": 86.21
   }
  ],
- "verified": "2026-11-01"
+ "verified": "2026-11-01",
+ "vocab": [
+  {
+   "w": "devolve",
+   "en": "to get worse or less developed over time",
+   "es": "degenerar, ir a peor"
+  },
+  {
+   "w": "polarized",
+   "en": "divided into two extreme, opposite groups",
+   "es": "polarizado"
+  }
+ ]
 }

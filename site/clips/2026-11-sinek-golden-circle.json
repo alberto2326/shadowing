@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action",
  "segment": "01:25–02:45 (80 s)",
  "listen_for": "Marketing vocabulary: <i>value proposition, proprietary process, USP</i> · rhythm of short questions: <i>What's your purpose? What's your cause? What's your belief?</i> · contrast stress on <b>what</b> / <b>how</b> / <b>why</b>.",
+ "vocab": [
+  {
+   "w": "differentiating",
+   "en": "showing how something is different from the rest",
+   "es": "diferenciar"
+  },
+  {
+   "w": "proprietary",
+   "en": "owned and controlled by one company",
+   "es": "propietario, exclusivo"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

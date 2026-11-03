@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit",
  "segment": "01:37–02:43 (66 s)",
  "listen_for": "Reported thoughts as direct quotes (<i>“You know what?”</i>), and the repeated pattern <i>See cool, smoke to be cool, feel good. Repeat.</i>",
+ "vocab": [
+  {
+   "w": "trigger",
+   "en": "something that causes a reaction or behaviour",
+   "es": "desencadenante"
+  },
+  {
+   "w": "urge",
+   "en": "a strong wish to do something",
+   "es": "impulso, ganas"
+  },
+  {
+   "w": "dork",
+   "en": "an awkward, uncool person (informal)",
+   "es": "pringado, bobo"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

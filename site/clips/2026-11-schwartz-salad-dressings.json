@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice",
  "segment": "01:20–02:30 (70 s)",
  "listen_for": "Numbers in fast speech: <i>a hundred seventy-five</i>, <i>six and a half million</i> · list intonation: <i>speakers, CD player, tape player, tuner, amplifier</i> · contrast: you <b>rented</b> your phone, you didn't <b>buy</b> it.",
+ "vocab": [
+  {
+   "w": "off-chance",
+   "en": "a very small possibility",
+   "es": "remota posibilidad"
+  },
+  {
+   "w": "on offer",
+   "en": "available to buy or choose",
+   "es": "disponible, en oferta"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

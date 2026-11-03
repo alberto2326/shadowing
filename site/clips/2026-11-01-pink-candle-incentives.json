@@ -4,6 +4,23 @@
  "url": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation",
  "segment": "02:51–04:25 (93 s)",
  "listen_for": "Business storytelling: pauses before the punchline (<i>Question: … Answer: …</i>) · contrast stress: <b>sharpen</b> / <b>accelerate</b> vs <b>dulls</b> / <b>blocks</b> · flapped t in <i>getting</i>, <i>motivator</i>, <i>creativity</i>.",
+ "vocab": [
+  {
+   "w": "incentives",
+   "en": "things that encourage you to do something, like rewards",
+   "es": "incentivos, alicientes"
+  },
+  {
+   "w": "accelerate",
+   "en": "to make something happen faster",
+   "es": "acelerar"
+  },
+  {
+   "w": "dulls",
+   "en": "makes something less sharp or less clear",
+   "es": "embota, apaga"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

@@ -4,6 +4,18 @@
  "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance",
  "segment": "01:39–03:18 (99 s)",
  "listen_for": "Repetition as rhythm: <i>Grit is… Grit is… Grit is…</i> · building lists: <i>not just for the week, not just for the month, but for years</i> · contrast at the end: a <b>marathon</b>, not a <b>sprint</b>.",
+ "vocab": [
+  {
+   "w": "grit",
+   "en": "courage and determination to keep going when things are hard",
+   "es": "agallas, determinación"
+  },
+  {
+   "w": "stamina",
+   "en": "the energy to keep doing something for a long time",
+   "es": "resistencia, aguante"
+  }
+ ],
  "cues": [
   {
    "s": 0.1,

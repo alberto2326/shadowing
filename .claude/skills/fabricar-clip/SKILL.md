@@ -41,6 +41,7 @@ Slug: `AAAA-MM-apellido-tema-corto`. `start`/`end` aproximados (segundos en la c
  "meta": {"hablante": "Nombre Apellido", "charla": "Título", "acento": "Americano general", "tema": "Tema corto en español"},
  "lines": ["<b>Eve</b>rything we do, / we be<b>lieve</b> in <b>chall</b>enging the <b>sta</b>tus quo."],
  "listen_for": "2–3 rasgos en inglés, en HTML",
+ "vocab": [{"w": "status quo", "en": "the existing situation, as it is now", "es": "el statu quo"}],
  "notas": "cómo se verificó el texto y qué diferencias hubo"
 }
 ```
@@ -48,6 +49,11 @@ Slug: `AAAA-MM-apellido-tema-corto`. `start`/`end` aproximados (segundos en la c
 - `<b>…</b>` solo en la **sílaba tónica** de las palabras con más peso; ` / ` donde hay una pausa breve.
   Las terminaciones (-ing, -ed, -ly, -es, -er, -tion, -ment…) **nunca** llevan el acento: `<b>ask</b>ing`,
   `<b>ques</b>tion`, `<b>quick</b>ly` (no `ask<b>ing</b>`). `add` y `check` rechazan ese error.
+- `vocab`: **1–3 palabras o expresiones realmente difíciles (C1 en adelante; máximo 4)** que aparezcan en el
+  texto. `w` es la forma exacta que se oye (`dulls`, no `dull`), `en` una definición corta y sencilla en inglés y `es`
+  la traducción. En la web salen subrayadas con puntos (explicación al pasar el ratón o tocar) y en un bloque al
+  final. Nada de palabras fáciles ni nombres propios; mejor modismos y palabras de nivel alto que se reutilicen.
+  `add` y `check` rechazan palabras que no estén en el texto o fichas incompletas.
 - `listen_for`: formas débiles, palabras que se enlazan, contraste de acento, entonación, *gonna*/*kinda*.
 
 ## 5. Alinear, construir, verificar y programar
