@@ -26,6 +26,10 @@ a.card.small b{font-size:.95rem}
 .fase ol{margin:0;padding-left:1.4em}
 .fase li{margin:.45em 0;line-height:1.4}
 .fase li span{display:block;font-size:.9rem;color:#555}
+.teclas{display:none;font-size:.9rem;color:#444;background:#f0f0ec;border-radius:12px;padding:10px 14px;margin-top:10px}
+.teclas ul{margin:.3em 0 0;padding-left:1.2em}.teclas li{margin:.3em 0}
+.teclas kbd{font:inherit;font-size:.8rem;padding:0 6px;border:1px solid #bbb;border-bottom-width:2px;border-radius:5px;background:#fff}
+@media (hover:hover) and (pointer:fine){.teclas{display:block}}
 .vel{font-size:.9rem;color:#555;background:#fff8e1;border-radius:10px;padding:10px 12px;margin-top:10px}
 details summary{cursor:pointer;color:#666;margin:1.4em 0 .4em}
 </style></head><body>
@@ -54,6 +58,12 @@ details summary{cursor:pointer;color:#666;margin:1.4em 0 .4em}
 </ol>
 </div>
 <div class="vel"><b>¿Va muy rápido?</b> Usa 0.75x y, cuando te salga, vuelve a 1x.</div>
+<div class="teclas"><b>⌨️ En ordenador, con el teclado</b>
+<ul>
+<li><kbd>Espacio</kbd> reproducir / pausar. Con «Pause after each phrase» activado, te da la frase siguiente.</li>
+<li><kbd>←</kbd> <kbd>→</kbd> frase anterior / siguiente</li>
+<li><kbd>R</kbd> oír otra vez la frase · <kbd>P</kbd> pausa tras cada frase · <kbd>H</kbd> ocultar texto · <kbd>S</kbd> cambiar velocidad</li>
+</ul></div>
 </div>
 <h2 id="t-ant" style="display:none">Días anteriores (para repasar)</h2>
 <div id="anteriores"></div>
