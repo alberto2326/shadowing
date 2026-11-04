@@ -1,6 +1,6 @@
 ---
 name: nueva-tanda
-description: Fabrica la tanda de clips de shadowing del mes siguiente (uno por día), la programa y publica la web. Úsala en la tarea programada de los lunes, cuando `shadow.py status` avise de que quedan pocos días o cuando lo pida Alberto.
+description: Fabrica la tanda de clips de shadowing del mes siguiente (uno por día), la programa y publica la web. Úsala en la tarea programada mensual, cuando `shadow.py status` avise de que quedan pocos días o cuando lo pida Alberto.
 ---
 
 # Nueva tanda de clips
@@ -10,7 +10,7 @@ description: Fabrica la tanda de clips de shadowing del mes siguiente (uno por d
 2. `bash tools/setup.sh`. Si falta acceso a ted.com o huggingface.co, **para** y explica qué dominio falta
    (Network access del entorno). No inventes clips ni transcripciones.
 3. `python3 tools/shadow.py status`. Objetivo: que haya clip para cada día **hasta el último día del mes
-   siguiente**. Si ya lo hay (lo normal la mayoría de los lunes), termina aquí sin cambiar nada.
+   siguiente**. Si ya lo hay (lo normal si se ha ejecutado hace poco), termina aquí sin cambiar nada.
 4. Haz la lista de charlas antes de fabricar: solo americano general, mitad hombres y mitad mujeres, temas
    alternos. De una charla puedes sacar 2 clips distintos, pero no en días seguidos. Evita charlas ya usadas en
    los últimos meses (mira `data/clips/`).

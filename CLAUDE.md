@@ -40,8 +40,8 @@ Habla con Alberto en español (no es técnico: explica sin jerga). Los reproduct
 
 ## Automatización
 - Una tarea programada de Claude Code («Shadowing: tanda mensual», creada por Alberto desde la sección de tareas
-  programadas con este repo y su entorno) arranca **cada lunes** una sesión nueva que ejecuta `/nueva-tanda`.
+  programadas con este repo y su entorno) arranca **el día 1 de cada mes** una sesión nueva que ejecuta `/nueva-tanda`.
   Si ya hay clips hasta el final del mes siguiente, no hace nada; si no, fabrica la tanda y publica. Así, si un
-  intento falla, el lunes siguiente lo vuelve a intentar. No depende de ninguna conversación.
+  intento falla, se reintenta al mes siguiente (o se puede lanzar a mano /nueva-tanda). No depende de ninguna conversación.
 - Nada se ejecuta a diario: el cambio de clip lo hace la propia página según la fecha. Si la tanda se acaba, la
   portada avisa y repasa clips anteriores; con menos de 7 días por delante, avisa de que quedan pocos.

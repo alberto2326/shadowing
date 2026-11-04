@@ -43,7 +43,7 @@ Pensado para replicarlo en otra cuenta. Solo hace falta una cuenta de GitHub y C
      mismo Python que se usa después (si se instalan también aquí, pueden acabar en otro Python y fallar).
 5. **Primera tanda**: abre una sesión de Claude Code con el repo y escribe `/nueva-tanda`.
 6. **Automatización**: en Claude Code, crea una tarea programada (sección de tareas programadas) con este repo y
-   este entorno, que se ejecute cada lunes por la mañana con este texto (si la tanda ya está hecha, termina sin hacer nada):
+   este entorno, que se ejecute el día 1 de cada mes por la mañana con este texto (si la tanda ya está hecha, termina sin hacer nada):
    > Ejecuta la skill /nueva-tanda de este repo de principio a fin y publica con `git push origin main`
    > (autorizo el push directo a main). Si la tanda del mes siguiente ya está hecha, no cambies nada.
    > Termina con un resumen de 3–4 líneas en español.
