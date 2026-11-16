@@ -1,0 +1,136 @@
+{
+ "title": "Susan Cain, “The power of introverts” (colegios y oficinas diseñados para extrovertidos)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
+ "segment": "04:24–05:33 (70 s)",
+ "listen_for": "Cain's <b>calm, storytelling rhythm</b>: groups of 3–5 words with a slight pause. Notice the contrast stress in <b>four or five or six or seven</b> and the linking in <i>go off by themselves</i>.",
+ "vocab": [
+  {
+   "w": "gregarious",
+   "en": "enjoying being with other people; sociable",
+   "es": "sociable, gregario"
+  },
+  {
+   "w": "autonomously",
+   "en": "independently, without being controlled by others",
+   "es": "de forma autónoma"
+  },
+  {
+   "w": "outliers",
+   "en": "people or things that are very different from the rest",
+   "es": "atípicos, casos fuera de lo normal"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 3.86,
+   "t": "So the <b>key</b> then to <b>max</b>imizing our <b>tal</b>ents"
+  },
+  {
+   "s": 3.86,
+   "e": 9.38,
+   "t": "is for us <b>all</b> to <b>put</b> ourselves / in the <b>zone</b> of stimu<b>la</b>tion / that is <b>right</b> for us."
+  },
+  {
+   "s": 9.38,
+   "e": 11.6,
+   "t": "But <b>now</b> here's <b>where</b> the <b>bi</b>as comes <b>in</b>."
+  },
+  {
+   "s": 11.6,
+   "e": 15.56,
+   "t": "Our <b>most</b> im<b>por</b>tant insti<b>tu</b>tions, / our <b>schools</b> and our <b>work</b>places,"
+  },
+  {
+   "s": 15.56,
+   "e": 17.54,
+   "t": "they are de<b>signed</b> <b>most</b>ly for <b>ex</b>troverts"
+  },
+  {
+   "s": 17.54,
+   "e": 20.64,
+   "t": "and for <b>ex</b>troverts' <b>need</b> for <b>lots</b> of stimu<b>la</b>tion."
+  },
+  {
+   "s": 20.64,
+   "e": 24.92,
+   "t": "And <b>al</b>so we have this be<b>lief</b> <b>sys</b>tem right <b>now</b>"
+  },
+  {
+   "s": 24.92,
+   "e": 26.3,
+   "t": "that I <b>call</b> the new <b>group</b>think,"
+  },
+  {
+   "s": 26.3,
+   "e": 29.1,
+   "t": "which <b>holds</b> that <b>all</b> crea<b>tiv</b>ity and <b>all</b> produc<b>tiv</b>ity"
+  },
+  {
+   "s": 29.1,
+   "e": 33.72,
+   "t": "comes from a <b>ve</b>ry <b>odd</b>ly gre<b>gar</b>ious <b>place</b>."
+  },
+  {
+   "s": 33.72,
+   "e": 36.94,
+   "t": "So if you <b>pic</b>ture the <b>typ</b>ical <b>class</b>room <b>now</b>adays:"
+  },
+  {
+   "s": 36.94,
+   "e": 39.8,
+   "t": "when I was <b>go</b>ing to <b>school</b>, we <b>sat</b> in <b>rows</b>."
+  },
+  {
+   "s": 39.8,
+   "e": 42.02,
+   "t": "We <b>sat</b> in <b>rows</b> of <b>desks</b> like <b>this</b>,"
+  },
+  {
+   "s": 42.02,
+   "e": 44.94,
+   "t": "and we did <b>most</b> of our <b>work</b> pretty au<b>ton</b>omously."
+  },
+  {
+   "s": 44.94,
+   "e": 48.46,
+   "t": "But <b>now</b>adays, / your <b>typ</b>ical <b>class</b>room has <b>pods</b> of <b>desks</b> --"
+  },
+  {
+   "s": 48.46,
+   "e": 51.62,
+   "t": "<b>four</b> or <b>five</b> or <b>six</b> or <b>sev</b>en <b>kids</b> / all <b>fa</b>cing each <b>oth</b>er."
+  },
+  {
+   "s": 51.62,
+   "e": 53.62,
+   "t": "And <b>kids</b> are <b>work</b>ing in <b>count</b>less <b>group</b> as<b>sign</b>ments."
+  },
+  {
+   "s": 53.62,
+   "e": 55.94,
+   "t": "<b>E</b>ven in <b>sub</b>jects like <b>math</b> and cre<b>a</b>tive <b>writ</b>ing,"
+  },
+  {
+   "s": 55.94,
+   "e": 58.9,
+   "t": "which you <b>think</b> would de<b>pend</b> on <b>so</b>lo <b>flights</b> of <b>thought</b>,"
+  },
+  {
+   "s": 58.9,
+   "e": 63.16,
+   "t": "<b>kids</b> are now ex<b>pec</b>ted to <b>act</b> as com<b>mit</b>tee <b>mem</b>bers."
+  },
+  {
+   "s": 63.16,
+   "e": 66.96,
+   "t": "And for the <b>kids</b> who pre<b>fer</b> to go <b>off</b> by them<b>selves</b> / or just to <b>work</b> a<b>lone</b>,"
+  },
+  {
+   "s": 66.96,
+   "e": 70.35,
+   "t": "those <b>kids</b> are <b>seen</b> as <b>out</b>liers <b>of</b>ten / or, <b>worse</b>, as <b>prob</b>lem <b>cas</b>es."
+  }
+ ]
+}

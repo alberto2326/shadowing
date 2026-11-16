@@ -423,6 +423,132 @@
    "acento": "Americano general (mujer)",
    "tema": "Juicio, decisiones y el caso Dreyfus",
    "duracion": 72
+  },
+  {
+   "fecha": "2026-12-18",
+   "slug": "2026-12-pink-extrinsic-motivators",
+   "hablante": "Dan Pink",
+   "charla": "The puzzle of motivation",
+   "acento": "Americano general (hombre)",
+   "tema": "Motivación y negocio: premios y castigos",
+   "duracion": 77
+  },
+  {
+   "fecha": "2026-12-19",
+   "slug": "2026-12-cain-new-groupthink",
+   "hablante": "Susan Cain",
+   "charla": "The power of introverts",
+   "acento": "Americano general (mujer)",
+   "tema": "Trabajo y psicología: introvertidos y extrovertidos",
+   "duracion": 70
+  },
+  {
+   "fecha": "2026-12-20",
+   "slug": "2026-12-godin-remarkable",
+   "hablante": "Seth Godin",
+   "charla": "How to get your ideas to spread",
+   "acento": "Americano general (hombre)",
+   "tema": "Marketing: por qué hay que ser notable",
+   "duracion": 71
+  },
+  {
+   "fecha": "2026-12-21",
+   "slug": "2026-12-iyengar-jam-experiment",
+   "hablante": "Sheena Iyengar",
+   "charla": "How to make choosing easier",
+   "acento": "Americano general (mujer)",
+   "tema": "Psicología y marketing: demasiadas opciones",
+   "duracion": 110
+  },
+  {
+   "fecha": "2026-12-22",
+   "slug": "2026-12-pink-candle-problems",
+   "hablante": "Dan Pink",
+   "charla": "The puzzle of motivation",
+   "acento": "Americano general (hombre)",
+   "tema": "Trabajo y negocio: tareas creativas y automatización",
+   "duracion": 80
+  },
+  {
+   "fecha": "2026-12-23",
+   "slug": "2026-12-cain-introverted-leaders",
+   "hablante": "Susan Cain",
+   "charla": "The power of introverts",
+   "acento": "Americano general (mujer)",
+   "tema": "Liderazgo y trabajo en equipo",
+   "duracion": 69
+  },
+  {
+   "fecha": "2026-12-24",
+   "slug": "2026-12-gebbia-airbed-and-breakfast",
+   "hablante": "Joe Gebbia",
+   "charla": "How Airbnb designs for trust",
+   "acento": "Americano general (hombre)",
+   "tema": "Negocio: nacimiento de una startup",
+   "duracion": 67
+  },
+  {
+   "fecha": "2026-12-25",
+   "slug": "2026-12-godin-tv-industrial-complex",
+   "hablante": "Seth Godin",
+   "charla": "How to get your ideas to spread",
+   "acento": "Americano general (hombre)",
+   "tema": "Marketing: publicidad y medios de masas",
+   "duracion": 66
+  },
+  {
+   "fecha": "2026-12-26",
+   "slug": "2026-12-hobson-how-did-they-treat-you",
+   "hablante": "Mellody Hobson",
+   "charla": "Color blind or color brave?",
+   "acento": "Americano general (mujer)",
+   "tema": "Trabajo y sociedad: hablar de raza con valentía",
+   "duracion": 63
+  },
+  {
+   "fecha": "2026-12-27",
+   "slug": "2026-12-alter-dogfooding-jobs",
+   "hablante": "Adam Alter",
+   "charla": "Why our screens make us less happy",
+   "acento": "Americano general (hombre)",
+   "tema": "Negocio y tecnología: ¿usan los directivos sus propios productos?",
+   "duracion": 86
+  },
+  {
+   "fecha": "2026-12-28",
+   "slug": "2026-12-hill-leading-innovation",
+   "hablante": "Linda Hill",
+   "charla": "How to manage for collective creativity",
+   "acento": "Americano general (mujer)",
+   "tema": "Negocio: liderazgo e innovación",
+   "duracion": 62
+  },
+  {
+   "fecha": "2026-12-29",
+   "slug": "2026-12-alter-white-space",
+   "hablante": "Adam Alter",
+   "charla": "Why our screens make us less happy",
+   "acento": "Americano general (hombre)",
+   "tema": "Psicología: tiempo personal y pantallas",
+   "duracion": 69
+  },
+  {
+   "fecha": "2026-12-30",
+   "slug": "2026-12-hill-collective-genius",
+   "hablante": "Linda Hill",
+   "charla": "How to manage for collective creativity",
+   "acento": "Americano general (mujer)",
+   "tema": "Trabajo en equipo y creatividad",
+   "duracion": 70
+  },
+  {
+   "fecha": "2026-12-31",
+   "slug": "2026-12-hobson-numbers-do-not-lie",
+   "hablante": "Mellody Hobson",
+   "charla": "Color blind or color brave?",
+   "acento": "Americano general (mujer)",
+   "tema": "Negocio: diversidad y datos en las empresas",
+   "duracion": 76
   }
  ]
 }

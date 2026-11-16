@@ -1,0 +1,156 @@
+{
+ "title": "Susan Cain, “The power of introverts” (los líderes introvertidos y su efecto en el equipo)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
+ "segment": "06:04–07:12 (69 s)",
+ "listen_for": "Cain slows down for the <b>list</b> (<i>Eleanor Roosevelt, Rosa Parks, Gandhi</i>) and stresses <b>all</b> / <b>every</b>. Notice the reduced <i>of</i> in <i>some of our</i> and <i>of ten</i> pronounced <i>offen</i>.",
+ "vocab": [
+  {
+   "w": "outsized",
+   "en": "much bigger than is normal or sensible",
+   "es": "desmesurado, excesivo"
+  },
+  {
+   "w": "unwittingly",
+   "en": "without realizing what you are doing",
+   "es": "sin darse cuenta"
+  },
+  {
+   "w": "bubble up",
+   "en": "to rise gradually to the surface (of ideas, feelings)",
+   "es": "salir a la superficie"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 1.52,
+   "t": "And when it comes to <b>lead</b>ership,"
+  },
+  {
+   "s": 1.52,
+   "e": 4.4,
+   "t": "<b>in</b>troverts are <b>rou</b>tinely <b>passed</b> o<b>ver</b> / for <b>lead</b>ership po<b>si</b>tions,"
+  },
+  {
+   "s": 4.4,
+   "e": 6.36,
+   "t": "<b>e</b>ven though <b>in</b>troverts <b>tend</b> to be <b>ve</b>ry <b>care</b>ful,"
+  },
+  {
+   "s": 6.36,
+   "e": 8.22,
+   "t": "<b>much</b> less <b>like</b>ly to <b>take</b> <b>out</b>sized <b>risks</b> --"
+  },
+  {
+   "s": 8.22,
+   "e": 12.02,
+   "t": "which is <b>some</b>thing we might <b>all</b> <b>fa</b>vor <b>now</b>adays."
+  },
+  {
+   "s": 12.02,
+   "e": 14.84,
+   "t": "And <b>in</b>teresting re<b>search</b> by <b>Ad</b>am <b>Grant</b> at the <b>Whar</b>ton <b>School</b>"
+  },
+  {
+   "s": 14.84,
+   "e": 16.46,
+   "t": "has <b>found</b> that in<b>tro</b>verted <b>lead</b>ers"
+  },
+  {
+   "s": 16.46,
+   "e": 19.76,
+   "t": "<b>of</b>ten de<b>liv</b>er <b>bet</b>ter <b>out</b>comes than <b>ex</b>troverts do,"
+  },
+  {
+   "s": 19.76,
+   "e": 22.76,
+   "t": "be<b>cause</b> when they are <b>man</b>aging pro<b>ac</b>tive em<b>ploy</b>ees,"
+  },
+  {
+   "s": 22.76,
+   "e": 25.78,
+   "t": "they're <b>much</b> more <b>like</b>ly to <b>let</b> those em<b>ploy</b>ees <b>run</b> with their i<b>de</b>as,"
+  },
+  {
+   "s": 25.78,
+   "e": 27.56,
+   "t": "whe<b>re</b>as an <b>ex</b>trovert can, / <b>quite</b> un<b>wit</b>tingly,"
+  },
+  {
+   "s": 27.56,
+   "e": 29.82,
+   "t": "get so ex<b>ci</b>ted a<b>bout</b> things"
+  },
+  {
+   "s": 29.82,
+   "e": 31.56,
+   "t": "that they're <b>put</b>ting their <b>own</b> <b>stamp</b> on things,"
+  },
+  {
+   "s": 31.56,
+   "e": 36.28,
+   "t": "and <b>oth</b>er <b>peo</b>ple's i<b>de</b>as / might <b>not</b> as <b>eas</b>ily then <b>bub</b>ble <b>up</b> to the <b>sur</b>face."
+  },
+  {
+   "s": 36.28,
+   "e": 40.24,
+   "t": "Now in <b>fact</b>, some of our trans<b>for</b>mative <b>lead</b>ers in <b>his</b>tory have been <b>in</b>troverts."
+  },
+  {
+   "s": 40.24,
+   "e": 42.0,
+   "t": "I'll <b>give</b> you some ex<b>am</b>ples."
+  },
+  {
+   "s": 42.0,
+   "e": 44.52,
+   "t": "<b>El</b>eanor <b>Roo</b>sevelt, <b>Ro</b>sa <b>Parks</b>, <b>Gan</b>dhi --"
+  },
+  {
+   "s": 44.52,
+   "e": 48.74,
+   "t": "<b>all</b> these <b>peo</b>ple de<b>scribed</b> them<b>selves</b> as <b>qui</b>et and <b>soft</b>-spoken and <b>e</b>ven <b>shy</b>."
+  },
+  {
+   "s": 48.74,
+   "e": 50.88,
+   "t": "And they <b>all</b> took the <b>spot</b>light,"
+  },
+  {
+   "s": 50.88,
+   "e": 54.12,
+   "t": "<b>e</b>ven though <b>ev</b>ery <b>bone</b> in their <b>bod</b>ies / was <b>tell</b>ing them <b>not</b> to."
+  },
+  {
+   "s": 54.12,
+   "e": 58.28,
+   "t": "And this <b>turns</b> out to have a <b>spe</b>cial <b>pow</b>er all its <b>own</b>,"
+  },
+  {
+   "s": 58.28,
+   "e": 60.52,
+   "t": "be<b>cause</b> <b>peo</b>ple could <b>feel</b> that these <b>lead</b>ers were at the <b>hel</b>m"
+  },
+  {
+   "s": 60.52,
+   "e": 62.62,
+   "t": "<b>not</b> be<b>cause</b> they en<b>joyed</b> di<b>rect</b>ing <b>oth</b>ers"
+  },
+  {
+   "s": 62.62,
+   "e": 64.62,
+   "t": "and <b>not</b> out of the <b>plea</b>sure of being <b>looked</b> at;"
+  },
+  {
+   "s": 64.62,
+   "e": 66.38,
+   "t": "they were <b>there</b> be<b>cause</b> they had <b>no</b> <b>choice</b>,"
+  },
+  {
+   "s": 66.38,
+   "e": 69.11,
+   "t": "be<b>cause</b> they were <b>dri</b>ven to <b>do</b> what they <b>thought</b> was <b>right</b>."
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "slug": "2026-12-pink-extrinsic-motivators",
+ "video_id": "ted-dan_pink_the_puzzle_of_motivation",
+ "title": "Dan Pink, “The puzzle of motivation” (por qué los incentivos no siempre funcionan)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation",
+ "start": 265.46,
+ "end": 342.93,
+ "meta": {
+  "hablante": "Dan Pink",
+  "charla": "The puzzle of motivation",
+  "acento": "Americano general (hombre)",
+  "tema": "Motivación y negocio: premios y castigos"
+ },
+ "lines": [
+  "And <b>what's</b> in<b>ter</b>esting about this ex<b>per</b>iment / is that it's <b>not</b> an aber<b>ra</b>tion.",
+  "This has been <b>rep</b>licated / <b>o</b>ver and <b>o</b>ver and <b>o</b>ver a<b>gain</b> / for <b>near</b>ly 40 <b>years</b>.",
+  "These con<b>tin</b>gent <b>mo</b>tivators --",
+  "if you <b>do</b> this, then you <b>get</b> that --",
+  "<b>work</b> in some <b>cir</b>cumstances,",
+  "but for a <b>lot</b> of <b>tasks</b>, they <b>ac</b>tually <b>ei</b>ther <b>don't</b> work / or <b>of</b>ten they do <b>harm</b>.",
+  "This is <b>one</b> of the most ro<b>bust</b> <b>find</b>ings in <b>so</b>cial <b>sci</b>ence,",
+  "and <b>al</b>so one of the most ig<b>nored</b>.",
+  "I <b>spent</b> the <b>last</b> couple of <b>years</b> / <b>look</b>ing at the <b>sci</b>ence of <b>hu</b>man mo<b>ti</b>vation,",
+  "par<b>tic</b>ularly the dy<b>nam</b>ics of ex<b>trin</b>sic <b>mo</b>tivators and in<b>trin</b>sic <b>mo</b>tivators,",
+  "and I'm <b>tell</b>ing you, / it's <b>not</b> even <b>close</b>.",
+  "If you <b>look</b> at the <b>sci</b>ence, / there is a <b>mis</b>match",
+  "be<b>tween</b> what <b>sci</b>ence <b>knows</b> / and what <b>bus</b>iness <b>does</b>.",
+  "And what's a<b>larm</b>ing here / is that our <b>bus</b>iness <b>op</b>erating <b>sys</b>tem --",
+  "<b>think</b> of the <b>set</b> of as<b>sump</b>tions and <b>pro</b>tocols be<b>neath</b> our <b>bus</b>inesses,",
+  "how we <b>mo</b>tivate <b>peo</b>ple, how we ap<b>ply</b> our <b>hu</b>man <b>re</b>sources --",
+  "it's <b>built</b> en<b>tire</b>ly a<b>round</b> these ex<b>trin</b>sic <b>mo</b>tivators,",
+  "a<b>round</b> <b>car</b>rots and <b>sticks</b>.",
+  "That's <b>ac</b>tually <b>fine</b> for <b>man</b>y kinds of 20th <b>cen</b>tury <b>tasks</b>.",
+  "But for 21st <b>cen</b>tury <b>tasks</b>,",
+  "that me<b>chan</b>istic / re<b>ward</b> and <b>pun</b>ishment ap<b>proach</b>",
+  "<b>does</b>n't <b>work</b>, / <b>of</b>ten <b>does</b>n't <b>work</b>, / and <b>of</b>ten does <b>harm</b>."
+ ],
+ "listen_for": "Pink's <b>rhythm</b>: short punchy phrases, a pause before each key claim. Note <b>over and over and over again</b> (the repeated <i>over</i> builds emphasis) and the weak <i>of</i> in <i>one of the most</i>.",
+ "vocab": [
+  {
+   "w": "aberration",
+   "en": "something unusual that differs from what is normal or expected",
+   "es": "anomalía, excepción"
+  },
+  {
+   "w": "robust",
+   "en": "strong and reliable; hard to disprove",
+   "es": "sólido, robusto"
+  },
+  {
+   "w": "mechanistic",
+   "en": "treating things like machines, with fixed rules and no human flexibility",
+   "es": "mecanicista"
+  }
+ ],
+ "notas": "Whisper coincide con los subtítulos; solo añade «And» al inicio y un «over and» extra en «over and over and over again», que se oye en el audio. Se omite «Let me show you» del final.",
+ "cues": [
+  {
+   "s": 265.16,
+   "t": "And <b>what's</b> in<b>ter</b>esting about this ex<b>per</b>iment / is that it's <b>not</b> an aber<b>ra</b>tion.",
+   "e": 269.0
+  },
+  {
+   "s": 269.0,
+   "t": "This has been <b>rep</b>licated / <b>o</b>ver and <b>o</b>ver and <b>o</b>ver a<b>gain</b> / for <b>near</b>ly 40 <b>years</b>.",
+   "e": 275.24
+  },
+  {
+   "s": 275.24,
+   "t": "These con<b>tin</b>gent <b>mo</b>tivators --",
+   "e": 277.18
+  },
+  {
+   "s": 277.18,
+   "t": "if you <b>do</b> this, then you <b>get</b> that --",
+   "e": 279.9
+  },
+  {
+   "s": 279.9,
+   "t": "<b>work</b> in some <b>cir</b>cumstances,",
+   "e": 281.42
+  },
+  {
+   "s": 281.42,
+   "t": "but for a <b>lot</b> of <b>tasks</b>, they <b>ac</b>tually <b>ei</b>ther <b>don't</b> work / or <b>of</b>ten they do <b>harm</b>.",
+   "e": 288.02
+  },
+  {
+   "s": 288.02,
+   "t": "This is <b>one</b> of the most ro<b>bust</b> <b>find</b>ings in <b>so</b>cial <b>sci</b>ence,",
+   "e": 292.58
+  },
+  {
+   "s": 292.58,
+   "t": "and <b>al</b>so one of the most ig<b>nored</b>.",
+   "e": 296.46
+  },
+  {
+   "s": 296.46,
+   "t": "I <b>spent</b> the <b>last</b> couple of <b>years</b> / <b>look</b>ing at the <b>sci</b>ence of <b>hu</b>man mo<b>ti</b>vation,",
+   "e": 300.2
+  },
+  {
+   "s": 300.2,
+   "t": "par<b>tic</b>ularly the dy<b>nam</b>ics of ex<b>trin</b>sic <b>mo</b>tivators and in<b>trin</b>sic <b>mo</b>tivators,",
+   "e": 304.06
+  },
+  {
+   "s": 304.06,
+   "t": "and I'm <b>tell</b>ing you, / it's <b>not</b> even <b>close</b>.",
+   "e": 306.86
+  },
+  {
+   "s": 306.86,
+   "t": "If you <b>look</b> at the <b>sci</b>ence, / there is a <b>mis</b>match",
+   "e": 308.62
+  },
+  {
+   "s": 308.62,
+   "t": "be<b>tween</b> what <b>sci</b>ence <b>knows</b> / and what <b>bus</b>iness <b>does</b>.",
+   "e": 312.56
+  },
+  {
+   "s": 312.56,
+   "t": "And what's a<b>larm</b>ing here / is that our <b>bus</b>iness <b>op</b>erating <b>sys</b>tem --",
+   "e": 316.0
+  },
+  {
+   "s": 316.0,
+   "t": "<b>think</b> of the <b>set</b> of as<b>sump</b>tions and <b>pro</b>tocols be<b>neath</b> our <b>bus</b>inesses,",
+   "e": 318.72
+  },
+  {
+   "s": 318.72,
+   "t": "how we <b>mo</b>tivate <b>peo</b>ple, how we ap<b>ply</b> our <b>hu</b>man <b>re</b>sources --",
+   "e": 323.6
+  },
+  {
+   "s": 323.6,
+   "t": "it's <b>built</b> en<b>tire</b>ly a<b>round</b> these ex<b>trin</b>sic <b>mo</b>tivators,",
+   "e": 327.16
+  },
+  {
+   "s": 327.16,
+   "t": "a<b>round</b> <b>car</b>rots and <b>sticks</b>.",
+   "e": 328.68
+  },
+  {
+   "s": 328.68,
+   "t": "That's <b>ac</b>tually <b>fine</b> for <b>man</b>y kinds of 20th <b>cen</b>tury <b>tasks</b>.",
+   "e": 332.4
+  },
+  {
+   "s": 332.4,
+   "t": "But for 21st <b>cen</b>tury <b>tasks</b>,",
+   "e": 335.26
+  },
+  {
+   "s": 335.26,
+   "t": "that me<b>chan</b>istic / re<b>ward</b> and <b>pun</b>ishment ap<b>proach</b>",
+   "e": 337.96
+  },
+  {
+   "s": 337.96,
+   "t": "<b>does</b>n't <b>work</b>, / <b>of</b>ten <b>does</b>n't <b>work</b>, / and <b>of</b>ten does <b>harm</b>.",
+   "e": 343.03
+  }
+ ],
+ "verified": "2026-11-16"
+}

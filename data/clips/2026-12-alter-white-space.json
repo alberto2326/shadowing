@@ -1,0 +1,196 @@
+{
+ "slug": "2026-12-alter-white-space",
+ "video_id": "ted-adam_alter_why_our_screens_make_us_less_happy",
+ "title": "Adam Alter, “Why our screens make us less happy” (cuánto tiempo libre nos quitan las pantallas)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/adam_alter_why_our_screens_make_us_less_happy",
+ "start": 128.28,
+ "end": 196.81,
+ "meta": {
+  "hablante": "Adam Alter",
+  "charla": "Why our screens make us less happy",
+  "acento": "Americano general (hombre)",
+  "tema": "Psicología: tiempo personal y pantallas"
+ },
+ "lines": [
+  "And I <b>want</b> to <b>start</b> by <b>just</b> <b>fo</b>cusing on <b>how</b> much <b>time</b> they <b>take</b> from us,",
+  "and then we can <b>talk</b> about what that <b>time</b> <b>looks</b> like.",
+  "So what I'm <b>show</b>ing you <b>here</b> / is the <b>av</b>erage 24-<b>hour</b> <b>work</b>day",
+  "at <b>three</b> <b>dif</b>ferent <b>points</b> in <b>his</b>tory:",
+  "2007 -- 10 years a<b>go</b> -- 2015",
+  "and then <b>da</b>ta that I col<b>lect</b>ed, <b>ac</b>tually, <b>on</b>ly <b>last</b> <b>week</b>.",
+  "And a <b>lot</b> of <b>things</b> <b>have</b>n't <b>changed</b> <b>all</b> that <b>much</b>.",
+  "So we <b>sleep</b> <b>rough</b>ly <b>sev</b>en and a <b>half</b> to <b>eight</b> <b>hours</b> a <b>day</b>;",
+  "some <b>peo</b>ple <b>say</b> that's de<b>clined</b> <b>slight</b>ly, but it <b>has</b>n't <b>changed</b> <b>much</b>.",
+  "We <b>work</b> <b>eight</b> and a <b>half</b> to <b>nine</b> <b>hours</b> a <b>day</b>.",
+  "We en<b>gage</b> in sur<b>viv</b>al ac<b>tiv</b>ities --",
+  "these are <b>things</b> like <b>eat</b>ing and <b>bath</b>ing and <b>look</b>ing af<b>ter</b> <b>kids</b> --",
+  "a<b>bout</b> <b>three</b> <b>hours</b> a <b>day</b>.",
+  "And that <b>leaves</b> this <b>white</b> <b>space</b>.",
+  "That's our <b>per</b>sonal <b>time</b>.",
+  "That <b>space</b> is in<b>cred</b>ibly im<b>por</b>tant to us.",
+  "That's the <b>space</b> where we do <b>things</b> that <b>make</b> us indi<b>vid</b>uals.",
+  "That's where <b>hob</b>bies <b>hap</b>pen, where we have <b>close</b> re<b>la</b>tionships,",
+  "where we <b>real</b>ly <b>think</b> a<b>bout</b> our <b>lives</b>, where we <b>get</b> cre<b>a</b>tive,",
+  "where we <b>zoom</b> <b>back</b> and <b>try</b> to <b>work</b> out",
+  "whe<b>ther</b> our <b>lives</b> have been <b>mean</b>ingful.",
+  "And of <b>course</b>, we <b>get</b> some of that from <b>work</b> as <b>well</b>,",
+  "but when <b>peo</b>ple <b>look</b> <b>back</b> on their <b>lives</b>",
+  "and they <b>won</b>der what their <b>lives</b> have been <b>like</b>",
+  "at the <b>end</b> of their <b>lives</b>,",
+  "you <b>look</b> at the <b>last</b> <b>things</b> they <b>say</b>,",
+  "they are <b>talk</b>ing about those <b>mo</b>ments / that <b>hap</b>pen in that <b>white</b> <b>per</b>sonal <b>space</b>."
+ ],
+ "listen_for": "Alter's <b>numbers and lists</b>: stress each number (<b>seven</b>-and-a-<b>half</b>, <b>eight</b>-and-a-<b>half</b>, <b>three</b>) and keep the <i>where we...</i> repetition rhythmic. Note the contraction <i>hasn't</i> /ˈhæzənt/.",
+ "vocab": [
+  {
+   "w": "zoom back",
+   "en": "to step back and look at the bigger picture",
+   "es": "tomar distancia, ver el panorama general"
+  },
+  {
+   "w": "individuals",
+   "en": "separate, unique people",
+   "es": "individuos"
+  }
+ ],
+ "notas": "Subtítulos humanos contrastados con Whisper; manda el audio (So what I'm showing you; So we sleep; And of course; and they wonder).",
+ "cues": [
+  {
+   "s": 127.98,
+   "t": "And I <b>want</b> to <b>start</b> by <b>just</b> <b>fo</b>cusing on <b>how</b> much <b>time</b> they <b>take</b> from us,",
+   "e": 132.32
+  },
+  {
+   "s": 132.32,
+   "t": "and then we can <b>talk</b> about what that <b>time</b> <b>looks</b> like.",
+   "e": 134.68
+  },
+  {
+   "s": 134.68,
+   "t": "So what I'm <b>show</b>ing you <b>here</b> / is the <b>av</b>erage 24-<b>hour</b> <b>work</b>day",
+   "e": 137.34
+  },
+  {
+   "s": 137.34,
+   "t": "at <b>three</b> <b>dif</b>ferent <b>points</b> in <b>his</b>tory:",
+   "e": 139.92
+  },
+  {
+   "s": 139.92,
+   "t": "2007 -- 10 years a<b>go</b> -- 2015",
+   "e": 143.48
+  },
+  {
+   "s": 143.48,
+   "t": "and then <b>da</b>ta that I col<b>lect</b>ed, <b>ac</b>tually, <b>on</b>ly <b>last</b> <b>week</b>.",
+   "e": 146.58
+  },
+  {
+   "s": 146.58,
+   "t": "And a <b>lot</b> of <b>things</b> <b>have</b>n't <b>changed</b> <b>all</b> that <b>much</b>.",
+   "e": 150.04
+  },
+  {
+   "s": 150.04,
+   "t": "So we <b>sleep</b> <b>rough</b>ly <b>sev</b>en and a <b>half</b> to <b>eight</b> <b>hours</b> a <b>day</b>;",
+   "e": 153.38
+  },
+  {
+   "s": 153.38,
+   "t": "some <b>peo</b>ple <b>say</b> that's de<b>clined</b> <b>slight</b>ly, but it <b>has</b>n't <b>changed</b> <b>much</b>.",
+   "e": 156.6
+  },
+  {
+   "s": 156.6,
+   "t": "We <b>work</b> <b>eight</b> and a <b>half</b> to <b>nine</b> <b>hours</b> a <b>day</b>.",
+   "e": 159.92
+  },
+  {
+   "s": 159.92,
+   "t": "We en<b>gage</b> in sur<b>viv</b>al ac<b>tiv</b>ities --",
+   "e": 161.72
+  },
+  {
+   "s": 161.72,
+   "t": "these are <b>things</b> like <b>eat</b>ing and <b>bath</b>ing and <b>look</b>ing af<b>ter</b> <b>kids</b> --",
+   "e": 164.14
+  },
+  {
+   "s": 164.14,
+   "t": "a<b>bout</b> <b>three</b> <b>hours</b> a <b>day</b>.",
+   "e": 165.84
+  },
+  {
+   "s": 165.84,
+   "t": "And that <b>leaves</b> this <b>white</b> <b>space</b>.",
+   "e": 167.62
+  },
+  {
+   "s": 167.62,
+   "t": "That's our <b>per</b>sonal <b>time</b>.",
+   "e": 168.84
+  },
+  {
+   "s": 168.84,
+   "t": "That <b>space</b> is in<b>cred</b>ibly im<b>por</b>tant to us.",
+   "e": 172.66
+  },
+  {
+   "s": 172.66,
+   "t": "That's the <b>space</b> where we do <b>things</b> that <b>make</b> us indi<b>vid</b>uals.",
+   "e": 175.14
+  },
+  {
+   "s": 175.14,
+   "t": "That's where <b>hob</b>bies <b>hap</b>pen, where we have <b>close</b> re<b>la</b>tionships,",
+   "e": 178.4
+  },
+  {
+   "s": 178.4,
+   "t": "where we <b>real</b>ly <b>think</b> a<b>bout</b> our <b>lives</b>, where we <b>get</b> cre<b>a</b>tive,",
+   "e": 181.28
+  },
+  {
+   "s": 181.28,
+   "t": "where we <b>zoom</b> <b>back</b> and <b>try</b> to <b>work</b> out",
+   "e": 182.94
+  },
+  {
+   "s": 182.94,
+   "t": "whe<b>ther</b> our <b>lives</b> have been <b>mean</b>ingful.",
+   "e": 184.96
+  },
+  {
+   "s": 184.96,
+   "t": "And of <b>course</b>, we <b>get</b> some of that from <b>work</b> as <b>well</b>,",
+   "e": 186.96
+  },
+  {
+   "s": 186.96,
+   "t": "but when <b>peo</b>ple <b>look</b> <b>back</b> on their <b>lives</b>",
+   "e": 188.5
+  },
+  {
+   "s": 188.5,
+   "t": "and they <b>won</b>der what their <b>lives</b> have been <b>like</b>",
+   "e": 190.14
+  },
+  {
+   "s": 190.14,
+   "t": "at the <b>end</b> of their <b>lives</b>,",
+   "e": 191.68
+  },
+  {
+   "s": 191.68,
+   "t": "you <b>look</b> at the <b>last</b> <b>things</b> they <b>say</b>,",
+   "e": 193.22
+  },
+  {
+   "s": 193.22,
+   "t": "they are <b>talk</b>ing about those <b>mo</b>ments / that <b>hap</b>pen in that <b>white</b> <b>per</b>sonal <b>space</b>.",
+   "e": 196.91
+  }
+ ],
+ "verified": "2026-11-16"
+}

@@ -1,0 +1,201 @@
+{
+ "slug": "2026-12-pink-candle-problems",
+ "video_id": "ted-dan_pink_the_puzzle_of_motivation",
+ "title": "Dan Pink, “The puzzle of motivation” (el trabajo creativo y por qué los premios «si haces X, recibes Y» fallan)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation",
+ "start": 418.96,
+ "end": 498.77,
+ "meta": {
+  "hablante": "Dan Pink",
+  "charla": "The puzzle of motivation",
+  "acento": "Americano general (hombre)",
+  "tema": "Trabajo y negocio: tareas creativas y automatización"
+ },
+ "lines": [
+  "In <b>west</b>ern <b>Eu</b>rope, in <b>man</b>y <b>parts</b> of <b>A</b>sia,",
+  "in <b>North</b> A<b>mer</b>ica, in Aus<b>tral</b>ia,",
+  "<b>white</b>-collar <b>work</b>ers are <b>do</b>ing <b>less</b> of this kind of <b>work</b>,",
+  "and <b>more</b> of this kind of <b>work</b>.",
+  "That rou<b>tine</b>, <b>rule</b>-based, <b>left</b>-brain <b>work</b> --",
+  "<b>cer</b>tain <b>kinds</b> of ac<b>count</b>ing, <b>cer</b>tain <b>kinds</b> of fi<b>nan</b>cial a<b>nal</b>ysis,",
+  "<b>cer</b>tain <b>kinds</b> of com<b>put</b>er <b>pro</b>gramming --",
+  "has be<b>come</b> <b>fair</b>ly <b>eas</b>y to <b>out</b>source,",
+  "<b>fair</b>ly <b>eas</b>y to <b>au</b>tomate.",
+  "<b>Soft</b>ware can do it <b>fas</b>ter.",
+  "<b>Low</b>-cost pro<b>vid</b>ers a<b>round</b> the <b>world</b> can do it <b>cheap</b>er.",
+  "So what <b>real</b>ly <b>mat</b>ters",
+  "are the more <b>right</b>-brained, cre<b>a</b>tive, con<b>cep</b>tual kinds of a<b>bil</b>ities.",
+  "<b>Think</b> about your <b>own</b> <b>work</b>.",
+  "<b>Think</b> about your <b>own</b> <b>work</b>.",
+  "Are the <b>prob</b>lems that you <b>face</b>,",
+  "or <b>e</b>ven the <b>prob</b>lems we've been <b>talk</b>ing about <b>here</b>, are those <b>kinds</b> of <b>prob</b>lems,",
+  "do they <b>have</b> a <b>clear</b> <b>set</b> of <b>rules</b> and a <b>sin</b>gle so<b>lu</b>tion?",
+  "<b>No</b>. The <b>rules</b> are <b>mys</b>tifying.",
+  "The so<b>lu</b>tion, if it ex<b>ists</b> at <b>all</b>,",
+  "is sur<b>pris</b>ing and <b>non</b>-<b>ob</b>vious.",
+  "<b>Ev</b>erybody in this <b>room</b>",
+  "is <b>deal</b>ing with their <b>own</b> <b>ver</b>sion of the <b>can</b>dle <b>prob</b>lem.",
+  "And for <b>can</b>dle <b>prob</b>lems of <b>an</b>y <b>kind</b>, in <b>an</b>y <b>field</b>,",
+  "those <b>if</b>-<b>then</b> re<b>wards</b>,",
+  "the <b>things</b> a<b>round</b> which we've <b>built</b> so <b>man</b>y of our <b>bus</b>inesses,",
+  "<b>don't</b> <b>work</b>!"
+ ],
+ "listen_for": "Pink's <b>contrasts</b>: <b>less</b> of this kind of work / <b>more</b> of this kind of work, and <b>left</b>-brain vs <b>right</b>-brained. Notice the stress on <b>don't work</b> at the end: both words are loud and slow.",
+ "vocab": [
+  {
+   "w": "outsource",
+   "en": "to pay another company or person to do work for you",
+   "es": "externalizar, subcontratar"
+  },
+  {
+   "w": "mystifying",
+   "en": "very difficult to understand; puzzling",
+   "es": "desconcertante"
+  },
+  {
+   "w": "conceptual",
+   "en": "based on ideas rather than on practical things",
+   "es": "conceptual"
+  }
+ ],
+ "notas": "Subtítulos humanos contrastados con Whisper; manda el audio: «certain kinds of» tres veces, «providers around the world», «non-obvious», y «Think about your own work» dicho dos veces. Diferencias restantes de grafía (right-brain/-brained) revisadas.",
+ "cues": [
+  {
+   "s": 418.66,
+   "t": "In <b>west</b>ern <b>Eu</b>rope, in <b>man</b>y <b>parts</b> of <b>A</b>sia,",
+   "e": 422.98
+  },
+  {
+   "s": 422.98,
+   "t": "in <b>North</b> A<b>mer</b>ica, in Aus<b>tral</b>ia,",
+   "e": 425.76
+  },
+  {
+   "s": 425.76,
+   "t": "<b>white</b>-collar <b>work</b>ers are <b>do</b>ing <b>less</b> of this kind of <b>work</b>,",
+   "e": 429.18
+  },
+  {
+   "s": 429.18,
+   "t": "and <b>more</b> of this kind of <b>work</b>.",
+   "e": 432.86
+  },
+  {
+   "s": 432.86,
+   "t": "That rou<b>tine</b>, <b>rule</b>-based, <b>left</b>-brain <b>work</b> --",
+   "e": 436.48
+  },
+  {
+   "s": 436.48,
+   "t": "<b>cer</b>tain <b>kinds</b> of ac<b>count</b>ing, <b>cer</b>tain <b>kinds</b> of fi<b>nan</b>cial a<b>nal</b>ysis,",
+   "e": 439.14
+  },
+  {
+   "s": 439.14,
+   "t": "<b>cer</b>tain <b>kinds</b> of com<b>put</b>er <b>pro</b>gramming --",
+   "e": 440.34
+  },
+  {
+   "s": 440.34,
+   "t": "has be<b>come</b> <b>fair</b>ly <b>eas</b>y to <b>out</b>source,",
+   "e": 442.98
+  },
+  {
+   "s": 442.98,
+   "t": "<b>fair</b>ly <b>eas</b>y to <b>au</b>tomate.",
+   "e": 445.26
+  },
+  {
+   "s": 445.26,
+   "t": "<b>Soft</b>ware can do it <b>fas</b>ter.",
+   "e": 447.34
+  },
+  {
+   "s": 447.34,
+   "t": "<b>Low</b>-cost pro<b>vid</b>ers a<b>round</b> the <b>world</b> can do it <b>cheap</b>er.",
+   "e": 449.52
+  },
+  {
+   "s": 449.52,
+   "t": "So what <b>real</b>ly <b>mat</b>ters",
+   "e": 450.72
+  },
+  {
+   "s": 450.72,
+   "t": "are the more <b>right</b>-brained, cre<b>a</b>tive, con<b>cep</b>tual kinds of a<b>bil</b>ities.",
+   "e": 457.22
+  },
+  {
+   "s": 457.22,
+   "t": "<b>Think</b> about your <b>own</b> <b>work</b>.",
+   "e": 459.68
+  },
+  {
+   "s": 459.68,
+   "t": "<b>Think</b> about your <b>own</b> <b>work</b>.",
+   "e": 462.42
+  },
+  {
+   "s": 462.42,
+   "t": "Are the <b>prob</b>lems that you <b>face</b>,",
+   "e": 463.76
+  },
+  {
+   "s": 463.76,
+   "t": "or <b>e</b>ven the <b>prob</b>lems we've been <b>talk</b>ing about <b>here</b>, are those <b>kinds</b> of <b>prob</b>lems,",
+   "e": 467.52
+  },
+  {
+   "s": 467.52,
+   "t": "do they <b>have</b> a <b>clear</b> <b>set</b> of <b>rules</b> and a <b>sin</b>gle so<b>lu</b>tion?",
+   "e": 470.9
+  },
+  {
+   "s": 470.9,
+   "t": "<b>No</b>. The <b>rules</b> are <b>mys</b>tifying.",
+   "e": 473.54
+  },
+  {
+   "s": 473.54,
+   "t": "The so<b>lu</b>tion, if it ex<b>ists</b> at <b>all</b>,",
+   "e": 475.42
+  },
+  {
+   "s": 475.42,
+   "t": "is sur<b>pris</b>ing and <b>non</b>-<b>ob</b>vious.",
+   "e": 478.56
+  },
+  {
+   "s": 478.56,
+   "t": "<b>Ev</b>erybody in this <b>room</b>",
+   "e": 480.56
+  },
+  {
+   "s": 480.56,
+   "t": "is <b>deal</b>ing with their <b>own</b> <b>ver</b>sion of the <b>can</b>dle <b>prob</b>lem.",
+   "e": 484.96
+  },
+  {
+   "s": 484.96,
+   "t": "And for <b>can</b>dle <b>prob</b>lems of <b>an</b>y <b>kind</b>, in <b>an</b>y <b>field</b>,",
+   "e": 490.32
+  },
+  {
+   "s": 490.32,
+   "t": "those <b>if</b>-<b>then</b> re<b>wards</b>,",
+   "e": 493.32
+  },
+  {
+   "s": 493.32,
+   "t": "the <b>things</b> a<b>round</b> which we've <b>built</b> so <b>man</b>y of our <b>bus</b>inesses,",
+   "e": 496.62
+  },
+  {
+   "s": 496.62,
+   "t": "<b>don't</b> <b>work</b>!",
+   "e": 498.87
+  }
+ ],
+ "verified": "2026-11-16"
+}

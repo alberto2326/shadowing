@@ -1,0 +1,195 @@
+{
+ "slug": "2026-12-cain-introverted-leaders",
+ "video_id": "ted-susan_cain_the_power_of_introverts",
+ "title": "Susan Cain, “The power of introverts” (los líderes introvertidos y su efecto en el equipo)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
+ "start": 364.12,
+ "end": 432.73,
+ "meta": {
+  "hablante": "Susan Cain",
+  "charla": "The power of introverts",
+  "acento": "Americano general (mujer)",
+  "tema": "Liderazgo y trabajo en equipo"
+ },
+ "lines": [
+  "And when it comes to <b>lead</b>ership,",
+  "<b>in</b>troverts are <b>rou</b>tinely <b>passed</b> o<b>ver</b> / for <b>lead</b>ership po<b>si</b>tions,",
+  "<b>e</b>ven though <b>in</b>troverts <b>tend</b> to be <b>ve</b>ry <b>care</b>ful,",
+  "<b>much</b> less <b>like</b>ly to <b>take</b> <b>out</b>sized <b>risks</b> --",
+  "which is <b>some</b>thing we might <b>all</b> <b>fa</b>vor <b>now</b>adays.",
+  "And <b>in</b>teresting re<b>search</b> by <b>Ad</b>am <b>Grant</b> at the <b>Whar</b>ton <b>School</b>",
+  "has <b>found</b> that in<b>tro</b>verted <b>lead</b>ers",
+  "<b>of</b>ten de<b>liv</b>er <b>bet</b>ter <b>out</b>comes than <b>ex</b>troverts do,",
+  "be<b>cause</b> when they are <b>man</b>aging pro<b>ac</b>tive em<b>ploy</b>ees,",
+  "they're <b>much</b> more <b>like</b>ly to <b>let</b> those em<b>ploy</b>ees <b>run</b> with their i<b>de</b>as,",
+  "whe<b>re</b>as an <b>ex</b>trovert can, / <b>quite</b> un<b>wit</b>tingly,",
+  "get so ex<b>ci</b>ted a<b>bout</b> things",
+  "that they're <b>put</b>ting their <b>own</b> <b>stamp</b> on things,",
+  "and <b>oth</b>er <b>peo</b>ple's i<b>de</b>as / might <b>not</b> as <b>eas</b>ily then <b>bub</b>ble <b>up</b> to the <b>sur</b>face.",
+  "Now in <b>fact</b>, some of our trans<b>for</b>mative <b>lead</b>ers in <b>his</b>tory have been <b>in</b>troverts.",
+  "I'll <b>give</b> you some ex<b>am</b>ples.",
+  "<b>El</b>eanor <b>Roo</b>sevelt, <b>Ro</b>sa <b>Parks</b>, <b>Gan</b>dhi --",
+  "<b>all</b> these <b>peo</b>ple de<b>scribed</b> them<b>selves</b> as <b>qui</b>et and <b>soft</b>-spoken and <b>e</b>ven <b>shy</b>.",
+  "And they <b>all</b> took the <b>spot</b>light,",
+  "<b>e</b>ven though <b>ev</b>ery <b>bone</b> in their <b>bod</b>ies / was <b>tell</b>ing them <b>not</b> to.",
+  "And this <b>turns</b> out to have a <b>spe</b>cial <b>pow</b>er all its <b>own</b>,",
+  "be<b>cause</b> <b>peo</b>ple could <b>feel</b> that these <b>lead</b>ers were at the <b>hel</b>m",
+  "<b>not</b> be<b>cause</b> they en<b>joyed</b> di<b>rect</b>ing <b>oth</b>ers",
+  "and <b>not</b> out of the <b>plea</b>sure of being <b>looked</b> at;",
+  "they were <b>there</b> be<b>cause</b> they had <b>no</b> <b>choice</b>,",
+  "be<b>cause</b> they were <b>dri</b>ven to <b>do</b> what they <b>thought</b> was <b>right</b>."
+ ],
+ "listen_for": "Cain slows down for the <b>list</b> (<i>Eleanor Roosevelt, Rosa Parks, Gandhi</i>) and stresses <b>all</b> / <b>every</b>. Notice the reduced <i>of</i> in <i>some of our</i> and <i>of ten</i> pronounced <i>offen</i>.",
+ "vocab": [
+  {
+   "w": "outsized",
+   "en": "much bigger than is normal or sensible",
+   "es": "desmesurado, excesivo"
+  },
+  {
+   "w": "unwittingly",
+   "en": "without realizing what you are doing",
+   "es": "sin darse cuenta"
+  },
+  {
+   "w": "bubble up",
+   "en": "to rise gradually to the surface (of ideas, feelings)",
+   "es": "salir a la superficie"
+  }
+ ],
+ "notas": "Texto de los subtítulos humanos; contrastado con Whisper (words y verify).",
+ "cues": [
+  {
+   "s": 363.82,
+   "t": "And when it comes to <b>lead</b>ership,",
+   "e": 365.24
+  },
+  {
+   "s": 365.24,
+   "t": "<b>in</b>troverts are <b>rou</b>tinely <b>passed</b> o<b>ver</b> / for <b>lead</b>ership po<b>si</b>tions,",
+   "e": 368.12
+  },
+  {
+   "s": 368.12,
+   "t": "<b>e</b>ven though <b>in</b>troverts <b>tend</b> to be <b>ve</b>ry <b>care</b>ful,",
+   "e": 370.08
+  },
+  {
+   "s": 370.08,
+   "t": "<b>much</b> less <b>like</b>ly to <b>take</b> <b>out</b>sized <b>risks</b> --",
+   "e": 371.94
+  },
+  {
+   "s": 371.94,
+   "t": "which is <b>some</b>thing we might <b>all</b> <b>fa</b>vor <b>now</b>adays.",
+   "e": 375.74
+  },
+  {
+   "s": 375.74,
+   "t": "And <b>in</b>teresting re<b>search</b> by <b>Ad</b>am <b>Grant</b> at the <b>Whar</b>ton <b>School</b>",
+   "e": 378.56
+  },
+  {
+   "s": 378.56,
+   "t": "has <b>found</b> that in<b>tro</b>verted <b>lead</b>ers",
+   "e": 380.18
+  },
+  {
+   "s": 380.18,
+   "t": "<b>of</b>ten de<b>liv</b>er <b>bet</b>ter <b>out</b>comes than <b>ex</b>troverts do,",
+   "e": 383.48
+  },
+  {
+   "s": 383.48,
+   "t": "be<b>cause</b> when they are <b>man</b>aging pro<b>ac</b>tive em<b>ploy</b>ees,",
+   "e": 386.48
+  },
+  {
+   "s": 386.48,
+   "t": "they're <b>much</b> more <b>like</b>ly to <b>let</b> those em<b>ploy</b>ees <b>run</b> with their i<b>de</b>as,",
+   "e": 389.5
+  },
+  {
+   "s": 389.5,
+   "t": "whe<b>re</b>as an <b>ex</b>trovert can, / <b>quite</b> un<b>wit</b>tingly,",
+   "e": 391.28
+  },
+  {
+   "s": 391.28,
+   "t": "get so ex<b>ci</b>ted a<b>bout</b> things",
+   "e": 393.54
+  },
+  {
+   "s": 393.54,
+   "t": "that they're <b>put</b>ting their <b>own</b> <b>stamp</b> on things,",
+   "e": 395.28
+  },
+  {
+   "s": 395.28,
+   "t": "and <b>oth</b>er <b>peo</b>ple's i<b>de</b>as / might <b>not</b> as <b>eas</b>ily then <b>bub</b>ble <b>up</b> to the <b>sur</b>face.",
+   "e": 400.0
+  },
+  {
+   "s": 400.0,
+   "t": "Now in <b>fact</b>, some of our trans<b>for</b>mative <b>lead</b>ers in <b>his</b>tory have been <b>in</b>troverts.",
+   "e": 403.96
+  },
+  {
+   "s": 403.96,
+   "t": "I'll <b>give</b> you some ex<b>am</b>ples.",
+   "e": 405.72
+  },
+  {
+   "s": 405.72,
+   "t": "<b>El</b>eanor <b>Roo</b>sevelt, <b>Ro</b>sa <b>Parks</b>, <b>Gan</b>dhi --",
+   "e": 408.24
+  },
+  {
+   "s": 408.24,
+   "t": "<b>all</b> these <b>peo</b>ple de<b>scribed</b> them<b>selves</b> as <b>qui</b>et and <b>soft</b>-spoken and <b>e</b>ven <b>shy</b>.",
+   "e": 412.46
+  },
+  {
+   "s": 412.46,
+   "t": "And they <b>all</b> took the <b>spot</b>light,",
+   "e": 414.6
+  },
+  {
+   "s": 414.6,
+   "t": "<b>e</b>ven though <b>ev</b>ery <b>bone</b> in their <b>bod</b>ies / was <b>tell</b>ing them <b>not</b> to.",
+   "e": 417.84
+  },
+  {
+   "s": 417.84,
+   "t": "And this <b>turns</b> out to have a <b>spe</b>cial <b>pow</b>er all its <b>own</b>,",
+   "e": 422.0
+  },
+  {
+   "s": 422.0,
+   "t": "be<b>cause</b> <b>peo</b>ple could <b>feel</b> that these <b>lead</b>ers were at the <b>hel</b>m",
+   "e": 424.24
+  },
+  {
+   "s": 424.24,
+   "t": "<b>not</b> be<b>cause</b> they en<b>joyed</b> di<b>rect</b>ing <b>oth</b>ers",
+   "e": 426.34
+  },
+  {
+   "s": 426.34,
+   "t": "and <b>not</b> out of the <b>plea</b>sure of being <b>looked</b> at;",
+   "e": 428.34
+  },
+  {
+   "s": 428.34,
+   "t": "they were <b>there</b> be<b>cause</b> they had <b>no</b> <b>choice</b>,",
+   "e": 430.1
+  },
+  {
+   "s": 430.1,
+   "t": "be<b>cause</b> they were <b>dri</b>ven to <b>do</b> what they <b>thought</b> was <b>right</b>.",
+   "e": 432.83
+  }
+ ],
+ "verified": "2026-11-16"
+}

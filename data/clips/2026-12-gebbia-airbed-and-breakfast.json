@@ -1,0 +1,183 @@
+{
+ "slug": "2026-12-gebbia-airbed-and-breakfast",
+ "video_id": "ted-joe_gebbia_how_airbnb_designs_for_trust",
+ "title": "Joe Gebbia, “How Airbnb designs for trust” (cómo nació «Airbed and Breakfast»)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust",
+ "start": 148.94,
+ "end": 216.11,
+ "meta": {
+  "hablante": "Joe Gebbia",
+  "charla": "How Airbnb designs for trust",
+  "acento": "Americano general (hombre)",
+  "tema": "Negocio: nacimiento de una startup"
+ },
+ "lines": [
+  "So <b>now</b> it's <b>two</b> years <b>la</b>ter.",
+  "I'm un<b>em</b>ployed, I'm <b>al</b>most <b>broke</b>,",
+  "my <b>room</b>mate <b>moves</b> out, / and then the <b>rent</b> goes <b>up</b>.",
+  "And then I <b>learn</b> there's a de<b>sign</b> <b>con</b>ference <b>com</b>ing to <b>town</b>,",
+  "and <b>all</b> the ho<b>tels</b> are <b>sold</b> out.",
+  "And I've <b>al</b>ways be<b>lieved</b> that <b>turn</b>ing <b>fear</b> into <b>fun</b>",
+  "is the <b>gift</b> of crea<b>tiv</b>ity.",
+  "So <b>here's</b> what I <b>pitch</b> my <b>best</b> <b>friend</b> / and my <b>new</b> <b>room</b>mate, <b>Bri</b>an <b>Ches</b>ky:",
+  "<b>Bri</b>an <b>thought</b> of a <b>way</b> to make a few <b>bucks</b>,",
+  "<b>turn</b>ing our <b>place</b> into de<b>sign</b>er's <b>bed</b> and <b>break</b>fast,",
+  "<b>of</b>fering de<b>sign</b>ers to <b>come</b> to <b>town</b>, a <b>place</b> to <b>crash</b>,",
+  "com<b>plete</b> with <b>wire</b>less <b>In</b>ternet, a <b>small</b> <b>desk</b> space,",
+  "<b>sleep</b>ing <b>mat</b>, and <b>break</b>fast each <b>morn</b>ing.",
+  "<b>Ha</b>!\"",
+  "We <b>built</b> a <b>ba</b>sic <b>web</b>site / and <b>Air</b>bed and <b>Break</b>fast was <b>born</b>.",
+  "<b>Three</b> <b>luck</b>y <b>guests</b> got to <b>stay</b>",
+  "on a 20-<b>dol</b>lar <b>air</b>bed on the <b>hard</b>wood <b>floor</b>.",
+  "But they <b>loved</b> it, and so did <b>we</b>.",
+  "I <b>swear</b>, the <b>ham</b> and <b>Swiss</b> <b>cheese</b> <b>om</b>elets we <b>made</b>",
+  "<b>tast</b>ed <b>to</b>tally <b>dif</b>ferent / be<b>cause</b> we <b>made</b> them for our <b>guests</b>.",
+  "We <b>took</b> them on ad<b>ven</b>tures a<b>round</b> the <b>cit</b>y,",
+  "and when we <b>said</b> good<b>bye</b> to the <b>last</b> <b>guest</b>,",
+  "the <b>door</b> <b>latch</b> <b>clicked</b>,",
+  "<b>Bri</b>an and I just <b>stared</b> at each <b>oth</b>er."
+ ],
+ "listen_for": "Gebbia's <b>lively storytelling</b>: quick, informal phrases (<i>thought of a way to make a few bucks</i>) with a laugh in the voice. Notice the stress on <b>three</b> lucky guests and the weak <i>and</i> in <i>ham and Swiss cheese</i>.",
+ "vocab": [
+  {
+   "w": "broke",
+   "en": "having no money at all",
+   "es": "sin un duro"
+  },
+  {
+   "w": "bucks",
+   "en": "dollars (informal)",
+   "es": "pavos, dólares"
+  },
+  {
+   "w": "crash",
+   "en": "to sleep somewhere for a short time, informally",
+   "es": "quedarse a dormir"
+  }
+ ],
+ "notas": "Subtítulos humanos contrastados con Whisper; manda el audio (designer's, offering designers to come to town). Las dos pasadas discrepan en pitch/pitched y la segunda escribe «air bed»: se sigue a los subtítulos. Diferencias de grafía revisadas (verify --force).",
+ "cues": [
+  {
+   "s": 148.64,
+   "t": "So <b>now</b> it's <b>two</b> years <b>la</b>ter.",
+   "e": 150.46
+  },
+  {
+   "s": 150.46,
+   "t": "I'm un<b>em</b>ployed, I'm <b>al</b>most <b>broke</b>,",
+   "e": 153.42
+  },
+  {
+   "s": 153.42,
+   "t": "my <b>room</b>mate <b>moves</b> out, / and then the <b>rent</b> goes <b>up</b>.",
+   "e": 157.66
+  },
+  {
+   "s": 157.66,
+   "t": "And then I <b>learn</b> there's a de<b>sign</b> <b>con</b>ference <b>com</b>ing to <b>town</b>,",
+   "e": 160.24
+  },
+  {
+   "s": 160.24,
+   "t": "and <b>all</b> the ho<b>tels</b> are <b>sold</b> out.",
+   "e": 162.3
+  },
+  {
+   "s": 162.3,
+   "t": "And I've <b>al</b>ways be<b>lieved</b> that <b>turn</b>ing <b>fear</b> into <b>fun</b>",
+   "e": 165.74
+  },
+  {
+   "s": 165.74,
+   "t": "is the <b>gift</b> of crea<b>tiv</b>ity.",
+   "e": 167.88
+  },
+  {
+   "s": 167.88,
+   "t": "So <b>here's</b> what I <b>pitched</b> my <b>best</b> <b>friend</b> / and my <b>new</b> <b>room</b>mate, <b>Bri</b>an <b>Ches</b>ky:",
+   "e": 173.56
+  },
+  {
+   "s": 173.56,
+   "t": "<b>Bri</b>an <b>thought</b> of a <b>way</b> to make a few <b>bucks</b>,",
+   "e": 175.84
+  },
+  {
+   "s": 175.84,
+   "t": "<b>turn</b>ing our <b>place</b> into de<b>sign</b>er's <b>bed</b> and <b>break</b>fast,",
+   "e": 178.12
+  },
+  {
+   "s": 178.12,
+   "t": "<b>of</b>fering de<b>sign</b>ers to <b>come</b> to <b>town</b>, a <b>place</b> to <b>crash</b>,",
+   "e": 180.7
+  },
+  {
+   "s": 180.7,
+   "t": "com<b>plete</b> with <b>wire</b>less <b>In</b>ternet, a <b>small</b> <b>desk</b> space,",
+   "e": 183.22
+  },
+  {
+   "s": 183.22,
+   "t": "<b>sleep</b>ing <b>mat</b>, and <b>break</b>fast each <b>morn</b>ing.",
+   "e": 185.14
+  },
+  {
+   "s": 185.14,
+   "t": "<b>Ha</b>!\"",
+   "e": 187.84
+  },
+  {
+   "s": 187.84,
+   "t": "We <b>built</b> a <b>ba</b>sic <b>web</b>site / and <b>Air</b>bed and <b>Break</b>fast was <b>born</b>.",
+   "e": 192.24
+  },
+  {
+   "s": 192.24,
+   "t": "<b>Three</b> <b>luck</b>y <b>guests</b> got to <b>stay</b>",
+   "e": 194.54
+  },
+  {
+   "s": 194.54,
+   "t": "on a 20-<b>dol</b>lar <b>air</b>bed on the <b>hard</b>wood <b>floor</b>.",
+   "e": 196.68
+  },
+  {
+   "s": 196.68,
+   "t": "But they <b>loved</b> it, and so did <b>we</b>.",
+   "e": 200.38
+  },
+  {
+   "s": 200.38,
+   "t": "I <b>swear</b>, the <b>ham</b> and <b>Swiss</b> <b>cheese</b> <b>om</b>elets we <b>made</b>",
+   "e": 202.82
+  },
+  {
+   "s": 202.82,
+   "t": "<b>tast</b>ed <b>to</b>tally <b>dif</b>ferent / be<b>cause</b> we <b>made</b> them for our <b>guests</b>.",
+   "e": 206.78
+  },
+  {
+   "s": 206.78,
+   "t": "We <b>took</b> them on ad<b>ven</b>tures a<b>round</b> the <b>cit</b>y,",
+   "e": 209.14
+  },
+  {
+   "s": 209.14,
+   "t": "and when we <b>said</b> good<b>bye</b> to the <b>last</b> <b>guest</b>,",
+   "e": 211.86
+  },
+  {
+   "s": 211.86,
+   "t": "the <b>door</b> <b>latch</b> <b>clicked</b>,",
+   "e": 214.5
+  },
+  {
+   "s": 214.5,
+   "t": "<b>Bri</b>an and I just <b>stared</b> at each <b>oth</b>er.",
+   "e": 216.21
+  }
+ ],
+ "verified": "2026-11-16 (forzado: diferencias revisadas, ver notas)"
+}

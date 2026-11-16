@@ -1,0 +1,161 @@
+{
+ "title": "Mellody Hobson, “Color blind or color brave?” (los datos de diversidad en los consejos de administración)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave",
+ "segment": "03:14–04:30 (76 s)",
+ "listen_for": "Hobson's <b>numbers and contrasts</b>: <b>30</b> percent vs <b>70</b> percent; she slows down on <b>thousands</b>, <b>thousands</b> and on <b>weird</b>. Notice the reduced <i>of</i> and the linking in <i>one of them</i>.",
+ "vocab": [
+  {
+   "w": "disparities",
+   "en": "differences between groups that are unfair or unequal",
+   "es": "disparidades"
+  },
+  {
+   "w": "quantifiable",
+   "en": "able to be measured and expressed as a number",
+   "es": "cuantificable"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 1.62,
+   "t": "But I <b>work</b> in the in<b>vest</b>ment <b>bus</b>iness,"
+  },
+  {
+   "s": 1.62,
+   "e": 3.18,
+   "t": "and we <b>have</b> a <b>say</b>ing:"
+  },
+  {
+   "s": 3.18,
+   "e": 5.34,
+   "t": "The <b>num</b>bers do <b>not</b> <b>lie</b>."
+  },
+  {
+   "s": 5.34,
+   "e": 8.42,
+   "t": "And <b>here</b>, there are sig<b>nif</b>icant,"
+  },
+  {
+   "s": 8.42,
+   "e": 10.16,
+   "t": "<b>quan</b>tifiable <b>ra</b>cial dis<b>par</b>ities"
+  },
+  {
+   "s": 10.16,
+   "e": 11.7,
+   "t": "that <b>can</b>not be ig<b>nored</b>,"
+  },
+  {
+   "s": 11.7,
+   "e": 15.92,
+   "t": "in <b>house</b>hold <b>wealth</b>, <b>house</b>hold <b>in</b>come,"
+  },
+  {
+   "s": 15.92,
+   "e": 18.74,
+   "t": "job oppor<b>tun</b>ities, <b>health</b>care."
+  },
+  {
+   "s": 18.74,
+   "e": 21.24,
+   "t": "One ex<b>am</b>ple from <b>cor</b>porate A<b>mer</b>ica:"
+  },
+  {
+   "s": 21.24,
+   "e": 23.16,
+   "t": "<b>E</b>ven though <b>white</b> <b>men</b>"
+  },
+  {
+   "s": 23.16,
+   "e": 27.4,
+   "t": "make <b>up</b> just 30 per<b>cent</b> of the U.S. popu<b>la</b>tion,"
+  },
+  {
+   "s": 27.4,
+   "e": 31.68,
+   "t": "they <b>hold</b> 70 per<b>cent</b> of <b>all</b> <b>cor</b>porate <b>board</b> <b>seats</b>."
+  },
+  {
+   "s": 31.68,
+   "e": 34.0,
+   "t": "Of the <b>For</b>tune 250,"
+  },
+  {
+   "s": 34.0,
+   "e": 37.62,
+   "t": "there are <b>on</b>ly <b>sev</b>en <b>CEOs</b> that are mi<b>nor</b>ities,"
+  },
+  {
+   "s": 37.62,
+   "e": 41.84,
+   "t": "and of the <b>thou</b>sands of <b>pub</b>licly <b>trad</b>ed <b>com</b>panies to<b>day</b>, <b>thou</b>sands,"
+  },
+  {
+   "s": 41.84,
+   "e": 44.7,
+   "t": "<b>on</b>ly <b>two</b> are <b>chaired</b> by <b>black</b> <b>wom</b>en,"
+  },
+  {
+   "s": 44.7,
+   "e": 46.38,
+   "t": "and you're <b>look</b>ing at <b>one</b> of them,"
+  },
+  {
+   "s": 46.38,
+   "e": 48.76,
+   "t": "the <b>same</b> one who, <b>not</b> too <b>long</b> a<b>go</b>,"
+  },
+  {
+   "s": 48.76,
+   "e": 51.64,
+   "t": "was <b>near</b>ly mis<b>tak</b>en for <b>kitch</b>en <b>help</b>."
+  },
+  {
+   "s": 51.64,
+   "e": 53.06,
+   "t": "So <b>that</b> is a <b>fact</b>."
+  },
+  {
+   "s": 53.06,
+   "e": 57.04,
+   "t": "<b>Now</b> I have this <b>thought</b> ex<b>per</b>iment / that I <b>play</b> with my<b>self</b>, when I <b>say</b>,"
+  },
+  {
+   "s": 57.04,
+   "e": 59.1,
+   "t": "i<b>ma</b>gine if I <b>walked</b> you into a <b>room</b>"
+  },
+  {
+   "s": 59.1,
+   "e": 62.56,
+   "t": "and it was of a <b>ma</b>jor cor<b>por</b>ation, like <b>Ex</b>xon<b>Mo</b>bil,"
+  },
+  {
+   "s": 62.56,
+   "e": 66.54,
+   "t": "and <b>ev</b>ery <b>sin</b>gle <b>per</b>son a<b>round</b> the <b>board</b>room were <b>black</b>,"
+  },
+  {
+   "s": 66.54,
+   "e": 68.94,
+   "t": "you would <b>think</b> that were <b>weird</b>."
+  },
+  {
+   "s": 68.94,
+   "e": 71.5,
+   "t": "But if I <b>walked</b> you into a <b>For</b>tune 500 <b>com</b>pany,"
+  },
+  {
+   "s": 71.5,
+   "e": 73.9,
+   "t": "and <b>ev</b>eryone a<b>round</b> the <b>ta</b>ble is a <b>white</b> <b>male</b>,"
+  },
+  {
+   "s": 73.9,
+   "e": 76.31,
+   "t": "<b>when</b> will it <b>be</b> that we <b>think</b> that's <b>weird</b> too?"
+  }
+ ]
+}

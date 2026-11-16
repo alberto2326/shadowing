@@ -1,0 +1,151 @@
+{
+ "title": "Mellody Hobson, “Color blind or color brave?” (la pregunta de su madre y por qué hablar de raza incomoda)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave",
+ "segment": "01:30–02:33 (63 s)",
+ "listen_for": "Hobson's <b>emphatic, measured delivery</b>: she pauses before the punchline (<i>\"How did they treat you?\"</i>) and stresses <b>not always</b>. Notice the reported speech with <i>she said</i> and the linking in <i>looked me right in the eye</i>.",
+ "vocab": [
+  {
+   "w": "ruthlessly",
+   "en": "in a way that shows no pity or softness; very strictly",
+   "es": "despiadadamente"
+  },
+  {
+   "w": "touching the third rail",
+   "en": "doing or saying something so sensitive that it causes a strong reaction",
+   "es": "tocar un tema tabú / explosivo"
+  },
+  {
+   "w": "militant",
+   "en": "aggressively active in support of a cause",
+   "es": "militante, combativa"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 3.38,
+   "t": "You <b>see</b>, my <b>moth</b>er was <b>ruth</b>lessly re<b>al</b>istic."
+  },
+  {
+   "s": 3.38,
+   "e": 5.44,
+   "t": "I re<b>mem</b>ber <b>one</b> day <b>com</b>ing <b>home</b> from a <b>birth</b>day <b>par</b>ty"
+  },
+  {
+   "s": 5.44,
+   "e": 7.56,
+   "t": "where I was the <b>on</b>ly <b>black</b> kid in<b>vi</b>ted,"
+  },
+  {
+   "s": 7.56,
+   "e": 9.86,
+   "t": "and in<b>stead</b> of <b>ask</b>ing me the <b>nor</b>mal <b>moth</b>erly <b>ques</b>tions"
+  },
+  {
+   "s": 9.86,
+   "e": 13.1,
+   "t": "like, \"Did you have <b>fun</b>?\" or \"<b>How</b> was the <b>cake</b>?\""
+  },
+  {
+   "s": 13.1,
+   "e": 14.66,
+   "t": "my <b>moth</b>er <b>looked</b> at me and she <b>said</b>,"
+  },
+  {
+   "s": 14.66,
+   "e": 17.12,
+   "t": "\"<b>How</b> did they <b>treat</b> you?\""
+  },
+  {
+   "s": 17.12,
+   "e": 20.34,
+   "t": "I was <b>sev</b>en. I did <b>not</b> under<b>stand</b>."
+  },
+  {
+   "s": 20.34,
+   "e": 23.28,
+   "t": "I <b>mean</b>, why would <b>an</b>yone <b>treat</b> me <b>dif</b>ferently?"
+  },
+  {
+   "s": 23.28,
+   "e": 24.74,
+   "t": "But she <b>knew</b>."
+  },
+  {
+   "s": 24.74,
+   "e": 27.34,
+   "t": "And she <b>looked</b> me <b>right</b> in the <b>eye</b> and she <b>said</b>,"
+  },
+  {
+   "s": 27.34,
+   "e": 30.16,
+   "t": "\"They will <b>not</b> <b>al</b>ways <b>treat</b> you <b>well</b>.\""
+  },
+  {
+   "s": 30.16,
+   "e": 32.3,
+   "t": "<b>Now</b>, <b>race</b> is <b>one</b> of those <b>top</b>ics in A<b>mer</b>ica"
+  },
+  {
+   "s": 32.3,
+   "e": 36.38,
+   "t": "that <b>makes</b> <b>peo</b>ple ex<b>traor</b>dinarily un<b>com</b>fortable."
+  },
+  {
+   "s": 36.38,
+   "e": 37.88,
+   "t": "You <b>bring</b> it <b>up</b> at a <b>din</b>ner <b>par</b>ty"
+  },
+  {
+   "s": 37.88,
+   "e": 39.6,
+   "t": "or in a <b>work</b>place en<b>vi</b>ronment,"
+  },
+  {
+   "s": 39.6,
+   "e": 42.0,
+   "t": "it is <b>lit</b>erally the conver<b>sa</b>tional e<b>quiv</b>alent"
+  },
+  {
+   "s": 42.0,
+   "e": 43.68,
+   "t": "of <b>touch</b>ing the <b>third</b> <b>rail</b>."
+  },
+  {
+   "s": 43.68,
+   "e": 48.8,
+   "t": "There is <b>shock</b>, / <b>fol</b>lowed by a <b>long</b> <b>si</b>lence."
+  },
+  {
+   "s": 48.8,
+   "e": 50.1,
+   "t": "And <b>e</b>ven <b>com</b>ing <b>here</b> to<b>day</b>,"
+  },
+  {
+   "s": 50.1,
+   "e": 52.6,
+   "t": "I <b>told</b> some <b>friends</b> and <b>col</b>leagues / that I <b>planned</b> to <b>talk</b> a<b>bout</b> <b>race</b>,"
+  },
+  {
+   "s": 52.6,
+   "e": 55.54,
+   "t": "and they <b>warned</b> me, they <b>told</b> me, <b>don't</b> do it,"
+  },
+  {
+   "s": 55.54,
+   "e": 59.14,
+   "t": "that there'd be <b>huge</b> <b>risks</b> / in me <b>talk</b>ing a<b>bout</b> this <b>top</b>ic,"
+  },
+  {
+   "s": 59.14,
+   "e": 61.52,
+   "t": "that <b>peo</b>ple might <b>think</b> I'm a <b>mil</b>itant <b>black</b> <b>wom</b>an"
+  },
+  {
+   "s": 61.52,
+   "e": 63.21,
+   "t": "and I would <b>ru</b>in my ca<b>reer</b>."
+  }
+ ]
+}

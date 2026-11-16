@@ -1,0 +1,136 @@
+{
+ "title": "Seth Godin, “How to get your ideas to spread” (la vaca púrpura: lo que no es notable se ignora)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread",
+ "segment": "05:47–06:59 (71 s)",
+ "listen_for": "Godin's <b>conversational, joking tone</b>: stress on the contrast <b>way</b> more choices / <b>way</b> less time, and the sound of <b>remarkable</b> (re-<b>MARK</b>-a-ble) repeated three times.",
+ "vocab": [
+  {
+   "w": "parable",
+   "en": "a short simple story that teaches a lesson",
+   "es": "parábola"
+  },
+  {
+   "w": "diffusion",
+   "en": "the gradual spread of something to many people or places",
+   "es": "difusión"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 4.42,
+   "t": "Con<b>sum</b>ers don't <b>care</b> a<b>bout</b> you at <b>all</b>; / they <b>just</b> don't <b>care</b>."
+  },
+  {
+   "s": 4.42,
+   "e": 7.94,
+   "t": "<b>Part</b> of the <b>rea</b>son is -- / they've got <b>way</b> more <b>choic</b>es than they <b>used</b> to,"
+  },
+  {
+   "s": 7.94,
+   "e": 10.42,
+   "t": "and <b>way</b> less <b>time</b>."
+  },
+  {
+   "s": 10.42,
+   "e": 14.28,
+   "t": "And in a <b>world</b> where we have <b>too</b> many <b>choic</b>es and <b>too</b> little <b>time</b>,"
+  },
+  {
+   "s": 14.28,
+   "e": 18.54,
+   "t": "the <b>ob</b>vious <b>thing</b> to do / is <b>just</b> ig<b>nore</b> stuff."
+  },
+  {
+   "s": 18.54,
+   "e": 22.26,
+   "t": "And my <b>par</b>able <b>here</b> is / you're <b>dri</b>ving <b>down</b> the <b>road</b>"
+  },
+  {
+   "s": 22.26,
+   "e": 26.04,
+   "t": "and you <b>see</b> a <b>cow</b>, / and you <b>keep</b> driving / be<b>cause</b> you've <b>seen</b> cows be<b>fore</b>."
+  },
+  {
+   "s": 26.04,
+   "e": 28.88,
+   "t": "<b>Cows</b> are in<b>vis</b>ible. <b>Cows</b> are <b>bor</b>ing."
+  },
+  {
+   "s": 28.88,
+   "e": 32.42,
+   "t": "<b>Who's</b> going to <b>stop</b> and <b>pull</b> o<b>ver</b> and <b>say</b> -- / \"Oh, <b>look</b>, a <b>cow</b>.\""
+  },
+  {
+   "s": 32.42,
+   "e": 33.2,
+   "t": "<b>No</b>body."
+  },
+  {
+   "s": 33.2,
+   "e": 37.58,
+   "t": "But if the <b>cow</b> was <b>pur</b>ple --"
+  },
+  {
+   "s": 37.58,
+   "e": 39.36,
+   "t": "<b>is</b>n't that a <b>great</b> <b>spe</b>cial ef<b>fect</b>?"
+  },
+  {
+   "s": 39.36,
+   "e": 40.7,
+   "t": "I could <b>do</b> that a<b>gain</b> if you <b>want</b>ed."
+  },
+  {
+   "s": 40.7,
+   "e": 45.74,
+   "t": "If the <b>cow</b> was <b>pur</b>ple, / you'd <b>no</b>tice it for a <b>while</b>."
+  },
+  {
+   "s": 45.74,
+   "e": 48.9,
+   "t": "I <b>mean</b>, if <b>all</b> cows were <b>pur</b>ple / you'd get <b>bored</b> with <b>those</b>, too."
+  },
+  {
+   "s": 48.9,
+   "e": 52.48,
+   "t": "The <b>thing</b> that's going to de<b>cide</b> / what gets <b>talked</b> a<b>bout</b>,"
+  },
+  {
+   "s": 52.48,
+   "e": 54.34,
+   "t": "what gets <b>done</b>, what gets <b>changed</b>,"
+  },
+  {
+   "s": 54.34,
+   "e": 55.94,
+   "t": "what gets <b>pur</b>chased, what gets <b>built</b>,"
+  },
+  {
+   "s": 55.94,
+   "e": 59.64,
+   "t": "is: \"Is it re<b>mark</b>able?\""
+  },
+  {
+   "s": 59.64,
+   "e": 61.9,
+   "t": "And \"re<b>mark</b>able\" is a <b>real</b>ly <b>cool</b> <b>word</b>,"
+  },
+  {
+   "s": 61.9,
+   "e": 63.84,
+   "t": "be<b>cause</b> we <b>think</b> it <b>just</b> means \"<b>neat</b>,\""
+  },
+  {
+   "s": 63.84,
+   "e": 67.66,
+   "t": "but it <b>al</b>so means / \"<b>worth</b> <b>mak</b>ing a re<b>mark</b> a<b>bout</b>.\""
+  },
+  {
+   "s": 67.66,
+   "e": 71.77,
+   "t": "And <b>that</b> is the <b>es</b>sence of <b>where</b> i<b>de</b>a dif<b>fu</b>sion is <b>go</b>ing."
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "slug": "2026-12-hill-leading-innovation",
+ "video_id": "ted-linda_hill_how_to_manage_for_collective_creativity",
+ "title": "Linda Hill, “How to manage for collective creativity” (por qué el liderazgo clásico no sirve para innovar)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity",
+ "start": 3.34,
+ "end": 65.03,
+ "meta": {
+  "hablante": "Linda Hill",
+  "charla": "How to manage for collective creativity",
+  "acento": "Americano general (mujer)",
+  "tema": "Negocio: liderazgo e innovación"
+ },
+ "lines": [
+  "I have a con<b>fes</b>sion to <b>make</b>.",
+  "I'm a <b>bus</b>iness pro<b>fes</b>sor / whose am<b>bi</b>tion has been to <b>help</b> people <b>learn</b> to <b>lead</b>.",
+  "But <b>re</b>cently, I've dis<b>cov</b>ered",
+  "that what <b>man</b>y of us <b>think</b> of as <b>great</b> <b>lead</b>ership",
+  "does <b>not</b> work / when it <b>comes</b> to <b>lead</b>ing inno<b>va</b>tion.",
+  "I'm an eth<b>nog</b>rapher.",
+  "I <b>use</b> the <b>meth</b>ods of anthro<b>pol</b>ogy",
+  "to under<b>stand</b> the <b>ques</b>tions in which I'm <b>in</b>terested.",
+  "So a<b>long</b> with <b>three</b> co-con<b>spir</b>ators,",
+  "I <b>spent</b> <b>near</b>ly a <b>dec</b>ade ob<b>serv</b>ing <b>up</b> <b>close</b> and <b>per</b>sonal",
+  "ex<b>cep</b>tional <b>lead</b>ers of inno<b>va</b>tion.",
+  "We <b>stud</b>ied 16 men and <b>wom</b>en,",
+  "lo<b>ca</b>ted in <b>sev</b>en <b>coun</b>tries a<b>cross</b> the <b>globe</b>,",
+  "<b>work</b>ing in 12 <b>dif</b>ferent <b>in</b>dustries.",
+  "In <b>to</b>tal, we <b>spent</b> <b>hun</b>dreds of <b>hours</b> on the <b>ground</b>,",
+  "on-<b>site</b>, <b>watch</b>ing these <b>lead</b>ers in <b>ac</b>tion.",
+  "We <b>end</b>ed up with <b>pa</b>ges and <b>pa</b>ges and <b>pa</b>ges of <b>field</b> <b>notes</b>",
+  "that we <b>an</b>alyzed to <b>look</b> for <b>pat</b>terns in what our <b>lead</b>ers <b>did</b>.",
+  "The <b>bot</b>tom <b>line</b>?",
+  "If we <b>want</b> to <b>build</b> organi<b>za</b>tions that can <b>in</b>novate <b>time</b> and a<b>gain</b>,",
+  "we must un<b>learn</b> our con<b>ven</b>tional <b>no</b>tions of <b>lead</b>ership.",
+  "<b>Lead</b>ing inno<b>va</b>tion is <b>not</b> a<b>bout</b> cre<b>a</b>ting a <b>vi</b>sion,",
+  "and in<b>spir</b>ing <b>oth</b>ers to <b>ex</b>ecute it."
+ ],
+ "listen_for": "Hill's <b>clear, steady classroom pace</b>. Notice the stress on <b>not</b> and <b>unlearn</b>, the list rhythm <i>pages and pages and pages</i>, and how <i>time and again</i> links together.",
+ "vocab": [
+  {
+   "w": "ethnographer",
+   "en": "a researcher who studies people and cultures by watching them closely in real life",
+   "es": "etnógrafa"
+  },
+  {
+   "w": "conventional",
+   "en": "following what is traditional or usual",
+   "es": "convencional"
+  },
+  {
+   "w": "time and again",
+   "en": "repeatedly, on many occasions",
+   "es": "una y otra vez"
+  }
+ ],
+ "notas": "Subtítulos humanos con tiempos aproximados; contrastado con Whisper (words y verify).",
+ "cues": [
+  {
+   "s": 3.04,
+   "t": "I have a con<b>fes</b>sion to <b>make</b>.",
+   "e": 5.4
+  },
+  {
+   "s": 5.4,
+   "t": "I'm a <b>bus</b>iness pro<b>fes</b>sor / whose am<b>bi</b>tion has been to <b>help</b> people <b>learn</b> to <b>lead</b>.",
+   "e": 9.38
+  },
+  {
+   "s": 9.38,
+   "t": "But <b>re</b>cently, I've dis<b>cov</b>ered",
+   "e": 10.74
+  },
+  {
+   "s": 10.74,
+   "t": "that what <b>man</b>y of us <b>think</b> of as <b>great</b> <b>lead</b>ership",
+   "e": 13.18
+  },
+  {
+   "s": 13.18,
+   "t": "does <b>not</b> work / when it <b>comes</b> to <b>lead</b>ing inno<b>va</b>tion.",
+   "e": 16.42
+  },
+  {
+   "s": 16.42,
+   "t": "I'm an eth<b>nog</b>rapher.",
+   "e": 18.0
+  },
+  {
+   "s": 18.0,
+   "t": "I <b>use</b> the <b>meth</b>ods of anthro<b>pol</b>ogy",
+   "e": 19.54
+  },
+  {
+   "s": 19.54,
+   "t": "to under<b>stand</b> the <b>ques</b>tions in which I'm <b>in</b>terested.",
+   "e": 22.6
+  },
+  {
+   "s": 22.6,
+   "t": "So a<b>long</b> with <b>three</b> co-con<b>spir</b>ators,",
+   "e": 24.56
+  },
+  {
+   "s": 24.56,
+   "t": "I <b>spent</b> <b>near</b>ly a <b>dec</b>ade ob<b>serv</b>ing <b>up</b> <b>close</b> and <b>per</b>sonal",
+   "e": 28.08
+  },
+  {
+   "s": 28.08,
+   "t": "ex<b>cep</b>tional <b>lead</b>ers of inno<b>va</b>tion.",
+   "e": 30.8
+  },
+  {
+   "s": 30.8,
+   "t": "We <b>stud</b>ied 16 men and <b>wom</b>en,",
+   "e": 32.64
+  },
+  {
+   "s": 32.64,
+   "t": "lo<b>ca</b>ted in <b>sev</b>en <b>coun</b>tries a<b>cross</b> the <b>globe</b>,",
+   "e": 35.64
+  },
+  {
+   "s": 35.64,
+   "t": "<b>work</b>ing in 12 <b>dif</b>ferent <b>in</b>dustries.",
+   "e": 38.02
+  },
+  {
+   "s": 38.02,
+   "t": "In <b>to</b>tal, we <b>spent</b> <b>hun</b>dreds of <b>hours</b> on the <b>ground</b>,",
+   "e": 41.08
+  },
+  {
+   "s": 41.08,
+   "t": "on-<b>site</b>, <b>watch</b>ing these <b>lead</b>ers in <b>ac</b>tion.",
+   "e": 44.28
+  },
+  {
+   "s": 44.28,
+   "t": "We <b>end</b>ed up with <b>pa</b>ges and <b>pa</b>ges and <b>pa</b>ges of <b>field</b> <b>notes</b>",
+   "e": 47.9
+  },
+  {
+   "s": 47.9,
+   "t": "that we <b>an</b>alyzed to <b>look</b> for <b>pat</b>terns in what our <b>lead</b>ers <b>did</b>.",
+   "e": 51.98
+  },
+  {
+   "s": 51.98,
+   "t": "The <b>bot</b>tom <b>line</b>?",
+   "e": 53.22
+  },
+  {
+   "s": 53.22,
+   "t": "If we <b>want</b> to <b>build</b> organi<b>za</b>tions that can <b>in</b>novate <b>time</b> and a<b>gain</b>,",
+   "e": 55.9
+  },
+  {
+   "s": 55.9,
+   "t": "we must un<b>learn</b> our con<b>ven</b>tional <b>no</b>tions of <b>lead</b>ership.",
+   "e": 60.24
+  },
+  {
+   "s": 60.24,
+   "t": "<b>Lead</b>ing inno<b>va</b>tion is <b>not</b> a<b>bout</b> cre<b>a</b>ting a <b>vi</b>sion,",
+   "e": 62.48
+  },
+  {
+   "s": 62.48,
+   "t": "and in<b>spir</b>ing <b>oth</b>ers to <b>ex</b>ecute it.",
+   "e": 65.13
+  }
+ ],
+ "verified": "2026-11-16"
+}

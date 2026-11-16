@@ -1,0 +1,136 @@
+{
+ "title": "Dan Pink, “The puzzle of motivation” (por qué los incentivos no siempre funcionan)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation",
+ "segment": "04:25–05:42 (77 s)",
+ "listen_for": "Pink's <b>rhythm</b>: short punchy phrases, a pause before each key claim. Note <b>over and over and over again</b> (the repeated <i>over</i> builds emphasis) and the weak <i>of</i> in <i>one of the most</i>.",
+ "vocab": [
+  {
+   "w": "aberration",
+   "en": "something unusual that differs from what is normal or expected",
+   "es": "anomalía, excepción"
+  },
+  {
+   "w": "robust",
+   "en": "strong and reliable; hard to disprove",
+   "es": "sólido, robusto"
+  },
+  {
+   "w": "mechanistic",
+   "en": "treating things like machines, with fixed rules and no human flexibility",
+   "es": "mecanicista"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 3.94,
+   "t": "And <b>what's</b> in<b>ter</b>esting about this ex<b>per</b>iment / is that it's <b>not</b> an aber<b>ra</b>tion."
+  },
+  {
+   "s": 3.94,
+   "e": 10.18,
+   "t": "This has been <b>rep</b>licated / <b>o</b>ver and <b>o</b>ver and <b>o</b>ver a<b>gain</b> / for <b>near</b>ly 40 <b>years</b>."
+  },
+  {
+   "s": 10.18,
+   "e": 12.12,
+   "t": "These con<b>tin</b>gent <b>mo</b>tivators --"
+  },
+  {
+   "s": 12.12,
+   "e": 14.84,
+   "t": "if you <b>do</b> this, then you <b>get</b> that --"
+  },
+  {
+   "s": 14.84,
+   "e": 16.36,
+   "t": "<b>work</b> in some <b>cir</b>cumstances,"
+  },
+  {
+   "s": 16.36,
+   "e": 22.96,
+   "t": "but for a <b>lot</b> of <b>tasks</b>, they <b>ac</b>tually <b>ei</b>ther <b>don't</b> work / or <b>of</b>ten they do <b>harm</b>."
+  },
+  {
+   "s": 22.96,
+   "e": 27.52,
+   "t": "This is <b>one</b> of the most ro<b>bust</b> <b>find</b>ings in <b>so</b>cial <b>sci</b>ence,"
+  },
+  {
+   "s": 27.52,
+   "e": 31.4,
+   "t": "and <b>al</b>so one of the most ig<b>nored</b>."
+  },
+  {
+   "s": 31.4,
+   "e": 35.14,
+   "t": "I <b>spent</b> the <b>last</b> couple of <b>years</b> / <b>look</b>ing at the <b>sci</b>ence of <b>hu</b>man mo<b>ti</b>vation,"
+  },
+  {
+   "s": 35.14,
+   "e": 39.0,
+   "t": "par<b>tic</b>ularly the dy<b>nam</b>ics of ex<b>trin</b>sic <b>mo</b>tivators and in<b>trin</b>sic <b>mo</b>tivators,"
+  },
+  {
+   "s": 39.0,
+   "e": 41.8,
+   "t": "and I'm <b>tell</b>ing you, / it's <b>not</b> even <b>close</b>."
+  },
+  {
+   "s": 41.8,
+   "e": 43.56,
+   "t": "If you <b>look</b> at the <b>sci</b>ence, / there is a <b>mis</b>match"
+  },
+  {
+   "s": 43.56,
+   "e": 47.5,
+   "t": "be<b>tween</b> what <b>sci</b>ence <b>knows</b> / and what <b>bus</b>iness <b>does</b>."
+  },
+  {
+   "s": 47.5,
+   "e": 50.94,
+   "t": "And what's a<b>larm</b>ing here / is that our <b>bus</b>iness <b>op</b>erating <b>sys</b>tem --"
+  },
+  {
+   "s": 50.94,
+   "e": 53.66,
+   "t": "<b>think</b> of the <b>set</b> of as<b>sump</b>tions and <b>pro</b>tocols be<b>neath</b> our <b>bus</b>inesses,"
+  },
+  {
+   "s": 53.66,
+   "e": 58.54,
+   "t": "how we <b>mo</b>tivate <b>peo</b>ple, how we ap<b>ply</b> our <b>hu</b>man <b>re</b>sources --"
+  },
+  {
+   "s": 58.54,
+   "e": 62.1,
+   "t": "it's <b>built</b> en<b>tire</b>ly a<b>round</b> these ex<b>trin</b>sic <b>mo</b>tivators,"
+  },
+  {
+   "s": 62.1,
+   "e": 63.62,
+   "t": "a<b>round</b> <b>car</b>rots and <b>sticks</b>."
+  },
+  {
+   "s": 63.62,
+   "e": 67.34,
+   "t": "That's <b>ac</b>tually <b>fine</b> for <b>man</b>y kinds of 20th <b>cen</b>tury <b>tasks</b>."
+  },
+  {
+   "s": 67.34,
+   "e": 70.2,
+   "t": "But for 21st <b>cen</b>tury <b>tasks</b>,"
+  },
+  {
+   "s": 70.2,
+   "e": 72.9,
+   "t": "that me<b>chan</b>istic / re<b>ward</b> and <b>pun</b>ishment ap<b>proach</b>"
+  },
+  {
+   "s": 72.9,
+   "e": 77.97,
+   "t": "<b>does</b>n't <b>work</b>, / <b>of</b>ten <b>does</b>n't <b>work</b>, / and <b>of</b>ten does <b>harm</b>."
+  }
+ ]
+}

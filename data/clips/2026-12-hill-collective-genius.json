@@ -1,0 +1,165 @@
+{
+ "slug": "2026-12-hill-collective-genius",
+ "video_id": "ted-linda_hill_how_to_manage_for_collective_creativity",
+ "title": "Linda Hill, “How to manage for collective creativity” (el «genio colectivo» detrás de una película de Pixar)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/linda_hill_how_to_manage_for_collective_creativity",
+ "start": 137.7,
+ "end": 207.95,
+ "meta": {
+  "hablante": "Linda Hill",
+  "charla": "How to manage for collective creativity",
+  "acento": "Americano general (mujer)",
+  "tema": "Trabajo en equipo y creatividad"
+ },
+ "lines": [
+  "When <b>man</b>y of us <b>think</b> a<b>bout</b> inno<b>va</b>tion, though,",
+  "we <b>think</b> a<b>bout</b> an <b>Ein</b>stein / <b>hav</b>ing an \"<b>Aha</b>!\" <b>mo</b>ment.",
+  "But we <b>all</b> <b>know</b> that's a <b>myth</b>.",
+  "Inno<b>va</b>tion is <b>not</b> about <b>so</b>lo <b>gen</b>ius,",
+  "it's a<b>bout</b> col<b>lec</b>tive <b>gen</b>ius.",
+  "Let's <b>think</b> for a <b>min</b>ute / about what it <b>takes</b> to <b>make</b> a <b>Pix</b>ar <b>mov</b>ie:",
+  "No <b>so</b>lo <b>gen</b>ius, no <b>flash</b> of inspi<b>ra</b>tion / pro<b>duc</b>es <b>one</b> of those <b>mov</b>ies.",
+  "On the <b>con</b>trary, it <b>takes</b> a<b>bout</b> 250 <b>peo</b>ple / <b>four</b> to <b>five</b> <b>years</b>,",
+  "to <b>make</b> <b>one</b> of those <b>mov</b>ies.",
+  "To <b>help</b> us under<b>stand</b> the <b>pro</b>cess,",
+  "an indi<b>vid</b>ual in the <b>stu</b>dio <b>drew</b> a <b>ver</b>sion of this <b>pic</b>ture.",
+  "He did <b>so</b> re<b>luc</b>tantly,",
+  "be<b>cause</b> it sug<b>gest</b>ed that the <b>pro</b>cess was a <b>neat</b> <b>se</b>ries of <b>steps</b>",
+  "<b>done</b> by dis<b>crete</b> <b>groups</b>.",
+  "<b>E</b>ven with <b>all</b> those <b>ar</b>rows, he <b>thought</b> it <b>failed</b> to <b>real</b>ly <b>tell</b> you",
+  "just <b>how</b> <b>it</b>erative, inter<b>re</b>lated and, <b>frank</b>ly, <b>mess</b>y their <b>pro</b>cess was.",
+  "Through<b>out</b> the <b>mak</b>ing of a <b>mov</b>ie at <b>Pix</b>ar, the <b>sto</b>ry e<b>volves</b>.",
+  "So <b>think</b> about it. <b>Some</b> shots go through <b>quick</b>ly.",
+  "They <b>don't</b> all go through in <b>or</b>der.",
+  "It de<b>pends</b> on how <b>vex</b>ing the <b>chal</b>lenges are",
+  "that they <b>come</b> up with / when they're <b>work</b>ing on a par<b>tic</b>ular <b>scene</b>."
+ ],
+ "listen_for": "Hill's <b>contrast pairs</b>: <b>solo</b> genius vs <b>collective</b> genius. Notice the linking in <i>think about it</i> and the rising list <i>iterative, interrelated and, frankly, messy</i>.",
+ "vocab": [
+  {
+   "w": "discrete",
+   "en": "separate and clearly distinct from each other",
+   "es": "discreto, separado"
+  },
+  {
+   "w": "iterative",
+   "en": "repeating a process again and again to improve it",
+   "es": "iterativo"
+  },
+  {
+   "w": "vexing",
+   "en": "causing difficulty or frustration",
+   "es": "molesto, difícil de resolver"
+  }
+ ],
+ "notas": "Subtítulos humanos contrastados con Whisper; manda el audio (when they're working). La segunda pasada de Whisper confunde «challenges are that they» con «characters»; se sigue a los subtítulos.",
+ "cues": [
+  {
+   "s": 137.4,
+   "t": "When <b>man</b>y of us <b>think</b> a<b>bout</b> inno<b>va</b>tion, though,",
+   "e": 139.5
+  },
+  {
+   "s": 139.5,
+   "t": "we <b>think</b> a<b>bout</b> an <b>Ein</b>stein / <b>hav</b>ing an \"<b>Aha</b>!\" <b>mo</b>ment.",
+   "e": 142.94
+  },
+  {
+   "s": 142.94,
+   "t": "But we <b>all</b> <b>know</b> that's a <b>myth</b>.",
+   "e": 145.84
+  },
+  {
+   "s": 145.84,
+   "t": "Inno<b>va</b>tion is <b>not</b> about <b>so</b>lo <b>gen</b>ius,",
+   "e": 148.34
+  },
+  {
+   "s": 148.34,
+   "t": "it's a<b>bout</b> col<b>lec</b>tive <b>gen</b>ius.",
+   "e": 151.54
+  },
+  {
+   "s": 151.54,
+   "t": "Let's <b>think</b> for a <b>min</b>ute / about what it <b>takes</b> to <b>make</b> a <b>Pix</b>ar <b>mov</b>ie:",
+   "e": 155.3
+  },
+  {
+   "s": 155.3,
+   "t": "No <b>so</b>lo <b>gen</b>ius, no <b>flash</b> of inspi<b>ra</b>tion / pro<b>duc</b>es <b>one</b> of those <b>mov</b>ies.",
+   "e": 160.74
+  },
+  {
+   "s": 160.74,
+   "t": "On the <b>con</b>trary, it <b>takes</b> a<b>bout</b> 250 <b>peo</b>ple / <b>four</b> to <b>five</b> <b>years</b>,",
+   "e": 165.06
+  },
+  {
+   "s": 165.06,
+   "t": "to <b>make</b> <b>one</b> of those <b>mov</b>ies.",
+   "e": 167.66
+  },
+  {
+   "s": 167.66,
+   "t": "To <b>help</b> us under<b>stand</b> the <b>pro</b>cess,",
+   "e": 169.46
+  },
+  {
+   "s": 169.46,
+   "t": "an indi<b>vid</b>ual in the <b>stu</b>dio <b>drew</b> a <b>ver</b>sion of this <b>pic</b>ture.",
+   "e": 173.06
+  },
+  {
+   "s": 173.06,
+   "t": "He did <b>so</b> re<b>luc</b>tantly,",
+   "e": 174.42
+  },
+  {
+   "s": 174.42,
+   "t": "be<b>cause</b> it sug<b>gest</b>ed that the <b>pro</b>cess was a <b>neat</b> <b>se</b>ries of <b>steps</b>",
+   "e": 178.72
+  },
+  {
+   "s": 178.72,
+   "t": "<b>done</b> by dis<b>crete</b> <b>groups</b>.",
+   "e": 181.52
+  },
+  {
+   "s": 181.52,
+   "t": "<b>E</b>ven with <b>all</b> those <b>ar</b>rows, he <b>thought</b> it <b>failed</b> to <b>real</b>ly <b>tell</b> you",
+   "e": 185.66
+  },
+  {
+   "s": 185.66,
+   "t": "just <b>how</b> <b>it</b>erative, inter<b>re</b>lated and, <b>frank</b>ly, <b>mess</b>y their <b>pro</b>cess was.",
+   "e": 191.12
+  },
+  {
+   "s": 191.12,
+   "t": "Through<b>out</b> the <b>mak</b>ing of a <b>mov</b>ie at <b>Pix</b>ar, the <b>sto</b>ry e<b>volves</b>.",
+   "e": 196.46
+  },
+  {
+   "s": 196.46,
+   "t": "So <b>think</b> about it. <b>Some</b> shots go through <b>quick</b>ly.",
+   "e": 200.4
+  },
+  {
+   "s": 200.4,
+   "t": "They <b>don't</b> all go through in <b>or</b>der.",
+   "e": 202.72
+  },
+  {
+   "s": 202.72,
+   "t": "It de<b>pends</b> on how <b>vex</b>ing the <b>chal</b>lenges are",
+   "e": 205.14
+  },
+  {
+   "s": 205.14,
+   "t": "that they <b>come</b> up with / when they are <b>work</b>ing on a par<b>tic</b>ular <b>scene</b>.",
+   "e": 208.05
+  }
+ ],
+ "verified": "2026-11-16"
+}

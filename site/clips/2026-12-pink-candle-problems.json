@@ -1,0 +1,161 @@
+{
+ "title": "Dan Pink, “The puzzle of motivation” (el trabajo creativo y por qué los premios «si haces X, recibes Y» fallan)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/dan_pink_the_puzzle_of_motivation",
+ "segment": "06:58–08:18 (80 s)",
+ "listen_for": "Pink's <b>contrasts</b>: <b>less</b> of this kind of work / <b>more</b> of this kind of work, and <b>left</b>-brain vs <b>right</b>-brained. Notice the stress on <b>don't work</b> at the end: both words are loud and slow.",
+ "vocab": [
+  {
+   "w": "outsource",
+   "en": "to pay another company or person to do work for you",
+   "es": "externalizar, subcontratar"
+  },
+  {
+   "w": "mystifying",
+   "en": "very difficult to understand; puzzling",
+   "es": "desconcertante"
+  },
+  {
+   "w": "conceptual",
+   "en": "based on ideas rather than on practical things",
+   "es": "conceptual"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 4.42,
+   "t": "In <b>west</b>ern <b>Eu</b>rope, in <b>man</b>y <b>parts</b> of <b>A</b>sia,"
+  },
+  {
+   "s": 4.42,
+   "e": 7.2,
+   "t": "in <b>North</b> A<b>mer</b>ica, in Aus<b>tral</b>ia,"
+  },
+  {
+   "s": 7.2,
+   "e": 10.62,
+   "t": "<b>white</b>-collar <b>work</b>ers are <b>do</b>ing <b>less</b> of this kind of <b>work</b>,"
+  },
+  {
+   "s": 10.62,
+   "e": 14.3,
+   "t": "and <b>more</b> of this kind of <b>work</b>."
+  },
+  {
+   "s": 14.3,
+   "e": 17.92,
+   "t": "That rou<b>tine</b>, <b>rule</b>-based, <b>left</b>-brain <b>work</b> --"
+  },
+  {
+   "s": 17.92,
+   "e": 20.58,
+   "t": "<b>cer</b>tain <b>kinds</b> of ac<b>count</b>ing, <b>cer</b>tain <b>kinds</b> of fi<b>nan</b>cial a<b>nal</b>ysis,"
+  },
+  {
+   "s": 20.58,
+   "e": 21.78,
+   "t": "<b>cer</b>tain <b>kinds</b> of com<b>put</b>er <b>pro</b>gramming --"
+  },
+  {
+   "s": 21.78,
+   "e": 24.42,
+   "t": "has be<b>come</b> <b>fair</b>ly <b>eas</b>y to <b>out</b>source,"
+  },
+  {
+   "s": 24.42,
+   "e": 26.7,
+   "t": "<b>fair</b>ly <b>eas</b>y to <b>au</b>tomate."
+  },
+  {
+   "s": 26.7,
+   "e": 28.78,
+   "t": "<b>Soft</b>ware can do it <b>fas</b>ter."
+  },
+  {
+   "s": 28.78,
+   "e": 30.96,
+   "t": "<b>Low</b>-cost pro<b>vid</b>ers a<b>round</b> the <b>world</b> can do it <b>cheap</b>er."
+  },
+  {
+   "s": 30.96,
+   "e": 32.16,
+   "t": "So what <b>real</b>ly <b>mat</b>ters"
+  },
+  {
+   "s": 32.16,
+   "e": 38.66,
+   "t": "are the more <b>right</b>-brained, cre<b>a</b>tive, con<b>cep</b>tual kinds of a<b>bil</b>ities."
+  },
+  {
+   "s": 38.66,
+   "e": 41.12,
+   "t": "<b>Think</b> about your <b>own</b> <b>work</b>."
+  },
+  {
+   "s": 41.12,
+   "e": 43.86,
+   "t": "<b>Think</b> about your <b>own</b> <b>work</b>."
+  },
+  {
+   "s": 43.86,
+   "e": 45.2,
+   "t": "Are the <b>prob</b>lems that you <b>face</b>,"
+  },
+  {
+   "s": 45.2,
+   "e": 48.96,
+   "t": "or <b>e</b>ven the <b>prob</b>lems we've been <b>talk</b>ing about <b>here</b>, are those <b>kinds</b> of <b>prob</b>lems,"
+  },
+  {
+   "s": 48.96,
+   "e": 52.34,
+   "t": "do they <b>have</b> a <b>clear</b> <b>set</b> of <b>rules</b> and a <b>sin</b>gle so<b>lu</b>tion?"
+  },
+  {
+   "s": 52.34,
+   "e": 54.98,
+   "t": "<b>No</b>. The <b>rules</b> are <b>mys</b>tifying."
+  },
+  {
+   "s": 54.98,
+   "e": 56.86,
+   "t": "The so<b>lu</b>tion, if it ex<b>ists</b> at <b>all</b>,"
+  },
+  {
+   "s": 56.86,
+   "e": 60.0,
+   "t": "is sur<b>pris</b>ing and <b>non</b>-<b>ob</b>vious."
+  },
+  {
+   "s": 60.0,
+   "e": 62.0,
+   "t": "<b>Ev</b>erybody in this <b>room</b>"
+  },
+  {
+   "s": 62.0,
+   "e": 66.4,
+   "t": "is <b>deal</b>ing with their <b>own</b> <b>ver</b>sion of the <b>can</b>dle <b>prob</b>lem."
+  },
+  {
+   "s": 66.4,
+   "e": 71.76,
+   "t": "And for <b>can</b>dle <b>prob</b>lems of <b>an</b>y <b>kind</b>, in <b>an</b>y <b>field</b>,"
+  },
+  {
+   "s": 71.76,
+   "e": 74.76,
+   "t": "those <b>if</b>-<b>then</b> re<b>wards</b>,"
+  },
+  {
+   "s": 74.76,
+   "e": 78.06,
+   "t": "the <b>things</b> a<b>round</b> which we've <b>built</b> so <b>man</b>y of our <b>bus</b>inesses,"
+  },
+  {
+   "s": 78.06,
+   "e": 80.31,
+   "t": "<b>don't</b> <b>work</b>!"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "slug": "2026-12-cain-new-groupthink",
+ "video_id": "ted-susan_cain_the_power_of_introverts",
+ "title": "Susan Cain, “The power of introverts” (colegios y oficinas diseñados para extrovertidos)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/susan_cain_the_power_of_introverts",
+ "start": 264.06,
+ "end": 333.91,
+ "meta": {
+  "hablante": "Susan Cain",
+  "charla": "The power of introverts",
+  "acento": "Americano general (mujer)",
+  "tema": "Trabajo y psicología: introvertidos y extrovertidos"
+ },
+ "lines": [
+  "So the <b>key</b> then to <b>max</b>imizing our <b>tal</b>ents",
+  "is for us <b>all</b> to <b>put</b> ourselves / in the <b>zone</b> of stimu<b>la</b>tion / that is <b>right</b> for us.",
+  "But <b>now</b> here's <b>where</b> the <b>bi</b>as comes <b>in</b>.",
+  "Our <b>most</b> im<b>por</b>tant insti<b>tu</b>tions, / our <b>schools</b> and our <b>work</b>places,",
+  "they are de<b>signed</b> <b>most</b>ly for <b>ex</b>troverts",
+  "and for <b>ex</b>troverts' <b>need</b> for <b>lots</b> of stimu<b>la</b>tion.",
+  "And <b>al</b>so we have this be<b>lief</b> <b>sys</b>tem right <b>now</b>",
+  "that I <b>call</b> the new <b>group</b>think,",
+  "which <b>holds</b> that <b>all</b> crea<b>tiv</b>ity and <b>all</b> produc<b>tiv</b>ity",
+  "comes from a <b>ve</b>ry <b>odd</b>ly gre<b>gar</b>ious <b>place</b>.",
+  "So if you <b>pic</b>ture the <b>typ</b>ical <b>class</b>room <b>now</b>adays:",
+  "when I was <b>go</b>ing to <b>school</b>, we <b>sat</b> in <b>rows</b>.",
+  "We <b>sat</b> in <b>rows</b> of <b>desks</b> like <b>this</b>,",
+  "and we did <b>most</b> of our <b>work</b> pretty au<b>ton</b>omously.",
+  "But <b>now</b>adays, / your <b>typ</b>ical <b>class</b>room has <b>pods</b> of <b>desks</b> --",
+  "<b>four</b> or <b>five</b> or <b>six</b> or <b>sev</b>en <b>kids</b> / all <b>fa</b>cing each <b>oth</b>er.",
+  "And <b>kids</b> are <b>work</b>ing in <b>count</b>less <b>group</b> as<b>sign</b>ments.",
+  "<b>E</b>ven in <b>sub</b>jects like <b>math</b> and cre<b>a</b>tive <b>writ</b>ing,",
+  "which you <b>think</b> would de<b>pend</b> on <b>so</b>lo <b>flights</b> of <b>thought</b>,",
+  "<b>kids</b> are now ex<b>pec</b>ted to <b>act</b> as com<b>mit</b>tee <b>mem</b>bers.",
+  "And for the <b>kids</b> who pre<b>fer</b> to go <b>off</b> by them<b>selves</b> / or just to <b>work</b> a<b>lone</b>,",
+  "those <b>kids</b> are <b>seen</b> as <b>out</b>liers <b>of</b>ten / or, <b>worse</b>, as <b>prob</b>lem <b>cas</b>es."
+ ],
+ "listen_for": "Cain's <b>calm, storytelling rhythm</b>: groups of 3–5 words with a slight pause. Notice the contrast stress in <b>four or five or six or seven</b> and the linking in <i>go off by themselves</i>.",
+ "vocab": [
+  {
+   "w": "gregarious",
+   "en": "enjoying being with other people; sociable",
+   "es": "sociable, gregario"
+  },
+  {
+   "w": "autonomously",
+   "en": "independently, without being controlled by others",
+   "es": "de forma autónoma"
+  },
+  {
+   "w": "outliers",
+   "en": "people or things that are very different from the rest",
+   "es": "atípicos, casos fuera de lo normal"
+  }
+ ],
+ "notas": "Texto de los subtítulos humanos. Whisper falla en «we have this belief system» (oye «we are living through» y «group sync» por «groupthink»); las dos pasadas no coinciden, así que se sigue a los subtítulos (verify --force revisado a mano).",
+ "cues": [
+  {
+   "s": 263.76,
+   "t": "So the <b>key</b> then to <b>max</b>imizing our <b>tal</b>ents",
+   "e": 267.52
+  },
+  {
+   "s": 267.52,
+   "t": "is for us <b>all</b> to <b>put</b> ourselves / in the <b>zone</b> of stimu<b>la</b>tion / that is <b>right</b> for us.",
+   "e": 273.04
+  },
+  {
+   "s": 273.04,
+   "t": "But <b>now</b> here's <b>where</b> the <b>bi</b>as comes <b>in</b>.",
+   "e": 275.26
+  },
+  {
+   "s": 275.26,
+   "t": "Our <b>most</b> im<b>por</b>tant insti<b>tu</b>tions, / our <b>schools</b> and our <b>work</b>places,",
+   "e": 279.22
+  },
+  {
+   "s": 279.22,
+   "t": "they are de<b>signed</b> <b>most</b>ly for <b>ex</b>troverts",
+   "e": 281.2
+  },
+  {
+   "s": 281.2,
+   "t": "and for <b>ex</b>troverts' <b>need</b> for <b>lots</b> of stimu<b>la</b>tion.",
+   "e": 284.3
+  },
+  {
+   "s": 284.3,
+   "t": "And <b>al</b>so we have this be<b>lief</b> <b>sys</b>tem right <b>now</b>",
+   "e": 288.58
+  },
+  {
+   "s": 288.58,
+   "t": "that I <b>call</b> the new <b>group</b>think,",
+   "e": 289.96
+  },
+  {
+   "s": 289.96,
+   "t": "which <b>holds</b> that <b>all</b> crea<b>tiv</b>ity and <b>all</b> produc<b>tiv</b>ity",
+   "e": 292.76
+  },
+  {
+   "s": 292.76,
+   "t": "comes from a <b>ve</b>ry <b>odd</b>ly gre<b>gar</b>ious <b>place</b>.",
+   "e": 297.38
+  },
+  {
+   "s": 297.38,
+   "t": "So if you <b>pic</b>ture the <b>typ</b>ical <b>class</b>room <b>now</b>adays:",
+   "e": 300.6
+  },
+  {
+   "s": 300.6,
+   "t": "when I was <b>go</b>ing to <b>school</b>, we <b>sat</b> in <b>rows</b>.",
+   "e": 303.46
+  },
+  {
+   "s": 303.46,
+   "t": "We <b>sat</b> in <b>rows</b> of <b>desks</b> like <b>this</b>,",
+   "e": 305.68
+  },
+  {
+   "s": 305.68,
+   "t": "and we did <b>most</b> of our <b>work</b> pretty au<b>ton</b>omously.",
+   "e": 308.6
+  },
+  {
+   "s": 308.6,
+   "t": "But <b>now</b>adays, / your <b>typ</b>ical <b>class</b>room has <b>pods</b> of <b>desks</b> --",
+   "e": 312.12
+  },
+  {
+   "s": 312.12,
+   "t": "<b>four</b> or <b>five</b> or <b>six</b> or <b>sev</b>en <b>kids</b> / all <b>fa</b>cing each <b>oth</b>er.",
+   "e": 315.28
+  },
+  {
+   "s": 315.28,
+   "t": "And <b>kids</b> are <b>work</b>ing in <b>count</b>less <b>group</b> as<b>sign</b>ments.",
+   "e": 317.28
+  },
+  {
+   "s": 317.28,
+   "t": "<b>E</b>ven in <b>sub</b>jects like <b>math</b> and cre<b>a</b>tive <b>writ</b>ing,",
+   "e": 319.6
+  },
+  {
+   "s": 319.6,
+   "t": "which you <b>think</b> would de<b>pend</b> on <b>so</b>lo <b>flights</b> of <b>thought</b>,",
+   "e": 322.56
+  },
+  {
+   "s": 322.56,
+   "t": "<b>kids</b> are now ex<b>pec</b>ted to <b>act</b> as com<b>mit</b>tee <b>mem</b>bers.",
+   "e": 326.82
+  },
+  {
+   "s": 326.82,
+   "t": "And for the <b>kids</b> who pre<b>fer</b> to go <b>off</b> by them<b>selves</b> / or just to <b>work</b> a<b>lone</b>,",
+   "e": 330.62
+  },
+  {
+   "s": 330.62,
+   "t": "those <b>kids</b> are <b>seen</b> as <b>out</b>liers <b>of</b>ten / or, <b>worse</b>, as <b>prob</b>lem <b>cas</b>es.",
+   "e": 334.01
+  }
+ ],
+ "verified": "2026-11-16"
+}

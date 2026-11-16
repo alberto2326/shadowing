@@ -1,0 +1,172 @@
+{
+ "slug": "2026-12-godin-remarkable",
+ "video_id": "ted-seth_godin_how_to_get_your_ideas_to_spread",
+ "title": "Seth Godin, “How to get your ideas to spread” (la vaca púrpura: lo que no es notable se ignora)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread",
+ "start": 347.84,
+ "end": 419.11,
+ "meta": {
+  "hablante": "Seth Godin",
+  "charla": "How to get your ideas to spread",
+  "acento": "Americano general (hombre)",
+  "tema": "Marketing: por qué hay que ser notable"
+ },
+ "lines": [
+  "Con<b>sum</b>ers don't <b>care</b> a<b>bout</b> you at <b>all</b>; / they <b>just</b> don't <b>care</b>.",
+  "<b>Part</b> of the <b>rea</b>son is -- / they've got <b>way</b> more <b>choic</b>es than they <b>used</b> to,",
+  "and <b>way</b> less <b>time</b>.",
+  "And in a <b>world</b> where we have <b>too</b> many <b>choic</b>es and <b>too</b> little <b>time</b>,",
+  "the <b>ob</b>vious <b>thing</b> to do / is <b>just</b> ig<b>nore</b> stuff.",
+  "And my <b>par</b>able <b>here</b> is / you're <b>dri</b>ving <b>down</b> the <b>road</b>",
+  "and you <b>see</b> a <b>cow</b>, / and you <b>keep</b> driving / be<b>cause</b> you've <b>seen</b> cows be<b>fore</b>.",
+  "<b>Cows</b> are in<b>vis</b>ible. <b>Cows</b> are <b>bor</b>ing.",
+  "<b>Who's</b> going to <b>stop</b> and <b>pull</b> o<b>ver</b> and <b>say</b> -- / \"Oh, <b>look</b>, a <b>cow</b>.\"",
+  "<b>No</b>body.",
+  "But if the <b>cow</b> was <b>pur</b>ple --",
+  "<b>is</b>n't that a <b>great</b> <b>spe</b>cial ef<b>fect</b>?",
+  "I could <b>do</b> that a<b>gain</b> if you <b>want</b>ed.",
+  "If the <b>cow</b> was <b>pur</b>ple, / you'd <b>no</b>tice it for a <b>while</b>.",
+  "I <b>mean</b>, if <b>all</b> cows were <b>pur</b>ple / you'd get <b>bored</b> with <b>those</b>, too.",
+  "The <b>thing</b> that's going to de<b>cide</b> / what gets <b>talked</b> a<b>bout</b>,",
+  "what gets <b>done</b>, what gets <b>changed</b>,",
+  "what gets <b>pur</b>chased, what gets <b>built</b>,",
+  "is: \"Is it re<b>mark</b>able?\"",
+  "And \"re<b>mark</b>able\" is a <b>real</b>ly <b>cool</b> <b>word</b>,",
+  "be<b>cause</b> we <b>think</b> it <b>just</b> means \"<b>neat</b>,\"",
+  "but it <b>al</b>so means / \"<b>worth</b> <b>mak</b>ing a re<b>mark</b> a<b>bout</b>.\"",
+  "And <b>that</b> is the <b>es</b>sence of <b>where</b> i<b>de</b>a dif<b>fu</b>sion is <b>go</b>ing."
+ ],
+ "listen_for": "Godin's <b>conversational, joking tone</b>: stress on the contrast <b>way</b> more choices / <b>way</b> less time, and the sound of <b>remarkable</b> (re-<b>MARK</b>-a-ble) repeated three times.",
+ "vocab": [
+  {
+   "w": "parable",
+   "en": "a short simple story that teaches a lesson",
+   "es": "parábola"
+  },
+  {
+   "w": "diffusion",
+   "en": "the gradual spread of something to many people or places",
+   "es": "difusión"
+  }
+ ],
+ "notas": "Subtítulos humanos contrastados con Whisper; el audio dice «if you wanted». Diferencias restantes (consumers/«humors», they've/«they», were/«are») son errores del reconocedor en palabras sueltas, revisados.",
+ "cues": [
+  {
+   "s": 347.54,
+   "t": "Con<b>sum</b>ers don't <b>care</b> a<b>bout</b> you at <b>all</b>; / they <b>just</b> don't <b>care</b>.",
+   "e": 351.86
+  },
+  {
+   "s": 351.86,
+   "t": "<b>Part</b> of the <b>rea</b>son is -- / they've got <b>way</b> more <b>choic</b>es than they <b>used</b> to,",
+   "e": 355.38
+  },
+  {
+   "s": 355.38,
+   "t": "and <b>way</b> less <b>time</b>.",
+   "e": 357.86
+  },
+  {
+   "s": 357.86,
+   "t": "And in a <b>world</b> where we have <b>too</b> many <b>choic</b>es and <b>too</b> little <b>time</b>,",
+   "e": 361.72
+  },
+  {
+   "s": 361.72,
+   "t": "the <b>ob</b>vious <b>thing</b> to do / is <b>just</b> ig<b>nore</b> stuff.",
+   "e": 365.98
+  },
+  {
+   "s": 365.98,
+   "t": "And my <b>par</b>able <b>here</b> is / you're <b>dri</b>ving <b>down</b> the <b>road</b>",
+   "e": 369.7
+  },
+  {
+   "s": 369.7,
+   "t": "and you <b>see</b> a <b>cow</b>, / and you <b>keep</b> driving / be<b>cause</b> you've <b>seen</b> cows be<b>fore</b>.",
+   "e": 373.48
+  },
+  {
+   "s": 373.48,
+   "t": "<b>Cows</b> are in<b>vis</b>ible. <b>Cows</b> are <b>bor</b>ing.",
+   "e": 376.32
+  },
+  {
+   "s": 376.32,
+   "t": "<b>Who's</b> going to <b>stop</b> and <b>pull</b> o<b>ver</b> and <b>say</b> -- / \"Oh, <b>look</b>, a <b>cow</b>.\"",
+   "e": 379.86
+  },
+  {
+   "s": 379.86,
+   "t": "<b>No</b>body.",
+   "e": 380.64
+  },
+  {
+   "s": 380.64,
+   "t": "But if the <b>cow</b> was <b>pur</b>ple --",
+   "e": 385.02
+  },
+  {
+   "s": 385.02,
+   "t": "<b>is</b>n't that a <b>great</b> <b>spe</b>cial ef<b>fect</b>?",
+   "e": 386.8
+  },
+  {
+   "s": 386.8,
+   "t": "I could <b>do</b> that a<b>gain</b> if you <b>want</b>ed.",
+   "e": 388.14
+  },
+  {
+   "s": 388.14,
+   "t": "If the <b>cow</b> was <b>pur</b>ple, / you'd <b>no</b>tice it for a <b>while</b>.",
+   "e": 393.18
+  },
+  {
+   "s": 393.18,
+   "t": "I <b>mean</b>, if <b>all</b> cows were <b>pur</b>ple / you'd get <b>bored</b> with <b>those</b>, too.",
+   "e": 396.34
+  },
+  {
+   "s": 396.34,
+   "t": "The <b>thing</b> that's going to de<b>cide</b> / what gets <b>talked</b> a<b>bout</b>,",
+   "e": 399.92
+  },
+  {
+   "s": 399.92,
+   "t": "what gets <b>done</b>, what gets <b>changed</b>,",
+   "e": 401.78
+  },
+  {
+   "s": 401.78,
+   "t": "what gets <b>pur</b>chased, what gets <b>built</b>,",
+   "e": 403.38
+  },
+  {
+   "s": 403.38,
+   "t": "is: \"Is it re<b>mark</b>able?\"",
+   "e": 407.08
+  },
+  {
+   "s": 407.08,
+   "t": "And \"re<b>mark</b>able\" is a <b>real</b>ly <b>cool</b> <b>word</b>,",
+   "e": 409.34
+  },
+  {
+   "s": 409.34,
+   "t": "be<b>cause</b> we <b>think</b> it <b>just</b> means \"<b>neat</b>,\"",
+   "e": 411.28
+  },
+  {
+   "s": 411.28,
+   "t": "but it <b>al</b>so means / \"<b>worth</b> <b>mak</b>ing a re<b>mark</b> a<b>bout</b>.\"",
+   "e": 415.1
+  },
+  {
+   "s": 415.1,
+   "t": "And <b>that</b> is the <b>es</b>sence of <b>where</b> i<b>de</b>a dif<b>fu</b>sion is <b>go</b>ing.",
+   "e": 419.21
+  }
+ ],
+ "verified": "2026-11-16"
+}

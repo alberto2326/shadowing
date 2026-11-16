@@ -1,0 +1,121 @@
+{
+ "title": "Seth Godin, “How to get your ideas to spread” (el «complejo TV-industrial» y la publicidad que interrumpe)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/seth_godin_how_to_get_your_ideas_to_spread",
+ "segment": "02:14–03:20 (66 s)",
+ "listen_for": "Godin's <b>rhythm of lists</b> (<i>buy some ads, interrupt some people...</i>) and the repeated <b>around and around and around</b>. Note the linked <i>in a way they weren't expecting</i> and the contrast stress on <b>weren't</b> / <b>want</b>.",
+ "vocab": [
+  {
+   "w": "informed",
+   "en": "influenced or shaped (here: gave a basic pattern to)",
+   "es": "dio forma a, influyó en"
+  },
+  {
+   "w": "grab that person by the throat",
+   "en": "to force someone to pay attention, aggressively",
+   "es": "agarrar a alguien por el cuello (para llamar su atención)"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 5.68,
+   "t": "At the <b>heart</b> of <b>spread</b>ing i<b>de</b>as / is T<b>V</b> and <b>stuff</b> like T<b>V</b>."
+  },
+  {
+   "s": 5.68,
+   "e": 12.22,
+   "t": "T<b>V</b> and <b>mass</b> <b>me</b>dia / made it <b>real</b>ly <b>eas</b>y to <b>spread</b> i<b>de</b>as in a <b>cer</b>tain <b>way</b>."
+  },
+  {
+   "s": 12.22,
+   "e": 14.58,
+   "t": "I <b>call</b> it the \"T<b>V</b>-in<b>dus</b>trial com<b>plex</b>.\""
+  },
+  {
+   "s": 14.58,
+   "e": 17.72,
+   "t": "The <b>way</b> the T<b>V</b>-in<b>dus</b>trial com<b>plex</b> <b>works</b>, / is you <b>buy</b> some <b>ads</b>,"
+  },
+  {
+   "s": 17.72,
+   "e": 19.88,
+   "t": "inter<b>rupt</b> some <b>peo</b>ple, / that <b>gets</b> you dis<b>tri</b>bution."
+  },
+  {
+   "s": 19.88,
+   "e": 24.54,
+   "t": "You <b>use</b> the dis<b>tri</b>bution you <b>get</b> / to <b>sell</b> more <b>prod</b>ucts."
+  },
+  {
+   "s": 24.54,
+   "e": 28.16,
+   "t": "You <b>take</b> the <b>prof</b>it from <b>that</b> to <b>buy</b> more <b>ads</b>."
+  },
+  {
+   "s": 28.16,
+   "e": 30.06,
+   "t": "And it <b>goes</b> a<b>round</b> and a<b>round</b> and a<b>round</b>,"
+  },
+  {
+   "s": 30.06,
+   "e": 33.22,
+   "t": "the <b>same</b> way that the <b>mil</b>itary-in<b>dus</b>trial com<b>plex</b> <b>worked</b> a <b>long</b> time a<b>go</b>."
+  },
+  {
+   "s": 33.22,
+   "e": 35.42,
+   "t": "That <b>mod</b>el of, / and we <b>heard</b> it <b>yes</b>terday --"
+  },
+  {
+   "s": 35.42,
+   "e": 37.36,
+   "t": "if we could <b>on</b>ly get <b>on</b> the <b>home</b>page of <b>Goog</b>le,"
+  },
+  {
+   "s": 37.36,
+   "e": 39.24,
+   "t": "if we could <b>on</b>ly <b>fig</b>ure out how to get pro<b>mo</b>ted <b>there</b>,"
+  },
+  {
+   "s": 39.24,
+   "e": 41.88,
+   "t": "if we could <b>on</b>ly <b>fig</b>ure out how to <b>grab</b> that <b>per</b>son by the <b>throat</b>"
+  },
+  {
+   "s": 41.88,
+   "e": 45.18,
+   "t": "and <b>tell</b> them a<b>bout</b> what we <b>want</b> to do,"
+  },
+  {
+   "s": 45.18,
+   "e": 48.36,
+   "t": "if we could <b>do</b> that, then <b>ev</b>eryone would <b>pay</b> at<b>ten</b>tion, / and we would <b>win</b>."
+  },
+  {
+   "s": 48.36,
+   "e": 54.7,
+   "t": "Well, this T<b>V</b>-in<b>dus</b>trial com<b>plex</b> in<b>formed</b> my en<b>tire</b> <b>child</b>hood / and <b>prob</b>ably <b>yours</b>."
+  },
+  {
+   "s": 54.7,
+   "e": 59.06,
+   "t": "And <b>all</b> of these <b>prod</b>ucts suc<b>ceed</b>ed be<b>cause</b> <b>some</b>one <b>fig</b>ured out"
+  },
+  {
+   "s": 59.06,
+   "e": 62.46,
+   "t": "how to <b>touch</b> <b>peo</b>ple in a <b>way</b> that they <b>weren't</b> ex<b>pect</b>ing,"
+  },
+  {
+   "s": 62.46,
+   "e": 64.04,
+   "t": "in a <b>way</b> they <b>did</b>n't <b>nec</b>essarily <b>want</b>,"
+  },
+  {
+   "s": 64.04,
+   "e": 66.73,
+   "t": "with an <b>ad</b> / <b>o</b>ver and <b>o</b>ver and <b>o</b>ver a<b>gain</b> un<b>til</b> they <b>bought</b> it."
+  }
+ ]
+}

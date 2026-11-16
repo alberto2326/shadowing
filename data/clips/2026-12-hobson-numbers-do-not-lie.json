@@ -1,0 +1,202 @@
+{
+ "slug": "2026-12-hobson-numbers-do-not-lie",
+ "video_id": "ted-mellody_hobson_color_blind_or_color_brave",
+ "title": "Mellody Hobson, “Color blind or color brave?” (los datos de diversidad en los consejos de administración)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave",
+ "start": 194.34,
+ "end": 270.15,
+ "meta": {
+  "hablante": "Mellody Hobson",
+  "charla": "Color blind or color brave?",
+  "acento": "Americano general (mujer)",
+  "tema": "Negocio: diversidad y datos en las empresas"
+ },
+ "lines": [
+  "But I <b>work</b> in the in<b>vest</b>ment <b>bus</b>iness,",
+  "and we <b>have</b> a <b>say</b>ing:",
+  "The <b>num</b>bers do <b>not</b> <b>lie</b>.",
+  "And <b>here</b>, there are sig<b>nif</b>icant,",
+  "<b>quan</b>tifiable <b>ra</b>cial dis<b>par</b>ities",
+  "that <b>can</b>not be ig<b>nored</b>,",
+  "in <b>house</b>hold <b>wealth</b>, <b>house</b>hold <b>in</b>come,",
+  "job oppor<b>tun</b>ities, <b>health</b>care.",
+  "One ex<b>am</b>ple from <b>cor</b>porate A<b>mer</b>ica:",
+  "<b>E</b>ven though <b>white</b> <b>men</b>",
+  "make <b>up</b> just 30 per<b>cent</b> of the U.S. popu<b>la</b>tion,",
+  "they <b>hold</b> 70 per<b>cent</b> of <b>all</b> <b>cor</b>porate <b>board</b> <b>seats</b>.",
+  "Of the <b>For</b>tune 250,",
+  "there are <b>on</b>ly <b>sev</b>en <b>CEOs</b> that are mi<b>nor</b>ities,",
+  "and of the <b>thou</b>sands of <b>pub</b>licly <b>trad</b>ed <b>com</b>panies to<b>day</b>, <b>thou</b>sands,",
+  "<b>on</b>ly <b>two</b> are <b>chaired</b> by <b>black</b> <b>wom</b>en,",
+  "and you're <b>look</b>ing at <b>one</b> of them,",
+  "the <b>same</b> one who, <b>not</b> too <b>long</b> a<b>go</b>,",
+  "was <b>near</b>ly mis<b>tak</b>en for <b>kitch</b>en <b>help</b>.",
+  "So <b>that</b> is a <b>fact</b>.",
+  "<b>Now</b> I have this <b>thought</b> ex<b>per</b>iment / that I <b>play</b> with my<b>self</b>, when I <b>say</b>,",
+  "i<b>ma</b>gine if I <b>walked</b> you into a <b>room</b>",
+  "and it was of a <b>ma</b>jor cor<b>por</b>ation, like <b>Ex</b>xon<b>Mo</b>bil,",
+  "and <b>ev</b>ery <b>sin</b>gle <b>per</b>son a<b>round</b> the <b>board</b>room were <b>black</b>,",
+  "you would <b>think</b> that were <b>weird</b>.",
+  "But if I <b>walked</b> you into a <b>For</b>tune 500 <b>com</b>pany,",
+  "and <b>ev</b>eryone a<b>round</b> the <b>ta</b>ble is a <b>white</b> <b>male</b>,",
+  "you <b>know</b>, <b>when</b> will it <b>be</b> that we <b>think</b> that's <b>weird</b> too?"
+ ],
+ "listen_for": "Hobson's <b>numbers and contrasts</b>: <b>30</b> percent vs <b>70</b> percent; she slows down on <b>thousands</b>, <b>thousands</b> and on <b>weird</b>. Notice the reduced <i>of</i> and the linking in <i>one of them</i>.",
+ "vocab": [
+  {
+   "w": "disparities",
+   "en": "differences between groups that are unfair or unequal",
+   "es": "disparidades"
+  },
+  {
+   "w": "quantifiable",
+   "en": "able to be measured and expressed as a number",
+   "es": "cuantificable"
+  }
+ ],
+ "notas": "Subtítulos humanos contrastados con Whisper; manda el audio (you know, when will it be...). En «thought experiment» la oradora se autocorrige y Whisper oye «experience»: se sigue a los subtítulos; «disparities» y «healthcare» se confunden por el reconocedor (verify --force revisado).",
+ "cues": [
+  {
+   "s": 194.04,
+   "t": "But I <b>work</b> in the in<b>vest</b>ment <b>bus</b>iness,",
+   "e": 195.56
+  },
+  {
+   "s": 195.56,
+   "t": "and we <b>have</b> a <b>say</b>ing:",
+   "e": 197.12
+  },
+  {
+   "s": 197.12,
+   "t": "The <b>num</b>bers do <b>not</b> <b>lie</b>.",
+   "e": 199.28
+  },
+  {
+   "s": 199.28,
+   "t": "And <b>here</b>, there are sig<b>nif</b>icant,",
+   "e": 202.36
+  },
+  {
+   "s": 202.36,
+   "t": "<b>quan</b>tifiable <b>ra</b>cial dis<b>par</b>ities",
+   "e": 204.1
+  },
+  {
+   "s": 204.1,
+   "t": "that <b>can</b>not be ig<b>nored</b>,",
+   "e": 205.64
+  },
+  {
+   "s": 205.64,
+   "t": "in <b>house</b>hold <b>wealth</b>, <b>house</b>hold <b>in</b>come,",
+   "e": 209.86
+  },
+  {
+   "s": 209.86,
+   "t": "job oppor<b>tun</b>ities, <b>health</b>care.",
+   "e": 212.68
+  },
+  {
+   "s": 212.68,
+   "t": "One ex<b>am</b>ple from <b>cor</b>porate A<b>mer</b>ica:",
+   "e": 215.18
+  },
+  {
+   "s": 215.18,
+   "t": "<b>E</b>ven though <b>white</b> <b>men</b>",
+   "e": 217.1
+  },
+  {
+   "s": 217.1,
+   "t": "make <b>up</b> just 30 per<b>cent</b> of the U.S. popu<b>la</b>tion,",
+   "e": 221.34
+  },
+  {
+   "s": 221.34,
+   "t": "they <b>hold</b> 70 per<b>cent</b> of <b>all</b> <b>cor</b>porate <b>board</b> <b>seats</b>.",
+   "e": 225.62
+  },
+  {
+   "s": 225.62,
+   "t": "Of the <b>For</b>tune 250,",
+   "e": 227.94
+  },
+  {
+   "s": 227.94,
+   "t": "there are <b>on</b>ly <b>sev</b>en <b>CEOs</b> that are mi<b>nor</b>ities,",
+   "e": 231.56
+  },
+  {
+   "s": 231.56,
+   "t": "and of the <b>thou</b>sands of <b>pub</b>licly <b>trad</b>ed <b>com</b>panies to<b>day</b>, <b>thou</b>sands,",
+   "e": 235.78
+  },
+  {
+   "s": 235.78,
+   "t": "<b>on</b>ly <b>two</b> are <b>chaired</b> by <b>black</b> <b>wom</b>en,",
+   "e": 238.64
+  },
+  {
+   "s": 238.64,
+   "t": "and you're <b>look</b>ing at <b>one</b> of them,",
+   "e": 240.32
+  },
+  {
+   "s": 240.32,
+   "t": "the <b>same</b> one who, <b>not</b> too <b>long</b> a<b>go</b>,",
+   "e": 242.7
+  },
+  {
+   "s": 242.7,
+   "t": "was <b>near</b>ly mis<b>tak</b>en for <b>kitch</b>en <b>help</b>.",
+   "e": 245.58
+  },
+  {
+   "s": 245.58,
+   "t": "So <b>that</b> is a <b>fact</b>.",
+   "e": 247.0
+  },
+  {
+   "s": 247.0,
+   "t": "<b>Now</b> I have this <b>thought</b> ex<b>per</b>iment / that I <b>play</b> with my<b>self</b>, when I <b>say</b>,",
+   "e": 250.98
+  },
+  {
+   "s": 250.98,
+   "t": "i<b>ma</b>gine if I <b>walked</b> you into a <b>room</b>",
+   "e": 253.04
+  },
+  {
+   "s": 253.04,
+   "t": "and it was of a <b>ma</b>jor cor<b>por</b>ation, like <b>Ex</b>xon<b>Mo</b>bil,",
+   "e": 256.5
+  },
+  {
+   "s": 256.5,
+   "t": "and <b>ev</b>ery <b>sin</b>gle <b>per</b>son a<b>round</b> the <b>board</b>room were <b>black</b>,",
+   "e": 260.48
+  },
+  {
+   "s": 260.48,
+   "t": "you would <b>think</b> that were <b>weird</b>.",
+   "e": 262.88
+  },
+  {
+   "s": 262.88,
+   "t": "But if I <b>walked</b> you into a <b>For</b>tune 500 <b>com</b>pany,",
+   "e": 265.44
+  },
+  {
+   "s": 265.44,
+   "t": "and <b>ev</b>eryone a<b>round</b> the <b>ta</b>ble is a <b>white</b> <b>male</b>,",
+   "e": 267.84
+  },
+  {
+   "s": 267.84,
+   "t": "<b>when</b> will it <b>be</b> that we <b>think</b> that's <b>weird</b> too?",
+   "e": 270.25
+  }
+ ],
+ "verified": "2026-11-16 (forzado: diferencias revisadas, ver notas)"
+}

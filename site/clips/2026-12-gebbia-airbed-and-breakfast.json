@@ -1,0 +1,146 @@
+{
+ "title": "Joe Gebbia, “How Airbnb designs for trust” (cómo nació «Airbed and Breakfast»)",
+ "source": "TED",
+ "url": "https://www.ted.com/talks/joe_gebbia_how_airbnb_designs_for_trust",
+ "segment": "02:28–03:36 (67 s)",
+ "listen_for": "Gebbia's <b>lively storytelling</b>: quick, informal phrases (<i>thought of a way to make a few bucks</i>) with a laugh in the voice. Notice the stress on <b>three</b> lucky guests and the weak <i>and</i> in <i>ham and Swiss cheese</i>.",
+ "vocab": [
+  {
+   "w": "broke",
+   "en": "having no money at all",
+   "es": "sin un duro"
+  },
+  {
+   "w": "bucks",
+   "en": "dollars (informal)",
+   "es": "pavos, dólares"
+  },
+  {
+   "w": "crash",
+   "en": "to sleep somewhere for a short time, informally",
+   "es": "quedarse a dormir"
+  }
+ ],
+ "cues": [
+  {
+   "s": 0.1,
+   "e": 1.92,
+   "t": "So <b>now</b> it's <b>two</b> years <b>la</b>ter."
+  },
+  {
+   "s": 1.92,
+   "e": 4.88,
+   "t": "I'm un<b>em</b>ployed, I'm <b>al</b>most <b>broke</b>,"
+  },
+  {
+   "s": 4.88,
+   "e": 9.12,
+   "t": "my <b>room</b>mate <b>moves</b> out, / and then the <b>rent</b> goes <b>up</b>."
+  },
+  {
+   "s": 9.12,
+   "e": 11.7,
+   "t": "And then I <b>learn</b> there's a de<b>sign</b> <b>con</b>ference <b>com</b>ing to <b>town</b>,"
+  },
+  {
+   "s": 11.7,
+   "e": 13.76,
+   "t": "and <b>all</b> the ho<b>tels</b> are <b>sold</b> out."
+  },
+  {
+   "s": 13.76,
+   "e": 17.2,
+   "t": "And I've <b>al</b>ways be<b>lieved</b> that <b>turn</b>ing <b>fear</b> into <b>fun</b>"
+  },
+  {
+   "s": 17.2,
+   "e": 19.34,
+   "t": "is the <b>gift</b> of crea<b>tiv</b>ity."
+  },
+  {
+   "s": 19.34,
+   "e": 25.02,
+   "t": "So <b>here's</b> what I <b>pitched</b> my <b>best</b> <b>friend</b> / and my <b>new</b> <b>room</b>mate, <b>Bri</b>an <b>Ches</b>ky:"
+  },
+  {
+   "s": 25.02,
+   "e": 27.3,
+   "t": "<b>Bri</b>an <b>thought</b> of a <b>way</b> to make a few <b>bucks</b>,"
+  },
+  {
+   "s": 27.3,
+   "e": 29.58,
+   "t": "<b>turn</b>ing our <b>place</b> into de<b>sign</b>er's <b>bed</b> and <b>break</b>fast,"
+  },
+  {
+   "s": 29.58,
+   "e": 32.16,
+   "t": "<b>of</b>fering de<b>sign</b>ers to <b>come</b> to <b>town</b>, a <b>place</b> to <b>crash</b>,"
+  },
+  {
+   "s": 32.16,
+   "e": 34.68,
+   "t": "com<b>plete</b> with <b>wire</b>less <b>In</b>ternet, a <b>small</b> <b>desk</b> space,"
+  },
+  {
+   "s": 34.68,
+   "e": 36.6,
+   "t": "<b>sleep</b>ing <b>mat</b>, and <b>break</b>fast each <b>morn</b>ing."
+  },
+  {
+   "s": 36.6,
+   "e": 39.3,
+   "t": "<b>Ha</b>!\""
+  },
+  {
+   "s": 39.3,
+   "e": 43.7,
+   "t": "We <b>built</b> a <b>ba</b>sic <b>web</b>site / and <b>Air</b>bed and <b>Break</b>fast was <b>born</b>."
+  },
+  {
+   "s": 43.7,
+   "e": 46.0,
+   "t": "<b>Three</b> <b>luck</b>y <b>guests</b> got to <b>stay</b>"
+  },
+  {
+   "s": 46.0,
+   "e": 48.14,
+   "t": "on a 20-<b>dol</b>lar <b>air</b>bed on the <b>hard</b>wood <b>floor</b>."
+  },
+  {
+   "s": 48.14,
+   "e": 51.84,
+   "t": "But they <b>loved</b> it, and so did <b>we</b>."
+  },
+  {
+   "s": 51.84,
+   "e": 54.28,
+   "t": "I <b>swear</b>, the <b>ham</b> and <b>Swiss</b> <b>cheese</b> <b>om</b>elets we <b>made</b>"
+  },
+  {
+   "s": 54.28,
+   "e": 58.24,
+   "t": "<b>tast</b>ed <b>to</b>tally <b>dif</b>ferent / be<b>cause</b> we <b>made</b> them for our <b>guests</b>."
+  },
+  {
+   "s": 58.24,
+   "e": 60.6,
+   "t": "We <b>took</b> them on ad<b>ven</b>tures a<b>round</b> the <b>cit</b>y,"
+  },
+  {
+   "s": 60.6,
+   "e": 63.32,
+   "t": "and when we <b>said</b> good<b>bye</b> to the <b>last</b> <b>guest</b>,"
+  },
+  {
+   "s": 63.32,
+   "e": 65.96,
+   "t": "the <b>door</b> <b>latch</b> <b>clicked</b>,"
+  },
+  {
+   "s": 65.96,
+   "e": 67.67,
+   "t": "<b>Bri</b>an and I just <b>stared</b> at each <b>oth</b>er."
+  }
+ ]
+}
